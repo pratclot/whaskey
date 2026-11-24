@@ -5,28 +5,35 @@ publish_date: '2026-11-13'
 thumbnail: https://i.ytimg.com/vi/eVGFyEV-5TE/hqdefault.jpg
 has_reviews: true
 manually_edited: false
-episode_summary: Exploring the Weardale market town of Stanhope, visiting the 320-million-year-old fossil tree, and sitting down for a full three-course cafe review at Platform One inside Stanhope Train Station.
+episode_summary: Exploring the Weardale market town of Stanhope, visiting the 320-million-year-old
+  fossil tree, and sitting down for a full three-course cafe review at Platform One
+  inside Stanhope Train Station.
 items:
-  - name: Platform One Cafe — Corned Beef Pie, Carrot & Onion Soup & Bacon-Sausage Sarnie
-    category: Food & Scran
-    brand_or_distillery: Platform One Cafe (Stanhope Train Station)
-    region_or_style: Traditional Station Cafe Feast
-    abv: ''
-    timestamp_seconds: 1710
-    timestamp_display: '28:30'
-    rating_score: 10.0
-    rating_raw: 10 out of 10
-    tags:
-      - corned beef pie
-      - homemade soup
-      - bacon sarnie
-      - stottie bread
-      - peppery
-      - piping hot
-      - cafe review
-    tasting_notes: Piping-hot homemade carrot and onion soup with buttered stottie bread, followed by a well-done crispy bacon and tasty sausage sarnie with ketchup, and finished with a peppery, chunky homemade corned beef and potato pie with coleslaw and salad (£22 total including black coffee).
-    verdict_quote: The bacon and sausage sandwich was very nice, the soup was lovely, and the corned beef pie is the winner — I'm giving it a 10 out of 10!
+- name: Platform One Cafe — Corned Beef Pie, Carrot & Onion Soup & Bacon-Sausage Sarnie
+  category: Food & Scran
+  brand_or_distillery: Platform One Cafe (Stanhope Train Station)
+  region_or_style: Traditional Station Cafe Feast
+  abv: ''
+  timestamp_seconds: 1710
+  timestamp_display: '28:30'
+  rating_score: 10.0
+  rating_raw: 10 out of 10
+  tags:
+  - corned beef pie
+  - homemade soup
+  - bacon sarnie
+  - stottie bread
+  - peppery
+  - piping hot
+  - cafe review
+  tasting_notes: Piping-hot homemade carrot and onion soup with buttered stottie bread,
+    followed by a well-done crispy bacon and tasty sausage sarnie with ketchup, and
+    finished with a peppery, chunky homemade corned beef and potato pie with coleslaw
+    and salad (£22 total including black coffee).
+  verdict_quote: The bacon and sausage sandwich was very nice, the soup was lovely,
+    and the corned beef pie is the winner — I'm giving it a 10 out of 10!
 ---
+
 
 ## Tasting Transcript Excerpt
 

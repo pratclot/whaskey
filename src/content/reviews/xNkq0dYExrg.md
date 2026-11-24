@@ -5,28 +5,37 @@ publish_date: '2026-11-20'
 thumbnail: https://i.ytimg.com/vi/xNkq0dYExrg/hqdefault.jpg
 has_reviews: true
 manually_edited: false
-episode_summary: A riverside walk along the River Wear to Finchale Priory and HMP Frankland, followed by a takeaway review of two loaded jacket potatoes from the new Spud Bros Express in Houghton-le-Spring.
+episode_summary: A riverside walk along the River Wear to Finchale Priory and HMP
+  Frankland, followed by a takeaway review of two loaded jacket potatoes from the
+  new Spud Bros Express in Houghton-le-Spring.
 items:
-  - name: Spud Bros Express — Garlic Chicken & The Godfather Jacket Potatoes
-    category: Food & Scran
-    brand_or_distillery: Spud Bros Express
-    region_or_style: Loaded Takeaway Jacket Potatoes
-    abv: ''
-    timestamp_seconds: 2720
-    timestamp_display: '45:20'
-    rating_score: 8.0
-    rating_raw: Solid 8 out of 10
-    tags:
-      - spicy
-      - garlic chicken
-      - beef chili
-      - jalapenos
-      - tangy
-      - sweet
-      - takeaway
-    tasting_notes: Tested both the Garlic Chicken jacket potato (loaded with cheese, chillies, jalapeños, onions, and signature Tram Sauce) and The Godfather (spicy minced beef chili, jalapeños, Tram Sauce, and sour cream). Piping hot, generous toppings, with a unique sweet-and-tangy signature Tram Sauce; the Garlic Chicken came out on top.
-    verdict_quote: I had it in my head before I came out today I'd probably give it a 6 or 7 at most, but I have enjoyed it — I'm going to give it a solid 8 out of 10!
+- name: Spud Bros Express — Garlic Chicken & The Godfather Jacket Potatoes
+  category: Food & Scran
+  brand_or_distillery: Spud Bros Express
+  region_or_style: Loaded Takeaway Jacket Potatoes
+  abv: ''
+  timestamp_seconds: 2720
+  timestamp_display: '45:20'
+  rating_score: 8.0
+  rating_raw: Solid 8 out of 10
+  tags:
+  - spicy
+  - garlic chicken
+  - beef chili
+  - jalapenos
+  - tangy
+  - sweet
+  - takeaway
+  tasting_notes: Tested both the Garlic Chicken jacket potato (loaded with cheese,
+    chillies, jalapeños, onions, and signature Tram Sauce) and The Godfather (spicy
+    minced beef chili, jalapeños, Tram Sauce, and sour cream). Piping hot, generous
+    toppings, with a unique sweet-and-tangy signature Tram Sauce; the Garlic Chicken
+    came out on top.
+  verdict_quote: I had it in my head before I came out today I'd probably give it
+    a 6 or 7 at most, but I have enjoyed it — I'm going to give it a solid 8 out of
+    10!
 ---
+
 
 ## Tasting Transcript Excerpt
 

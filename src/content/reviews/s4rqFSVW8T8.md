@@ -5,64 +5,77 @@ publish_date: '2026-11-08'
 thumbnail: https://i.ytimg.com/vi/s4rqFSVW8T8/hqdefault.jpg
 has_reviews: true
 manually_edited: false
-episode_summary: Ultra-sketchy bivvy stealth camp squeezed behind an Evri parcel locker on a busy Morrisons petrol station forecourt, reviewing Bank Hall British Single Malt Whisky, Jameson Ginger & Lime, and a garlic bread chip-and-chili-sauce sarnie.
+episode_summary: Ultra-sketchy bivvy stealth camp squeezed behind an Evri parcel locker
+  on a busy Morrisons petrol station forecourt, reviewing Bank Hall British Single
+  Malt Whisky, Jameson Ginger & Lime, and a garlic bread chip-and-chili-sauce sarnie.
 items:
-  - name: Bank Hall British Single Malt Whisky
-    category: Whisky
-    brand_or_distillery: Bank Hall Distillery (Blackpool)
-    region_or_style: British Single Malt (English & Welsh Blend)
-    abv: 40%
-    timestamp_seconds: 3454
-    timestamp_display: '57:34'
-    rating_score: 7.3
-    rating_raw: 7.3 out of 10 ( referencing Sunderland's '73 FA Cup win)
-    tags:
-      - vanilla
-      - orange
-      - pears
-      - oak
-      - toffee
-      - cinnamon
-      - mild
-      - delicate
-      - budget
-      - starter whisky
-    tasting_notes: Sweet aromas of vanilla, orange, ripe pears, and light oak on the nose. Very mild, light, fresh, and delicate on the palate with zero burn, fruity pear and orange notes, oak, toffee, and a touch of cinnamon (~£20-£25 a bottle). Lacks a heavy chest-warming kick for freezing nights, making it an ideal beginner whisky.
-    verdict_quote: There's no burning sensation — it's fresh, crisp, light, fruity with pears and orange, and a little bit of cinnamon. A great starter whisky. I'm going to give that a 7.3 out of 10!
-  - name: Jameson Irish Whiskey, Ginger Ale & Lime (RTD Can)
-    category: Spirits & Liqueur
-    brand_or_distillery: Jameson
-    region_or_style: Pre-Mixed Whiskey Highball Can
-    abv: 5.0%
-    timestamp_seconds: 1290
-    timestamp_display: '21:30'
-    rating_score: 7.4
-    rating_raw: Nice refreshing change of pace
-    tags:
-      - ginger ale
-      - lime
-      - refreshing
-      - easy drinking
-    tasting_notes: Pre-mixed can of Jameson Irish Whiskey with ginger ale and lime. Crisp, zesty, and easy drinking while hiding behind the parcel lockers.
-    verdict_quote: Jameson Irish whiskey with ginger ale and lime — oh, that is nice, not a bad little drop for a change!
-  - name: 12-Inch Cheesy Garlic Bread Chip & Spicy Chili Sauce Sarnie
-    category: Food & Scran
-    brand_or_distillery: Forecourt Takeaway Pizza Shop
-    region_or_style: Late-Night Takeaway Creation
-    abv: ''
-    timestamp_seconds: 2428
-    timestamp_display: '40:28'
-    rating_score: 8.1
-    rating_raw: A thing of beauty with a proper spicy kick
-    tags:
-      - garlic bread
-      - chips
-      - chili sauce
-      - spicy
-      - takeaway
-    tasting_notes: A 12-inch cheesy garlic bread folded into a sandwich stuffed with hot chips, mayonnaise, and fiery takeaway chili sauce.
-    verdict_quote: Garlic bread with cheese, chips, mayonnaise, and chili sauce — oh, that's got a right spicy kick to it, it's a thing of beauty!
+- name: Bank Hall British Single Malt Whisky
+  category: Whisky
+  brand_or_distillery: Bank Hall Distillery (Blackpool)
+  region_or_style: British Single Malt (English & Welsh Blend)
+  abv: 40%
+  timestamp_seconds: 3454
+  timestamp_display: '57:34'
+  rating_score: 7.3
+  rating_raw: 7.3 out of 10 ( referencing Sunderland's '73 FA Cup win)
+  tags:
+  - vanilla
+  - orange
+  - pears
+  - oak
+  - toffee
+  - cinnamon
+  - mild
+  - delicate
+  - budget
+  - starter whisky
+  tasting_notes: Sweet aromas of vanilla, orange, ripe pears, and light oak on the
+    nose. Very mild, light, fresh, and delicate on the palate with zero burn, fruity
+    pear and orange notes, oak, toffee, and a touch of cinnamon (~£20-£25 a bottle).
+    Lacks a heavy chest-warming kick for freezing nights, making it an ideal beginner
+    whisky.
+  verdict_quote: There's no burning sensation — it's fresh, crisp, light, fruity with
+    pears and orange, and a little bit of cinnamon. A great starter whisky. I'm going
+    to give that a 7.3 out of 10!
+- name: Jameson Irish Whiskey, Ginger Ale & Lime (RTD Can)
+  category: Spirits & Liqueur
+  brand_or_distillery: Jameson
+  region_or_style: Pre-Mixed Whiskey Highball Can
+  abv: 5.0%
+  timestamp_seconds: 1290
+  timestamp_display: '21:30'
+  rating_score: 7.4
+  rating_raw: Nice refreshing change of pace
+  tags:
+  - ginger ale
+  - lime
+  - refreshing
+  - easy drinking
+  tasting_notes: Pre-mixed can of Jameson Irish Whiskey with ginger ale and lime.
+    Crisp, zesty, and easy drinking while hiding behind the parcel lockers.
+  verdict_quote: Jameson Irish whiskey with ginger ale and lime — oh, that is nice,
+    not a bad little drop for a change!
+- name: 12-Inch Cheesy Garlic Bread Chip & Spicy Chili Sauce Sarnie
+  category: Food & Scran
+  brand_or_distillery: Forecourt Takeaway Pizza Shop
+  region_or_style: Late-Night Takeaway Creation
+  abv: ''
+  timestamp_seconds: 2428
+  timestamp_display: '40:28'
+  rating_score: 8.1
+  rating_raw: A thing of beauty with a proper spicy kick
+  tags:
+  - garlic bread
+  - chips
+  - chili sauce
+  - spicy
+  - takeaway
+  tasting_notes: A 12-inch cheesy garlic bread folded into a sandwich stuffed with
+    hot chips, mayonnaise, and fiery takeaway chili sauce.
+  verdict_quote: Garlic bread with cheese, chips, mayonnaise, and chili sauce — oh,
+    that's got a right spicy kick to it, it's a thing of beauty!
 ---
+
 
 ## Tasting Transcript Excerpt
 

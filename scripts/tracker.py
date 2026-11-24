@@ -13,6 +13,7 @@ import os
 import re
 import subprocess
 import sys
+import time
 from pathlib import Path
 from typing import List, Literal, Optional
 
@@ -23,7 +24,9 @@ from pydantic import BaseModel, Field
 from youtube_transcript_api import YouTubeTranscriptApi
 
 ROOT_DIR = Path(__file__).resolve().parent.parent
-TRANSCRIPTS_DIR = ROOT_DIR / "data" / "transcripts"
+DATA_DIR = ROOT_DIR / "data"
+CATALOG_PATH = DATA_DIR / "channel_videos.jsonl"
+TRANSCRIPTS_DIR = DATA_DIR / "transcripts"
 REVIEWS_DIR = ROOT_DIR / "src" / "content" / "reviews"
 
 DEFAULT_CHANNEL_URL = "https://www.youtube.com/@BlotOutdoorsShow/videos"
@@ -34,8 +37,8 @@ class RatedItem(BaseModel):
     name: str = Field(
         description=(
             "Full corrected name of the whisky, beer, drink, food, or item being tasted/reviewed. "
-            "Fix YouTube auto-caption phonetic errors of Scottish distilleries (e.g., Ledaig, "
-            "Bunnahabhain, Laphroaig, Bruichladdich, Glenfarclas, Auchentoshan, Ardnamurchan)."
+            "Fix YouTube auto-caption phonetic errors of Scottish/Irish distilleries (e.g., Ledaig, "
+            "Bunnahabhain, Laphroaig, Bruichladdich, Glenfarclas, Auchentoshan, Ardnamurchan, Aberlour, Redbreast)."
         )
     )
     category: Literal[
@@ -44,13 +47,13 @@ class RatedItem(BaseModel):
         description="Category of the rated item. Use 'Whisky' for all Scotch/whisky/whiskey/bourbon."
     )
     brand_or_distillery: str = Field(
-        description="Distillery, brewery, or brand name (e.g., 'Tobermory', 'Ardbeg', 'BrewDog', 'Macsween'). Leave empty string if unknown."
+        description="Distillery, brewery, or brand name (e.g., 'Tobermory', 'Aberlour', 'BrewDog', 'Spud Bros'). Leave empty string if unknown."
     )
     region_or_style: str = Field(
-        description="Whisky region or style (e.g., 'Islay Single Malt', 'Speyside', 'Highland', 'Blended Malt', 'IPA', 'Campfire Scran')."
+        description="Whisky region or style (e.g., 'Islay Single Malt', 'Speyside', 'Highland', 'Single Pot Still Irish Whiskey', 'IPA', 'Campfire Scran')."
     )
     abv: str = Field(
-        description="ABV percentage if mentioned or standard for that bottle (e.g., '46.3%', '50%'), or empty string if unknown."
+        description="ABV percentage if mentioned or standard for that bottle (e.g., '46.3%', '40%'), or empty string if unknown."
     )
     timestamp_seconds: int = Field(
         description="Start timestamp in seconds in the video where he introduces or tastes this item."
@@ -67,8 +70,8 @@ class RatedItem(BaseModel):
     )
     tags: List[str] = Field(
         description=(
-            "4 to 8 lowercase flavor or descriptive tags (e.g., 'peaty', 'smoky', 'sherry cask', "
-            "'vanilla', 'coastal', 'sweet', 'spicy', 'smooth', 'oily', 'fruity', 'budget')."
+            "4 to 8 lowercase flavor or descriptive tags (e.g., 'peaty', 'smoky', 'sherry', "
+            "'vanilla', 'coastal', 'sweet', 'spicy', 'smooth', 'oaky', 'fruity', 'marzipan')."
         )
     )
     tasting_notes: str = Field(
@@ -93,7 +96,7 @@ class VideoReviewExtraction(BaseModel):
         description=(
             "Markdown-formatted transcript excerpt covering the tasting & rating segments. "
             "Include **[MM:SS]** bold timestamps at the start of paragraphs. Fix obvious auto-caption "
-            "garbling of whisky names while preserving his authentic Scottish phrasing ('whaskey', 'wee dram', 'aye')."
+            "garbling of whisky names while preserving his authentic phrasing ('whaskey', 'snifferooni', 'tasterooni')."
         )
     )
 
@@ -121,17 +124,45 @@ def run_yt_dlp_json(args: List[str]) -> List[dict]:
     return items
 
 
-def discover_videos(channel_url: str, limit: int) -> List[str]:
-    print(f"🔎 Fetching latest {limit} videos from {channel_url} ...")
+def load_catalog_entries() -> dict:
+    """Load cached flat-playlist entries from data/channel_videos.jsonl if present."""
+    catalog = {}
+    if CATALOG_PATH.exists():
+        for line in CATALOG_PATH.read_text(encoding="utf-8").splitlines():
+            line = line.strip()
+            if not line:
+                continue
+            try:
+                obj = json.loads(line)
+                vid = obj.get("id")
+                if vid:
+                    catalog[vid] = obj
+            except Exception:
+                pass
+    return catalog
+
+
+def discover_videos(channel_url: str, limit: Optional[int], offset: int = 0) -> List[str]:
+    if CATALOG_PATH.exists():
+        entries = list(load_catalog_entries().keys())
+        sliced = entries[offset : (offset + limit) if limit else None]
+        print(
+            f"📚 Loaded {len(sliced)} video(s) from cached catalog {CATALOG_PATH.relative_to(ROOT_DIR)} "
+            f"(offset={offset}, total_in_catalog={len(entries)})"
+        )
+        return sliced
+
+    end_idx = (offset + limit) if limit else 50
+    print(f"🔎 Fetching videos (up to {end_idx}) from {channel_url} ...")
     entries = run_yt_dlp_json(
-        ["--flat-playlist", "--dump-json", "--playlist-end", str(limit), channel_url]
+        ["--flat-playlist", "--dump-json", "--playlist-end", str(end_idx), channel_url]
     )
-    video_ids = [e["id"] for e in entries if e.get("id")]
-    print(f"   Found {len(video_ids)} videos: {', '.join(video_ids)}")
+    video_ids = [e["id"] for e in entries if e.get("id")][offset:]
+    print(f"   Found {len(video_ids)} videos.")
     return video_ids
 
 
-def fetch_video_metadata(video_id: str) -> dict:
+def fetch_video_metadata(video_id: str, catalog_map: Optional[dict] = None) -> dict:
     meta_cache = TRANSCRIPTS_DIR / f"{video_id}.meta.json"
     if meta_cache.exists():
         return json.loads(meta_cache.read_text(encoding="utf-8"))
@@ -141,6 +172,7 @@ def fetch_video_metadata(video_id: str) -> dict:
     if not entries:
         raise RuntimeError(f"Could not fetch metadata for {video_id}")
     raw = entries[0]
+
     upload_date = raw.get("upload_date", "")
     if len(upload_date) == 8:
         publish_date = f"{upload_date[:4]}-{upload_date[4:6]}-{upload_date[6:8]}"
@@ -149,7 +181,7 @@ def fetch_video_metadata(video_id: str) -> dict:
 
     meta = {
         "video_id": video_id,
-        "title": raw.get("title", f"Video {video_id}"),
+        "title": raw.get("title", f"Video {video_id}").strip(),
         "publish_date": publish_date,
         "duration": raw.get("duration", 0),
         "description": raw.get("description", ""),
@@ -190,7 +222,6 @@ def fetch_or_load_transcript(video_id: str) -> str:
 
     json_path.write_text(json.dumps(snippets, indent=2), encoding="utf-8")
 
-    # Format into readable timestamped lines grouped roughly every ~15 seconds
     lines = []
     bucket_text = []
     bucket_start = None
@@ -236,10 +267,10 @@ def extract_reviews_with_gemini(
     client: genai.Client, model: str, meta: dict, transcript_text: str
 ) -> VideoReviewExtraction:
     prompt = f"""You are analyzing an episode of the 'Blot Outdoors Show' on YouTube.
-The Scottish host goes wild camping, bothy staying, or exploring outdoors, and almost always tastes and rates 'whaskey' (whisky), beers/ales, spirits, or camp food ('scran'), giving flavour descriptions and a score (usually out of 10).
+The host goes wild camping, stealth camping, bothy staying, or exploring towns, and almost always tastes and rates 'whaskey' (whisky/whiskey), beers/ales, spirits, or camp/takeaway food ('scran'), giving flavour descriptions and a score (usually out of 10).
 
-Note: YouTube's automatic speech-to-text often struggles with thick Scottish accents and Scottish distillery names (e.g., 'whaskey' = whisky, 'Ledaig', 'Bunnahabhain', 'Bruichladdich', 'Laphroaig', 'Ardnamurchan', 'Glen Scotia', 'Springbank', 'Kilkerran', 'Craigellachie', 'Tamdhu', 'Edradour', 'Deanston', 'Arran').
-Use context from the Video Title, Description, and phonetic clues in the transcript to identify the exact bottle, brewery, or item name.
+Note: YouTube's automatic speech-to-text often struggles with regional accents and distillery names (e.g., 'whaskey' = whisky, 'Ledaig', 'Bunnahabhain', 'Bruichladdich', 'Laphroaig', 'Ardnamurchan', 'Glen Scotia', 'Springbank', 'Kilkerran', 'Craigellachie', 'Tamdhu', 'Edradour', 'Deanston', 'Arran', 'Aberlour', 'Redbreast', 'Penderyn', 'Talisker', 'Oban', 'Lagavulin', 'Caol Ila').
+Use context from the Video Title, Description, and phonetic clues in the transcript to identify the exact bottle, brewery, cafe, takeaway, or item name.
 
 VIDEO METADATA:
 - Video ID: {meta['video_id']}
@@ -253,16 +284,28 @@ TIMESTAMPED TRANSCRIPT:
 
 Extract every whisky, drink, or food item that the host tastes, describes, or rates in this episode, along with a cleaned-up Markdown transcript excerpt of the tasting segment(s)."""
 
-    interaction = client.interactions.create(
-        model=model,
-        input=prompt,
-        response_format={
-            "type": "text",
-            "mime_type": "application/json",
-            "schema": VideoReviewExtraction.model_json_schema(),
-        },
-    )
-    return VideoReviewExtraction.model_validate_json(interaction.output_text)
+    max_retries = 4
+    for attempt in range(1, max_retries + 1):
+        try:
+            interaction = client.interactions.create(
+                model=model,
+                input=prompt,
+                response_format={
+                    "type": "text",
+                    "mime_type": "application/json",
+                    "schema": VideoReviewExtraction.model_json_schema(),
+                },
+            )
+            return VideoReviewExtraction.model_validate_json(interaction.output_text)
+        except Exception as err:
+            err_str = str(err)
+            if ("429" in err_str or "RESOURCE_EXHAUSTED" in err_str or "quota" in err_str.lower()) and attempt < max_retries:
+                wait_sec = 15 * attempt
+                print(f"   ⏳ Rate limit hit (attempt {attempt}/{max_retries}), sleeping {wait_sec}s...")
+                time.sleep(wait_sec)
+            else:
+                raise
+    raise RuntimeError("Failed after retries")
 
 
 def write_review_markdown(
@@ -315,8 +358,19 @@ def main() -> None:
     parser.add_argument(
         "--limit",
         type=int,
-        default=5,
-        help="Number of latest videos to process from the channel (default: 5)",
+        default=10,
+        help="Number of videos to process (default: 10; ignored if --all is passed)",
+    )
+    parser.add_argument(
+        "--offset",
+        type=int,
+        default=0,
+        help="Start offset in the channel video list (default: 0)",
+    )
+    parser.add_argument(
+        "--all",
+        action="store_true",
+        help="Process all 641 videos in the channel catalog",
     )
     parser.add_argument(
         "--video",
@@ -327,6 +381,12 @@ def main() -> None:
         "--model",
         default=DEFAULT_MODEL,
         help=f"Gemini model to use (default: {DEFAULT_MODEL})",
+    )
+    parser.add_argument(
+        "--delay",
+        type=float,
+        default=4.0,
+        help="Seconds to pause between Gemini API calls to respect free-tier rate limits (default: 4.0)",
     )
     parser.add_argument(
         "--force",
@@ -340,10 +400,13 @@ def main() -> None:
     )
     args = parser.parse_args()
 
+    catalog_map = load_catalog_entries()
+
     if args.video:
         video_ids = [extract_video_id(v) for v in args.video]
     else:
-        video_ids = discover_videos(args.channel, args.limit)
+        limit = None if args.all else args.limit
+        video_ids = discover_videos(args.channel, limit, offset=args.offset)
 
     client = None
     if not args.transcripts_only:
@@ -351,33 +414,42 @@ def main() -> None:
         if not api_key:
             print(
                 "\n❌ GEMINI_API_KEY is not set! Add it to .env or export GEMINI_API_KEY='your_key'.\n"
-                "   Tip: You can still run with --transcripts-only to test fetching YouTube transcripts.",
+                "   Tip: You can still run with --transcripts-only to download YouTube transcripts.",
                 file=sys.stderr,
             )
             sys.exit(1)
         client = genai.Client(api_key=api_key)
 
+    processed_count = 0
     for idx, vid in enumerate(video_ids, 1):
-        print(f"\n[{idx}/{len(video_ids)}] Processing video: {vid}")
         md_path = REVIEWS_DIR / f"{vid}.md"
 
         if is_manually_edited(md_path):
-            print(f"   🔒 Skipping {vid}: marked as manually_edited: true")
+            print(f"[{idx}/{len(video_ids)}] 🔒 Skipping {vid}: marked as manually_edited: true")
             continue
 
         if md_path.exists() and not args.force and not args.transcripts_only:
-            print(f"   ⏭️  Skipping {vid}: {md_path.relative_to(ROOT_DIR)} already exists (use --force to re-extract)")
+            print(f"[{idx}/{len(video_ids)}] ⏭️  Skipping {vid}: {md_path.relative_to(ROOT_DIR)} already exists")
             continue
 
+        if args.transcripts_only and (TRANSCRIPTS_DIR / f"{vid}.txt").exists() and (TRANSCRIPTS_DIR / f"{vid}.meta.json").exists():
+            print(f"[{idx}/{len(video_ids)}] ⏭️  Skipping {vid}: transcript and metadata already cached")
+            continue
+
+        print(f"\n[{idx}/{len(video_ids)}] Processing video: {vid}")
         try:
-            meta = fetch_video_metadata(vid)
+            meta = fetch_video_metadata(vid, catalog_map=catalog_map)
             print(f"   🎬 Title: {meta['title']} ({meta['publish_date']})")
             transcript_text = fetch_or_load_transcript(vid)
 
             if args.transcripts_only:
+                processed_count += 1
                 continue
 
             assert client is not None
+            if processed_count > 0 and args.delay > 0:
+                time.sleep(args.delay)
+
             print(f"   🤖 Extracting tasting notes & ratings with {args.model} ...")
             extraction = extract_reviews_with_gemini(
                 client, args.model, meta, transcript_text
@@ -387,6 +459,7 @@ def main() -> None:
                 + (", ".join(f"{i.name} ({i.rating_raw})" for i in extraction.items) or "None")
             )
             write_review_markdown(meta, extraction, md_path)
+            processed_count += 1
         except Exception as err:
             print(f"   ❌ Error processing {vid}: {err}", file=sys.stderr)
 

@@ -5,61 +5,73 @@ publish_date: '2026-11-15'
 thumbnail: https://i.ytimg.com/vi/bSAZcBBvO8k/hqdefault.jpg
 has_reviews: true
 manually_edited: false
-episode_summary: Beach wild camping at Yellowcraig Beach in East Lothian, Scotland with Young Chris (Yaka Travels) and Cowboy Chris (Bonny Lad Adventures), testing an infamous plastic-bottle Egyptian whisky ('Bolanachi Highlands Red'), Salt Brewing Tram beer, and cooking giant king prawn garlic-chili noodles.
+episode_summary: Beach wild camping at Yellowcraig Beach in East Lothian, Scotland
+  with Young Chris (Yaka Travels) and Cowboy Chris (Bonny Lad Adventures), testing
+  an infamous plastic-bottle Egyptian whisky ('Bolanachi Highlands Red'), Salt Brewing
+  Tram beer, and cooking giant king prawn garlic-chili noodles.
 items:
-  - name: Bolanachi Highlands Red Egyptian Whisky
-    category: Whisky
-    brand_or_distillery: Bolanachi (Egypt)
-    region_or_style: Egyptian Blended Whisky-Style Spirit
-    abv: 40%
-    timestamp_seconds: 1669
-    timestamp_display: '27:49'
-    rating_score: 2.0
-    rating_raw: 2 out of 10 (Young Chris gave 5.5, Cowboy Chris gave 2)
-    tags:
-      - chemical
-      - paint stripper
-      - nail polish remover
-      - hazelnut
-      - brandy-like
-      - wet cardboard
-      - harsh
-      - plastic bottle
-    tasting_notes: Sold in a plastic bottle from Egypt. Smells of chemical candy fruit, nail polish remover, and paint thinners. On the palate, Young Chris picked up hazelnut, while Blot got chemical turps, cheap brandy/rum, and soggy chip-shop cardboard with PVA glue.
-    verdict_quote: It's like you just poured turps down your throat — almost like a soggy cardboard box with PVA glue. I'm going to give it a 2 out of 10!
-  - name: Salt Brewing Co. — Tram Pale Ale
-    category: Beer & Ale
-    brand_or_distillery: Salt Brewing Company
-    region_or_style: Pale Ale / Jute IPA
-    abv: 4.2%
-    timestamp_seconds: 452
-    timestamp_display: '07:32'
-    rating_score: 7.8
-    rating_raw: Lovely beer, had it a couple of times before
-    tags:
-      - pale ale
-      - crisp
-      - craft beer
-    tasting_notes: First can cracked open after pitching the three tents on Yellowcraig Beach. Reliable, crisp craft beer from Salt Brewing Company.
-    verdict_quote: First can dingo of tonight from the Salt Brewing Company — Tram. I've had this a couple of times before, it's a nice beer, lovely!
-  - name: Spicy King Prawn Noodles with Aldi Garlic & Chili Sauce
-    category: Food & Scran
-    brand_or_distillery: Aldi / Campfire Kitchen
-    region_or_style: Campfire Stir-Fry Noodles
-    abv: ''
-    timestamp_seconds: 2389
-    timestamp_display: '39:49'
-    rating_score: 9.2
-    rating_raw: Sensational — would have paid good money for this in a restaurant
-    tags:
-      - king prawns
-      - spicy
-      - garlic chili
-      - noodles
-      - campfire scran
-    tasting_notes: Spicy noodles drained and pan-fried with giant king prawns, mushrooms, mixed peppers, onions, and two sachets of Aldi sweet chili & garlic sauce.
-    verdict_quote: Look at them king prawns man — I would have paid good money for this in a restaurant. Sensational!
+- name: Bolanachi Highlands Red Egyptian Whisky
+  category: Whisky
+  brand_or_distillery: Bolanachi (Egypt)
+  region_or_style: Egyptian Blended Whisky-Style Spirit
+  abv: 40%
+  timestamp_seconds: 1669
+  timestamp_display: '27:49'
+  rating_score: 2.0
+  rating_raw: 2 out of 10 (Young Chris gave 5.5, Cowboy Chris gave 2)
+  tags:
+  - chemical
+  - paint stripper
+  - nail polish remover
+  - hazelnut
+  - brandy-like
+  - wet cardboard
+  - harsh
+  - plastic bottle
+  tasting_notes: Sold in a plastic bottle from Egypt. Smells of chemical candy fruit,
+    nail polish remover, and paint thinners. On the palate, Young Chris picked up
+    hazelnut, while Blot got chemical turps, cheap brandy/rum, and soggy chip-shop
+    cardboard with PVA glue.
+  verdict_quote: It's like you just poured turps down your throat — almost like a
+    soggy cardboard box with PVA glue. I'm going to give it a 2 out of 10!
+- name: Salt Brewing Co. — Tram Pale Ale
+  category: Beer & Ale
+  brand_or_distillery: Salt Brewing Company
+  region_or_style: Pale Ale / Jute IPA
+  abv: 4.2%
+  timestamp_seconds: 452
+  timestamp_display: 07:32
+  rating_score: 7.8
+  rating_raw: Lovely beer, had it a couple of times before
+  tags:
+  - pale ale
+  - crisp
+  - craft beer
+  tasting_notes: First can cracked open after pitching the three tents on Yellowcraig
+    Beach. Reliable, crisp craft beer from Salt Brewing Company.
+  verdict_quote: First can dingo of tonight from the Salt Brewing Company — Tram.
+    I've had this a couple of times before, it's a nice beer, lovely!
+- name: Spicy King Prawn Noodles with Aldi Garlic & Chili Sauce
+  category: Food & Scran
+  brand_or_distillery: Aldi / Campfire Kitchen
+  region_or_style: Campfire Stir-Fry Noodles
+  abv: ''
+  timestamp_seconds: 2389
+  timestamp_display: '39:49'
+  rating_score: 9.2
+  rating_raw: Sensational — would have paid good money for this in a restaurant
+  tags:
+  - king prawns
+  - spicy
+  - garlic chili
+  - noodles
+  - campfire scran
+  tasting_notes: Spicy noodles drained and pan-fried with giant king prawns, mushrooms,
+    mixed peppers, onions, and two sachets of Aldi sweet chili & garlic sauce.
+  verdict_quote: Look at them king prawns man — I would have paid good money for this
+    in a restaurant. Sensational!
 ---
+
 
 ## Tasting Transcript Excerpt
 

@@ -5,63 +5,74 @@ publish_date: '2026-11-22'
 thumbnail: https://i.ytimg.com/vi/6Az_N9EEzHU/hqdefault.jpg
 has_reviews: true
 manually_edited: false
-episode_summary: Stealth camping underneath the A19 bridge with Little Mick, cooking chilli sausage sarnies with BrewDog Wingman buffalo sauce, drinking Wind Academy beers, and reviewing Aberlour 12 Year Old Speyside Single Malt.
+episode_summary: Stealth camping underneath the A19 bridge with Little Mick, cooking
+  chilli sausage sarnies with BrewDog Wingman buffalo sauce, drinking Wind Academy
+  beers, and reviewing Aberlour 12 Year Old Speyside Single Malt.
 items:
-  - name: Aberlour 12 Year Old Single Malt Scotch Whisky
-    category: Whisky
-    brand_or_distillery: Aberlour
-    region_or_style: Speyside Single Malt
-    abv: 40%
-    timestamp_seconds: 2415
-    timestamp_display: '40:15'
-    rating_score: 8.9
-    rating_raw: 8.9 out of 10 (Little Mick gave 9/10)
-    tags:
-      - red apples
-      - zesty orange
-      - figs
-      - vanilla
-      - cinnamon
-      - toffee
-      - caramel
-      - honey
-      - smooth
-      - speyside
-    tasting_notes: Red apples, zesty orange, and dried figs (like fig rolls) on the nose. Very smooth and delicate on the palate with vanilla, cinnamon, toffee, nutmeg, caramel, a slight woody note, and honey on the finish with almost no burn.
-    verdict_quote: It's not rough, it's not harsh — it's nice, delicate, smooth, and very easy sipping with loads of flavour. Solid 8.9 out of 10.
-  - name: The Wind Academy Offshore Wind Training Lager
-    category: Beer & Ale
-    brand_or_distillery: The Wind Academy
-    region_or_style: Lager / Pale Beer
-    abv: 4.4%
-    timestamp_seconds: 281
-    timestamp_display: '04:41'
-    rating_score: 7.5
-    rating_raw: Very nice zesty cold can (better than Carling)
-    tags:
-      - zesty
-      - crisp
-      - refreshing
-      - lager
-    tasting_notes: Chilled outdoors in the cold weather with a crisp, zesty flavour profile. Much better than standard macro lagers like Carling.
-    verdict_quote: Cheers Ethan mate, you absolute legend — these are very nice, bit of a zesty flavour.
-  - name: Morrisons The Best Chilli Sausages & BrewDog Wingman Spicy Buffalo Sauce
-    category: Food & Scran
-    brand_or_distillery: Morrisons / BrewDog
-    region_or_style: Campfire Sausage Sarnies
-    abv: ''
-    timestamp_seconds: 1971
-    timestamp_display: '32:51'
-    rating_score: 8.2
-    rating_raw: Proper warming spicy campfire scran
-    tags:
-      - spicy
-      - buffalo sauce
-      - sausages
-      - campfire scran
-    tasting_notes: Pan-fried chilli sausages served in buns topped with BrewDog Wingman spicy buffalo sauce. Serious heat and kick from the buffalo sauce that warms you right up in freezing conditions.
-    verdict_quote: The sausages are a little bit spicy, and that BrewDog spicy sauce is where you're getting the kick from — warming you right up!
+- name: Aberlour 12 Year Old Single Malt Scotch Whisky
+  category: Whisky
+  brand_or_distillery: Aberlour
+  region_or_style: Speyside Single Malt
+  abv: 40%
+  timestamp_seconds: 2415
+  timestamp_display: '40:15'
+  rating_score: 8.9
+  rating_raw: 8.9 out of 10 (Little Mick gave 9/10)
+  tags:
+  - red apples
+  - zesty orange
+  - figs
+  - vanilla
+  - cinnamon
+  - toffee
+  - caramel
+  - honey
+  - smooth
+  - speyside
+  tasting_notes: Red apples, zesty orange, and dried figs (like fig rolls) on the
+    nose. Very smooth and delicate on the palate with vanilla, cinnamon, toffee, nutmeg,
+    caramel, a slight woody note, and honey on the finish with almost no burn.
+  verdict_quote: It's not rough, it's not harsh — it's nice, delicate, smooth, and
+    very easy sipping with loads of flavour. Solid 8.9 out of 10.
+- name: The Wind Academy Offshore Wind Training Lager
+  category: Beer & Ale
+  brand_or_distillery: The Wind Academy
+  region_or_style: Lager / Pale Beer
+  abv: 4.4%
+  timestamp_seconds: 281
+  timestamp_display: 04:41
+  rating_score: 7.5
+  rating_raw: Very nice zesty cold can (better than Carling)
+  tags:
+  - zesty
+  - crisp
+  - refreshing
+  - lager
+  tasting_notes: Chilled outdoors in the cold weather with a crisp, zesty flavour
+    profile. Much better than standard macro lagers like Carling.
+  verdict_quote: Cheers Ethan mate, you absolute legend — these are very nice, bit
+    of a zesty flavour.
+- name: Morrisons The Best Chilli Sausages & BrewDog Wingman Spicy Buffalo Sauce
+  category: Food & Scran
+  brand_or_distillery: Morrisons / BrewDog
+  region_or_style: Campfire Sausage Sarnies
+  abv: ''
+  timestamp_seconds: 1971
+  timestamp_display: '32:51'
+  rating_score: 8.2
+  rating_raw: Proper warming spicy campfire scran
+  tags:
+  - spicy
+  - buffalo sauce
+  - sausages
+  - campfire scran
+  tasting_notes: Pan-fried chilli sausages served in buns topped with BrewDog Wingman
+    spicy buffalo sauce. Serious heat and kick from the buffalo sauce that warms you
+    right up in freezing conditions.
+  verdict_quote: The sausages are a little bit spicy, and that BrewDog spicy sauce
+    is where you're getting the kick from — warming you right up!
 ---
+
 
 ## Tasting Transcript Excerpt
 
