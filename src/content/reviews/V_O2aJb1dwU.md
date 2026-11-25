@@ -5,30 +5,31 @@ publish_date: '2026-10-14'
 thumbnail: https://i.ytimg.com/vi/V_O2aJb1dwU/hqdefault.jpg
 has_reviews: true
 manually_edited: false
-episode_summary: The host goes wild camping on the Yorkshire coast at Cayton Bay despite
-  feeling under the weather, enjoying some beers, cooking up a delicious king prawn
-  and noodle meal, and reviewing a blended scotch whisky.
+episode_summary: The host goes wild camping at Cayton Bay on the Yorkshire coast despite
+  feeling under the weather with man flu. He sets up his Nortent Vern 1 PC tent, enjoys
+  some Aldi beers, and reviews a miniature bottle of Gretna Green blended scotch whisky
+  while cooking a hearty noodle and king prawn camp meal.
 items:
 - name: Gretna Green Blended Scotch Whisky
   category: Whisky
   brand_or_distillery: Gretna Green
   region_or_style: Blended Scotch Whisky
   abv: 46%
-  timestamp_seconds: 3032
-  timestamp_display: '50:32'
+  timestamp_seconds: 3033
+  timestamp_display: '50:33'
   rating_score: 6.0
   rating_raw: 6 out of 10
   tags:
+  - malty
   - spicy
-  - harsh
-  - toffee
+  - oaky
   - citrus
-  - vegetable
-  - multi
-  tasting_notes: Offers aromas of robust malt, mild spice, and a metallic touch. The
-    palate delivers a nice burn with vegetable and toffee notes, alongside a slightly
-    harsh citrus finish.
-  verdict_quote: Still worthy of a six out of ten.
+  - harsh
+  - robust
+  tasting_notes: It has a robust malty aroma with mild spices and oak. On the palate,
+    it delivers a nice kick and burn with zesty citrus and earthy vegetable notes,
+    though it is a bit harsh.
+  verdict_quote: That's still worthy of a 6 out of 10 cheers Gary mate.
 ---
 
-**[50:32]** Yes, man dingoes, you know what time it is, it's whisky time and this is what we've got this week: Gretna Green Blended Scotch whisky... Let's get the old snifferooni going... I'm getting like a robust malt, mild spice... It's slightly woody and a bit metallic... Not a top quality whisky, but let's get on the tasterooni. Oh! That's a nice kick, a nice burn, I don't mind that. You've got a little burn-agibblin, you better believe it. I like it a lot. I'm getting like a taste of vegetables, weird, with like a fruit-licious flavor-rooni with like toffee. Vegetable flavor there, guys. There's also a citrus thing coming through, folks, a bit zesty. It is a bit harsh, and like I say, I don't mind a bit of burn-agibblin. It's a little bit harsh as well, a little bit nasty, but I mean it is what it is. It's not a single malt, it's a blended Scotch whisky... Not bad at all. **[56:35]** Let's wrap this up. A little bit vegetable and a bit of a citrus thing coming through as well, a nice kick, but a bit harsh at exactly the same time. So it's not the best of the best, but it's not horrible either. It's quite enjoyable... Still worthy of a six out of ten.
+**[50:33]** Oh yes man dingoes you know what time it is it's waski time and this is what we've got this week gretna green blended scotch waski. Spanky very much to Gary Bessford for that. I've actually reviewed this once before. **[51:42]** It smells like a bit fishy. I'm getting like scampi. It's me fingers. **[52:29]** Malty few spices robust. Like a robust malty mild spice rooney oaky slightly oak and that's about it. **[53:44]** Oh that's a nice kick a nice burn I don't mind that the old Bernie gibbling you better believe it. I'm getting like the taste of vegetables weird. **[54:35]** There's also a citrus thing coming through folks like a fruity zesty citrus erm it is a bit harsh. **[57:03]** That vegetable flavour coming through like a Sunday dinner fart. No honestly guys I'm only joking that's still worthy of a 6 out of 10 cheers Gary mate.

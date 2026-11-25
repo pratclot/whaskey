@@ -264,11 +264,11 @@ def _get_whisper_model():
     from faster_whisper import WhisperModel
 
     try:
-        _WHISPER_MODEL = WhisperModel("small.en", device="cuda", compute_type="int8")
-        print("   🎙️ Loaded faster-whisper (small.en, CUDA int8)")
+        _WHISPER_MODEL = WhisperModel("turbo", device="cuda", compute_type="int8")
+        print("   🎙️ Loaded faster-whisper (turbo, CUDA int8)")
     except Exception as cuda_exc:
         print(f"   ⚠️ CUDA Whisper init failed ({cuda_exc}), falling back to CPU int8...")
-        _WHISPER_MODEL = WhisperModel("small.en", device="cpu", compute_type="int8")
+        _WHISPER_MODEL = WhisperModel("turbo", device="cpu", compute_type="int8")
     return _WHISPER_MODEL
 
 
@@ -320,7 +320,18 @@ def fetch_snippets_via_whisper(video_id: str) -> List[dict]:
         audio = np.frombuffer(ff_res.stdout, dtype=np.float32).copy()
 
     model = _get_whisper_model()
-    segs, _ = model.transcribe(audio, language="en", beam_size=1, vad_filter=True)
+    initial_prompt = (
+        "Blot Outdoors Show, Geordie North East English accent, wild camping, "
+        "whisky, whaskey, Scotch, single malt, blended whisky, bourbon, "
+        "beer, ale, IPA, stout, lager, cider, tasting notes, scran, out of ten."
+    )
+    segs, _ = model.transcribe(
+        audio,
+        language="en",
+        beam_size=2,
+        vad_filter=True,
+        initial_prompt=initial_prompt,
+    )
     snippets = []
     for s in segs:
         text = s.text.strip()
