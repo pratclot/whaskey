@@ -45,10 +45,10 @@ Automated tracker and Astro static site for the **Blot Outdoors Show** (`@BlotOu
 - **Automation architecture**: Prefer a local laptop `systemd` user timer / `cron` (residential IP + GTX 1650) over GitHub Actions for fetching/transcribing new episodes, then `git push` to trigger `.github/workflows/deploy.yml`.
 
 ## Current State
-- **Done**: First 76 episodes (`offset=0..75`) extracted and verified with `astro build`.
-- **Remaining**: 565 videos (`offset=76..640`).
+- **Done**: First 126 episodes (`offset=0..125`) extracted and verified with `astro build`.
+- **Remaining**: 515 videos (`offset=126..640`).
 
 ## Next Steps
-1. Process remaining videos in paced batches (e.g. `--offset 76 --limit 50 --delay 5 --model gemini-3.5-flash-lite --no-whisper`) with `BypassSandbox: true` (`tracker.py` auto-falls back to `socks5://127.0.0.1:1080` if reachable and exits with code `2` on unrecoverable `429`).
+1. Process remaining videos in paced batches (e.g. `--offset 126 --limit 50 --delay 5 --model gemini-3.5-flash-lite --no-whisper`) with `BypassSandbox: true` (`tracker.py` auto-falls back to `socks5://127.0.0.1:1080` if reachable and exits with code `2` on unrecoverable `429`).
 2. Verify `astro build` passes, then commit and `git push` `src/content/reviews/*.md` to `origin/main`.
 3. Optionally set up a local `systemd` user timer/cron to poll new `@BlotOutdoorsShow` uploads, run `tracker.py`, and push to `main`.
