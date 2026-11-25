@@ -25,14 +25,24 @@ Automated tracker and Astro static site for the **Blot Outdoors Show** (`@BlotOu
   ```
 - **GitHub CLI (`gh`)**: Prefix with `DBUS_SESSION_BUS_ADDRESS=unix:path=/dev/null` to avoid D-Bus keyring hangs.
 - **Gemini models & rate limits**: Use `gemini-4-hydrogen` (default) and `gemini-3.5-flash-lite` (fallback) via `client.interactions.create` (`google-genai>=3.5.0`, 120s client timeout). Never use deprecated `gemini-2.5-*`. On free tier, `gemini-4-hydrogen` is capped at 20 req/day (and can return `503` high demand); `tracker.py` switches immediately to `gemini-3.5-flash-lite` on daily quota errors, or pass `--model gemini-3.5-flash-lite` directly.
-- **YouTube captions & local `faster-whisper` fallback**: YouTube `/api/timedtext` and `youtube-transcript-api` are rate-limited/IP-blocked (`HTTP 429`). When both fail, `tracker.py` downloads English original audio (`wa[language^=en]...` to avoid YouTube auto-dubs), decodes to 16kHz mono `pcm_f32le` via `ffmpeg` (bypassing `av>=19` `metadata_errors` error), preloads `.venv` `nvidia-cublas-cu12`/`nvidia-cudnn-cu12` libs, and transcribes with `faster-whisper` (`small.en`, CUDA `int8` on GTX 1650).
+- **YouTube captions & local `faster-whisper` fallback**: YouTube `/api/timedtext` and `youtube-transcript-api` are rate-limited/IP-blocked (`HTTP 429`). When both fail, `tracker.py` downloads English original audio (`wa[language^=en]...` to avoid YouTube auto-dubs), decodes to 16kHz mono `pcm_f32le` via `ffmpeg` (bypassing `av>=19` `metadata_errors` error), preloads `.venv` `nvidia-cublas-cu12`/`nvidia-cudnn-cu12` libs, and transcribes with `faster-whisper` (`turbo` model, `beam_size=2` + `initial_prompt`).
+- **Laptop performance mode & Whisper quality**:
+  - **NEVER use `small.en`** (or smaller Whisper models): accuracy on Geordie accents and whisky/beer brand names is unacceptable. Always use **`turbo`** (`large-v3-turbo`) with `initial_prompt`.
+  - **Always remind the user / ensure the laptop is plugged into AC power and switched to performance mode** before running local `faster-whisper` batches — the GTX 1650 Max-Q (4 GiB VRAM) and CPU (`ffmpeg` decode) throttle clocks/TDP on battery or balanced/power-saver profiles (affects speed, not accuracy).
+- **Resetting GTX 1650 Max-Q without reboot** (when `Xid 119` / GSP hang puts GPU into `[GPU requires reset]`; `nvidia-smi --gpu-reset` is unsupported on GeForce, but `i915` drives display so `nvidia` modules have 0 external users):
+  ```bash
+  sudo modprobe -r nvidia_uvm nvidia_modeset nvidia
+  echo 1 | sudo tee /sys/bus/pci/devices/0000:02:00.0/reset
+  sudo modprobe nvidia nvidia_uvm
+  nvidia-smi
+  ```
 - **Automation architecture**: Prefer a local laptop `systemd` user timer / `cron` (residential IP + GTX 1650) over GitHub Actions for fetching/transcribing new episodes, then `git push` to trigger `.github/workflows/deploy.yml`.
 
 ## Current State
-- **Done**: First 18 episodes (`offset=0..17`, 39 rated items, including `V_O2aJb1dwU` via `faster-whisper` + `gemini-3.5-flash-lite`) extracted and verified with `astro build`.
-- **Remaining**: 623 videos (`offset=18..640`).
+- **Done**: First 26 episodes (`offset=0..25`) extracted and verified with `astro build`.
+- **Remaining**: 615 videos (`offset=26..640`).
 
 ## Next Steps
-1. Process remaining videos in paced batches (e.g. `--offset 18 --limit 15 --delay 5 --model gemini-3.5-flash-lite`) with `BypassSandbox: true`.
+1. Process remaining videos in paced batches (e.g. `--offset 26 --limit 10 --delay 5 --model gemini-3.5-flash-lite`) with `BypassSandbox: true`.
 2. Verify `astro build` passes, then commit and `git push` `src/content/reviews/*.md` to `origin/main`.
 3. Optionally set up a local `systemd` user timer/cron to poll new `@BlotOutdoorsShow` uploads, run `tracker.py`, and push to `main`.

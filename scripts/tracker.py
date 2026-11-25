@@ -351,16 +351,10 @@ def _get_whisper_model():
 
     from faster_whisper import WhisperModel
 
-    try:
-        _WHISPER_MODEL = WhisperModel(
-            WHISPER_MODEL_NAME, device="cuda", compute_type=WHISPER_COMPUTE_TYPE
-        )
-        print(f"   🎙️ Loaded faster-whisper ({WHISPER_MODEL_NAME}, CUDA {WHISPER_COMPUTE_TYPE})")
-    except Exception as cuda_exc:
-        print(f"   ⚠️ CUDA Whisper init failed ({cuda_exc}), falling back to CPU {WHISPER_COMPUTE_TYPE}...")
-        _WHISPER_MODEL = WhisperModel(
-            WHISPER_MODEL_NAME, device="cpu", compute_type=WHISPER_COMPUTE_TYPE
-        )
+    _WHISPER_MODEL = WhisperModel(
+        WHISPER_MODEL_NAME, device="cuda", compute_type=WHISPER_COMPUTE_TYPE
+    )
+    print(f"   🎙️ Loaded faster-whisper ({WHISPER_MODEL_NAME}, CUDA {WHISPER_COMPUTE_TYPE})")
     return _WHISPER_MODEL
 
 
@@ -813,7 +807,21 @@ def main() -> None:
             sys.exit(1)
         client = genai.Client(api_key=api_key, http_options={"timeout": 120000})
 
+    DATA_DIR.mkdir(parents=True, exist_ok=True)
+    run_start_offset = RUNS_LOG_PATH.stat().st_size if RUNS_LOG_PATH.exists() else 0
+
+    def flush_run_record() -> None:
+        run_record["timestamp_end"] = datetime.datetime.now(datetime.timezone.utc).isoformat()
+        run_record["duration_s"] = round(time.monotonic() - run_t0, 2)
+        run_record["processed_count"] = processed_count
+        with RUNS_LOG_PATH.open("r+b" if RUNS_LOG_PATH.exists() else "w+b") as f:
+            f.seek(run_start_offset)
+            f.truncate()
+            f.write((json.dumps(run_record) + "\n").encode("utf-8"))
+            f.flush()
+
     processed_count = 0
+    flush_run_record()
     try:
         for idx, vid in enumerate(video_ids, 1):
             md_path = REVIEWS_DIR / f"{vid}.md"
@@ -872,6 +880,7 @@ def main() -> None:
                     v_log["total_s"] = round(time.monotonic() - v_t0, 2)
                     run_record["videos"].append(v_log)
                     processed_count += 1
+                    flush_run_record()
                     continue
 
                 assert client is not None
@@ -897,20 +906,17 @@ def main() -> None:
                 v_log["total_s"] = round(time.monotonic() - v_t0, 2)
                 run_record["videos"].append(v_log)
                 processed_count += 1
+                flush_run_record()
             except Exception as err:
                 print(f"   ❌ Error processing {vid}: {err}", file=sys.stderr)
                 v_log["status"] = "error"
                 v_log["error"] = str(err)
                 v_log["total_s"] = round(time.monotonic() - v_t0, 2)
                 run_record["videos"].append(v_log)
+                flush_run_record()
     finally:
-        run_record["timestamp_end"] = datetime.datetime.now(datetime.timezone.utc).isoformat()
-        run_record["duration_s"] = round(time.monotonic() - run_t0, 2)
-        run_record["processed_count"] = processed_count
         run_record["system_end"] = collect_system_metrics()
-        DATA_DIR.mkdir(parents=True, exist_ok=True)
-        with RUNS_LOG_PATH.open("a", encoding="utf-8") as f:
-            f.write(json.dumps(run_record) + "\n")
+        flush_run_record()
         print(f"\n📊 Logged run metrics to {RUNS_LOG_PATH.relative_to(ROOT_DIR)}")
 
 

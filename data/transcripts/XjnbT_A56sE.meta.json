@@ -1,0 +1,14 @@
+{
+  "video_id": "XjnbT_A56sE",
+  "title": "The 3 Chris's Wild Camping On Red Screes (Montiro Wander Hawk 1)",
+  "publish_date": "2026-10-04",
+  "duration": 3604,
+  "description": "#wildcamping #lakedistrict #hikingandcamping\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\ude09 \nhttps://theblotoutdoorsmerch.myshopify.com/collections/all\n\nHere's the link for Yacker Travels:\nhttps://youtube.com/@yackertravels?si=09A8sAjYbaLTEJpa\n\nHere's the link for Bonny Ladd Adventures:\nhttps://youtube.com/@Bonnyladdadventures?si=yum55ngD16My6lKS",
+  "thumbnail": "https://i.ytimg.com/vi/XjnbT_A56sE/hqdefault.jpg",
+  "channel": "BLOT OUTDOORS SHOW",
+  "transcript_source": "faster-whisper",
+  "whisper_model": "turbo",
+  "whisper_compute_type": "int8",
+  "whisper_beam_size": 2,
+  "audio_duration_s": 3604.34
+}
