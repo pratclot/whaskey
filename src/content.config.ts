@@ -25,6 +25,7 @@ const reviews = defineCollection({
     thumbnail: z.string().optional(),
     has_reviews: z.boolean().default(true),
     manually_edited: z.boolean().default(false),
+    transcript_source: z.string().optional(),
     episode_summary: z.string().optional().default(''),
     items: z.array(ratedItemSchema).default([]),
   }),

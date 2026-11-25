@@ -12,6 +12,7 @@ import datetime
 import glob
 import json
 import os
+import platform
 import re
 import subprocess
 import sys
@@ -30,11 +31,15 @@ ROOT_DIR = Path(__file__).resolve().parent.parent
 DATA_DIR = ROOT_DIR / "data"
 CATALOG_PATH = DATA_DIR / "channel_videos.jsonl"
 TRANSCRIPTS_DIR = DATA_DIR / "transcripts"
+RUNS_LOG_PATH = DATA_DIR / "runs.jsonl"
 REVIEWS_DIR = ROOT_DIR / "src" / "content" / "reviews"
 
 DEFAULT_CHANNEL_URL = "https://www.youtube.com/@BlotOutdoorsShow/videos"
 DEFAULT_MODEL = "gemini-4-hydrogen"
 FALLBACK_MODEL = "gemini-3.5-flash-lite"
+WHISPER_MODEL_NAME = "turbo"
+WHISPER_COMPUTE_TYPE = "int8"
+WHISPER_BEAM_SIZE = 2
 
 
 class RatedItem(BaseModel):
@@ -248,6 +253,89 @@ def fetch_snippets_via_yt_dlp(video_id: str) -> List[dict]:
 _WHISPER_MODEL = None
 
 
+def collect_system_metrics() -> dict:
+    """Capture host CPU, memory, power, and GPU telemetry for run efficiency logs."""
+    metrics: dict = {
+        "hostname": platform.node(),
+        "os": platform.platform(),
+        "python": platform.python_version(),
+        "cpu_cores_logical": os.cpu_count(),
+    }
+
+    try:
+        for line in Path("/proc/cpuinfo").read_text(encoding="utf-8").splitlines():
+            if line.lower().startswith("model name"):
+                metrics["cpu_model"] = line.split(":", 1)[1].strip()
+                break
+    except OSError:
+        pass
+
+    gov_path = Path("/sys/devices/system/cpu/cpu0/cpufreq/scaling_governor")
+    if gov_path.exists():
+        try:
+            metrics["cpu_governor"] = gov_path.read_text(encoding="utf-8").strip()
+        except OSError:
+            pass
+
+    try:
+        meminfo = {}
+        for line in Path("/proc/meminfo").read_text(encoding="utf-8").splitlines():
+            if ":" in line:
+                k, v = line.split(":", 1)
+                meminfo[k.strip()] = int(v.strip().split()[0]) // 1024
+        if "MemTotal" in meminfo:
+            metrics["ram_total_mb"] = meminfo["MemTotal"]
+        if "MemAvailable" in meminfo:
+            metrics["ram_avail_mb"] = meminfo["MemAvailable"]
+    except (OSError, ValueError, IndexError):
+        pass
+
+    for ac_file in sorted(Path("/sys/class/power_supply").glob("A*/online")):
+        try:
+            metrics["ac_online"] = ac_file.read_text(encoding="utf-8").strip() == "1"
+            break
+        except OSError:
+            pass
+
+    for bat_file in sorted(Path("/sys/class/power_supply").glob("BAT*/capacity")):
+        try:
+            metrics["battery_pct"] = int(bat_file.read_text(encoding="utf-8").strip())
+            break
+        except (OSError, ValueError):
+            pass
+
+    try:
+        smi = subprocess.run(
+            [
+                "nvidia-smi",
+                "--query-gpu=name,driver_version,memory.total,memory.used,temperature.gpu,power.draw,power.limit,clocks.sm,clocks.mem,pstate",
+                "--format=csv,noheader,nounits",
+            ],
+            capture_output=True,
+            text=True,
+            timeout=5,
+        )
+        if smi.returncode == 0 and smi.stdout.strip():
+            parts = [p.strip() for p in smi.stdout.strip().splitlines()[0].split(",")]
+            keys = [
+                "name",
+                "driver",
+                "vram_total_mb",
+                "vram_used_mb",
+                "temp_c",
+                "power_draw_w",
+                "power_limit_w",
+                "clock_sm_mhz",
+                "clock_mem_mhz",
+                "pstate",
+            ]
+            metrics["gpu"] = dict(zip(keys, parts))
+    except Exception:
+        pass
+
+    return metrics
+
+
 def _get_whisper_model():
     global _WHISPER_MODEL
     if _WHISPER_MODEL is not None:
@@ -264,15 +352,19 @@ def _get_whisper_model():
     from faster_whisper import WhisperModel
 
     try:
-        _WHISPER_MODEL = WhisperModel("turbo", device="cuda", compute_type="int8")
-        print("   🎙️ Loaded faster-whisper (turbo, CUDA int8)")
+        _WHISPER_MODEL = WhisperModel(
+            WHISPER_MODEL_NAME, device="cuda", compute_type=WHISPER_COMPUTE_TYPE
+        )
+        print(f"   🎙️ Loaded faster-whisper ({WHISPER_MODEL_NAME}, CUDA {WHISPER_COMPUTE_TYPE})")
     except Exception as cuda_exc:
-        print(f"   ⚠️ CUDA Whisper init failed ({cuda_exc}), falling back to CPU int8...")
-        _WHISPER_MODEL = WhisperModel("turbo", device="cpu", compute_type="int8")
+        print(f"   ⚠️ CUDA Whisper init failed ({cuda_exc}), falling back to CPU {WHISPER_COMPUTE_TYPE}...")
+        _WHISPER_MODEL = WhisperModel(
+            WHISPER_MODEL_NAME, device="cpu", compute_type=WHISPER_COMPUTE_TYPE
+        )
     return _WHISPER_MODEL
 
 
-def fetch_snippets_via_whisper(video_id: str) -> List[dict]:
+def fetch_snippets_via_whisper(video_id: str, stats: Optional[dict] = None) -> List[dict]:
     """Fallback: download original English audio via yt-dlp and transcribe locally with faster-whisper."""
     import numpy as np
 
@@ -292,7 +384,9 @@ def fetch_snippets_via_whisper(video_id: str) -> List[dict]:
             out_tmpl,
             url,
         ]
+        t_dl = time.monotonic()
         subprocess.run(cmd, capture_output=True, text=True, check=True)
+        dl_s = round(time.monotonic() - t_dl, 2)
         audio_files = list(Path(tmpdir).glob(f"{video_id}.*"))
         if not audio_files:
             raise RuntimeError(f"yt-dlp did not download audio for {video_id}")
@@ -316,19 +410,23 @@ def fetch_snippets_via_whisper(video_id: str) -> List[dict]:
             "16000",
             "-",
         ]
+        t_dec = time.monotonic()
         ff_res = subprocess.run(ff_cmd, capture_output=True, check=True)
         audio = np.frombuffer(ff_res.stdout, dtype=np.float32).copy()
+        dec_s = round(time.monotonic() - t_dec, 2)
 
+    audio_duration_s = round(len(audio) / 16000.0, 2)
     model = _get_whisper_model()
     initial_prompt = (
         "Blot Outdoors Show, Geordie North East English accent, wild camping, "
         "whisky, whaskey, Scotch, single malt, blended whisky, bourbon, "
         "beer, ale, IPA, stout, lager, cider, tasting notes, scran, out of ten."
     )
+    t_tr = time.monotonic()
     segs, _ = model.transcribe(
         audio,
         language="en",
-        beam_size=2,
+        beam_size=WHISPER_BEAM_SIZE,
         vad_filter=True,
         initial_prompt=initial_prompt,
     )
@@ -344,24 +442,71 @@ def fetch_snippets_via_whisper(video_id: str) -> List[dict]:
                 "text": text,
             }
         )
+    tr_s = round(time.monotonic() - t_tr, 2)
+    if stats is not None:
+        stats["download_s"] = dl_s
+        stats["decode_s"] = dec_s
+        stats["transcribe_s"] = tr_s
+        stats["audio_duration_s"] = audio_duration_s
+        if tr_s > 0:
+            stats["realtime_factor"] = round(audio_duration_s / tr_s, 2)
     if not snippets:
         raise RuntimeError(f"faster-whisper produced no segments for {video_id}")
     return snippets
 
 
-def fetch_or_load_transcript(video_id: str) -> str:
+def _update_transcript_meta(
+    video_id: str, transcript_source: str, stats: Optional[dict] = None
+) -> None:
+    meta_path = TRANSCRIPTS_DIR / f"{video_id}.meta.json"
+    meta_data = {}
+    if meta_path.exists():
+        try:
+            meta_data = json.loads(meta_path.read_text(encoding="utf-8"))
+        except Exception:
+            meta_data = {}
+    meta_data["transcript_source"] = transcript_source
+    if transcript_source == "faster-whisper":
+        meta_data["whisper_model"] = WHISPER_MODEL_NAME
+        meta_data["whisper_compute_type"] = WHISPER_COMPUTE_TYPE
+        meta_data["whisper_beam_size"] = WHISPER_BEAM_SIZE
+        if stats and "audio_duration_s" in stats:
+            meta_data["audio_duration_s"] = stats["audio_duration_s"]
+    meta_path.write_text(json.dumps(meta_data, indent=2), encoding="utf-8")
+
+
+def get_cached_transcript_source(video_id: str) -> str:
+    meta_path = TRANSCRIPTS_DIR / f"{video_id}.meta.json"
+    if meta_path.exists():
+        try:
+            data = json.loads(meta_path.read_text(encoding="utf-8"))
+            if data.get("transcript_source"):
+                return str(data["transcript_source"])
+        except Exception:
+            pass
+    return "captions"
+
+
+def fetch_or_load_transcript(
+    video_id: str,
+    force_captions_only: bool = False,
+    stats: Optional[dict] = None,
+) -> tuple[str, str]:
     TRANSCRIPTS_DIR.mkdir(parents=True, exist_ok=True)
     txt_path = TRANSCRIPTS_DIR / f"{video_id}.txt"
     json_path = TRANSCRIPTS_DIR / f"{video_id}.json"
 
-    if txt_path.exists():
-        print(f"   📄 Loaded cached transcript: {txt_path.relative_to(ROOT_DIR)}")
-        return txt_path.read_text(encoding="utf-8")
+    if txt_path.exists() and not force_captions_only:
+        source = get_cached_transcript_source(video_id)
+        print(f"   📄 Loaded cached transcript ({source}): {txt_path.relative_to(ROOT_DIR)}")
+        return txt_path.read_text(encoding="utf-8"), source
 
     print(f"   ⏬ Downloading transcript for {video_id} ...")
     snippets = None
+    transcript_source = "unknown"
     try:
         snippets = fetch_snippets_via_yt_dlp(video_id)
+        transcript_source = "yt-dlp"
     except Exception as ytdl_exc:
         print(f"   ⚠️ yt-dlp subtitle fetch failed ({ytdl_exc}), trying youtube-transcript-api...")
         api = YouTubeTranscriptApi()
@@ -371,6 +516,7 @@ def fetch_or_load_transcript(video_id: str) -> str:
                 {"start": s.start, "duration": s.duration, "text": s.text}
                 for s in fetched
             ]
+            transcript_source = "youtube-transcript-api"
         except Exception:
             try:
                 t_list = api.list(video_id)
@@ -380,9 +526,15 @@ def fetch_or_load_transcript(video_id: str) -> str:
                     {"start": s.start, "duration": s.duration, "text": s.text}
                     for s in fetched
                 ]
+                transcript_source = "youtube-transcript-api"
             except Exception as ytapi_exc:
+                if force_captions_only:
+                    raise RuntimeError(
+                        f"YouTube captions still unavailable for {video_id}: {ytapi_exc}"
+                    ) from ytapi_exc
                 print(f"   ⚠️ youtube-transcript-api failed ({ytapi_exc}), falling back to local faster-whisper...")
-                snippets = fetch_snippets_via_whisper(video_id)
+                snippets = fetch_snippets_via_whisper(video_id, stats=stats)
+                transcript_source = "faster-whisper"
 
     json_path.write_text(json.dumps(snippets, indent=2), encoding="utf-8")
 
@@ -408,8 +560,9 @@ def fetch_or_load_transcript(video_id: str) -> str:
 
     formatted = "\n".join(lines)
     txt_path.write_text(formatted, encoding="utf-8")
-    print(f"   💾 Saved editable raw transcript to {txt_path.relative_to(ROOT_DIR)}")
-    return formatted
+    _update_transcript_meta(video_id, transcript_source, stats=stats)
+    print(f"   💾 Saved editable raw transcript ({transcript_source}) to {txt_path.relative_to(ROOT_DIR)}")
+    return formatted, transcript_source
 
 
 def is_manually_edited(md_path: Path) -> bool:
@@ -516,7 +669,10 @@ Extract every whisky, drink, or food item that the host tastes, describes, or ra
 
 
 def write_review_markdown(
-    meta: dict, extraction: VideoReviewExtraction, md_path: Path
+    meta: dict,
+    extraction: VideoReviewExtraction,
+    md_path: Path,
+    transcript_source: Optional[str] = None,
 ) -> None:
     REVIEWS_DIR.mkdir(parents=True, exist_ok=True)
     frontmatter = {
@@ -526,6 +682,7 @@ def write_review_markdown(
         "thumbnail": meta["thumbnail"],
         "has_reviews": extraction.has_reviews,
         "manually_edited": False,
+        "transcript_source": transcript_source or get_cached_transcript_source(meta["video_id"]),
         "episode_summary": extraction.episode_summary,
         "items": [item.model_dump() for item in extraction.items],
     }
@@ -605,7 +762,36 @@ def main() -> None:
         action="store_true",
         help="Only download metadata and raw transcripts without calling Gemini API",
     )
+    parser.add_argument(
+        "--upgrade-whisper",
+        action="store_true",
+        help="Re-run only videos whose transcript_source is faster-whisper, upgrading to YouTube captions when available",
+    )
     args = parser.parse_args()
+
+    run_start_iso = datetime.datetime.now(datetime.timezone.utc).isoformat()
+    run_t0 = time.monotonic()
+    run_record: dict = {
+        "timestamp_start": run_start_iso,
+        "args": {
+            "offset": args.offset,
+            "limit": args.limit,
+            "all": args.all,
+            "video": args.video,
+            "model": args.model,
+            "delay": args.delay,
+            "force": args.force,
+            "transcripts_only": args.transcripts_only,
+            "upgrade_whisper": args.upgrade_whisper,
+        },
+        "whisper_config": {
+            "model": WHISPER_MODEL_NAME,
+            "compute_type": WHISPER_COMPUTE_TYPE,
+            "beam_size": WHISPER_BEAM_SIZE,
+        },
+        "system_start": collect_system_metrics(),
+        "videos": [],
+    }
 
     catalog_map = load_catalog_entries()
 
@@ -628,47 +814,104 @@ def main() -> None:
         client = genai.Client(api_key=api_key, http_options={"timeout": 120000})
 
     processed_count = 0
-    for idx, vid in enumerate(video_ids, 1):
-        md_path = REVIEWS_DIR / f"{vid}.md"
+    try:
+        for idx, vid in enumerate(video_ids, 1):
+            md_path = REVIEWS_DIR / f"{vid}.md"
+            v_log: dict = {"video_id": vid}
 
-        if is_manually_edited(md_path):
-            print(f"[{idx}/{len(video_ids)}] 🔒 Skipping {vid}: marked as manually_edited: true")
-            continue
-
-        if md_path.exists() and not args.force and not args.transcripts_only:
-            print(f"[{idx}/{len(video_ids)}] ⏭️  Skipping {vid}: {md_path.relative_to(ROOT_DIR)} already exists")
-            continue
-
-        if args.transcripts_only and (TRANSCRIPTS_DIR / f"{vid}.txt").exists() and (TRANSCRIPTS_DIR / f"{vid}.meta.json").exists():
-            print(f"[{idx}/{len(video_ids)}] ⏭️  Skipping {vid}: transcript and metadata already cached")
-            continue
-
-        print(f"\n[{idx}/{len(video_ids)}] Processing video: {vid}")
-        try:
-            meta = fetch_video_metadata(vid, catalog_map=catalog_map)
-            print(f"   🎬 Title: {meta['title']} ({meta['publish_date']})")
-            transcript_text = fetch_or_load_transcript(vid)
-
-            if args.transcripts_only:
-                processed_count += 1
+            if is_manually_edited(md_path):
+                print(f"[{idx}/{len(video_ids)}] 🔒 Skipping {vid}: marked as manually_edited: true")
+                v_log["status"] = "skipped_manual"
+                run_record["videos"].append(v_log)
                 continue
 
-            assert client is not None
-            if processed_count > 0 and args.delay > 0:
-                time.sleep(args.delay)
+            if args.upgrade_whisper:
+                cached_src = get_cached_transcript_source(vid)
+                if cached_src != "faster-whisper":
+                    print(f"[{idx}/{len(video_ids)}] ⏭️  Skipping {vid}: transcript_source is {cached_src}")
+                    v_log["status"] = "skipped_not_whisper"
+                    v_log["transcript_source"] = cached_src
+                    run_record["videos"].append(v_log)
+                    continue
+            elif md_path.exists() and not args.force and not args.transcripts_only:
+                print(f"[{idx}/{len(video_ids)}] ⏭️  Skipping {vid}: {md_path.relative_to(ROOT_DIR)} already exists")
+                v_log["status"] = "skipped_exists"
+                run_record["videos"].append(v_log)
+                continue
 
-            print(f"   🤖 Extracting tasting notes & ratings with {args.model} ...")
-            extraction = extract_reviews_with_gemini(
-                client, args.model, meta, transcript_text
-            )
-            print(
-                f"   🥃 Extracted {len(extraction.items)} rated item(s): "
-                + (", ".join(f"{i.name} ({i.rating_raw})" for i in extraction.items) or "None")
-            )
-            write_review_markdown(meta, extraction, md_path)
-            processed_count += 1
-        except Exception as err:
-            print(f"   ❌ Error processing {vid}: {err}", file=sys.stderr)
+            if (
+                args.transcripts_only
+                and not args.upgrade_whisper
+                and (TRANSCRIPTS_DIR / f"{vid}.txt").exists()
+                and (TRANSCRIPTS_DIR / f"{vid}.meta.json").exists()
+            ):
+                print(f"[{idx}/{len(video_ids)}] ⏭️  Skipping {vid}: transcript and metadata already cached")
+                v_log["status"] = "skipped_exists"
+                run_record["videos"].append(v_log)
+                continue
+
+            print(f"\n[{idx}/{len(video_ids)}] Processing video: {vid}")
+            v_t0 = time.monotonic()
+            try:
+                t_meta = time.monotonic()
+                meta = fetch_video_metadata(vid, catalog_map=catalog_map)
+                v_log["meta_s"] = round(time.monotonic() - t_meta, 2)
+                print(f"   🎬 Title: {meta['title']} ({meta['publish_date']})")
+
+                t_tr = time.monotonic()
+                transcript_text, transcript_source = fetch_or_load_transcript(
+                    vid,
+                    force_captions_only=args.upgrade_whisper,
+                    stats=v_log,
+                )
+                v_log["transcript_source"] = transcript_source
+                v_log["transcript_total_s"] = round(time.monotonic() - t_tr, 2)
+
+                if args.transcripts_only:
+                    v_log["status"] = "ok_transcript_only"
+                    v_log["total_s"] = round(time.monotonic() - v_t0, 2)
+                    run_record["videos"].append(v_log)
+                    processed_count += 1
+                    continue
+
+                assert client is not None
+                if processed_count > 0 and args.delay > 0:
+                    time.sleep(args.delay)
+
+                print(f"   🤖 Extracting tasting notes & ratings with {args.model} ...")
+                t_gem = time.monotonic()
+                extraction = extract_reviews_with_gemini(
+                    client, args.model, meta, transcript_text
+                )
+                v_log["gemini_s"] = round(time.monotonic() - t_gem, 2)
+                v_log["gemini_model"] = args.model
+                v_log["items_count"] = len(extraction.items)
+                print(
+                    f"   🥃 Extracted {len(extraction.items)} rated item(s): "
+                    + (", ".join(f"{i.name} ({i.rating_raw})" for i in extraction.items) or "None")
+                )
+                write_review_markdown(
+                    meta, extraction, md_path, transcript_source=transcript_source
+                )
+                v_log["status"] = "ok"
+                v_log["total_s"] = round(time.monotonic() - v_t0, 2)
+                run_record["videos"].append(v_log)
+                processed_count += 1
+            except Exception as err:
+                print(f"   ❌ Error processing {vid}: {err}", file=sys.stderr)
+                v_log["status"] = "error"
+                v_log["error"] = str(err)
+                v_log["total_s"] = round(time.monotonic() - v_t0, 2)
+                run_record["videos"].append(v_log)
+    finally:
+        run_record["timestamp_end"] = datetime.datetime.now(datetime.timezone.utc).isoformat()
+        run_record["duration_s"] = round(time.monotonic() - run_t0, 2)
+        run_record["processed_count"] = processed_count
+        run_record["system_end"] = collect_system_metrics()
+        DATA_DIR.mkdir(parents=True, exist_ok=True)
+        with RUNS_LOG_PATH.open("a", encoding="utf-8") as f:
+            f.write(json.dumps(run_record) + "\n")
+        print(f"\n📊 Logged run metrics to {RUNS_LOG_PATH.relative_to(ROOT_DIR)}")
 
 
 if __name__ == "__main__":
