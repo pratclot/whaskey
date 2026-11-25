@@ -7,12 +7,15 @@ tasting notes, ratings, categories, tags, and an editable Markdown transcript ex
 """
 
 import argparse
+import ctypes
 import datetime
+import glob
 import json
 import os
 import re
 import subprocess
 import sys
+import tempfile
 import time
 from pathlib import Path
 from typing import List, Literal, Optional
@@ -31,6 +34,7 @@ REVIEWS_DIR = ROOT_DIR / "src" / "content" / "reviews"
 
 DEFAULT_CHANNEL_URL = "https://www.youtube.com/@BlotOutdoorsShow/videos"
 DEFAULT_MODEL = "gemini-4-hydrogen"
+FALLBACK_MODEL = "gemini-3.5-flash-lite"
 
 
 class RatedItem(BaseModel):
@@ -193,6 +197,147 @@ def fetch_video_metadata(video_id: str, catalog_map: Optional[dict] = None) -> d
     return meta
 
 
+def fetch_snippets_via_yt_dlp(video_id: str) -> List[dict]:
+    """Download English auto-captions via yt-dlp json3 format."""
+    yt_dlp_bin = str(ROOT_DIR / ".venv" / "bin" / "yt-dlp")
+    if not Path(yt_dlp_bin).exists():
+        yt_dlp_bin = "yt-dlp"
+    out_tmpl = str(TRANSCRIPTS_DIR / "%(id)s")
+    url = f"https://www.youtube.com/watch?v={video_id}"
+    cmd = [
+        yt_dlp_bin,
+        "--no-warnings",
+        "--write-auto-subs",
+        "--sub-langs",
+        "en-orig,en",
+        "--sub-format",
+        "json3",
+        "--skip-download",
+        "-o",
+        out_tmpl,
+        url,
+    ]
+    res = subprocess.run(cmd, capture_output=True, text=True)
+    json3_files = sorted(TRANSCRIPTS_DIR.glob(f"{video_id}.*.json3"))
+    if not json3_files:
+        raise RuntimeError(
+            f"yt-dlp did not produce .json3 for {video_id}: {(res.stderr or res.stdout).strip()[:300]}"
+        )
+    json3_path = json3_files[0]
+    raw_sub = json.loads(json3_path.read_text(encoding="utf-8"))
+    for f in json3_files:
+        try:
+            f.unlink()
+        except Exception:
+            pass
+
+    snippets = []
+    for ev in raw_sub.get("events", []):
+        segs = ev.get("segs")
+        if not segs:
+            continue
+        text = "".join(s.get("utf8", "") for s in segs).replace("\n", " ").strip()
+        if not text:
+            continue
+        start_sec = round(ev.get("tStartMs", 0) / 1000.0, 2)
+        dur_sec = round(ev.get("dDurationMs", 0) / 1000.0, 2)
+        snippets.append({"start": start_sec, "duration": dur_sec, "text": text})
+    return snippets
+
+
+_WHISPER_MODEL = None
+
+
+def _get_whisper_model():
+    global _WHISPER_MODEL
+    if _WHISPER_MODEL is not None:
+        return _WHISPER_MODEL
+
+    for lib in sorted(
+        glob.glob(str(ROOT_DIR / ".venv/lib/python*/site-packages/nvidia/*/lib/*.so*"))
+    ):
+        try:
+            ctypes.CDLL(lib, mode=ctypes.RTLD_GLOBAL)
+        except OSError:
+            pass
+
+    from faster_whisper import WhisperModel
+
+    try:
+        _WHISPER_MODEL = WhisperModel("small.en", device="cuda", compute_type="int8")
+        print("   🎙️ Loaded faster-whisper (small.en, CUDA int8)")
+    except Exception as cuda_exc:
+        print(f"   ⚠️ CUDA Whisper init failed ({cuda_exc}), falling back to CPU int8...")
+        _WHISPER_MODEL = WhisperModel("small.en", device="cpu", compute_type="int8")
+    return _WHISPER_MODEL
+
+
+def fetch_snippets_via_whisper(video_id: str) -> List[dict]:
+    """Fallback: download original English audio via yt-dlp and transcribe locally with faster-whisper."""
+    import numpy as np
+
+    yt_dlp_bin = str(ROOT_DIR / ".venv" / "bin" / "yt-dlp")
+    if not Path(yt_dlp_bin).exists():
+        yt_dlp_bin = "yt-dlp"
+    url = f"https://www.youtube.com/watch?v={video_id}"
+
+    with tempfile.TemporaryDirectory(prefix=f"blot_{video_id}_") as tmpdir:
+        out_tmpl = str(Path(tmpdir) / "%(id)s.%(ext)s")
+        cmd = [
+            yt_dlp_bin,
+            "--no-warnings",
+            "-f",
+            "wa[language^=en][protocol^=http]/wa[language^=en]/wa[format_note*=original]/ba[language^=en]/ba",
+            "-o",
+            out_tmpl,
+            url,
+        ]
+        subprocess.run(cmd, capture_output=True, text=True, check=True)
+        audio_files = list(Path(tmpdir).glob(f"{video_id}.*"))
+        if not audio_files:
+            raise RuntimeError(f"yt-dlp did not download audio for {video_id}")
+        audio_path = audio_files[0]
+
+        print(f"   🎧 Decoding & transcribing {audio_path.name} with faster-whisper ...")
+        ff_cmd = [
+            "ffmpeg",
+            "-nostdin",
+            "-threads",
+            "0",
+            "-i",
+            str(audio_path),
+            "-f",
+            "f32le",
+            "-ac",
+            "1",
+            "-acodec",
+            "pcm_f32le",
+            "-ar",
+            "16000",
+            "-",
+        ]
+        ff_res = subprocess.run(ff_cmd, capture_output=True, check=True)
+        audio = np.frombuffer(ff_res.stdout, dtype=np.float32).copy()
+
+    model = _get_whisper_model()
+    segs, _ = model.transcribe(audio, language="en", beam_size=1, vad_filter=True)
+    snippets = []
+    for s in segs:
+        text = s.text.strip()
+        if not text:
+            continue
+        snippets.append(
+            {
+                "start": round(s.start, 2),
+                "duration": round(max(0.0, s.end - s.start), 2),
+                "text": text,
+            }
+        )
+    if not snippets:
+        raise RuntimeError(f"faster-whisper produced no segments for {video_id}")
+    return snippets
+
+
 def fetch_or_load_transcript(video_id: str) -> str:
     TRANSCRIPTS_DIR.mkdir(parents=True, exist_ok=True)
     txt_path = TRANSCRIPTS_DIR / f"{video_id}.txt"
@@ -203,22 +348,30 @@ def fetch_or_load_transcript(video_id: str) -> str:
         return txt_path.read_text(encoding="utf-8")
 
     print(f"   ⏬ Downloading transcript for {video_id} ...")
-    api = YouTubeTranscriptApi()
+    snippets = None
     try:
-        fetched = api.fetch(video_id, languages=["en", "en-GB", "en-US"])
-        snippets = [
-            {"start": s.start, "duration": s.duration, "text": s.text}
-            for s in fetched
-        ]
-    except Exception as exc:
-        print(f"   ⚠️ Primary transcript fetch failed ({exc}), listing available transcripts...")
-        t_list = api.list(video_id)
-        transcript_obj = next(iter(t_list))
-        fetched = transcript_obj.fetch()
-        snippets = [
-            {"start": s.start, "duration": s.duration, "text": s.text}
-            for s in fetched
-        ]
+        snippets = fetch_snippets_via_yt_dlp(video_id)
+    except Exception as ytdl_exc:
+        print(f"   ⚠️ yt-dlp subtitle fetch failed ({ytdl_exc}), trying youtube-transcript-api...")
+        api = YouTubeTranscriptApi()
+        try:
+            fetched = api.fetch(video_id, languages=["en", "en-GB", "en-US"])
+            snippets = [
+                {"start": s.start, "duration": s.duration, "text": s.text}
+                for s in fetched
+            ]
+        except Exception:
+            try:
+                t_list = api.list(video_id)
+                transcript_obj = next(iter(t_list))
+                fetched = transcript_obj.fetch()
+                snippets = [
+                    {"start": s.start, "duration": s.duration, "text": s.text}
+                    for s in fetched
+                ]
+            except Exception as ytapi_exc:
+                print(f"   ⚠️ youtube-transcript-api failed ({ytapi_exc}), falling back to local faster-whisper...")
+                snippets = fetch_snippets_via_whisper(video_id)
 
     json_path.write_text(json.dumps(snippets, indent=2), encoding="utf-8")
 
@@ -263,6 +416,36 @@ def is_manually_edited(md_path: Path) -> bool:
     return False
 
 
+def inline_schema_defs(schema: dict) -> dict:
+    """Inline Pydantic $defs/$ref and strip unsupported keywords for Gemini JSON schema."""
+    defs = schema.get("$defs", {})
+
+    def _resolve(node):
+        if isinstance(node, dict):
+            if "$ref" in node:
+                ref_name = node["$ref"].split("/")[-1]
+                return _resolve(defs.get(ref_name, {}))
+            cleaned = {}
+            for k, v in node.items():
+                if k in ("$defs", "title", "default"):
+                    continue
+                if k == "anyOf":
+                    # Flatten Optional[float] (anyOf: [{type: number}, {type: null}])
+                    non_null = [ branch for branch in v if branch.get("type") != "null" ]
+                    if non_null:
+                        resolved_branch = _resolve(non_null[0])
+                        cleaned.update(resolved_branch)
+                        cleaned["nullable"] = True
+                        continue
+                cleaned[k] = _resolve(v)
+            return cleaned
+        elif isinstance(node, list):
+            return [_resolve(x) for x in node]
+        return node
+
+    return _resolve(schema)
+
+
 def extract_reviews_with_gemini(
     client: genai.Client, model: str, meta: dict, transcript_text: str
 ) -> VideoReviewExtraction:
@@ -284,6 +467,7 @@ TIMESTAMPED TRANSCRIPT:
 
 Extract every whisky, drink, or food item that the host tastes, describes, or rates in this episode, along with a cleaned-up Markdown transcript excerpt of the tasting segment(s)."""
 
+    clean_schema = inline_schema_defs(VideoReviewExtraction.model_json_schema())
     max_retries = 4
     for attempt in range(1, max_retries + 1):
         try:
@@ -293,15 +477,27 @@ Extract every whisky, drink, or food item that the host tastes, describes, or ra
                 response_format={
                     "type": "text",
                     "mime_type": "application/json",
-                    "schema": VideoReviewExtraction.model_json_schema(),
+                    "schema": clean_schema,
                 },
             )
             return VideoReviewExtraction.model_validate_json(interaction.output_text)
         except Exception as err:
             err_str = str(err)
-            if ("429" in err_str or "RESOURCE_EXHAUSTED" in err_str or "quota" in err_str.lower()) and attempt < max_retries:
-                wait_sec = 15 * attempt
-                print(f"   ⏳ Rate limit hit (attempt {attempt}/{max_retries}), sleeping {wait_sec}s...")
+            daily_quota = "GenerateRequestsPerDay" in err_str or "per day" in err_str.lower()
+            transient = any(
+                s in err_str
+                for s in ("429", "503", "504", "RESOURCE_EXHAUSTED", "service_unavailable", "high demand", "DEADLINE_EXCEEDED")
+            ) or "quota" in err_str.lower()
+            if daily_quota and model != FALLBACK_MODEL:
+                print(f"   🔁 Daily quota hit on {model}, switching immediately to {FALLBACK_MODEL}")
+                model = FALLBACK_MODEL
+                continue
+            if transient and attempt < max_retries:
+                wait_sec = 20 * attempt
+                if attempt >= 3 and model != FALLBACK_MODEL:
+                    print(f"   🔁 Switching to fallback model {FALLBACK_MODEL}")
+                    model = FALLBACK_MODEL
+                print(f"   ⏳ Transient API error (attempt {attempt}/{max_retries}), sleeping {wait_sec}s...")
                 time.sleep(wait_sec)
             else:
                 raise
@@ -418,7 +614,7 @@ def main() -> None:
                 file=sys.stderr,
             )
             sys.exit(1)
-        client = genai.Client(api_key=api_key)
+        client = genai.Client(api_key=api_key, http_options={"timeout": 120000})
 
     processed_count = 0
     for idx, vid in enumerate(video_ids, 1):
