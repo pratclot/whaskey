@@ -14,18 +14,21 @@ import json
 import os
 import platform
 import re
+import socket
 import subprocess
 import sys
 import tempfile
 import time
 from pathlib import Path
 from typing import List, Literal, Optional
+from urllib.parse import urlparse
 
 import yaml
 from dotenv import load_dotenv
 from google import genai
 from pydantic import BaseModel, Field
 from youtube_transcript_api import YouTubeTranscriptApi
+from youtube_transcript_api.proxies import GenericProxyConfig
 
 ROOT_DIR = Path(__file__).resolve().parent.parent
 DATA_DIR = ROOT_DIR / "data"
@@ -40,6 +43,11 @@ FALLBACK_MODEL = "gemini-3.5-flash-lite"
 WHISPER_MODEL_NAME = "turbo"
 WHISPER_COMPUTE_TYPE = "int8"
 WHISPER_BEAM_SIZE = 2
+DEFAULT_FALLBACK_PROXY = "socks5://127.0.0.1:1080"
+
+
+class UnrecoverableYouTubeError(RuntimeError):
+    """Raised when all YouTube caption methods are rate-limited (HTTP 429)."""
 
 
 class RatedItem(BaseModel):
@@ -119,11 +127,14 @@ def format_seconds(seconds: float) -> str:
     return f"{mins:02d}:{secs:02d}"
 
 
-def run_yt_dlp_json(args: List[str]) -> List[dict]:
+def run_yt_dlp_json(args: List[str], proxy: Optional[str] = None) -> List[dict]:
     yt_dlp_bin = str(ROOT_DIR / ".venv" / "bin" / "yt-dlp")
     if not Path(yt_dlp_bin).exists():
         yt_dlp_bin = "yt-dlp"
-    cmd = [yt_dlp_bin, "--no-warnings"] + args
+    cmd = [yt_dlp_bin, "--no-warnings"]
+    if proxy:
+        cmd.extend(["--proxy", proxy])
+    cmd.extend(args)
     res = subprocess.run(cmd, capture_output=True, text=True, check=True)
     items = []
     for line in res.stdout.strip().splitlines():
@@ -171,13 +182,15 @@ def discover_videos(channel_url: str, limit: Optional[int], offset: int = 0) -> 
     return video_ids
 
 
-def fetch_video_metadata(video_id: str, catalog_map: Optional[dict] = None) -> dict:
+def fetch_video_metadata(
+    video_id: str, catalog_map: Optional[dict] = None, proxy: Optional[str] = None
+) -> dict:
     meta_cache = TRANSCRIPTS_DIR / f"{video_id}.meta.json"
     if meta_cache.exists():
         return json.loads(meta_cache.read_text(encoding="utf-8"))
 
     url = f"https://www.youtube.com/watch?v={video_id}"
-    entries = run_yt_dlp_json(["--dump-json", "--skip-download", url])
+    entries = run_yt_dlp_json(["--dump-json", "--skip-download", url], proxy=proxy)
     if not entries:
         raise RuntimeError(f"Could not fetch metadata for {video_id}")
     raw = entries[0]
@@ -202,32 +215,38 @@ def fetch_video_metadata(video_id: str, catalog_map: Optional[dict] = None) -> d
     return meta
 
 
-def fetch_snippets_via_yt_dlp(video_id: str) -> List[dict]:
-    """Download English auto-captions via yt-dlp json3 format."""
+def fetch_snippets_via_yt_dlp(video_id: str, proxy: Optional[str] = None) -> List[dict]:
+    """Download English auto-captions via yt-dlp json3 format (en-orig first, then en)."""
     yt_dlp_bin = str(ROOT_DIR / ".venv" / "bin" / "yt-dlp")
     if not Path(yt_dlp_bin).exists():
         yt_dlp_bin = "yt-dlp"
     out_tmpl = str(TRANSCRIPTS_DIR / "%(id)s")
     url = f"https://www.youtube.com/watch?v={video_id}"
-    cmd = [
-        yt_dlp_bin,
-        "--no-warnings",
-        "--write-auto-subs",
-        "--sub-langs",
-        "en-orig,en",
-        "--sub-format",
-        "json3",
-        "--skip-download",
-        "-o",
-        out_tmpl,
-        url,
-    ]
-    res = subprocess.run(cmd, capture_output=True, text=True)
-    json3_files = sorted(TRANSCRIPTS_DIR.glob(f"{video_id}.*.json3"))
+    json3_files: List[Path] = []
+    last_err = ""
+    for lang in ("en-orig", "en"):
+        cmd = [
+            yt_dlp_bin,
+            "--no-warnings",
+            "--write-auto-subs",
+            "--sub-langs",
+            lang,
+            "--sub-format",
+            "json3",
+            "--sleep-subtitles",
+            "2",
+            "--skip-download",
+        ]
+        if proxy:
+            cmd.extend(["--proxy", proxy])
+        cmd.extend(["-o", out_tmpl, url])
+        res = subprocess.run(cmd, capture_output=True, text=True)
+        json3_files = sorted(TRANSCRIPTS_DIR.glob(f"{video_id}.*.json3"))
+        if json3_files:
+            break
+        last_err = (res.stderr or res.stdout).strip()[:300]
     if not json3_files:
-        raise RuntimeError(
-            f"yt-dlp did not produce .json3 for {video_id}: {(res.stderr or res.stdout).strip()[:300]}"
-        )
+        raise RuntimeError(f"yt-dlp did not produce .json3 for {video_id}: {last_err}")
     json3_path = json3_files[0]
     raw_sub = json.loads(json3_path.read_text(encoding="utf-8"))
     for f in json3_files:
@@ -358,7 +377,9 @@ def _get_whisper_model():
     return _WHISPER_MODEL
 
 
-def fetch_snippets_via_whisper(video_id: str, stats: Optional[dict] = None) -> List[dict]:
+def fetch_snippets_via_whisper(
+    video_id: str, stats: Optional[dict] = None, proxy: Optional[str] = None
+) -> List[dict]:
     """Fallback: download original English audio via yt-dlp and transcribe locally with faster-whisper."""
     import numpy as np
 
@@ -374,10 +395,10 @@ def fetch_snippets_via_whisper(video_id: str, stats: Optional[dict] = None) -> L
             "--no-warnings",
             "-f",
             "wa[language^=en][protocol^=http]/wa[language^=en]/wa[format_note*=original]/ba[language^=en]/ba",
-            "-o",
-            out_tmpl,
-            url,
         ]
+        if proxy:
+            cmd.extend(["--proxy", proxy])
+        cmd.extend(["-o", out_tmpl, url])
         t_dl = time.monotonic()
         subprocess.run(cmd, capture_output=True, text=True, check=True)
         dl_s = round(time.monotonic() - t_dl, 2)
@@ -481,10 +502,77 @@ def get_cached_transcript_source(video_id: str) -> str:
     return "captions"
 
 
+def _is_rate_limit_error(exc: Exception) -> bool:
+    msg = str(exc).lower()
+    return any(
+        tok in msg
+        for tok in (
+            "429",
+            "too many requests",
+            "ipblocked",
+            "requestblocked",
+            "blocking requests from your ip",
+        )
+    )
+
+
+def _is_proxy_reachable(proxy_url: Optional[str]) -> bool:
+    if not proxy_url:
+        return False
+    parsed = urlparse(proxy_url)
+    if not parsed.hostname or not parsed.port:
+        return False
+    try:
+        with socket.create_connection((parsed.hostname, parsed.port), timeout=1.0):
+            return True
+    except OSError:
+        return False
+
+
+def _try_fetch_captions(
+    video_id: str, proxy: Optional[str] = None
+) -> tuple[Optional[List[dict]], str, list[Exception]]:
+    """Try yt-dlp then youtube-transcript-api with the given proxy."""
+    errors: list[Exception] = []
+    try:
+        snippets = fetch_snippets_via_yt_dlp(video_id, proxy=proxy)
+        return snippets, "yt-dlp", errors
+    except Exception as ytdl_exc:
+        errors.append(ytdl_exc)
+        print(
+            f"   ⚠️ yt-dlp subtitle fetch failed ({ytdl_exc}), trying youtube-transcript-api..."
+        )
+        proxy_cfg = GenericProxyConfig(http_url=proxy, https_url=proxy) if proxy else None
+        api = YouTubeTranscriptApi(proxy_config=proxy_cfg)
+        try:
+            fetched = api.fetch(video_id, languages=["en", "en-GB", "en-US"])
+            snippets = [
+                {"start": s.start, "duration": s.duration, "text": s.text}
+                for s in fetched
+            ]
+            return snippets, "youtube-transcript-api", errors
+        except Exception:
+            try:
+                t_list = api.list(video_id)
+                transcript_obj = next(iter(t_list))
+                fetched = transcript_obj.fetch()
+                snippets = [
+                    {"start": s.start, "duration": s.duration, "text": s.text}
+                    for s in fetched
+                ]
+                return snippets, "youtube-transcript-api", errors
+            except Exception as ytapi_exc:
+                errors.append(ytapi_exc)
+                return None, "unknown", errors
+
+
 def fetch_or_load_transcript(
     video_id: str,
     force_captions_only: bool = False,
+    no_whisper: bool = False,
     stats: Optional[dict] = None,
+    proxy: Optional[str] = None,
+    fallback_proxy: Optional[str] = None,
 ) -> tuple[str, str]:
     TRANSCRIPTS_DIR.mkdir(parents=True, exist_ok=True)
     txt_path = TRANSCRIPTS_DIR / f"{video_id}.txt"
@@ -496,39 +584,38 @@ def fetch_or_load_transcript(
         return txt_path.read_text(encoding="utf-8"), source
 
     print(f"   ⏬ Downloading transcript for {video_id} ...")
-    snippets = None
-    transcript_source = "unknown"
-    try:
-        snippets = fetch_snippets_via_yt_dlp(video_id)
-        transcript_source = "yt-dlp"
-    except Exception as ytdl_exc:
-        print(f"   ⚠️ yt-dlp subtitle fetch failed ({ytdl_exc}), trying youtube-transcript-api...")
-        api = YouTubeTranscriptApi()
-        try:
-            fetched = api.fetch(video_id, languages=["en", "en-GB", "en-US"])
-            snippets = [
-                {"start": s.start, "duration": s.duration, "text": s.text}
-                for s in fetched
-            ]
-            transcript_source = "youtube-transcript-api"
-        except Exception:
-            try:
-                t_list = api.list(video_id)
-                transcript_obj = next(iter(t_list))
-                fetched = transcript_obj.fetch()
-                snippets = [
-                    {"start": s.start, "duration": s.duration, "text": s.text}
-                    for s in fetched
-                ]
-                transcript_source = "youtube-transcript-api"
-            except Exception as ytapi_exc:
-                if force_captions_only:
-                    raise RuntimeError(
-                        f"YouTube captions still unavailable for {video_id}: {ytapi_exc}"
-                    ) from ytapi_exc
-                print(f"   ⚠️ youtube-transcript-api failed ({ytapi_exc}), falling back to local faster-whisper...")
-                snippets = fetch_snippets_via_whisper(video_id, stats=stats)
-                transcript_source = "faster-whisper"
+    active_proxy = proxy
+    snippets, transcript_source, errors = _try_fetch_captions(video_id, proxy=active_proxy)
+
+    if (
+        snippets is None
+        and active_proxy is None
+        and fallback_proxy
+        and _is_proxy_reachable(fallback_proxy)
+    ):
+        print(f"   🔄 Direct captions failed, trying fallback proxy {fallback_proxy} ...")
+        active_proxy = fallback_proxy
+        snippets, transcript_source, proxy_errors = _try_fetch_captions(
+            video_id, proxy=active_proxy
+        )
+        errors.extend(proxy_errors)
+        if snippets is not None and stats is not None:
+            stats["proxy_used"] = active_proxy
+
+    if snippets is None:
+        if errors and any(_is_rate_limit_error(e) for e in errors[-2:]):
+            raise UnrecoverableYouTubeError(
+                f"All YouTube caption methods rate-limited (429) for {video_id}: {errors[-1]}"
+            )
+        if force_captions_only or no_whisper:
+            raise RuntimeError(
+                f"YouTube captions unavailable for {video_id}: {errors[-1] if errors else 'unknown error'}"
+            )
+        print(
+            f"   ⚠️ youtube-transcript-api failed ({errors[-1] if errors else 'unknown'}), falling back to local faster-whisper..."
+        )
+        snippets = fetch_snippets_via_whisper(video_id, stats=stats, proxy=active_proxy)
+        transcript_source = "faster-whisper"
 
     json_path.write_text(json.dumps(snippets, indent=2), encoding="utf-8")
 
@@ -761,6 +848,21 @@ def main() -> None:
         action="store_true",
         help="Re-run only videos whose transcript_source is faster-whisper, upgrading to YouTube captions when available",
     )
+    parser.add_argument(
+        "--proxy",
+        default=None,
+        help="Optional proxy URL for YouTube requests only (e.g. socks5://127.0.0.1:1080 via ssh -D)",
+    )
+    parser.add_argument(
+        "--fallback-proxy",
+        default=DEFAULT_FALLBACK_PROXY,
+        help=f"Auto-fallback proxy URL if direct YouTube captions fail and proxy is reachable (default: {DEFAULT_FALLBACK_PROXY}; pass '' to disable)",
+    )
+    parser.add_argument(
+        "--no-whisper",
+        action="store_true",
+        help="Skip local faster-whisper GPU fallback if YouTube captions are unavailable",
+    )
     args = parser.parse_args()
 
     run_start_iso = datetime.datetime.now(datetime.timezone.utc).isoformat()
@@ -777,6 +879,9 @@ def main() -> None:
             "force": args.force,
             "transcripts_only": args.transcripts_only,
             "upgrade_whisper": args.upgrade_whisper,
+            "proxy": args.proxy,
+            "fallback_proxy": args.fallback_proxy or None,
+            "no_whisper": args.no_whisper,
         },
         "whisper_config": {
             "model": WHISPER_MODEL_NAME,
@@ -821,6 +926,8 @@ def main() -> None:
             f.flush()
 
     processed_count = 0
+    active_proxy = args.proxy
+    fallback_proxy = args.fallback_proxy or None
     flush_run_record()
     try:
         for idx, vid in enumerate(video_ids, 1):
@@ -862,7 +969,7 @@ def main() -> None:
             v_t0 = time.monotonic()
             try:
                 t_meta = time.monotonic()
-                meta = fetch_video_metadata(vid, catalog_map=catalog_map)
+                meta = fetch_video_metadata(vid, catalog_map=catalog_map, proxy=active_proxy)
                 v_log["meta_s"] = round(time.monotonic() - t_meta, 2)
                 print(f"   🎬 Title: {meta['title']} ({meta['publish_date']})")
 
@@ -870,8 +977,13 @@ def main() -> None:
                 transcript_text, transcript_source = fetch_or_load_transcript(
                     vid,
                     force_captions_only=args.upgrade_whisper,
+                    no_whisper=args.no_whisper,
                     stats=v_log,
+                    proxy=active_proxy,
+                    fallback_proxy=fallback_proxy,
                 )
+                if v_log.get("proxy_used"):
+                    active_proxy = v_log["proxy_used"]
                 v_log["transcript_source"] = transcript_source
                 v_log["transcript_total_s"] = round(time.monotonic() - t_tr, 2)
 
@@ -907,6 +1019,15 @@ def main() -> None:
                 run_record["videos"].append(v_log)
                 processed_count += 1
                 flush_run_record()
+            except UnrecoverableYouTubeError as err:
+                print(f"   🛑 Unrecoverable YouTube rate limit: {err}", file=sys.stderr)
+                v_log["status"] = "error_rate_limit"
+                v_log["error"] = str(err)
+                v_log["total_s"] = round(time.monotonic() - v_t0, 2)
+                run_record["videos"].append(v_log)
+                run_record["aborted_reason"] = "youtube_rate_limit_429"
+                flush_run_record()
+                sys.exit(2)
             except Exception as err:
                 print(f"   ❌ Error processing {vid}: {err}", file=sys.stderr)
                 v_log["status"] = "error"
