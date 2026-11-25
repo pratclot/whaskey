@@ -162,13 +162,41 @@ def load_catalog_entries() -> dict:
     return catalog
 
 
-def discover_videos(channel_url: str, limit: Optional[int], offset: int = 0) -> List[str]:
+def refresh_catalog(channel_url: str, check_top: int = 30, proxy: Optional[str] = None) -> int:
+    """Fetch newest videos from channel and prepend any unseen IDs to data/channel_videos.jsonl."""
+    existing = load_catalog_entries()
+    print(f"🔎 Checking top {check_top} videos on {channel_url} for new uploads ...")
+    entries = run_yt_dlp_json(
+        ["--flat-playlist", "--dump-json", "--playlist-end", str(check_top), channel_url],
+        proxy=proxy,
+    )
+    new_entries = [e for e in entries if e.get("id") and e["id"] not in existing]
+    if not new_entries:
+        print("   ✅ Catalog up to date (0 new videos)")
+        return 0
+    DATA_DIR.mkdir(parents=True, exist_ok=True)
+    old_lines = CATALOG_PATH.read_text(encoding="utf-8").splitlines() if CATALOG_PATH.exists() else []
+    merged_lines = [json.dumps(e) for e in new_entries] + [l for l in old_lines if l.strip()]
+    CATALOG_PATH.write_text("\n".join(merged_lines) + "\n", encoding="utf-8")
+    print(f"   🆕 Added {len(new_entries)} new video(s) to {CATALOG_PATH.relative_to(ROOT_DIR)}")
+    return len(new_entries)
+
+
+def discover_videos(
+    channel_url: str,
+    limit: Optional[int],
+    offset: int = 0,
+    pending_only: bool = False,
+) -> List[str]:
     if CATALOG_PATH.exists():
         entries = list(load_catalog_entries().keys())
+        if pending_only:
+            entries = [vid for vid in entries if not (REVIEWS_DIR / f"{vid}.md").exists()]
         sliced = entries[offset : (offset + limit) if limit else None]
+        label = "pending " if pending_only else ""
         print(
-            f"📚 Loaded {len(sliced)} video(s) from cached catalog {CATALOG_PATH.relative_to(ROOT_DIR)} "
-            f"(offset={offset}, total_in_catalog={len(entries)})"
+            f"📚 Loaded {len(sliced)} {label}video(s) from cached catalog {CATALOG_PATH.relative_to(ROOT_DIR)} "
+            f"(offset={offset}, total_matching={len(entries)})"
         )
         return sliced
 
@@ -863,6 +891,16 @@ def main() -> None:
         action="store_true",
         help="Skip local faster-whisper GPU fallback if YouTube captions are unavailable",
     )
+    parser.add_argument(
+        "--refresh-catalog",
+        action="store_true",
+        help="Check top 30 channel videos for new uploads and prepend to data/channel_videos.jsonl",
+    )
+    parser.add_argument(
+        "--pending",
+        action="store_true",
+        help="Filter catalog to videos without an existing src/content/reviews/<id>.md before applying --offset/--limit",
+    )
     args = parser.parse_args()
 
     run_start_iso = datetime.datetime.now(datetime.timezone.utc).isoformat()
@@ -882,6 +920,8 @@ def main() -> None:
             "proxy": args.proxy,
             "fallback_proxy": args.fallback_proxy or None,
             "no_whisper": args.no_whisper,
+            "refresh_catalog": args.refresh_catalog,
+            "pending": args.pending,
         },
         "whisper_config": {
             "model": WHISPER_MODEL_NAME,
@@ -892,13 +932,29 @@ def main() -> None:
         "videos": [],
     }
 
+    if args.refresh_catalog:
+        try:
+            refresh_catalog(args.channel, proxy=args.proxy)
+        except Exception as exc:
+            fb = args.fallback_proxy or None
+            if args.proxy is None and fb and _is_proxy_reachable(fb):
+                print(f"   🔄 Catalog refresh failed ({exc}), retrying via {fb} ...")
+                try:
+                    refresh_catalog(args.channel, proxy=fb)
+                except Exception as fb_exc:
+                    print(f"   ⚠️ Catalog refresh failed via proxy ({fb_exc}), continuing with cached catalog")
+            else:
+                print(f"   ⚠️ Catalog refresh failed ({exc}), continuing with cached catalog")
+
     catalog_map = load_catalog_entries()
 
     if args.video:
         video_ids = [extract_video_id(v) for v in args.video]
     else:
         limit = None if args.all else args.limit
-        video_ids = discover_videos(args.channel, limit, offset=args.offset)
+        video_ids = discover_videos(
+            args.channel, limit, offset=args.offset, pending_only=args.pending
+        )
 
     client = None
     if not args.transcripts_only:
