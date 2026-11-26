@@ -303,7 +303,6 @@ _WHISPER_MODEL = None
 def collect_system_metrics() -> dict:
     """Capture host CPU, memory, power, and GPU telemetry for run efficiency logs."""
     metrics: dict = {
-        "hostname": platform.node(),
         "os": platform.platform(),
         "python": platform.python_version(),
         "cpu_cores_logical": os.cpu_count(),

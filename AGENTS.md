@@ -12,7 +12,8 @@ Automated tracker and Astro static site for the **Blot Outdoors Show** (`@BlotOu
 - `src/content/reviews/*.md` — Astro Content Collection markdown files (`manually_edited: true` protects manual GitHub edits from being overwritten).
 - `src/content.config.ts` — Content collection schema.
 - `src/pages/index.astro` — Frontend UI (tabs: `Whisky` default, `All`, `Beer & Ale`, `Spirits & Liqueur`, `Food & Scran`, `Other`; search, sort, flavour tag cloud, transcript modal, "Edit on GitHub" links).
-- `.env` — Contains `GEMINI_API_KEY` (gitignored; never print or expose).
+- `.env` — Contains `GEMINI_API_KEY` and optional `SSH_PROXY_TARGET` (gitignored; never print or expose).
+- `AGENTS.local.md` — Optional gitignored local machine/proxy notes; if present, read it for local-only host details.
 
 ## Commands & Environment Quirks
 - **Python (requires `BypassSandbox: true` for YouTube + Gemini API)**:
@@ -26,9 +27,9 @@ Automated tracker and Astro static site for the **Blot Outdoors Show** (`@BlotOu
 - **GitHub CLI (`gh`)**: Prefix with `DBUS_SESSION_BUS_ADDRESS=unix:path=/dev/null` to avoid D-Bus keyring hangs.
 - **Gemini models & rate limits**: Use `gemini-4-hydrogen` (default) and `gemini-3.5-flash-lite` (fallback) via `client.interactions.create` (`google-genai>=3.5.0`, 120s client timeout). Never use deprecated `gemini-2.5-*`. On free tier, `gemini-4-hydrogen` is capped at 20 req/day (and can return `503` high demand); `tracker.py` switches immediately to `gemini-3.5-flash-lite` on daily quota errors, or pass `--model gemini-3.5-flash-lite` directly.
 - **YouTube captions & local `faster-whisper` fallback**: YouTube `/api/timedtext` and `youtube-transcript-api` are rate-limited/IP-blocked (`HTTP 429`). `tracker.py` fetches `en-orig` first (falling back to `en` only if missing) with `--sleep-subtitles 2` to halve subtitle requests and prefer original audio captions. When both fail, `tracker.py` downloads English original audio (`wa[language^=en]...` to avoid YouTube auto-dubs), decodes to 16kHz mono `pcm_f32le` via `ffmpeg` (bypassing `av>=19` `metadata_errors` error), preloads `.venv` `nvidia-cublas-cu12`/`nvidia-cudnn-cu12` libs, and transcribes with `faster-whisper` (`turbo` model, `beam_size=2` + `initial_prompt`).
-- **YouTube 429 SOCKS5 proxy workaround**: `remote-host` (`aarch64`) is bot-walled by YouTube (`Sign in to confirm`), but `user@proxy-host` (`x86_64`) serves captions. Open a local SOCKS5 tunnel and pass `--proxy` to `tracker.py` (routes YouTube traffic only; Gemini stays direct):
+- **YouTube 429 SOCKS5 proxy workaround**: If a local proxy host is configured (see `SSH_PROXY_TARGET` in `.env` / `AGENTS.local.md`), open a local SOCKS5 tunnel and pass `--proxy` to `tracker.py` (routes YouTube traffic only; Gemini stays direct):
   ```bash
-  ssh -fN -D 1080 user@proxy-host
+  ssh -fN -D 1080 "$SSH_PROXY_TARGET"
   .venv/bin/python -u scripts/tracker.py --offset 26 --limit 10 --proxy socks5://127.0.0.1:1080
   ```
   (Note: `yt-dlp` supports `socks5://` natively; `youtube-transcript-api` needs `pysocks` installed in `.venv` for `socks5://`.)

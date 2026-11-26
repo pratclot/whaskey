@@ -4,6 +4,13 @@ set -uo pipefail
 ROOT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
 cd "$ROOT_DIR"
 
+if [[ -f .env ]]; then
+    set -a
+    # shellcheck disable=SC1091
+    source .env
+    set +a
+fi
+
 SSH_PID=""
 cleanup() {
     if [[ -n "$SSH_PID" ]] && kill -0 "$SSH_PID" 2>/dev/null; then
@@ -16,9 +23,9 @@ is_proxy_up() {
     .venv/bin/python -c "import socket; s=socket.create_connection(('127.0.0.1', 1080), 1); s.close()" 2>/dev/null
 }
 
-if ! is_proxy_up; then
-    echo "🔌 Starting SOCKS5 tunnel to user@proxy-host on 127.0.0.1:1080 ..."
-    ssh -N -o ExitOnForwardFailure=yes -o ConnectTimeout=10 -o BatchMode=yes -D 1080 user@proxy-host &
+if ! is_proxy_up && [[ -n "${SSH_PROXY_TARGET:-}" ]]; then
+    echo "🔌 Starting SOCKS5 tunnel to $SSH_PROXY_TARGET on 127.0.0.1:1080 ..."
+    ssh -N -o ExitOnForwardFailure=yes -o ConnectTimeout=10 -o BatchMode=yes -D 1080 "$SSH_PROXY_TARGET" &
     SSH_PID=$!
     for _ in {1..10}; do
         if is_proxy_up; then
