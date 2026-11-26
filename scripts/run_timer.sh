@@ -44,7 +44,7 @@ fi
 .venv/bin/python -u scripts/tracker.py \
     --refresh-catalog \
     --pending \
-    --limit 25 \
+    --limit 15 \
     --delay 5 \
     --model gemini-3.5-flash-lite \
     --no-whisper

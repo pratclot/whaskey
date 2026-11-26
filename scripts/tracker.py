@@ -7,6 +7,7 @@ tasting notes, ratings, categories, tags, and an editable Markdown transcript ex
 """
 
 import argparse
+import concurrent.futures
 import ctypes
 import datetime
 import glob
@@ -40,6 +41,7 @@ REVIEWS_DIR = ROOT_DIR / "src" / "content" / "reviews"
 DEFAULT_CHANNEL_URL = "https://www.youtube.com/@BlotOutdoorsShow/videos"
 DEFAULT_MODEL = "gemini-4-hydrogen"
 FALLBACK_MODEL = "gemini-3.5-flash-lite"
+GEMINI_CALL_TIMEOUT_SEC = 120
 WHISPER_MODEL_NAME = "turbo"
 WHISPER_COMPUTE_TYPE = "int8"
 WHISPER_BEAM_SIZE = 2
@@ -742,8 +744,10 @@ Extract every whisky, drink, or food item that the host tastes, describes, or ra
     clean_schema = inline_schema_defs(VideoReviewExtraction.model_json_schema())
     max_retries = 4
     for attempt in range(1, max_retries + 1):
+        executor = concurrent.futures.ThreadPoolExecutor(max_workers=1)
         try:
-            interaction = client.interactions.create(
+            future = executor.submit(
+                client.interactions.create,
                 model=model,
                 input=prompt,
                 response_format={
@@ -752,11 +756,13 @@ Extract every whisky, drink, or food item that the host tastes, describes, or ra
                     "schema": clean_schema,
                 },
             )
+            interaction = future.result(timeout=GEMINI_CALL_TIMEOUT_SEC)
             return VideoReviewExtraction.model_validate_json(interaction.output_text)
         except Exception as err:
             err_str = str(err)
+            is_timeout = isinstance(err, (TimeoutError, concurrent.futures.TimeoutError))
             daily_quota = "GenerateRequestsPerDay" in err_str or "per day" in err_str.lower()
-            transient = any(
+            transient = is_timeout or any(
                 s in err_str
                 for s in ("429", "503", "504", "RESOURCE_EXHAUSTED", "service_unavailable", "high demand", "DEADLINE_EXCEEDED")
             ) or "quota" in err_str.lower()
@@ -769,10 +775,13 @@ Extract every whisky, drink, or food item that the host tastes, describes, or ra
                 if attempt >= 3 and model != FALLBACK_MODEL:
                     print(f"   🔁 Switching to fallback model {FALLBACK_MODEL}")
                     model = FALLBACK_MODEL
-                print(f"   ⏳ Transient API error (attempt {attempt}/{max_retries}), sleeping {wait_sec}s...")
+                label = f"Timed out after {GEMINI_CALL_TIMEOUT_SEC}s" if is_timeout else "Transient API error"
+                print(f"   ⏳ {label} (attempt {attempt}/{max_retries}), sleeping {wait_sec}s...")
                 time.sleep(wait_sec)
             else:
                 raise
+        finally:
+            executor.shutdown(wait=False, cancel_futures=True)
     raise RuntimeError("Failed after retries")
 
 
