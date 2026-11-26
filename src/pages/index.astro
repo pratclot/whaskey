@@ -1,4 +1,6 @@
 ---
+import fs from 'node:fs';
+import path from 'node:path';
 import { getCollection, render } from 'astro:content';
 
 const entries = await getCollection('reviews');
@@ -96,6 +98,85 @@ allItems.sort((a, b) => {
   if (scoreB !== scoreA) return scoreB - scoreA;
   return b.publish_date.localeCompare(a.publish_date);
 });
+
+// Build full episode list (processed + pending) from channel_videos.jsonl
+interface EpisodeCard {
+  video_id: string;
+  title: string;
+  duration_string: string;
+  thumbnail: string;
+  processed: boolean;
+  has_reviews: boolean;
+  item_count: number;
+  publish_date: string;
+  episode_summary: string;
+  search_blob: string;
+}
+
+const episodeById = new Map(episodesWithContent.map((ep) => [ep.video_id, ep]));
+const allEpisodes: EpisodeCard[] = [];
+const seenVideoIds = new Set<string>();
+
+const catalogPath = path.resolve(process.cwd(), 'data/channel_videos.jsonl');
+if (fs.existsSync(catalogPath)) {
+  const rawLines = fs.readFileSync(catalogPath, 'utf-8').split('\n');
+  for (const line of rawLines) {
+    const trimmed = line.trim();
+    if (!trimmed) continue;
+    try {
+      const row = JSON.parse(trimmed);
+      const vid = row.id;
+      if (!vid || seenVideoIds.has(vid)) continue;
+      seenVideoIds.add(vid);
+      const processedEp = episodeById.get(vid);
+      const thumbs = Array.isArray(row.thumbnails) ? row.thumbnails : [];
+      const fallbackThumb = `https://i.ytimg.com/vi/${vid}/hqdefault.jpg`;
+      const catalogThumb = thumbs.length > 0 && thumbs[0]?.url ? thumbs[0].url : fallbackThumb;
+      const title = processedEp?.video_title || row.title || vid;
+      const summary = processedEp?.episode_summary || '';
+      allEpisodes.push({
+        video_id: vid,
+        title,
+        duration_string: row.duration_string || '',
+        thumbnail: processedEp?.thumbnail || catalogThumb,
+        processed: Boolean(processedEp),
+        has_reviews: processedEp ? processedEp.has_reviews : false,
+        item_count: processedEp ? processedEp.items.length : 0,
+        publish_date: processedEp?.publish_date || '',
+        episode_summary: summary,
+        search_blob: `${title} ${summary} ${vid}`.toLowerCase(),
+      });
+    } catch {
+      // Skip malformed JSONL line
+    }
+  }
+}
+
+// Include any processed reviews that are not in channel_videos.jsonl
+for (const ep of episodesWithContent) {
+  if (seenVideoIds.has(ep.video_id)) continue;
+  seenVideoIds.add(ep.video_id);
+  allEpisodes.push({
+    video_id: ep.video_id,
+    title: ep.video_title,
+    duration_string: '',
+    thumbnail: ep.thumbnail || `https://i.ytimg.com/vi/${ep.video_id}/hqdefault.jpg`,
+    processed: true,
+    has_reviews: ep.has_reviews,
+    item_count: ep.items.length,
+    publish_date: ep.publish_date,
+    episode_summary: ep.episode_summary || '',
+    search_blob: `${ep.video_title} ${ep.episode_summary || ''} ${ep.video_id}`.toLowerCase(),
+  });
+}
+
+const totalEpisodes = allEpisodes.length;
+const processedEpisodes = allEpisodes.filter((e) => e.processed).length;
+const pendingEpisodes = totalEpisodes - processedEpisodes;
+const progressPct = totalEpisodes > 0 ? Math.round((processedEpisodes / totalEpisodes) * 1000) / 10 : 0;
+const ringRadius = 16;
+const ringCircumference = 2 * Math.PI * ringRadius;
+const ringDashOffset = ringCircumference * (1 - progressPct / 100);
 
 const defaultGithubRepo = import.meta.env.PUBLIC_GITHUB_REPO || import.meta.env.GITHUB_REPO || 'pratclot/whaskey';
 const defaultGithubBranch = import.meta.env.PUBLIC_GITHUB_BRANCH || 'main';
@@ -210,8 +291,64 @@ const defaultGithubBranch = import.meta.env.PUBLIC_GITHUB_BRANCH || 'main';
 
       .header-actions {
         display: flex;
+        flex-wrap: wrap;
         align-items: center;
         gap: 0.75rem;
+      }
+
+      .archive-progress {
+        background: var(--bg-card);
+        border: 1px solid var(--border);
+        border-radius: 10px;
+        padding: 0.4rem 0.75rem;
+        display: inline-flex;
+        align-items: center;
+        gap: 0.6rem;
+        cursor: pointer;
+        color: var(--text-main);
+        transition: border-color 0.15s ease;
+        text-align: left;
+      }
+
+      .archive-progress:hover {
+        border-color: var(--amber);
+      }
+
+      .progress-ring {
+        width: 38px;
+        height: 38px;
+        flex-shrink: 0;
+        transform: rotate(-90deg);
+      }
+
+      .progress-ring-bg {
+        fill: none;
+        stroke: var(--border);
+        stroke-width: 4;
+      }
+
+      .progress-ring-fg {
+        fill: none;
+        stroke: var(--amber);
+        stroke-width: 4;
+        stroke-linecap: round;
+      }
+
+      .progress-meta {
+        display: flex;
+        flex-direction: column;
+        line-height: 1.25;
+      }
+
+      .progress-count {
+        font-size: 0.84rem;
+        font-weight: 700;
+        color: var(--text-main);
+      }
+
+      .progress-sub {
+        font-size: 0.74rem;
+        color: var(--text-muted);
       }
 
       .repo-btn {
@@ -744,6 +881,173 @@ const defaultGithubBranch = import.meta.env.PUBLIC_GITHUB_BRANCH || 'main';
         color: var(--text-muted);
         display: none;
       }
+
+      /* Episodes Catalog View */
+      .episodes-toolbar {
+        display: none;
+        flex-wrap: wrap;
+        align-items: center;
+        gap: 0.5rem;
+        margin-bottom: 1.1rem;
+      }
+
+      .episodes-toolbar.active {
+        display: flex;
+      }
+
+      .ep-status-pill {
+        background: var(--bg-card);
+        color: var(--text-muted);
+        border: 1px solid var(--border);
+        padding: 0.36rem 0.75rem;
+        border-radius: 999px;
+        font-size: 0.82rem;
+        font-weight: 600;
+        cursor: pointer;
+        transition: all 0.14s ease;
+      }
+
+      .ep-status-pill:hover {
+        border-color: var(--amber);
+        color: var(--text-main);
+      }
+
+      .ep-status-pill.active {
+        background: var(--amber-dim);
+        color: var(--amber-bright);
+        border-color: var(--amber);
+      }
+
+      .episodes-grid {
+        display: none;
+        grid-template-columns: repeat(auto-fill, minmax(330px, 1fr));
+        gap: 1.15rem;
+      }
+
+      .episodes-grid.active {
+        display: grid;
+      }
+
+      @media (max-width: 420px) {
+        .episodes-grid {
+          grid-template-columns: 1fr;
+        }
+      }
+
+      .episode-card {
+        background: var(--bg-card);
+        border: 1px solid var(--border);
+        border-radius: 14px;
+        overflow: hidden;
+        display: flex;
+        flex-direction: column;
+        transition: transform 0.15s ease, border-color 0.15s ease;
+      }
+
+      .episode-card:hover {
+        border-color: #3f4d44;
+        transform: translateY(-2px);
+      }
+
+      .episode-card.is-pending {
+        border-style: dashed;
+        opacity: 0.82;
+      }
+
+      .episode-card.is-pending:hover {
+        opacity: 1;
+      }
+
+      .ep-card-thumb-wrap {
+        position: relative;
+        aspect-ratio: 16 / 9;
+        background: #0b0d0c;
+        overflow: hidden;
+      }
+
+      .ep-card-thumb {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+        display: block;
+      }
+
+      .episode-card.is-pending .ep-card-thumb {
+        filter: grayscale(40%);
+      }
+
+      .ep-duration-badge {
+        position: absolute;
+        right: 0.55rem;
+        bottom: 0.55rem;
+        background: rgba(15, 18, 16, 0.86);
+        color: var(--text-main);
+        font-size: 0.72rem;
+        font-weight: 600;
+        padding: 0.15rem 0.45rem;
+        border-radius: 5px;
+      }
+
+      .ep-card-body {
+        padding: 1rem 1.1rem 1.1rem;
+        display: flex;
+        flex-direction: column;
+        gap: 0.65rem;
+        flex: 1;
+      }
+
+      .ep-card-meta {
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+        gap: 0.4rem;
+      }
+
+      .status-badge {
+        font-size: 0.72rem;
+        font-weight: 700;
+        text-transform: uppercase;
+        letter-spacing: 0.04em;
+        padding: 0.16rem 0.52rem;
+        border-radius: 6px;
+      }
+
+      .status-badge.processed {
+        background: rgba(56, 176, 0, 0.16);
+        color: #7ae582;
+        border: 1px solid rgba(56, 176, 0, 0.35);
+      }
+
+      .status-badge.pending {
+        background: var(--bg-elevated);
+        color: var(--text-muted);
+        border: 1px solid var(--border);
+      }
+
+      .ep-card-title {
+        font-size: 1.02rem;
+        font-weight: 700;
+        color: var(--text-main);
+        line-height: 1.32;
+      }
+
+      .ep-card-summary {
+        font-size: 0.84rem;
+        color: var(--text-muted);
+        line-height: 1.48;
+        display: -webkit-box;
+        -webkit-line-clamp: 3;
+        -webkit-box-orient: vertical;
+        overflow: hidden;
+      }
+
+      .ep-card-actions {
+        margin-top: auto;
+        padding-top: 0.4rem;
+        display: flex;
+        flex-wrap: wrap;
+        gap: 0.45rem;
+      }
     </style>
   </head>
   <body>
@@ -757,6 +1061,27 @@ const defaultGithubBranch = import.meta.env.PUBLIC_GITHUB_BRANCH || 'main';
           </p>
         </div>
         <div class="header-actions">
+          <button
+            id="progress-jump-btn"
+            class="archive-progress"
+            title="View all episodes and processing status"
+          >
+            <svg class="progress-ring" viewBox="0 0 40 40" aria-hidden="true">
+              <circle class="progress-ring-bg" cx="20" cy="20" r={ringRadius} />
+              <circle
+                class="progress-ring-fg"
+                cx="20"
+                cy="20"
+                r={ringRadius}
+                stroke-dasharray={ringCircumference}
+                stroke-dashoffset={ringDashOffset}
+              />
+            </svg>
+            <div class="progress-meta">
+              <span class="progress-count">{processedEpisodes} / {totalEpisodes} episodes</span>
+              <span class="progress-sub">{progressPct}% indexed • {pendingEpisodes} pending</span>
+            </div>
+          </button>
           <button id="config-repo-btn" class="repo-btn" title="Configure your GitHub repository for one-click 'Edit on GitHub' links">
             ⚙️ <span id="repo-label">GitHub Repo Settings</span>
           </button>
@@ -786,6 +1111,9 @@ const defaultGithubBranch = import.meta.env.PUBLIC_GITHUB_BRANCH || 'main';
               🎒 Other <span class="cat-count">{categoryCounts['Other']}</span>
             </button>
           )}
+          <button class="cat-tab" data-category="Episodes">
+            📺 Episodes <span class="cat-count">{totalEpisodes}</span>
+          </button>
         </div>
 
         <div class="search-sort-row">
@@ -918,6 +1246,83 @@ const defaultGithubBranch = import.meta.env.PUBLIC_GITHUB_BRANCH || 'main';
         ))}
       </main>
 
+      <div id="episodes-toolbar" class="episodes-toolbar">
+        <button class="ep-status-pill active" data-ep-status="all">All ({totalEpisodes})</button>
+        <button class="ep-status-pill" data-ep-status="processed">✅ Processed ({processedEpisodes})</button>
+        <button class="ep-status-pill" data-ep-status="pending">⏳ Pending ({pendingEpisodes})</button>
+      </div>
+
+      <section class="episodes-grid" id="episodes-grid" aria-label="All Channel Episodes">
+        {allEpisodes.map((ep) => (
+          <article
+            class={`episode-card ${ep.processed ? 'is-processed' : 'is-pending'}`}
+            data-ep-status={ep.processed ? 'processed' : 'pending'}
+            data-search={ep.search_blob}
+          >
+            <div class="ep-card-thumb-wrap">
+              <img class="ep-card-thumb" src={ep.thumbnail} alt={ep.title} loading="lazy" />
+              {ep.duration_string && <span class="ep-duration-badge">{ep.duration_string}</span>}
+            </div>
+            <div class="ep-card-body">
+              <div class="ep-card-meta">
+                {ep.processed ? (
+                  <span class="status-badge processed">✅ Processed</span>
+                ) : (
+                  <span class="status-badge pending">⏳ Pending</span>
+                )}
+                {ep.processed && (
+                  <span class="region-pill">
+                    {ep.item_count > 0 ? `${ep.item_count} ${ep.item_count === 1 ? 'item' : 'items'} rated` : 'No tastings'}
+                  </span>
+                )}
+                {ep.publish_date && <span class="region-pill">{ep.publish_date}</span>}
+              </div>
+
+              <h2 class="ep-card-title">{ep.title}</h2>
+
+              {ep.processed ? (
+                ep.episode_summary && <p class="ep-card-summary">{ep.episode_summary}</p>
+              ) : (
+                <p class="ep-card-summary">Not yet transcribed or extracted.</p>
+              )}
+
+              <div class="ep-card-actions">
+                {ep.processed && (
+                  <button
+                    class="btn btn-watch open-modal-btn"
+                    data-video-id={ep.video_id}
+                    data-timestamp="0"
+                    data-item-name={ep.title}
+                    data-video-title={ep.publish_date || 'Processed Episode'}
+                  >
+                    ▶ Watch & Transcript
+                  </button>
+                )}
+                <a
+                  class="btn"
+                  href={`https://www.youtube.com/watch?v=${ep.video_id}`}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  YouTube ↗
+                </a>
+                {ep.processed && (
+                  <a
+                    class="btn btn-edit github-edit-link"
+                    data-video-id={ep.video_id}
+                    href="#"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    ✏️ Edit
+                  </a>
+                )}
+              </div>
+            </div>
+          </article>
+        ))}
+      </section>
+
       <div id="empty-state" class="empty-state">
         <h3>No rated items match your current filters</h3>
         <p style="margin-top:0.4rem">Try switching to "All Rated Items" or clearing your search and flavour tag filters.</p>
@@ -1028,22 +1433,71 @@ const defaultGithubBranch = import.meta.env.PUBLIC_GITHUB_BRANCH || 'main';
       // Filtering & Sorting State
       let activeCategory = 'Whisky'; // Default to Whaskey Only as requested!
       let activeTags = new Set();
+      let activeEpisodeStatus = 'all';
       let searchQuery = '';
       let currentSort = 'score-desc';
 
       const cardsGrid = document.getElementById('cards-grid');
       const cards = Array.from(document.querySelectorAll('.review-card'));
+      const episodesGrid = document.getElementById('episodes-grid');
+      const episodeCards = Array.from(document.querySelectorAll('.episode-card'));
+      const episodesToolbar = document.getElementById('episodes-toolbar');
+      const tagCloud = document.getElementById('tag-cloud');
       const resultsCount = document.getElementById('results-count');
       const emptyState = document.getElementById('empty-state');
       const clearFiltersBtn = document.getElementById('clear-filters-btn');
       const searchInput = document.getElementById('search-input');
       const sortSelect = document.getElementById('sort-select');
+      const progressJumpBtn = document.getElementById('progress-jump-btn');
 
       // If there are no Whisky items yet (unlikely), fall back to All
       const hasWhisky = cards.some((c) => c.getAttribute('data-category') === 'Whisky');
       if (!hasWhisky) activeCategory = 'All';
 
       function applyFiltersAndSort() {
+        const isEpisodesMode = activeCategory === 'Episodes';
+
+        if (cardsGrid) cardsGrid.style.display = isEpisodesMode ? 'none' : 'grid';
+        if (tagCloud) tagCloud.style.display = isEpisodesMode ? 'none' : 'flex';
+        if (sortSelect) sortSelect.style.display = isEpisodesMode ? 'none' : 'block';
+        episodesToolbar?.classList.toggle('active', isEpisodesMode);
+        episodesGrid?.classList.toggle('active', isEpisodesMode);
+
+        let visibleCount = 0;
+
+        if (isEpisodesMode) {
+          episodeCards.forEach((card) => {
+            const status = card.getAttribute('data-ep-status');
+            const searchBlob = card.getAttribute('data-search') || '';
+            const matchesStatus = activeEpisodeStatus === 'all' || status === activeEpisodeStatus;
+            const matchesSearch = !searchQuery || searchBlob.includes(searchQuery);
+
+            if (matchesStatus && matchesSearch) {
+              card.style.display = 'flex';
+              visibleCount++;
+            } else {
+              card.style.display = 'none';
+            }
+          });
+
+          if (resultsCount) {
+            const label =
+              activeEpisodeStatus === 'processed'
+                ? 'processed episode'
+                : activeEpisodeStatus === 'pending'
+                  ? 'pending episode'
+                  : 'episode';
+            resultsCount.textContent = `Showing ${visibleCount} ${label}${visibleCount === 1 ? '' : 's'}`;
+          }
+          if (emptyState) {
+            emptyState.style.display = visibleCount === 0 ? 'block' : 'none';
+          }
+          if (clearFiltersBtn) {
+            clearFiltersBtn.style.display = searchQuery !== '' ? 'inline-block' : 'none';
+          }
+          return;
+        }
+
         // Sort cards first
         cards.sort((a, b) => {
           const scoreA = parseFloat(a.getAttribute('data-score') || '-1');
@@ -1069,7 +1523,6 @@ const defaultGithubBranch = import.meta.env.PUBLIC_GITHUB_BRANCH || 'main';
           return 0;
         });
 
-        let visibleCount = 0;
         cards.forEach((card) => {
           cardsGrid.appendChild(card);
 
@@ -1105,11 +1558,30 @@ const defaultGithubBranch = import.meta.env.PUBLIC_GITHUB_BRANCH || 'main';
       }
 
       // Category Tab Clicks
+      function setActiveTab(category) {
+        document.querySelectorAll('.cat-tab').forEach((b) => {
+          b.classList.toggle('active', b.getAttribute('data-category') === category);
+        });
+        activeCategory = category;
+        applyFiltersAndSort();
+      }
+
       document.querySelectorAll('.cat-tab').forEach((btn) => {
         btn.addEventListener('click', () => {
-          document.querySelectorAll('.cat-tab').forEach((b) => b.classList.remove('active'));
-          btn.classList.add('active');
-          activeCategory = btn.getAttribute('data-category') || 'All';
+          setActiveTab(btn.getAttribute('data-category') || 'All');
+        });
+      });
+
+      progressJumpBtn?.addEventListener('click', () => {
+        setActiveTab('Episodes');
+        document.getElementById('category-tabs')?.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+      });
+
+      document.querySelectorAll('.ep-status-pill').forEach((pill) => {
+        pill.addEventListener('click', () => {
+          document.querySelectorAll('.ep-status-pill').forEach((p) => p.classList.remove('active'));
+          pill.classList.add('active');
+          activeEpisodeStatus = pill.getAttribute('data-ep-status') || 'all';
           applyFiltersAndSort();
         });
       });
