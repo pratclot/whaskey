@@ -33,6 +33,7 @@ items:
     toffee. Very smooth with no burn and excellent quality.
   verdict_quote: I'm going to give it a straight nine, guys. I'm going to give it
     a straight nine out of 10.
+names_verified: true
 ---
 
 **[34:02]** Oh yes, mandingos, you know what time it is. It's a whisky time. And what have we got this week? Well, we've got this Aberfeldy kindly given to me from my two stepdaughters, Broen and Demi. It's a Highland single malt 12-year-old Scotch whisky. Let's get that popped into the old famous cup dingo.

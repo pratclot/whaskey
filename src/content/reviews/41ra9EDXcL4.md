@@ -10,9 +10,9 @@ episode_summary: The host goes wild camping on the Northumberland coast at Lowbu
   Beach, tasting a unique Kenyan whisky sent by viewers and mixing two different Rio
   camping meals.
 items:
-- name: Safari Rare Whisky
+- name: Brothers Toffee Apple English Cider
   category: Whisky
-  brand_or_distillery: Safari
+  brand_or_distillery: Brothers
   region_or_style: African Whisky
   abv: ''
   timestamp_seconds: 4558
@@ -69,6 +69,7 @@ items:
   tasting_notes: Features succulent chicken and pork meatballs in a rich tomato, minced
     beef sauce with chopped chilies, mixed herbs and spices.
   verdict_quote: This food's nice. I would happily eat this in the house.
+names_verified: true
 ---
 
 **[43:01]** Yes, my fan sexualities, you know what time it is. It's Wasky time. And this is what we've got this week. Fresh from Africa. Bingo bongo as the Africanos say in the Congo. Well, it's actually from Kenya. Safari rare was kindly given to me from a lovely couple from South Shields by the names of Ross and Lucy. **[46:06]** Come on. Let's get my big pointy Nostradamus in this wasy and let's see what it smells like. It's not that bad on the beak to be honest. At least it has got some smells. Now I am getting like a sweet toffee from that. So at least it's got something about it. Sweet toffee. Like a definite caramel thing going on. Give that another swirl around. Obviously, it smells like was maybe even like a smell of like brandy. **[47:33]** It's rich. I'll give you that. And it's not harsh. No, it's not like I think everyone's tried a whiskey, haven't they? **[51:21]** I'm going to give that I think a three is the worst I've give for a wasi. I've never give a zero. I think a three is the worst I've give cuz even though it's been [__] I've still drunk it. It's still done the job to warm the chest up. That maybe ain't not quite as bad as that. I'm going to say it a 4.5. There you go, guys. It's a 4.5 out of 10 dingo for this mandingo for safari African Kenyon was. **[58:33]** The fox said it's time to get some scrandingo down the old Gregory Peek. Like I've just showed you. Two meals from REO spicy meatball pasta and the pasta bolognes. Rio Rio. **[01:02:07]** Lovely. Well, it's been another cracking camp. I've getting lucky again with the weather. Nice food. Lovely was honestly don't think I'm being nasty. This food's nice. I would happily eat this in the house.

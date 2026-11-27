@@ -6,5 +6,32 @@
   "description": "#wildcamping #hiking #comedy #camping \n#bothycamping #getoutside #barncamping\n#stealthcamping #wildcampinguk #stealthcamp\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\ude09 \nhttps://theblotoutdoorsmerch.myshopify.com/collections/all\n\nHere's the link for Tony's channel:\nhttps://youtu.be/h6pZmD9HYXg?feature=shared",
   "thumbnail": "https://i.ytimg.com/vi/5UtYaH-y4AI/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Arrival and introductions",
+      "end_time": 17
+    },
+    {
+      "start_time": 17,
+      "title": "Trek to Cauldron Snout",
+      "end_time": 1424
+    },
+    {
+      "start_time": 1424,
+      "title": "Cooking jamaican chicken",
+      "end_time": 2219
+    },
+    {
+      "start_time": 2219,
+      "title": "World famous whiskey review",
+      "end_time": 3091
+    },
+    {
+      "start_time": 3091,
+      "title": "Morning packing and departure",
+      "end_time": 3408
+    }
+  ]
 }

@@ -6,5 +6,77 @@
   "description": "#walkandtalk #food #comedy #rainwalk \n#homemadefood #foodreview #walkingtour \n#wildcamping #stealthcamping #dogwalk",
   "thumbnail": "https://i.ytimg.com/vi/73QMyOu3nMs/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Introduction",
+      "end_time": 23
+    },
+    {
+      "start_time": 23,
+      "title": "Mooch in the rain",
+      "end_time": 146
+    },
+    {
+      "start_time": 146,
+      "title": "Heading to shelter",
+      "end_time": 264
+    },
+    {
+      "start_time": 264,
+      "title": "Reflecting on stealth camp",
+      "end_time": 442
+    },
+    {
+      "start_time": 442,
+      "title": "Greggs food stop",
+      "end_time": 636
+    },
+    {
+      "start_time": 636,
+      "title": "Snack break",
+      "end_time": 830
+    },
+    {
+      "start_time": 830,
+      "title": "Guest compensation talk",
+      "end_time": 1162
+    },
+    {
+      "start_time": 1162,
+      "title": "Cliff edge walk",
+      "end_time": 1438
+    },
+    {
+      "start_time": 1438,
+      "title": "Local shout outs",
+      "end_time": 1715
+    },
+    {
+      "start_time": 1715,
+      "title": "Whisky review",
+      "end_time": 2153
+    },
+    {
+      "start_time": 2153,
+      "title": "Returning home",
+      "end_time": 2327
+    },
+    {
+      "start_time": 2327,
+      "title": "Reflecting on the hike",
+      "end_time": 2634
+    },
+    {
+      "start_time": 2634,
+      "title": "Homemade dinner",
+      "end_time": 2776
+    },
+    {
+      "start_time": 2776,
+      "title": "Dinner review and closing",
+      "end_time": 3518
+    }
+  ]
 }

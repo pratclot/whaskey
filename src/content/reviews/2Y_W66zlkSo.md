@@ -69,6 +69,7 @@ items:
     sea salt on the finish.
   verdict_quote: I'm going to give it a big fat steady not rectangular but steady
     very good 8.8 out of 10.
+names_verified: true
 ---
 
 **[18:02]** Here folks, time to try this Faith by Northern Monk. Let's give it a bosh. Oh, that is very nice indeed. Very expensive, you know, if you're normally just used to drinking cans of cider like what I do... but it's nice for a little treat when you come, you know, doing a bit of stealth camping. **[40:08]** Let's get the old baker in it. Oh, that's such a crisp and clean smell, dingos mingles. Oh, like herbs, barley, like a nice fresh air smell. Wow, I wasn't expecting that. Oh, like a lovely, like a taste of peanuts with a little bit of milk chocolate. So I've got to say, like a chocolate peanut type of taste, guys, very nice indeed. Oh, yes, also getting like a peppery kick, but not too overpowering, just a nice little tingle on the tongue. Yeah, it's a definite zesty lemon thing going on, a chocolate peanut thing, and a little bit like a coastal sea salt type of thing. **[45:18]** What score am I going to give this old Pulteney 12-year-old single malt wasy? I'm going to give it a very, very good 8.8 out of 10.

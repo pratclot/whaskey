@@ -6,5 +6,57 @@
   "description": "#waterfall #hiking #camping #greekfood #stealthcamping #hikingadventures #whisky #stealthcampinguk #wildcamping \n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\udc4d\nhttps://theblotoutdoorsmerch.myshopify.com/collections/all\n\nHere's the link for Brown's Biltong \ud83d\ude0b\nhttps://brownsbiltong.co.uk/",
   "thumbnail": "https://i.ytimg.com/vi/3sq9a09ozCg/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Hiking plans and trip intro",
+      "end_time": 118
+    },
+    {
+      "start_time": 118,
+      "title": "The hike and waterfall tour",
+      "end_time": 628
+    },
+    {
+      "start_time": 628,
+      "title": "Navigating the route home",
+      "end_time": 1030
+    },
+    {
+      "start_time": 1030,
+      "title": "Arrival at the bothy",
+      "end_time": 1277
+    },
+    {
+      "start_time": 1277,
+      "title": "Preparing the evening meal",
+      "end_time": 1571
+    },
+    {
+      "start_time": 1571,
+      "title": "Live music and entertainment",
+      "end_time": 1860
+    },
+    {
+      "start_time": 1860,
+      "title": "Facilities and setup tour",
+      "end_time": 2102
+    },
+    {
+      "start_time": 2102,
+      "title": "Cooking and dining experience",
+      "end_time": 2647
+    },
+    {
+      "start_time": 2647,
+      "title": "Whiskey tasting session",
+      "end_time": 3222
+    },
+    {
+      "start_time": 3222,
+      "title": "Morning reflection and wrap-up",
+      "end_time": 3550
+    }
+  ]
 }

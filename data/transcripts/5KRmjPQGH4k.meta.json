@@ -6,5 +6,57 @@
   "description": "#stealthcamping #wildcamping #getoutside \n#adventure #comedy #stealthcampinguk \n#rumreview #wildcampinguk \n#camping #stealthcamp\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\ude09 \nhttps://theblotoutdoorsmerch.myshopify.com/collections/all",
   "thumbnail": "https://i.ytimg.com/vi/5KRmjPQGH4k/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Journey to the campsite",
+      "end_time": 140
+    },
+    {
+      "start_time": 140,
+      "title": "Setting up camp",
+      "end_time": 430
+    },
+    {
+      "start_time": 430,
+      "title": "Site overview and drink",
+      "end_time": 643
+    },
+    {
+      "start_time": 643,
+      "title": "Food and drink review",
+      "end_time": 1113
+    },
+    {
+      "start_time": 1113,
+      "title": "Specialty beer tasting",
+      "end_time": 1353
+    },
+    {
+      "start_time": 1353,
+      "title": "Factory life chat",
+      "end_time": 2025
+    },
+    {
+      "start_time": 2025,
+      "title": "Tasting Hungarian rum",
+      "end_time": 2862
+    },
+    {
+      "start_time": 2862,
+      "title": "Unicum liqueur review",
+      "end_time": 3514
+    },
+    {
+      "start_time": 3514,
+      "title": "Cooking dinner and thanks",
+      "end_time": 4250
+    },
+    {
+      "start_time": 4250,
+      "title": "Morning departure",
+      "end_time": 4424
+    }
+  ]
 }

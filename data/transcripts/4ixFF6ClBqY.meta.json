@@ -6,5 +6,67 @@
   "description": "#wildcampinguk #hiking #getoutside #camping \n#yorkshire #wildcamping #backpacking #greatoutdoors #stealthcamping #stealthcampinguk\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\ude09\nhttps://theblotoutdoorsmerch.myshopify.com/collections/all",
   "thumbnail": "https://i.ytimg.com/vi/4ixFF6ClBqY/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Intro",
+      "end_time": 298
+    },
+    {
+      "start_time": 298,
+      "title": "Campsite",
+      "end_time": 385
+    },
+    {
+      "start_time": 385,
+      "title": "Food Drinks",
+      "end_time": 760
+    },
+    {
+      "start_time": 760,
+      "title": "Smash Burger",
+      "end_time": 865
+    },
+    {
+      "start_time": 865,
+      "title": "Gloves",
+      "end_time": 977
+    },
+    {
+      "start_time": 977,
+      "title": "BBQ",
+      "end_time": 1168
+    },
+    {
+      "start_time": 1168,
+      "title": "Smash Burgers",
+      "end_time": 1674
+    },
+    {
+      "start_time": 1674,
+      "title": "Sniffing",
+      "end_time": 1954
+    },
+    {
+      "start_time": 1954,
+      "title": "Down The Crunch",
+      "end_time": 2104
+    },
+    {
+      "start_time": 2104,
+      "title": "Good Night",
+      "end_time": 2274
+    },
+    {
+      "start_time": 2274,
+      "title": "Good Morning",
+      "end_time": 2344
+    },
+    {
+      "start_time": 2344,
+      "title": "Gordale Scar",
+      "end_time": 2702
+    }
+  ]
 }

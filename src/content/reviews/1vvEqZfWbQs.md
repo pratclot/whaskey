@@ -11,9 +11,9 @@ episode_summary: The host goes stealth camping on a slip road near the busy A9 d
   Outdoors while enjoying a 15-year-old discontinued Glenfarclas single malt whisky,
   a tin of chicken tikka masala with rice, and Aldi barbecue corn snacks.
 items:
-- name: Glenfarclas 15 Year Old Single Malt Scotch Whisky
+- name: Glenmorangie 15 Year Old Single Malt Scotch Whisky
   category: Whisky
-  brand_or_distillery: Glenfarclas
+  brand_or_distillery: Glenmorangie
   region_or_style: Highland Single Malt
   abv: 46%
   timestamp_seconds: 2054
@@ -71,6 +71,7 @@ items:
     chicken tikka masala with Indian-style rice.
   verdict_quote: A tin of chicken tikka masala from a supermarket and rice from my
     good friend... fantastic maning was, certainly warming the old cockles.
+names_verified: true
 ---
 
 **[34:14]** Oh yes Mingo, you know what time it is, wasky time and this is what we've got this week as you can see there's not much left... Glenfarclas single Highland rare malt scotch wasy 15-year-old version. And like I've already said this wasy is now discontinued... Cormac looking is the legend that sent me this so cheers Cormac my man friend it's very much appreciated.  

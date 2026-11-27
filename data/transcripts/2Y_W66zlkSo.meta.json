@@ -6,5 +6,57 @@
   "description": "#amazon #stealthcamping #wildcamping #stealthcampingalliance #wildcampinguk #adventure #stealth #stealthurbancamping #secretcamping #whiskyreview\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\udc4d\nhttps://theblotoutdoorsmerch.myshopify.com/collections/all\n\nHere's the link for Brown's Biltong \ud83d\ude0b\nhttps://brownsbiltong.co.uk/\n\nHere's the link for Matty's channel \ud83d\ude09\nhttps://youtube.com/@matty_fox?si=9GvHOBJ55nUmAJVA",
   "thumbnail": "https://i.ytimg.com/vi/2Y_W66zlkSo/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Arrival and setup",
+      "end_time": 178
+    },
+    {
+      "start_time": 178,
+      "title": "Finding the spot",
+      "end_time": 418
+    },
+    {
+      "start_time": 418,
+      "title": "Setting up camp",
+      "end_time": 648
+    },
+    {
+      "start_time": 648,
+      "title": "First drinks",
+      "end_time": 861
+    },
+    {
+      "start_time": 861,
+      "title": "Food and drink review",
+      "end_time": 1210
+    },
+    {
+      "start_time": 1210,
+      "title": "Chatting by the fire",
+      "end_time": 1766
+    },
+    {
+      "start_time": 1766,
+      "title": "Evening relaxation",
+      "end_time": 2305
+    },
+    {
+      "start_time": 2305,
+      "title": "Whiskey review",
+      "end_time": 2751
+    },
+    {
+      "start_time": 2751,
+      "title": "Late night curry",
+      "end_time": 3413
+    },
+    {
+      "start_time": 3413,
+      "title": "Morning packing",
+      "end_time": 3713
+    }
+  ]
 }

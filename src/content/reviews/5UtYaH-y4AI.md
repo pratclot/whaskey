@@ -57,6 +57,7 @@ items:
     kidney beans.
   verdict_quote: Young Chris you've done fantastic once again... it's a meal fit for
     a man dingo.
+names_verified: true
 ---
 
 **[43:28]** So today we have got Four Walls, staring at Four Walls, that's an Irish whiskey with Pennsylvania straight rye, and it is 45% volume. Pour that in the old famous camping dingo glass. It's nice, sweeter than normal whiskey, like a Bell's whiskey but nicer, better quality.  

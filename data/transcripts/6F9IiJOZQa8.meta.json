@@ -6,5 +6,82 @@
   "description": "#stealthcamping #wildcampinguk #whiskyreview \n#comedy #adventure #stealthcamp #camping \n#stealthcampinguk #wildcamping #stealth\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\ude09\nhttps://theblotoutdoorsmerch.myshopify.com/collections/all",
   "thumbnail": "https://i.ytimg.com/vi/6F9IiJOZQa8/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Arrival and obstacles",
+      "end_time": 170
+    },
+    {
+      "start_time": 170,
+      "title": "Setting up camp",
+      "end_time": 301
+    },
+    {
+      "start_time": 301,
+      "title": "Securing the location",
+      "end_time": 411
+    },
+    {
+      "start_time": 411,
+      "title": "Drinks and banter",
+      "end_time": 591
+    },
+    {
+      "start_time": 591,
+      "title": "Camping history",
+      "end_time": 867
+    },
+    {
+      "start_time": 867,
+      "title": "Tent tour and food prep",
+      "end_time": 1056
+    },
+    {
+      "start_time": 1056,
+      "title": "Meal preparation",
+      "end_time": 1340
+    },
+    {
+      "start_time": 1340,
+      "title": "History of the Angel",
+      "end_time": 1540
+    },
+    {
+      "start_time": 1540,
+      "title": "Evening relaxation",
+      "end_time": 1931
+    },
+    {
+      "start_time": 1931,
+      "title": "Whiskey review prep",
+      "end_time": 2026
+    },
+    {
+      "start_time": 2026,
+      "title": "Whiskey tasting",
+      "end_time": 2627
+    },
+    {
+      "start_time": 2627,
+      "title": "Late night reflection",
+      "end_time": 2792
+    },
+    {
+      "start_time": 2792,
+      "title": "Morning after",
+      "end_time": 2922
+    },
+    {
+      "start_time": 2922,
+      "title": "Pack up and history",
+      "end_time": 3187
+    },
+    {
+      "start_time": 3187,
+      "title": "Breakfast and conclusion",
+      "end_time": 3464
+    }
+  ]
 }

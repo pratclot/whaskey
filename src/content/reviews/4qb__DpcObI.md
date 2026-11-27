@@ -55,6 +55,7 @@ items:
     a sugary barley aftertaste.
   verdict_quote: I'm gonna give that a decent nice and steady decent seven out of
     10 dingo mandingos
+names_verified: true
 ---
 
 **[12:05]** Alrighty guys I'm gonna sit down and I'm gonna get stuck in you know I'm taught about ah oh yes guys time to get stuck in where am I gonna go for first the chips look absolutely rank so let's give them a go that's where the curry sauce comes in handy well curry sauce it's really nice. **[13:14]** Get that dipped in there manding goes oh yeah not bad with the curry sauce on... **[23:02]** what scores am I going to hit mandingos well I'm gonna give it steady five out of ten... **[31:57]** oh yeah you know what time these mandingo's waski time and this is what we've got this time talisker 10 year old single malt scotch whiskey this has been kindly given to me from a legend by the name of Mark Moyer cheers mark my man friend very much appreciated. **[32:35]** well straight away that's got a lovely nice fresh smell I'm getting some faint smoke just in the distance not too strong I'm also getting a little bit sweetness maybe pears and a few spices coming through there. **[33:22]** some definite intense black pepper spices and maybe a little Taste of chillies as well it has got a little bit of a kick to it and a little bit of a tingle on the old tongding Mandingo. **[35:15]** I'm gonna give that a decent nice and steady decent seven out of 10 dingo mandingos oh yes you better believe I am

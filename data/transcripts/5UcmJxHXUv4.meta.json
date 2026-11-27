@@ -6,5 +6,32 @@
   "description": "#takeawayfood #food #chinesefood #chinesetakeaway #whiskyreview #foodie \n#fastfood #foodreview #foodcritic \n#foodblogger\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\ude09\nhttps://theblotoutdoorsmerch.myshopify.com/collections/all",
   "thumbnail": "https://i.ytimg.com/vi/5UcmJxHXUv4/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Road trip to the takeaway",
+      "end_time": 244
+    },
+    {
+      "start_time": 244,
+      "title": "Ordering at the takeaway",
+      "end_time": 483
+    },
+    {
+      "start_time": 483,
+      "title": "Chinese takeaway review",
+      "end_time": 1681
+    },
+    {
+      "start_time": 1681,
+      "title": "World famous whiskey review",
+      "end_time": 2367
+    },
+    {
+      "start_time": 2367,
+      "title": "Conclusion and bloopers",
+      "end_time": 2536
+    }
+  ]
 }

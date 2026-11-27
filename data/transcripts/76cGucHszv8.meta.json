@@ -6,5 +6,52 @@
   "description": "#stealthcampinguk #wildcampinguk #comedy \n#adventure #camping #stealthcamping \n#wildcamping #campinglife #whiskyreview \n#stealthcampingalliance\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\ude09\nhttps://theblotoutdoorsmerch.myshopify.com/collections/all\n\nHere's the link for the Merch Bitch Instagram account: https://www.instagram.com/merchbitch?igsh=OW1qaWp3amY4ZmJp\n\nHere's the link for my Facebook page:\nhttps://www.facebook.com/share/1L9jDd3K1e/\n\nHere's the link for my Instagram account:\nhttps://www.instagram.com/blot.outdoors.show.official?igsh=ejBsYjZmem82ZHRr",
   "thumbnail": "https://i.ytimg.com/vi/76cGucHszv8/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Arriving at camp",
+      "end_time": 284
+    },
+    {
+      "start_time": 284,
+      "title": "Camp setup and atmosphere",
+      "end_time": 516
+    },
+    {
+      "start_time": 516,
+      "title": "Whiskey discussion",
+      "end_time": 720
+    },
+    {
+      "start_time": 720,
+      "title": "Giveaway announcements",
+      "end_time": 1338
+    },
+    {
+      "start_time": 1338,
+      "title": "Campsite tour and gear",
+      "end_time": 1877
+    },
+    {
+      "start_time": 1877,
+      "title": "Prize draw event",
+      "end_time": 2575
+    },
+    {
+      "start_time": 2575,
+      "title": "Whiskey review",
+      "end_time": 3064
+    },
+    {
+      "start_time": 3064,
+      "title": "Cooking and meal time",
+      "end_time": 3473
+    },
+    {
+      "start_time": 3473,
+      "title": "Packing up and departure",
+      "end_time": 3664
+    }
+  ]
 }

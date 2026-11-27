@@ -6,5 +6,52 @@
   "description": "#stealthcamping #stealthcamp #stealthcampinguk #wildcamping #getoutside \n#wintercamping #camping #wildcampinguk \n#whiskyreview #bivvycamping\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\ude09\nhttps://theblotoutdoorsmerch.myshopify.com/collections/all",
   "thumbnail": "https://i.ytimg.com/vi/5ISJ00Fidl4/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Arrival at camp site",
+      "end_time": 288
+    },
+    {
+      "start_time": 288,
+      "title": "Setting up the bivy",
+      "end_time": 578
+    },
+    {
+      "start_time": 578,
+      "title": "Gear discussion and drinks",
+      "end_time": 867
+    },
+    {
+      "start_time": 867,
+      "title": "Cold night setup",
+      "end_time": 1599
+    },
+    {
+      "start_time": 1599,
+      "title": "Winter camping thoughts",
+      "end_time": 1843
+    },
+    {
+      "start_time": 1843,
+      "title": "Whiskey review",
+      "end_time": 2519
+    },
+    {
+      "start_time": 2519,
+      "title": "Camping plans for 2025",
+      "end_time": 3038
+    },
+    {
+      "start_time": 3038,
+      "title": "Cooking and eating dinner",
+      "end_time": 3455
+    },
+    {
+      "start_time": 3455,
+      "title": "Morning packing and departure",
+      "end_time": 3729
+    }
+  ]
 }

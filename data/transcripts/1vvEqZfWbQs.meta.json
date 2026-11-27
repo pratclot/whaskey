@@ -6,5 +6,67 @@
   "description": "#stealthcamping #getoutside #greatoutdoors #storm #wildcamping #stealthcampinguk #camping #getoutdoors\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\udc4d\nhttps://theblotoutdoorsmerch.myshopify.com/collections/all\n\nHere's the link for Brown's Biltong \ud83d\ude0b\nhttps://brownsbiltong.co.uk/\n\nHere's the link for onewind outdoors \nhttp://www.onewindoutdoors.com/",
   "thumbnail": "https://i.ytimg.com/vi/1vvEqZfWbQs/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Heading to the camping spot",
+      "end_time": 232
+    },
+    {
+      "start_time": 232,
+      "title": "Arriving at the location",
+      "end_time": 423
+    },
+    {
+      "start_time": 423,
+      "title": "Setting up the tarp shelter",
+      "end_time": 635
+    },
+    {
+      "start_time": 635,
+      "title": "Food and drink review",
+      "end_time": 816
+    },
+    {
+      "start_time": 816,
+      "title": "Whisky preparation",
+      "end_time": 1025
+    },
+    {
+      "start_time": 1025,
+      "title": "Storm watch and evening plans",
+      "end_time": 1242
+    },
+    {
+      "start_time": 1242,
+      "title": "Camping spot analysis",
+      "end_time": 1686
+    },
+    {
+      "start_time": 1686,
+      "title": "Watching YouTube videos",
+      "end_time": 2044
+    },
+    {
+      "start_time": 2044,
+      "title": "The whisky review",
+      "end_time": 2521
+    },
+    {
+      "start_time": 2521,
+      "title": "Cooking dinner",
+      "end_time": 2779
+    },
+    {
+      "start_time": 2779,
+      "title": "Nighttime chat and thanks",
+      "end_time": 3078
+    },
+    {
+      "start_time": 3078,
+      "title": "Morning packing and departure",
+      "end_time": 3392
+    }
+  ]
 }

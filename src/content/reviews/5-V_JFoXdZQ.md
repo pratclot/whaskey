@@ -10,7 +10,7 @@ episode_summary: The host goes stealth camping underneath the abandoned Victoria
   near Washington, Tyne and Wear. He enjoys an Aldi red wine, reviews Knob Creek Kentucky
   Straight Bourbon, and cooks a packet of Asda Tomato and Chorizo pasta.
 items:
-- name: Knob Creek Kentucky Straight Bourbon
+- name: Knob Creek 9 Year Old Kentucky Straight Bourbon
   category: Whisky
   brand_or_distillery: Knob Creek
   region_or_style: Kentucky Straight Bourbon
@@ -51,6 +51,7 @@ items:
   tasting_notes: A piping hot camping meal of tomato and chorizo pasta cooked in a
     pan, providing a warm and satisfying savory dish.
   verdict_quote: I'm not complaining. It's been a brilliant cup.
+names_verified: true
 ---
 
 **[43:37]** Yes, man dingos. You know what time it is. It's whisky time. We've got the old famous club dingo here... What is the whisky choice for tonight? We are on the old Knob Creek Kentucky straight bourbon. You better believe it, guys.

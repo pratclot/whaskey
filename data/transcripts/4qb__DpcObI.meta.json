@@ -6,5 +6,32 @@
   "description": "#fishandchips #food #foodchallenge #foodporn\n#yummy #nastyfood #ratemyplate #whiskey\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\udc4d \nhttps://theblotoutdoorsmerch.myshopify.com/collections/all",
   "thumbnail": "https://i.ytimg.com/vi/4qb__DpcObI/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Introduction",
+      "end_time": 280
+    },
+    {
+      "start_time": 280,
+      "title": "Ordering food",
+      "end_time": 622
+    },
+    {
+      "start_time": 622,
+      "title": "Tasting the food",
+      "end_time": 1338
+    },
+    {
+      "start_time": 1338,
+      "title": "Food review verdict",
+      "end_time": 1469
+    },
+    {
+      "start_time": 1469,
+      "title": "Bloopers and whiskey",
+      "end_time": 2178
+    }
+  ]
 }

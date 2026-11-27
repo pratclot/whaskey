@@ -34,6 +34,7 @@ items:
     The palate delivers a fruity orange, sweet toffee, slight woody smoke, and a smooth
     finish with a touch of warming pepper.
   verdict_quote: I'm going to give that mandingo a very very good 8.5 out of 10.
+names_verified: true
 ---
 
 **[22:28]** Are we going to taste it there? I'm getting ahead of myself. Do you know what this means? I was going to say that. I've smelled that there. It's got a strong orangey smell, hasn't it? Orangey, nice and soft, orangey smell. Like a toffee vanilla smell anywhere. That's enough for the sniffing. Let's go in with the taste and rights.

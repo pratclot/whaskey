@@ -36,6 +36,7 @@ items:
   verdict_quote: I'm gonna give that a decent and a minute decent because it was good
     it didn't blow my mind but it was it was very enjoyable... very steady in a very
     decent 7.7 out of 10 dingo mandingos.
+names_verified: true
 ---
 
 **[36:37]** This is what we've got this week Cragganmore speyside single malt scotch whaskey kindly given to me from Robert Hume. Gees Robert my man friend, Roberts actually goes on YouTube channel called Murchie's Mountains, check it out guys if you want to see some serious hiking wild camping in the wilderness of Scotland. Let's get this popped in the old famous cop dingo mandingos oh yes you know make sense, let's get the old big Rooney in it.

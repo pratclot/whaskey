@@ -6,5 +6,42 @@
   "description": "#ukhiking #wildcamping #backpacking #hiking #adventure #whiskyreview #wildcampinguk #outdoorcooking #Wainwrights #lakedistrict",
   "thumbnail": "https://i.ytimg.com/vi/3aQh9kQ_e0U/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Arrival and tent setup",
+      "end_time": 331
+    },
+    {
+      "start_time": 331,
+      "title": "Camp setup and evening views",
+      "end_time": 768
+    },
+    {
+      "start_time": 768,
+      "title": "Cooking dinner at camp",
+      "end_time": 962
+    },
+    {
+      "start_time": 962,
+      "title": "Socializing and whiskey review",
+      "end_time": 1428
+    },
+    {
+      "start_time": 1428,
+      "title": "Morning routine",
+      "end_time": 1612
+    },
+    {
+      "start_time": 1612,
+      "title": "Mountain hike and summiting",
+      "end_time": 2140
+    },
+    {
+      "start_time": 2140,
+      "title": "Trip conclusion",
+      "end_time": 2238
+    }
+  ]
 }

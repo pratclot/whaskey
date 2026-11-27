@@ -6,5 +6,52 @@
   "description": "#wildcamping #wildcampinguk #bothy #comedy \n#stealthcamping #camping #northumberland \n#hiking #hikingandcamping #getoutside\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\ude09 \nhttps://theblotoutdoorsmerch.myshopify.com/collections/all\n\nHere's the link for Lundy's channel:\nhttps://youtube.com/@LundysWildcampBushcraft?feature=shared\n\nHere's the link for Rooney's channel:\nhttps://youtube.com/@rooney_oot_and_aboot?feature=shared",
   "thumbnail": "https://i.ytimg.com/vi/7OWefE_Yh4g/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Hiking to the shelter",
+      "end_time": 261
+    },
+    {
+      "start_time": 261,
+      "title": "Settling into the bothy",
+      "end_time": 630
+    },
+    {
+      "start_time": 630,
+      "title": "Setting up camp and meals",
+      "end_time": 1013
+    },
+    {
+      "start_time": 1013,
+      "title": "Cooking the Malaysian curry",
+      "end_time": 1696
+    },
+    {
+      "start_time": 1696,
+      "title": "Enjoying the feast",
+      "end_time": 2013
+    },
+    {
+      "start_time": 2013,
+      "title": "Banter and funny moments",
+      "end_time": 2342
+    },
+    {
+      "start_time": 2342,
+      "title": "Whiskey review",
+      "end_time": 2968
+    },
+    {
+      "start_time": 2968,
+      "title": "Turning in for the night",
+      "end_time": 3096
+    },
+    {
+      "start_time": 3096,
+      "title": "Morning routine and departure",
+      "end_time": 3424
+    }
+  ]
 }

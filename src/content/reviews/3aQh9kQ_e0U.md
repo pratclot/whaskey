@@ -33,6 +33,7 @@ items:
     a little touch of smoke. The palate brings out loads of caramel, citrus pine,
     and a bit of spice.
   verdict_quote: I'm going to give that a decent 6.5 out of 10.
+names_verified: true
 ---
 
 **[18:34]** Single malt scotch whiskey oh you just got it I haven't brought the bottle with this I've put in a plastic bottle for the weird so I took the photograph of it this is it drink fake ass girls right so we're supposed to get your bacon first something simple what we've got what we're getting I'm getting there I'm getting woody smell a little cake like a moist a moisty one not dry nice and moist all right moist like a moist fruit kid is that what she is on there in a little bit like chocolatey like oranges chocolate orange orange chocolate cherries right that's what I meant to see that's enough of the snickers let's get on with the tears little bit smoke no smoke you some other ones of odds definitely like a fruitcake fruitcake it's a moist moist eye moisturizer obviously I'm sure hi that's Sainsbury's one it's very nice it was on special was 22 pound or something don't eat it I always like the bargains mandingos as always so we'll get on with the scores here like yeah right with the smell like a moist fruitcake bye cheap chocolate orange like a nice citrus smoky pine and orange a little bit spice to it tears caramel I'm going to give that stacks of caramel I'm going to give that a decent cinnamon 6.5 out of 10.

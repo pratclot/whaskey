@@ -32,6 +32,7 @@ items:
     The palate brings sweet honey, fruitiness, oak, and a very slight chocolate taste.
   verdict_quote: That's beautiful i'm going to give that a massive 8.5 out of 10.
     i highly recommend it for anyone highland park viking honour
+names_verified: true
 ---
 
 **[08:58]** Oh yeah lovely little thing why are you burning whiskey time what i've got to do is this highland park viking honor single malt scotch whiskey let's get on with it beautiful views down like the derwent water the perfect place to do this i love a smell a straight away really sweet a little bit a little bit sherry and a very slight smoky smell

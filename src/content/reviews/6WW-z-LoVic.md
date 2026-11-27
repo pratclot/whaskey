@@ -32,6 +32,7 @@ items:
     leading into a very enjoyable, warming finish.
   verdict_quote: I'm going to give that a big fat, not massive, but a very, very good
     8.8. Oh, yes. And 8.8.
+names_verified: true
 ---
 
 **[55:44]** Yes, guys. You know what time it is? It's wasy time. And this is what we've got this week: Ardbeg the ultimate Islay single malt scotch whisky kindly sent to me from a lovely couple from Darwin. Julie and Bruce, I thank you so much, you absolute couple of legends.

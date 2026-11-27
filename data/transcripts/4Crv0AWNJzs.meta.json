@@ -6,5 +6,47 @@
   "description": "#wildcamping #backpacking #sasquatchsightings #northumberland #bigfoot #yeti #harwoodforest #skunkape #adventure #whiskyreview #wildcampinguk #hiking",
   "thumbnail": "https://i.ytimg.com/vi/4Crv0AWNJzs/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Arrival and forest history",
+      "end_time": 125
+    },
+    {
+      "start_time": 125,
+      "title": "Finding a campsite",
+      "end_time": 350
+    },
+    {
+      "start_time": 350,
+      "title": "Setting up camp",
+      "end_time": 474
+    },
+    {
+      "start_time": 474,
+      "title": "Camp setup and explorations",
+      "end_time": 762
+    },
+    {
+      "start_time": 762,
+      "title": "Unease in the woods",
+      "end_time": 1150
+    },
+    {
+      "start_time": 1150,
+      "title": "A surprise revelation",
+      "end_time": 1300
+    },
+    {
+      "start_time": 1300,
+      "title": "Whiskey review and evening",
+      "end_time": 1623
+    },
+    {
+      "start_time": 1623,
+      "title": "Morning routine and wrap up",
+      "end_time": 1875
+    }
+  ]
 }

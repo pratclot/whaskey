@@ -32,6 +32,7 @@ items:
     scent. On the palate, it delivers a strong, tingly peppery sensation alongside
     sweet fruity apple notes, a hint of smoke, and a lovely bourbon cask finish.
   verdict_quote: I am going to give that a massive 9.2 out of 10. absolutely fantastic
+names_verified: true
 ---
 
 **[11:55]** Let's get cracking little Dingle man oh you know what time it is mandingo's waski time this is what I've got this week wire works which is made at the white Peak Distillery are you in England in Derbyshire I want to say a massive thank you to James and Laura for kindly sending me this thank you very much let's get our open there put that down there let's get some put in the old-famous Cub dingo mandingos 

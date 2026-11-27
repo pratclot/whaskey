@@ -32,6 +32,7 @@ items:
     palate.
   verdict_quote: I'm going to give that BushMills 10-year-old Northern Irish Wasky
     a solid a steady 7.5 out of 10 dingo.
+names_verified: true
 ---
 
 **[44:07]** Oh yes guys, you know what time it is. It's Wasky time. Getting dark, but the last little bit of daylight. This has been sent to me from a lovely couple by the name of Darren and Katrina who are actually from Belfast. And this is a Belfast Wasky. This is the Bushmills single malt 10-year-old Wasi. I think a bottle of this set you back about 35 36 37 depending where you get it from. **[46:06]** What a strong banana smell there straight away, folks. Fruity. Tropical fruit. Maybe a little bit of the old vanilla ice, guys. The most overpowering thing is like a banana sniff around. Let's get on with the tasting. **[48:01]** Oh, I tell you what, mind. That's got a burn sensation around the old gummy bears. I love a bit of a burny strong was. But I love a bit of a kick, guys. Not so much in the taste, folks, but a fruity tropical, peachy nectarine. That kind of taste. Vanilla's there, guys. **[53:43]** It's a decent quality wasi. I thoroughly enjoyed it. Spank you very much to Darren and Katrina. Let's get on with the scoringos. Guys, I'm going to give that Bushmills 10-year-old Northern Irish Wasky a solid a steady 7.5 out of 10 dingo.

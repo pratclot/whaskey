@@ -6,5 +6,42 @@
   "description": "#chillinghamcastle #stealthcamping #wildcamping #stealthcampingalliance #wildcampinguk #adventure #haunted #stealthurbancamping #stealthcampinguk #terrified\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\udc4d\nhttps://theblotoutdoorsmerch.myshopify.com/collections/all",
   "thumbnail": "https://i.ytimg.com/vi/41k9jHVvEnc/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Arriving at the castle",
+      "end_time": 318
+    },
+    {
+      "start_time": 318,
+      "title": "Finding a spot and setting up",
+      "end_time": 601
+    },
+    {
+      "start_time": 601,
+      "title": "Campground snacks and drinks",
+      "end_time": 1440
+    },
+    {
+      "start_time": 1440,
+      "title": "Confrontation with security",
+      "end_time": 2331
+    },
+    {
+      "start_time": 2331,
+      "title": "Whiskey review session",
+      "end_time": 3059
+    },
+    {
+      "start_time": 3059,
+      "title": "Paranormal activity at night",
+      "end_time": 3802
+    },
+    {
+      "start_time": 3802,
+      "title": "Packing up and leaving",
+      "end_time": 3976
+    }
+  ]
 }

@@ -10,9 +10,9 @@ episode_summary: The host and Little Mick go stealth camping by a graffiti wall 
   to a railway line, cooking hot dogs with dynamite chili and reviewing a single malt
   Scotch whisky sent by a viewer.
 items:
-- name: Elevens Single Malt Scotch Whisky Bonfire Toffee Apple
+- name: Elevenses Single Malt Scotch Whisky Bonfire Toffee Apples Aged 13 Years
   category: Whisky
-  brand_or_distillery: Elevens
+  brand_or_distillery: Elevenses Whisky
   region_or_style: Single Malt Scotch Whisky
   abv: 50%
   timestamp_seconds: 4543
@@ -32,6 +32,7 @@ items:
     notes, and sweet cherry apple. On the palate, it delivers sweet toffee and smoky
     apple with a powerful kick that is both nasty and nice at the exact same time.
   verdict_quote: Nasty and nice at exactly the same time. Powerful and nice.
+names_verified: true
 ---
 
 **[45:11]** It's was time, guys. You better believe it is. This is what we've got from Elevens Single Malt Scotch was bonfire toffee apple given to us from a legend by the name of Lee Williams, the grandson of Kenneth Williams.

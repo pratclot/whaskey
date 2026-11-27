@@ -6,5 +6,62 @@
   "description": "#hiking #wildcamping #lakedistrict #ukhiking #wildcampinguk #adventure #backpacking #whiskyreview #trekking #mountains #cumbria #wainwrights #walking\n\nSUNBLESA H11 Mini Waterproof Rechargeable HeadTorch 190Lumens Lightweight Headlamp https://www.amazon.co.uk/dp/B096VDZB3R/ref=cm_sw_r_awdo_G23XQYW4YWJXB9J6CDC2",
   "thumbnail": "https://i.ytimg.com/vi/5-Z14_ABacY/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Hiking to the summit",
+      "end_time": 218
+    },
+    {
+      "start_time": 218,
+      "title": "Setting up camp in rain",
+      "end_time": 383
+    },
+    {
+      "start_time": 383,
+      "title": "Evening meal preparations",
+      "end_time": 571
+    },
+    {
+      "start_time": 571,
+      "title": "Whiskey review",
+      "end_time": 762
+    },
+    {
+      "start_time": 762,
+      "title": "Summit views",
+      "end_time": 858
+    },
+    {
+      "start_time": 858,
+      "title": "Gear review: Head torch",
+      "end_time": 1012
+    },
+    {
+      "start_time": 1012,
+      "title": "Head torch demonstration",
+      "end_time": 1138
+    },
+    {
+      "start_time": 1138,
+      "title": "Whiskey tasting conclusion",
+      "end_time": 1580
+    },
+    {
+      "start_time": 1580,
+      "title": "Morning routine",
+      "end_time": 1686
+    },
+    {
+      "start_time": 1686,
+      "title": "Hiking back and reflections",
+      "end_time": 1829
+    },
+    {
+      "start_time": 1829,
+      "title": "Final head torch thoughts",
+      "end_time": 1884
+    }
+  ]
 }

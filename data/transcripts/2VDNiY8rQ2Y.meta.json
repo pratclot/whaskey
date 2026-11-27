@@ -6,5 +6,57 @@
   "description": "#billboards #stealthcamping #wildcamping #stealthcampingalliance #wildcampinguk #adventure #stealth #stealthurbancamping #secretcamping #whiskyreview\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\udc4d\nhttps://theblotoutdoorsmerch.myshopify.com/collections/all\n\nHere's the link for Brown's Biltong, remember to use the code \"mandingo\" for your discount \ud83d\ude09\nhttps://brownsbiltong.co.uk/",
   "thumbnail": "https://i.ytimg.com/vi/2VDNiY8rQ2Y/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Arrival and setup",
+      "end_time": 23
+    },
+    {
+      "start_time": 23,
+      "title": "Securing the campsite",
+      "end_time": 288
+    },
+    {
+      "start_time": 288,
+      "title": "Setting up the bivvy",
+      "end_time": 471
+    },
+    {
+      "start_time": 471,
+      "title": "Drinks and Q&A",
+      "end_time": 791
+    },
+    {
+      "start_time": 791,
+      "title": "Food and beverage review",
+      "end_time": 1271
+    },
+    {
+      "start_time": 1271,
+      "title": "Evening preparations",
+      "end_time": 1423
+    },
+    {
+      "start_time": 1423,
+      "title": "Whiskey review",
+      "end_time": 1816
+    },
+    {
+      "start_time": 1816,
+      "title": "Cooking and eating dinner",
+      "end_time": 2296
+    },
+    {
+      "start_time": 2296,
+      "title": "Nighttime and bedtime",
+      "end_time": 2551
+    },
+    {
+      "start_time": 2551,
+      "title": "Morning pack up",
+      "end_time": 2879
+    }
+  ]
 }

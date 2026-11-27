@@ -71,8 +71,8 @@ items:
     right up in freezing conditions.
   verdict_quote: The sausages are a little bit spicy, and that BrewDog spicy sauce
     is where you're getting the kick from — warming you right up!
+names_verified: true
 ---
-
 
 ## Tasting Transcript Excerpt
 

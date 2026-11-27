@@ -6,5 +6,62 @@
   "description": "#wildcamping #camping #campingdog \n#getoutside #dogcamping #lakesidecamping \n#lakedistrict #stealthcamping \n#wildcampinguk #stealthcampinguk\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\ude09\nhttps://theblotoutdoorsmerch.myshopify.com/collections/all",
   "thumbnail": "https://i.ytimg.com/vi/2AEhi7NyEWQ/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Arrival at lake district",
+      "end_time": 376
+    },
+    {
+      "start_time": 376,
+      "title": "Setting up camp",
+      "end_time": 720
+    },
+    {
+      "start_time": 720,
+      "title": "Preparing food and drinks",
+      "end_time": 1051
+    },
+    {
+      "start_time": 1051,
+      "title": "Relaxing and eating",
+      "end_time": 1400
+    },
+    {
+      "start_time": 1400,
+      "title": "Messi's age and health",
+      "end_time": 1949
+    },
+    {
+      "start_time": 1949,
+      "title": "Enjoying the scenery",
+      "end_time": 2304
+    },
+    {
+      "start_time": 2304,
+      "title": "Evening activities",
+      "end_time": 2694
+    },
+    {
+      "start_time": 2694,
+      "title": "Whiskey review",
+      "end_time": 3200
+    },
+    {
+      "start_time": 3200,
+      "title": "Cooking dinner",
+      "end_time": 3949
+    },
+    {
+      "start_time": 3949,
+      "title": "Enjoying dinner",
+      "end_time": 4202
+    },
+    {
+      "start_time": 4202,
+      "title": "Packing up and departure",
+      "end_time": 4463
+    }
+  ]
 }

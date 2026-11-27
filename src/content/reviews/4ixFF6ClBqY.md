@@ -34,6 +34,7 @@ items:
     a traditional punchy whisky kick, tasting more like a rich sherry or port.
   verdict_quote: I'm going to give that Dewar's signature I'm still going to give
     it a steady straight and steady seven a seven out of 10 dingo mingles
+names_verified: true
 ---
 
 **[26:29]** We have got Dewar's Signature blended Scotch whisky. Sorry about the camera food, guys, we are a little bit smash burgered. It's got a funky smell that like... dark fruits, raisins, stewed plum. 

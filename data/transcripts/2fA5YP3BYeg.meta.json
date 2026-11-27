@@ -6,5 +6,47 @@
   "description": "#wildcampinguk  #lakedistrict  #hiking #whiskyreview  #stormhiking #stormcamping  #mountains",
   "thumbnail": "https://i.ytimg.com/vi/2fA5YP3BYeg/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Arrival in heavy rain",
+      "end_time": 367
+    },
+    {
+      "start_time": 367,
+      "title": "Setting up camp",
+      "end_time": 526
+    },
+    {
+      "start_time": 526,
+      "title": "Cooking and drinks",
+      "end_time": 743
+    },
+    {
+      "start_time": 743,
+      "title": "Whiskey giveaway draw",
+      "end_time": 1018
+    },
+    {
+      "start_time": 1018,
+      "title": "Planning the next day",
+      "end_time": 1234
+    },
+    {
+      "start_time": 1234,
+      "title": "Whiskey tasting review",
+      "end_time": 1540
+    },
+    {
+      "start_time": 1540,
+      "title": "Morning after",
+      "end_time": 1784
+    },
+    {
+      "start_time": 1784,
+      "title": "Packing up and leaving",
+      "end_time": 2063
+    }
+  ]
 }

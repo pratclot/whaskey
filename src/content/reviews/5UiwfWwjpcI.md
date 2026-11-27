@@ -98,8 +98,8 @@ items:
   verdict_quote: Chicken tikka, mushrooms, onions, peppers, and Nando's Peri-Peri
     sauce — oh yes pet, that is absolutely lovely, what a fantastic way to end the
     night!
+names_verified: true
 ---
-
 
 ## Tasting Transcript Excerpt
 

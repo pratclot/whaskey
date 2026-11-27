@@ -6,5 +6,67 @@
   "description": "#wildcamping #camping #hikingandcamping \n#wildcampinguk #comedy #stealthcamping \n#hiking #stealthcampinguk\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\ude09 \nhttps://theblotoutdoorsmerch.myshopify.com/collections/all",
   "thumbnail": "https://i.ytimg.com/vi/4Qk8nl4pRU0/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Introduction and river walk",
+      "end_time": 92
+    },
+    {
+      "start_time": 92,
+      "title": "Reaching the campsite",
+      "end_time": 421
+    },
+    {
+      "start_time": 421,
+      "title": "Setting up the campsite",
+      "end_time": 569
+    },
+    {
+      "start_time": 569,
+      "title": "Exploring the area",
+      "end_time": 979
+    },
+    {
+      "start_time": 979,
+      "title": "Evaluating the spot",
+      "end_time": 1235
+    },
+    {
+      "start_time": 1235,
+      "title": "Camping memories and stories",
+      "end_time": 1735
+    },
+    {
+      "start_time": 1735,
+      "title": "Finding the tent",
+      "end_time": 1932
+    },
+    {
+      "start_time": 1932,
+      "title": "Battling midgets",
+      "end_time": 2227
+    },
+    {
+      "start_time": 2227,
+      "title": "Relaxing and evening plans",
+      "end_time": 2886
+    },
+    {
+      "start_time": 2886,
+      "title": "Whiskey review",
+      "end_time": 3530
+    },
+    {
+      "start_time": 3530,
+      "title": "Morning routine and breakfast",
+      "end_time": 3931
+    },
+    {
+      "start_time": 3931,
+      "title": "Wrapping up the trip",
+      "end_time": 4141
+    }
+  ]
 }

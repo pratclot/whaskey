@@ -47,9 +47,9 @@ items:
   tasting_notes: A refreshing hazy pale ale enjoyed as the second drink of the camp.
   verdict_quote: The second candingo, guys. The old faith no more by Northern Monk...
     I like these ones.
-- name: Tomintoul 10 Year Old Single Malt Scotch Whisky
+- name: Tamnavulin Double Cask Speyside Single Malt Scotch Whisky
   category: Whisky
-  brand_or_distillery: Tomintoul
+  brand_or_distillery: Tamnavulin
   region_or_style: Speyside Single Malt Scotch Whisky
   abv: ''
   timestamp_seconds: 3016
@@ -69,6 +69,7 @@ items:
     of sherry cherry and a touch of wood.
   verdict_quote: I'm going to give that a straight as a die a nice and steady eight.
     It's a straight eight which is a good score.
+names_verified: true
 ---
 
 **[25:32]** Your old Jeff Beer likes the first beer of tonight, guys, from a double-barreled brewery. First time I've had this one. This is Parker, the old Camilla Parker bowls, hazy pale ale 4.5% puller centre M. Well, that's quite nice. Very refreshing that one. Like citrus, juicy, and hold on a second. Citrus, juicy, and let's have one more taste. Sit, juicy, and refreshing. Yeah. So, there you go, guys. Not bad at all.

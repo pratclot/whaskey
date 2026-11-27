@@ -6,5 +6,52 @@
   "description": "#greatoutdoors #stealthcamping #wildcamping #stealthcampingalliance #wildcampinguk #adventure #stealth #stealthurbancamping #secretcamping #stealthcampinguk\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\udc4d \nhttps://theblotoutdoorsmerch.myshopify.com/collections/all",
   "thumbnail": "https://i.ytimg.com/vi/4UT5kS8fwes/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Arrival and setup",
+      "end_time": 34
+    },
+    {
+      "start_time": 34,
+      "title": "Journey to the viaduct",
+      "end_time": 682
+    },
+    {
+      "start_time": 682,
+      "title": "Video editing process",
+      "end_time": 880
+    },
+    {
+      "start_time": 880,
+      "title": "Camping gear and supplies",
+      "end_time": 1221
+    },
+    {
+      "start_time": 1221,
+      "title": "Fan interaction",
+      "end_time": 1739
+    },
+    {
+      "start_time": 1739,
+      "title": "Settling into the tent",
+      "end_time": 1943
+    },
+    {
+      "start_time": 1943,
+      "title": "Whisky tasting",
+      "end_time": 2360
+    },
+    {
+      "start_time": 2360,
+      "title": "Cooking dinner",
+      "end_time": 2888
+    },
+    {
+      "start_time": 2888,
+      "title": "Morning departure",
+      "end_time": 3186
+    }
+  ]
 }

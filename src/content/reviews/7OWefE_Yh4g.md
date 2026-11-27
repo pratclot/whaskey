@@ -52,6 +52,7 @@ items:
     Sunderland football colors bottle. Features notes of vanilla, orangey marmalade,
     and a light, approachable palate with a moderately spirity finish.
   verdict_quote: So, I'm going to give it a six out of 10 dingo.
+names_verified: true
 ---
 
 **[29:10]** Look at that, guys. Well, if it tastes as good as it looks, it's an absolute winner. That is absolutely unbelievable. What a fantastic job you've done, my man friend. It just blows like any Chinese takeaway I've ever had. This just blows it totally out of the water. **[32:37]** I'm giving this a 10 out of 10. And it's not very often I do that. It's been a long time since I've given something a 10 out of 10. **[47:34]** Well, I'm going to give that Jameson Irish Whisky. This is like a special edition one because it's got the Sunderland football colors on, but it is just a bog standard Jameson Whisky... So, I'm going to give it a six out of 10 dingo.

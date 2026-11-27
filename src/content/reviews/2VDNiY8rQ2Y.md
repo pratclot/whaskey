@@ -32,6 +32,7 @@ items:
     note and a pleasant hint of rum coming through on the finish.
   verdict_quote: I'm gonna give that a very very good 8.3 out of 10 mandingos you
     better believe I am
+names_verified: true
 ---
 
 **[24:34]** Canadian Club cheers. Oh yes Monday goes you know what time it is waski time and this is what I've got this week. Canadian Club Blended obviously Canadian waski kindly given to me from a legend by the name of Cameron or Comy. Cheers coming very much appreciated my friend.

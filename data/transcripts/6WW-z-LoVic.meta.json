@@ -6,5 +6,67 @@
   "description": "#stealthcamping #wildcamping #getoutside \n#stealthcampinguk #comedy #camping \n#wildcampinguk #haunted #whiskyreview \n#stealthcamp\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\ude09\nhttps://theblotoutdoorsmerch.myshopify.com/collections/all",
   "thumbnail": "https://i.ytimg.com/vi/6WW-z-LoVic/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Arrival at spooky camp",
+      "end_time": 142
+    },
+    {
+      "start_time": 142,
+      "title": "Exploring the haunted church",
+      "end_time": 502
+    },
+    {
+      "start_time": 502,
+      "title": "Setting up the campsite",
+      "end_time": 884
+    },
+    {
+      "start_time": 884,
+      "title": "Campground memories",
+      "end_time": 1148
+    },
+    {
+      "start_time": 1148,
+      "title": "Campsite setup and gear",
+      "end_time": 1537
+    },
+    {
+      "start_time": 1537,
+      "title": "Video uploading struggles",
+      "end_time": 1883
+    },
+    {
+      "start_time": 1883,
+      "title": "Night time church visit",
+      "end_time": 2269
+    },
+    {
+      "start_time": 2269,
+      "title": "Escaping the church",
+      "end_time": 2605
+    },
+    {
+      "start_time": 2605,
+      "title": "Cooking dinner",
+      "end_time": 2825
+    },
+    {
+      "start_time": 2825,
+      "title": "Reflecting on the camp",
+      "end_time": 3218
+    },
+    {
+      "start_time": 3218,
+      "title": "Morning whiskey review",
+      "end_time": 3707
+    },
+    {
+      "start_time": 3707,
+      "title": "Packing up and departing",
+      "end_time": 3815
+    }
+  ]
 }

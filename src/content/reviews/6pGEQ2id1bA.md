@@ -49,6 +49,7 @@ items:
     followed on the palate by smooth notes of sweet pear, green apple, and a hint
     of cinnamon.
   verdict_quote: It is as smooth as a baby's bum... 9.3 out of 10.
+names_verified: true
 ---
 
 **[22:52]** I've got to be honest that isn't as nice as you think it's nice everyone's got different tastes it's all right it's snout special if you know what I'm talking about. I like it, it's all right, but it's snout special. I thought it was going to be like really, really nice. This was the one I was looking forward to the most. Vocation death by cherries for me personally... it's average, bang average. It's all right, it's snout special, but we'll still drink it. **[42:59]** Mandingos, you know what time it is, wasy time, you better believe it is. And this is what we've got this week: Coastal Stone Australian single malt wasy, kindly sent us from a legend by the name of Mike Williamson. Cheers, Mike, my man friend, sexual! **[46:40]** It's delicate, it's mild, it hasn't got that ginger pube taste. It's delicate, it's mild, quite silky, no nasty aftertaste. Like sweet pears! It's got a green apple flavor. But it is so smooth, there's nothing harsh about it at all. **[52:30]** Time for the old score dingles, Mick! I can give that a 9.3, that's what I'm going to give it, 9.3 out of 10 dingo mandingos. And Mick gives it a 9.1!

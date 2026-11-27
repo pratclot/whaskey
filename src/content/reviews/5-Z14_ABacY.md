@@ -34,6 +34,7 @@ items:
   verdict_quote: Considering how much it cost 13.50 and the quality you're getting
     I'm going to give that a massive nine out of ten... highland black aldi special
     an average score on the block outdoor show 8.5 out of 10.
+names_verified: true
 ---
 
 **[19:48]** Oh yes cheers manding cheers cheers cheese guys do you know what time it is mandingo's waski time and this is what we've got this week highland block once you've had black there's no going back you know what i'm talking about come on then mick

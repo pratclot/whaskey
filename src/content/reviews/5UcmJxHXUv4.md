@@ -31,9 +31,9 @@ items:
     prawn toast, sweet and sour chicken, fried rice, and noodles paired with a rich
     curry sauce.
   verdict_quote: I'm going to give this a 9.7 out of 10 dingo my Mandy dingles.
-- name: Sang Som Thai Rice Whisky
+- name: Thai Black Cock Whisky
   category: Whisky
-  brand_or_distillery: Sang Som
+  brand_or_distillery: Thai Black Cock
   region_or_style: Thai Rice Spirit / Whisky
   abv: 40%
   timestamp_seconds: 1785
@@ -54,6 +54,7 @@ items:
   verdict_quote: I'm going to give it a straight seven out of 10 because I thought
     I was only going to be giving it like a three or a four and it was a lot nicer
     than I expected.
+names_verified: true
 ---
 
 **[08:10]** so here we are folks we're in young Chris's love shack baby let's have a quick look and see what we've got before we plate it up the grand reveal oh my goodness oh my God how good does that look... **[10:08]** should we go for I'm going straight in for some of the deep fried dumplings mhm that was nice and tasty nice and wet... **[16:00]** everything's red hot and on that yeah brilliant there's nothing I've had yet that's been disappointing everything's been topnotch with the rib... **[26:33]** portion size as you've seen guys massive right two big loads struggling now mhm food quality wow need to say anymore spotty dog absolutely fantastic I'm going to give this not often I go this high I'm going to give it a 9.7... **[29:45]** oh yes you know what time it waskey time yes time for some black whisky Young Chris has been waiting for this moment all night long... **[33:11]** it's like it's not overpowering is it no to be honest I'm pleasantly surprised I was expecting it to be as rough as a badger's ass it's got like that whiskey kicker... **[38:10]** so it's a 7 out of 10 from this maningo what's your score I probably say it's not the greatest thing in the world... give it a six.

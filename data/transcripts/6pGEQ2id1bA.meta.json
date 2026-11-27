@@ -6,5 +6,57 @@
   "description": "#wildcamping #hiking #lakedistrict #backpacking #whiskey #getoutside #stealthcamping #getoutdoors\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\ude09 \nhttps://theblotoutdoorsmerch.myshopify.com/collections/all\n\nHere's the link for Brown's Biltong \ud83d\ude0b\nhttps://brownsbiltong.co.uk/mandingo",
   "thumbnail": "https://i.ytimg.com/vi/6pGEQ2id1bA/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Arrival and camp planning",
+      "end_time": 308
+    },
+    {
+      "start_time": 308,
+      "title": "Setting up camp",
+      "end_time": 516
+    },
+    {
+      "start_time": 516,
+      "title": "Gear and food review",
+      "end_time": 637
+    },
+    {
+      "start_time": 637,
+      "title": "Cooking and banter",
+      "end_time": 880
+    },
+    {
+      "start_time": 880,
+      "title": "Evening relaxation",
+      "end_time": 1244
+    },
+    {
+      "start_time": 1244,
+      "title": "Whiskey review session",
+      "end_time": 1555
+    },
+    {
+      "start_time": 1555,
+      "title": "YouTube channel discussion",
+      "end_time": 1968
+    },
+    {
+      "start_time": 1968,
+      "title": "Late night snacking",
+      "end_time": 2426
+    },
+    {
+      "start_time": 2426,
+      "title": "Final drink and bedtime",
+      "end_time": 3351
+    },
+    {
+      "start_time": 3351,
+      "title": "Morning packing",
+      "end_time": 3617
+    }
+  ]
 }

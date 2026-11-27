@@ -6,5 +6,87 @@
   "description": "#wildcamping #getoutside #wildcampinguk \n#adventure #comedy #camping #whiskyreview \n#stealthcamping #hiking #stealthcampinguk\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\ude09 \nhttps://theblotoutdoorsmerch.myshopify.com/collections/all",
   "thumbnail": "https://i.ytimg.com/vi/41ra9EDXcL4/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Intro",
+      "end_time": 539
+    },
+    {
+      "start_time": 539,
+      "title": "Drone footage",
+      "end_time": 705
+    },
+    {
+      "start_time": 705,
+      "title": "Jeff Beer",
+      "end_time": 757
+    },
+    {
+      "start_time": 757,
+      "title": "Scotch Egg",
+      "end_time": 888
+    },
+    {
+      "start_time": 888,
+      "title": "Corona Virus",
+      "end_time": 1135
+    },
+    {
+      "start_time": 1135,
+      "title": "World Famous Whisky",
+      "end_time": 1237
+    },
+    {
+      "start_time": 1237,
+      "title": "I can never let it get to the point",
+      "end_time": 1400
+    },
+    {
+      "start_time": 1400,
+      "title": "Why Im camping on a Monday",
+      "end_time": 1664
+    },
+    {
+      "start_time": 1664,
+      "title": "Tickets",
+      "end_time": 1798
+    },
+    {
+      "start_time": 1798,
+      "title": "My setup",
+      "end_time": 2035
+    },
+    {
+      "start_time": 2035,
+      "title": "Feeling Supersonic",
+      "end_time": 2320
+    },
+    {
+      "start_time": 2320,
+      "title": "Camp Dingo",
+      "end_time": 2595
+    },
+    {
+      "start_time": 2595,
+      "title": "Safari Rare",
+      "end_time": 3075
+    },
+    {
+      "start_time": 3075,
+      "title": "Safari Rare Rating",
+      "end_time": 3180
+    },
+    {
+      "start_time": 3180,
+      "title": "Gordons Jukebox",
+      "end_time": 3519
+    },
+    {
+      "start_time": 3519,
+      "title": "Relo Foods",
+      "end_time": 4049
+    }
+  ]
 }

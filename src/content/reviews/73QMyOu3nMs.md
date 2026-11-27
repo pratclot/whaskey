@@ -54,6 +54,7 @@ items:
     alongside creamy buttery mashed potato, peas, and rich onion gravy.
   verdict_quote: It's a solid 10 out of 10, guys. It really is. Thank you, Mrs. Blood.
     You are a keeper.
+names_verified: true
 ---
 
 **[28:37]** Look at the note. We've got Dartmoor whiskey Ex-Bourbon Cask... Devon Spanky, very much. It's very much appreciated. This is an expensive bottle of whiskey. **[30:07]** Dartmoor whiskey Ex-Bourbon Cask. Let's give it a blast at the old baker's arse reticles. Quite malty. Like barley. Fruity. Like a dark fruit. Maybe like a blackcurrant tart. **[31:04]** Let's get on with the tasting. Cheers Toby, mate. Few tiny little spices. But no burny. No burny Rooney. You better believe it. **[34:16]** Smooth. There's a few subtle spices that just adds to the enjoyment. Nice, fruity, blackcurrant, raspberry. Like a oily, waxy texture in me mouth. And a bit of a citrus thing going on. I'm going to give that a solid 9.5, guys. It's a 9.5 from this man dingo. **[46:34]** Time to get stuck in to the old scran and go. I'm going to go straight for the creamy mashed potato with onion gravy on it. Oh, yes. That's what I'm talking about, guys. **[48:36]** Let's try some of the corned beef pie. It's covered in gravy. Oh, that's piping hot. Homemade corned beef pie. Oh my goodness. Corned beef pie and mash on there at exactly the same time. **[57:11]** It's a solid 10 out of 10, guys. It really is. Thank you, Mrs. Blood. You are a keeper. It's a 10 out of 10 from this mandingo.

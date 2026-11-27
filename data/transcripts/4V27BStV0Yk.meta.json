@@ -6,5 +6,62 @@
   "description": "#policestation #stealthcamping #wildcamping \n#stealthcampingalliance #wildcampinguk #adventure #stealth #stealthurbancamping #secretcamping #stealthcampinguk\n\nHere's the link for Roberts channel \nhttps://youtube.com/@murchiesmountains2820\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\udc4d \nhttps://theblotoutdoorsmerch.myshopify.com/collections/all",
   "thumbnail": "https://i.ytimg.com/vi/4V27BStV0Yk/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Arriving at the site",
+      "end_time": 224
+    },
+    {
+      "start_time": 224,
+      "title": "Setting up the campsite",
+      "end_time": 501
+    },
+    {
+      "start_time": 501,
+      "title": "Evening drinks and talk",
+      "end_time": 1042
+    },
+    {
+      "start_time": 1042,
+      "title": "Showing the camp gear",
+      "end_time": 1326
+    },
+    {
+      "start_time": 1326,
+      "title": "Updates and merch talk",
+      "end_time": 1703
+    },
+    {
+      "start_time": 1703,
+      "title": "Whiskey review session",
+      "end_time": 2197
+    },
+    {
+      "start_time": 2197,
+      "title": "Whiskey review continuation",
+      "end_time": 2552
+    },
+    {
+      "start_time": 2552,
+      "title": "Cooking the main meal",
+      "end_time": 3072
+    },
+    {
+      "start_time": 3072,
+      "title": "Late night gratitude",
+      "end_time": 3173
+    },
+    {
+      "start_time": 3173,
+      "title": "Morning routine",
+      "end_time": 3313
+    },
+    {
+      "start_time": 3313,
+      "title": "Packing up and leaving",
+      "end_time": 3543
+    }
+  ]
 }

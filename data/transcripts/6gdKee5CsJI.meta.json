@@ -6,5 +6,72 @@
   "description": "#wildcampingscotland #wildcampinguk \n#stormcamping #storm #hikingandcamping \n#raincamping #stealthcamping #littlemick",
   "thumbnail": "https://i.ytimg.com/vi/6gdKee5CsJI/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Arrival at St. Abbs",
+      "end_time": 181
+    },
+    {
+      "start_time": 181,
+      "title": "Coastal walk and scenery",
+      "end_time": 355
+    },
+    {
+      "start_time": 355,
+      "title": "Setting up camp",
+      "end_time": 530
+    },
+    {
+      "start_time": 530,
+      "title": "Windy cliff edge check",
+      "end_time": 743
+    },
+    {
+      "start_time": 743,
+      "title": "Camp setup and gear",
+      "end_time": 1530
+    },
+    {
+      "start_time": 1530,
+      "title": "First beer review",
+      "end_time": 1709
+    },
+    {
+      "start_time": 1709,
+      "title": "Stormy weather conditions",
+      "end_time": 2000
+    },
+    {
+      "start_time": 2000,
+      "title": "Camping talk and humor",
+      "end_time": 2420
+    },
+    {
+      "start_time": 2420,
+      "title": "Seeking phone signal",
+      "end_time": 2675
+    },
+    {
+      "start_time": 2675,
+      "title": "Whiskey review",
+      "end_time": 3112
+    },
+    {
+      "start_time": 3112,
+      "title": "Cooking and eating dinner",
+      "end_time": 3487
+    },
+    {
+      "start_time": 3487,
+      "title": "Night in the tent",
+      "end_time": 3992
+    },
+    {
+      "start_time": 3992,
+      "title": "Morning packing and departure",
+      "end_time": 4212
+    }
+  ]
 }

@@ -54,6 +54,7 @@ items:
     and toffee, delivering a smooth palate rich in vanilla fudge, chocolate caramel,
     and subtle warming spices.
   verdict_quote: I'm going to give that a massive 9.5 out of 10 dingo man mandingos!
+names_verified: true
 ---
 
 **[11:57]** Right mice, here we go guys, time to get stuck in. As usual, I'm going to go for the chips first. Nice chili sauce on there and the garlic and chili is really nice, kind of got a little bit of a kick to it. **[13:15]** I'm going to go for a bit of tandoori hot pizza, look at that guys, very nice, jalapeños all over it. That crust is really nice, nice crusty, crispy crust. **[24:51]** Weighing everything up like I've said, food quality, portion, value for money, I can't give it any less than a nine. 9 out of 10 from this mandingo! **[26:31]** Oh yes guys, you know what time it is and this is what we've got this week: Shanky's Whip, made in Ireland. A whiskey liqueur, still 33%. **[28:31]** Straight away that is nice, little spices. It's like a smooth creamy vanilla fudge, got a vanilla in it, very very nice, little bit of caramel. **[30:25]** I'm going to give that a massive 9.5 out of 10 dingo man mandingos!

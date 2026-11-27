@@ -35,6 +35,7 @@ items:
     and a pleasant oaky finish.
   verdict_quote: I'm going to give this... a 9.1 out of 10 ding mandingos from this
     mandinga you better believe it is.
+names_verified: true
 ---
 
 **[31:04]** oh yes Forks yes you know what time it is it's wasy time you better believe it is so I've got the old famous CB Dingle my Mandy dingles we've got a miniature bottle of wasy in this nice little box so it's called Glen Garioch that's how you pronounce it and I guarantee you 100% that's how you see it... 

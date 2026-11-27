@@ -70,7 +70,7 @@ items:
   verdict_quote: Spanish red wine from Aldi, £1.65 per bottle, it's quite nice isn't
     it? It's no special don't get me wrong dingo, but for wild camping a little bottle
     slipped in the bag.
-- name: Edradour Snaturns Cask Edition
+- name: Edradour Saternes Cask Finish
   category: Whisky
   brand_or_distillery: Edradour
   region_or_style: Highland Single Malt Scotch Whisky
@@ -93,6 +93,7 @@ items:
     a thick, velvety texture.
   verdict_quote: It is one of the best whiskies I've ever had... I can't give it any
     less than a 9.5 out of 10.
+names_verified: true
 ---
 
 **[30:37]** oh yes mandingos you know what time it is, whisky time you better believe it is guys! And what we've got - hold on Mick, you come too quick! Little Mick comes too quick! We've got Edradour - whichever one you say it - Snaturns Cask version, Highland single malt scotch whisky kindly bought for us by a legend by the name of Big Paul. **[32:58]** Go on Mick, you have the first snifferooni and you tell me what you think about this beautiful Highland single malt whisky. What are you getting up the old nostradamus? **[33:36]** Smells nice! Well, Mick says it smells nice. I'm getting some nice fruity elements there. What are you getting? Tut-fruties! A nice fruity element definitely. **[35:42]** Let's get down the old throat dingo mandingos! Oh yeah, I tell you what that is absolutely tremendous! A little bit of a peppery kick, but it's not spicy. And it's quite thick and creamy, goes down smooth like a good cough medicine. **[37:01]** It's like a very strong wine taste! So if you imagine whisky and wine mixed together. What do you think Mick? Rough and smooth at the exact same time! **[39:22]** Edradour, the Snaturns Cask Edition, and that is a strong wine taste. On that score guys, I can't give it any less than a 9.5 out of 10 dingo mandingos! And Mick's giving it a 9.3 out of 10, so an average score of 9.4!

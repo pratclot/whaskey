@@ -6,5 +6,62 @@
   "description": "#wildcamping #getoutside #yorkshiredales \n#wildcampinguk #comedy #whiskyreview \n#hiking #camping #adventure #stealthcamping\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\ude09\nhttps://theblotoutdoorsmerch.myshopify.com/collections/all",
   "thumbnail": "https://i.ytimg.com/vi/7iZKO7t51dw/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Arrival and Camp Setup",
+      "end_time": 298
+    },
+    {
+      "start_time": 298,
+      "title": "First Drink and View",
+      "end_time": 628
+    },
+    {
+      "start_time": 628,
+      "title": "Gear and Food Review",
+      "end_time": 940
+    },
+    {
+      "start_time": 940,
+      "title": "Viewer Mail Shoutout",
+      "end_time": 1155
+    },
+    {
+      "start_time": 1155,
+      "title": "Evening Drinks",
+      "end_time": 1323
+    },
+    {
+      "start_time": 1323,
+      "title": "Viaduct History",
+      "end_time": 1613
+    },
+    {
+      "start_time": 1613,
+      "title": "Dinner View",
+      "end_time": 1740
+    },
+    {
+      "start_time": 1740,
+      "title": "Finding Tent and Chilling",
+      "end_time": 2539
+    },
+    {
+      "start_time": 2539,
+      "title": "Dinner and Pasta",
+      "end_time": 2798
+    },
+    {
+      "start_time": 2798,
+      "title": "Whiskey Review",
+      "end_time": 3596
+    },
+    {
+      "start_time": 3596,
+      "title": "Morning Packing",
+      "end_time": 3803
+    }
+  ]
 }

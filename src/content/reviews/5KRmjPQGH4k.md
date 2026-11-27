@@ -46,7 +46,7 @@ items:
   tasting_notes: A crisp lager kindly sent in by a viewer, enjoyed by the campfire.
   verdict_quote: Get one of hungary's finest Estrella Dum you brood in hungary's capital
     city of Prague.
-- name: Yen Blueberry Beer
+- name: Yersin Blueberry, Maple, Vanilla Pastry Sour
   category: Beer & Ale
   brand_or_distillery: Black Iris Brewery
   region_or_style: Fruity Beer
@@ -83,6 +83,7 @@ items:
   tasting_notes: A potent Hungarian herbal liqueur featuring heavy notes of eucalyptus,
     pine, and medicinal herbs with a thick, warming finish.
   verdict_quote: I'm still going to give it a 7 out of 10 for the entertainment value.
+names_verified: true
 ---
 
 **[18:58]** should we give it a blast Mick I as well give it a blast see what it's all about if you know what I'm talking a snout oh smell that like jam it is actually D it is it's very jummy do you know how Bob Mary likes his sandwiches yeah we're jamming I want to jaming with you with jaming and I hope you like jaming too oh yes Cheers Cheers Mingo cheers oh yes that does take you by surprise it take you around the back door if you know what I'm talking about that is that is lovely very it's nice but it's very tarty bitter car sweet tarty t t she was a right tart w you like jam blueberry for me Mick we've already said blueberry everywh on the side of the c sweet now that is very enjoyable between a few bees isn't it  
