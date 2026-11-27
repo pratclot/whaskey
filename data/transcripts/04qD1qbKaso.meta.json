@@ -6,5 +6,67 @@
   "description": "#stealthcamping #wildcamping \n#stealthcampinguk\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\ude09\nhttps://theblotoutdoorsmerch.myshopify.com/collections/all",
   "thumbnail": "https://i.ytimg.com/vi/04qD1qbKaso/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Heading to the roundabout",
+      "end_time": 178
+    },
+    {
+      "start_time": 178,
+      "title": "Analyzing the location",
+      "end_time": 384
+    },
+    {
+      "start_time": 384,
+      "title": "Getting onto the roundabout",
+      "end_time": 511
+    },
+    {
+      "start_time": 511,
+      "title": "Initial thoughts and drink",
+      "end_time": 1057
+    },
+    {
+      "start_time": 1057,
+      "title": "Evening meal and banter",
+      "end_time": 1375
+    },
+    {
+      "start_time": 1375,
+      "title": "Future camp plans",
+      "end_time": 1761
+    },
+    {
+      "start_time": 1761,
+      "title": "Setting up the camp",
+      "end_time": 2030
+    },
+    {
+      "start_time": 2030,
+      "title": "Inspecting crash sites",
+      "end_time": 2373
+    },
+    {
+      "start_time": 2373,
+      "title": "Nighttime camping reflections",
+      "end_time": 2831
+    },
+    {
+      "start_time": 2831,
+      "title": "Whiskey review",
+      "end_time": 3460
+    },
+    {
+      "start_time": 3460,
+      "title": "Cooking dinner",
+      "end_time": 3914
+    },
+    {
+      "start_time": 3914,
+      "title": "Morning packing and departure",
+      "end_time": 4213
+    }
+  ]
 }

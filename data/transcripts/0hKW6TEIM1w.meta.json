@@ -6,5 +6,47 @@
   "description": "#wildcamping #adventure #hiking #northumberland #whiskyreview #wildcampinguk #cookingoutdoors #berghaus #camping #stealthcamping\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\udc4d\nhttps://theblotoutdoorsmerch.myshopify.com/collections/all\n\nHere's the link for Brown's Biltong, remember to use the code \"mandingo\" for your discount \ud83d\ude09\nhttps://brownsbiltong.co.uk/\n\nHere's a few links for some great channels I've been watching over the last week:\n\nOvens Rocky Mountain Bushcraft\nhttps://youtube.com/@OvensRockyMountainBushcraft\n\nField Days\nhttps://youtube.com/@FieldDays\n\nMurchie's Mountains\nhttps://youtube.com/@murchiesmountains2820\n\nLundy's Wildcamp/Bushcraft \nhttps://youtube.com/@LundysWildcampBushcraft",
   "thumbnail": "https://i.ytimg.com/vi/0hKW6TEIM1w/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Hiking to Yeavering Bell",
+      "end_time": 365
+    },
+    {
+      "start_time": 365,
+      "title": "Setting up camp",
+      "end_time": 520
+    },
+    {
+      "start_time": 520,
+      "title": "Food and drink preparation",
+      "end_time": 865
+    },
+    {
+      "start_time": 865,
+      "title": "Exploring and chatting",
+      "end_time": 1404
+    },
+    {
+      "start_time": 1404,
+      "title": "Cooking dinner",
+      "end_time": 1756
+    },
+    {
+      "start_time": 1756,
+      "title": "Whiskey review",
+      "end_time": 2107
+    },
+    {
+      "start_time": 2107,
+      "title": "Future plans and chats",
+      "end_time": 2322
+    },
+    {
+      "start_time": 2322,
+      "title": "Morning packing and departure",
+      "end_time": 2681
+    }
+  ]
 }

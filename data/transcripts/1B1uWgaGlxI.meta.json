@@ -6,5 +6,57 @@
   "description": "#stealthcamping #wildcamping #getoutside \n#tarpcamping #comedy #stealthcampinguk \n#rumreview #wildcampinguk \n#stealthcamp #camping\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\ude09 \nhttps://theblotoutdoorsmerch.myshopify.com/collections/all",
   "thumbnail": "https://i.ytimg.com/vi/1B1uWgaGlxI/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Arrival and city walk",
+      "end_time": 226
+    },
+    {
+      "start_time": 226,
+      "title": "Navigating to camp",
+      "end_time": 567
+    },
+    {
+      "start_time": 567,
+      "title": "Setting up the campsite",
+      "end_time": 840
+    },
+    {
+      "start_time": 840,
+      "title": "Reflections and social commentary",
+      "end_time": 1208
+    },
+    {
+      "start_time": 1208,
+      "title": "Gear and rum review",
+      "end_time": 1746
+    },
+    {
+      "start_time": 1746,
+      "title": "Campside philosophy and snacks",
+      "end_time": 2303
+    },
+    {
+      "start_time": 2303,
+      "title": "Investigating local activity",
+      "end_time": 2601
+    },
+    {
+      "start_time": 2601,
+      "title": "Concluding the rum review",
+      "end_time": 3162
+    },
+    {
+      "start_time": 3162,
+      "title": "Cooking and final meal",
+      "end_time": 3538
+    },
+    {
+      "start_time": 3538,
+      "title": "Morning departure",
+      "end_time": 3819
+    }
+  ]
 }

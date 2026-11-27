@@ -6,5 +6,62 @@
   "description": "#stealthcamping #wildcamping #getoutside \n#stealthcampinguk #stealthcamp #comedy \n#wildcampinguk #whiskyreview \n#sunderland #camping\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\ude09 \nhttps://theblotoutdoorsmerch.myshopify.com/collections/all",
   "thumbnail": "https://i.ytimg.com/vi/1UipQyAdN5U/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Introduction to the camp",
+      "end_time": 107
+    },
+    {
+      "start_time": 107,
+      "title": "Walking to the spot",
+      "end_time": 264
+    },
+    {
+      "start_time": 264,
+      "title": "Setting up the camp",
+      "end_time": 512
+    },
+    {
+      "start_time": 512,
+      "title": "Initial thoughts and rain",
+      "end_time": 788
+    },
+    {
+      "start_time": 788,
+      "title": "The speed camera view",
+      "end_time": 978
+    },
+    {
+      "start_time": 978,
+      "title": "Weather and relaxation",
+      "end_time": 1287
+    },
+    {
+      "start_time": 1287,
+      "title": "Shoutouts and community",
+      "end_time": 1837
+    },
+    {
+      "start_time": 1837,
+      "title": "Food and drink review",
+      "end_time": 2541
+    },
+    {
+      "start_time": 2541,
+      "title": "Showing the camp layout",
+      "end_time": 3006
+    },
+    {
+      "start_time": 3006,
+      "title": "Late night Wasky review",
+      "end_time": 3510
+    },
+    {
+      "start_time": 3510,
+      "title": "Morning departure",
+      "end_time": 4375
+    }
+  ]
 }

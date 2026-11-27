@@ -6,5 +6,52 @@
   "description": "#wildcamping #camping #getoutside #hiking \n#stealthcamping #beachcamping #backpacking \n#wildcampinguk #stealthcampinguk #beachcamp\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\ude09\nhttps://theblotoutdoorsmerch.myshopify.com/collections/all",
   "thumbnail": "https://i.ytimg.com/vi/0axVsbZrqCI/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Arrival at the beach",
+      "end_time": 296
+    },
+    {
+      "start_time": 296,
+      "title": "Setting up the tent",
+      "end_time": 448
+    },
+    {
+      "start_time": 448,
+      "title": "Camp setup and gear",
+      "end_time": 913
+    },
+    {
+      "start_time": 913,
+      "title": "Rain and evening drinks",
+      "end_time": 1425
+    },
+    {
+      "start_time": 1425,
+      "title": "Midnight snack and chats",
+      "end_time": 2137
+    },
+    {
+      "start_time": 2137,
+      "title": "Whiskey and cheese talk",
+      "end_time": 2878
+    },
+    {
+      "start_time": 2878,
+      "title": "World famous whiskey review",
+      "end_time": 3382
+    },
+    {
+      "start_time": 3382,
+      "title": "Cooking dinner",
+      "end_time": 3705
+    },
+    {
+      "start_time": 3705,
+      "title": "Morning packing and departure",
+      "end_time": 3924
+    }
+  ]
 }

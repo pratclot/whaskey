@@ -6,5 +6,52 @@
   "description": "#stealthcamping #stealthcampinguk \n#stealthcampingalliance #camping\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\ude09 \nhttps://theblotoutdoorsmerch.myshopify.com/collections/all",
   "thumbnail": "https://i.ytimg.com/vi/-bUZb5GuP88/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Arrival and camp setup",
+      "end_time": 207
+    },
+    {
+      "start_time": 207,
+      "title": "Securing the campsite",
+      "end_time": 443
+    },
+    {
+      "start_time": 443,
+      "title": "Gear and meal preparations",
+      "end_time": 816
+    },
+    {
+      "start_time": 816,
+      "title": "Reflecting on life and goals",
+      "end_time": 1201
+    },
+    {
+      "start_time": 1201,
+      "title": "Personal reflections and support",
+      "end_time": 1743
+    },
+    {
+      "start_time": 1743,
+      "title": "Exploring the area",
+      "end_time": 2225
+    },
+    {
+      "start_time": 2225,
+      "title": "Whiskey tasting review",
+      "end_time": 2873
+    },
+    {
+      "start_time": 2873,
+      "title": "Cooking and dining",
+      "end_time": 3378
+    },
+    {
+      "start_time": 3378,
+      "title": "Morning departure",
+      "end_time": 3698
+    }
+  ]
 }

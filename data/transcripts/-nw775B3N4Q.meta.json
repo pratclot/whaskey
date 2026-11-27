@@ -6,5 +6,72 @@
   "description": "#lakedistrict #wildcamping #hiking #backpacking #wildcampinguk #whiskyreview\n#stealthcamping #stealth #outdoors #outdoorcooking\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\udc4d\nhttps://theblotoutdoorsmerch.myshopify.com/collections/all",
   "thumbnail": "https://i.ytimg.com/vi/-nw775B3N4Q/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Hiking to the Lake District",
+      "end_time": 92
+    },
+    {
+      "start_time": 92,
+      "title": "Setting up camp spot",
+      "end_time": 269
+    },
+    {
+      "start_time": 269,
+      "title": "Finding the perfect spot",
+      "end_time": 444
+    },
+    {
+      "start_time": 444,
+      "title": "Arriving at the destination",
+      "end_time": 640
+    },
+    {
+      "start_time": 640,
+      "title": "Setting up the tents",
+      "end_time": 825
+    },
+    {
+      "start_time": 825,
+      "title": "Exploring the surroundings",
+      "end_time": 1065
+    },
+    {
+      "start_time": 1065,
+      "title": "Cooking and preparing food",
+      "end_time": 1385
+    },
+    {
+      "start_time": 1385,
+      "title": "Enjoying the evening",
+      "end_time": 1716
+    },
+    {
+      "start_time": 1716,
+      "title": "The main meal",
+      "end_time": 2055
+    },
+    {
+      "start_time": 2055,
+      "title": "Thanking the viewers",
+      "end_time": 2301
+    },
+    {
+      "start_time": 2301,
+      "title": "Whisky review",
+      "end_time": 2650
+    },
+    {
+      "start_time": 2650,
+      "title": "Evening reflections",
+      "end_time": 3036
+    },
+    {
+      "start_time": 3036,
+      "title": "Morning packing and departure",
+      "end_time": 3326
+    }
+  ]
 }

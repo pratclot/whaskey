@@ -6,5 +6,42 @@
   "description": "#lakedistrict #wildcamping #hiking #whiskyreview #adventure #outdoorcooking #wildcampinguk #stealthcamping #outdoors #camping\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\udc4d \nhttps://theblotoutdoorsmerch.myshopify.com/collections/all\n\nHere's the link for Brown's Biltong \ud83d\ude0b\nhttps://brownsbiltong.co.uk/",
   "thumbnail": "https://i.ytimg.com/vi/0T5O463ufVo/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Hiking to the campsite",
+      "end_time": 250
+    },
+    {
+      "start_time": 250,
+      "title": "Setting up camp and views",
+      "end_time": 671
+    },
+    {
+      "start_time": 671,
+      "title": "Gear and food showcase",
+      "end_time": 1076
+    },
+    {
+      "start_time": 1076,
+      "title": "Evening drinks and music",
+      "end_time": 1587
+    },
+    {
+      "start_time": 1587,
+      "title": "Whiskey review and banter",
+      "end_time": 2420
+    },
+    {
+      "start_time": 2420,
+      "title": "Late night cooking and chat",
+      "end_time": 2919
+    },
+    {
+      "start_time": 2919,
+      "title": "Morning packing and departure",
+      "end_time": 3097
+    }
+  ]
 }

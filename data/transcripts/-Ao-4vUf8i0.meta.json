@@ -6,5 +6,62 @@
   "description": "#sunderland #stealthcamping #wildcamping #stealthcampingalliance #wildcampinguk #adventure #stealth #stealthurbancamping #secretcamping #stealthcampinguk\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\udc4d \nhttps://theblotoutdoorsmerch.myshopify.com/collections/all",
   "thumbnail": "https://i.ytimg.com/vi/-Ao-4vUf8i0/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Arriving at the site",
+      "end_time": 156
+    },
+    {
+      "start_time": 156,
+      "title": "Setting up camp",
+      "end_time": 365
+    },
+    {
+      "start_time": 365,
+      "title": "Gear and food overview",
+      "end_time": 681
+    },
+    {
+      "start_time": 681,
+      "title": "Weather and plan update",
+      "end_time": 925
+    },
+    {
+      "start_time": 925,
+      "title": "Camp life and Q&A",
+      "end_time": 1226
+    },
+    {
+      "start_time": 1226,
+      "title": "Urban camping survey",
+      "end_time": 1739
+    },
+    {
+      "start_time": 1739,
+      "title": "Cooking dinner",
+      "end_time": 2097
+    },
+    {
+      "start_time": 2097,
+      "title": "Subscriber appreciation",
+      "end_time": 2320
+    },
+    {
+      "start_time": 2320,
+      "title": "Whiskey review",
+      "end_time": 2612
+    },
+    {
+      "start_time": 2612,
+      "title": "Packing up and leaving",
+      "end_time": 2738
+    },
+    {
+      "start_time": 2738,
+      "title": "Final thoughts and closing",
+      "end_time": 2894
+    }
+  ]
 }

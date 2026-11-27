@@ -6,5 +6,47 @@
   "description": "#wildcamping #adventure #northumberland #whiskyreview #hiking #backpacking #trekking",
   "thumbnail": "https://i.ytimg.com/vi/-QRihCcc2eA/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Heading to Ross Hill",
+      "end_time": 92
+    },
+    {
+      "start_time": 92,
+      "title": "Reaching the summit",
+      "end_time": 270
+    },
+    {
+      "start_time": 270,
+      "title": "Setting up camp",
+      "end_time": 433
+    },
+    {
+      "start_time": 433,
+      "title": "Preparing dinner",
+      "end_time": 633
+    },
+    {
+      "start_time": 633,
+      "title": "Whiskey review",
+      "end_time": 803
+    },
+    {
+      "start_time": 803,
+      "title": "Eating and relaxing",
+      "end_time": 996
+    },
+    {
+      "start_time": 996,
+      "title": "Night time",
+      "end_time": 1337
+    },
+    {
+      "start_time": 1337,
+      "title": "Morning packing",
+      "end_time": 1656
+    }
+  ]
 }

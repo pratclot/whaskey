@@ -6,5 +6,52 @@
   "description": "#wildcampingscotland #wildcamping #comedy \n#getoutside #wildcampinguk #scotland \n#stealthcamping #hiking #stealthcampinguk\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\ude09 \nhttps://theblotoutdoorsmerch.myshopify.com/collections/all",
   "thumbnail": "https://i.ytimg.com/vi/-gFVoRgbUp0/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Arrival at Fatlips Tower",
+      "end_time": 298
+    },
+    {
+      "start_time": 298,
+      "title": "Setting up camp",
+      "end_time": 681
+    },
+    {
+      "start_time": 681,
+      "title": "History of Fatlips",
+      "end_time": 839
+    },
+    {
+      "start_time": 839,
+      "title": "Reviewing drinks",
+      "end_time": 1478
+    },
+    {
+      "start_time": 1478,
+      "title": "Campground relaxation",
+      "end_time": 2340
+    },
+    {
+      "start_time": 2340,
+      "title": "A story from Kavos",
+      "end_time": 2898
+    },
+    {
+      "start_time": 2898,
+      "title": "Wray and Nephew review",
+      "end_time": 3471
+    },
+    {
+      "start_time": 3471,
+      "title": "Cooking camp dinner",
+      "end_time": 3865
+    },
+    {
+      "start_time": 3865,
+      "title": "Morning departure",
+      "end_time": 4044
+    }
+  ]
 }

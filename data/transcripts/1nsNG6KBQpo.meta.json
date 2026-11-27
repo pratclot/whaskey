@@ -6,5 +6,52 @@
   "description": "#takeaway #food #foodchallenge #foodie #yummy #nastyfood #ratemyplate #whiskey\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\udc4d \nhttps://theblotoutdoorsmerch.myshopify.com/collections/all",
   "thumbnail": "https://i.ytimg.com/vi/1nsNG6KBQpo/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Introduction and arrival",
+      "end_time": 159
+    },
+    {
+      "start_time": 159,
+      "title": "Menu and ordering",
+      "end_time": 417
+    },
+    {
+      "start_time": 417,
+      "title": "Waiting for the food",
+      "end_time": 634
+    },
+    {
+      "start_time": 634,
+      "title": "Unboxing the meal",
+      "end_time": 745
+    },
+    {
+      "start_time": 745,
+      "title": "Food review and scoring",
+      "end_time": 1483
+    },
+    {
+      "start_time": 1483,
+      "title": "Q&A and bloopers",
+      "end_time": 1784
+    },
+    {
+      "start_time": 1784,
+      "title": "Setup for whiskey review",
+      "end_time": 1940
+    },
+    {
+      "start_time": 1940,
+      "title": "Whiskey review",
+      "end_time": 2241
+    },
+    {
+      "start_time": 2241,
+      "title": "Future plans and conclusion",
+      "end_time": 2402
+    }
+  ]
 }

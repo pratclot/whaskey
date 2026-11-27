@@ -6,5 +6,42 @@
   "description": "#food #foodchallenge #foodporn #yummy #chinesefood #nastyfood #ratemyplate #whiskyreview\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\udc4d \nhttps://theblotoutdoorsmerch.myshopify.com/collections/all\n\nHere's the links for some of my favourite foody channels on YouTube \ud83d\ude09\n\nBeard Meats Food\nhttps://youtube.com/@Beardmeatsfood\n\nRate My Takeaway \nhttps://youtube.com/@RateMyTakeaway\n\nWilderness Cooking \nhttps://youtube.com/@WILDERNESSCOOKING\n\nKent Survival \nhttps://youtube.com/@KentSurvival",
   "thumbnail": "https://i.ytimg.com/vi/0T_1wmOvsYU/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Trip to Penrith",
+      "end_time": 203
+    },
+    {
+      "start_time": 203,
+      "title": "Ordering Chinese takeout",
+      "end_time": 390
+    },
+    {
+      "start_time": 390,
+      "title": "Exploring Penrith",
+      "end_time": 591
+    },
+    {
+      "start_time": 591,
+      "title": "Tasting the takeout",
+      "end_time": 965
+    },
+    {
+      "start_time": 965,
+      "title": "Q&A and future plans",
+      "end_time": 1373
+    },
+    {
+      "start_time": 1373,
+      "title": "Whiskey review",
+      "end_time": 1650
+    },
+    {
+      "start_time": 1650,
+      "title": "Video conclusion",
+      "end_time": 1817
+    }
+  ]
 }
