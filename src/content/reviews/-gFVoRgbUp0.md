@@ -48,6 +48,7 @@ items:
     products, with an intense medicinal bite and a weird twist of banana.
   verdict_quote: I'm going to give that a three out of 10 dingo my Mandy dingleberry
     Finley quiz
+names_verified: true
 ---
 
 **[00:46]** Welcome to the Blot Outdoor Show. Today I'm back up in Bonnie Scotland in the Scottish borders to do a wild camp next to Fatlips Tower. **[19:55]** I've been sitting chilling here having a can of Brooklyn Brewery Storm Wall IPA. It's all right, nothing special. **[48:22]** Now it's time for some Wray & Nephew White Rum sent by Big Phil and Little Phil from Blackpool. **[50:49]** Wow, strong smell straight away like spirits, smells like turpentine. **[54:11]** There is a little bit of a fruit element, a weird banana taste in there. **[56:48]** Imagine getting Mickey Robson's Underpants squeezing them and the juice from the gussets going into your mouth, that's what that's like. I'm going to give that a 3 out of 10.

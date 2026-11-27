@@ -33,6 +33,7 @@ items:
     very smooth with a buttery, thick custard texture, complemented by a subtle oaky
     spice and floral elderflower notes.
   verdict_quote: I'm gonna give that Tenjaku Japanese whisky a seven out of ten.
+names_verified: true
 ---
 
 **[36:13]** Oh yeah you know what time this Mandingo was waski time and this is what we've got this week Tenjaku Japanese whisky. The old famous cup let's go in there stick the only boot let's get the old big Arun in it that's got a really nice fresh smell about it there I see the faintest suggestion of smoke just a tiny bit just swirl around there big guys. Yep I knew there was a fruity thing there but it's pears the definite smell of pears in that guys anywhere that's enough of the sniffing let's get on with the tears and rights yep I can smell the pears and also would taste it in the first sip the tricky is not just Goldberg keep it in your mouth enjoy the taste because a lot of people think whiskeys all taste the same but they don't know that is going down really smooth.  

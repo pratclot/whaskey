@@ -34,6 +34,7 @@ items:
     character with notes of cinnamon and a potent chest-warming burn in the aftertaste.
   verdict_quote: It's a good chest warmer isn't it... anywhere I'm gonna give it a
     steady six out of ten.
+names_verified: true
 ---
 
 **[29:43]** This week J&B blended Scotch waski very nice that's been kindly given to us from Robert merti Hume cheese Robert my man friend very much appreciated. **[30:04]** I'm getting like a bit sweet fruit I'm getting a bit smoky like Bells whiskey kind of whiskey, smells like Bells all right I'm also getting the tiniest little hint of vanilla. **[30:22]** Anyway guys that's enough of the sniffing let's get on with it. **[30:43]** What the hell like a strong fresh like a strong fresh taster boat of London goes fresh like oh that was fresh his ass crack right. **[31:01]** I'm also getting a little bit zesty zesty like a fruity zesty thing going on got a bit of a cinnamony taste through the burning. **[31:18]** Oh girls whiskey mate it's like wrong seriously strong Bells whiskey now in the aftertaste say I'm getting like a strong nice light to chest oh that's a chest wobble strong with the tiniest little bit of cinnamon. **[31:36]** It's a blended whiskey just like Bells but I would say it's better than Bells. **[31:55]** It's like the aftertaste is like methylated Spirits oh Jesus I'm gonna look high off the fumes. **[33:08]** I'm still gonna give it uh steady six out of ten six out of ten dingo manding goes is what I'm giving right.

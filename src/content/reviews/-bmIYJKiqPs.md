@@ -73,6 +73,7 @@ items:
     marzipan, citrus, banana liqueur, oak, and soft vanilla on the finish.
   verdict_quote: I'm going to give my score now Mrs blots and I'm going to give that
     very good a very steady 8.5.
+names_verified: true
 ---
 
 **[11:20]** so we're both on camera Mrs blot I'm going to get straight stuck into the beef baguette oh yes a thing of beauty why you messing mushrooms are lovely aren't they that is really nice it's got like a creamy mustard mayo sauce on I think that's where it is... **[14:00]** how's your cheese flan Mrs blot really nice probably one of the best flans I've ever had... **[20:48]** time for the old score dingos Mingos I'm going to give it a ginormous big fat 9.7 out of 10 dingo man dingles... **[27:00]** Mandingo wasy time and this is what we got this week Bain's Cape Mountain Whisky it's a single grain South African whisky... **[34:19]** I'm going to give my score now Mrs blots and I'm going to give that very good a very steady 8.5 yes big steady 8.5 out of 10 dingo mingles

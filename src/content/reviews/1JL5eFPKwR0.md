@@ -32,6 +32,7 @@ items:
     smooth with no burn, developing delicious notes of cinnamon and a gentle warming
     spice.
   verdict_quote: I'm going to give that mate a very good 7.5 out of 10.
+names_verified: true
 ---
 
 **[10:10]** chill out now and i will see you soon for the world famous bonnie lads on tour was key review you know what makes sense right emic what time isit whiskey time mandingo hey you fell for that one whiskey time guys this is what i've got to do spear side single mulch scotch whiskey it's a marks and spencer's one but marks and spencers is decent quality isn't it so let's get this checked out

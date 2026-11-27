@@ -31,6 +31,7 @@ items:
     Goes down remarkably smooth with a nice buzz on the mouth.
   verdict_quote: I'm going to give that big black dick a steady a respectable not
     fantastic but not shite straight as a die. Seven out of 10 dingo.
+names_verified: true
 ---
 
 **[43:36]** We have got the famous Cubingo at the ready guys. And what we've got is something different on Zlot outdoor show. Yes, it's a rum review, but it's got a funny name. This is called big black dick Caribbean rum as we're doing a bit of a Caribbean feature tonight.

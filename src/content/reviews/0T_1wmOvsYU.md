@@ -71,6 +71,7 @@ items:
     The palate brings a rich fruitiness like plums, fresh taste, and sweet spices
     with a smooth, non-rough finish.
   verdict_quote: I'm gonna give it a decent seven out of ten.
+names_verified: true
 ---
 
 **[10:05]** Folks, let's have a quick look at this food before I serve it up and start eating. This fried rice looks just like the typical fried rice you'd get from any Chinese, and this looks like the beef and black bean sauce. Oh, that smells absolutely beautiful, look at that! And last but not least, the chicken chow mein, and now that looks nice as well and smells delicious.

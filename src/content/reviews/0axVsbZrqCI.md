@@ -50,6 +50,7 @@ items:
     mash prepared with pan drippings and a knob of butter.
   verdict_quote: Oh yes a thing of beauty the old black beauty... lovely jubly this
     is like a high quality version of bangers and mash.
+names_verified: true
 ---
 
 **[48:20]** Yes mandingos you know what time it is it's wasy time and this this is what we've got this week famous grous Smokey black blended Scotch wasy kindly bought of me from a couple of Legends by the name of Jew and David thank you very much absolute Legends... **[51:19]** Well let me just tell you straight away that is better mhm it's better than your bug standard famous gross... **[54:36]** famous grous Smokey black mamba I'm going to give that considering 69 is my favorite number if you know what I'm talking about I'm going to give that a 6.9 out of 10 dingo my Mandy dingles...

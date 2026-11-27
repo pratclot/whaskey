@@ -34,6 +34,7 @@ items:
     gentle smoke, leading into an aftertaste reminiscent of vanilla custard.
   verdict_quote: ' Auchnagie blended Scotch waski... I''m gonna give that a big fat
     8.8 out of 10 dingo manding goes you better believe I am top drawer.'
+names_verified: true
 ---
 
 **[38:42]** You know what time this mandingo's waski time and this is what we've got this week Auchnagie Blended Scotch waski made by the Lost distilleries. I want to see a massive thank you to Barry Homewood... So this is a Distillery that was in perthshire in Bonnie Scotland it was open from 1812 to 1911... let's get that open and let's get pouring your famous cup dingo.
