@@ -5,5 +5,7 @@
   "duration": 1021,
   "description": "",
   "thumbnail": "https://i.ytimg.com/vi/mOc3Y24j2yI/hqdefault.jpg",
-  "channel": "BLOT OUTDOORS SHOW"
+  "channel": "BLOT OUTDOORS SHOW",
+  "captions_unavailable": true,
+  "captions_unavailable_reason": "TranscriptsDisabled"
 }
