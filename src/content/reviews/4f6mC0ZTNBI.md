@@ -32,7 +32,7 @@ items:
     and incredibly delicious post-camp meal.
   verdict_quote: I've got to give it a 10 out of 10 it's absolutely fantastic I really
     enjoyed it.
-- name: Lithuanian Mead (Midus)
+- name: Suktinis Lithuanian Mead
   category: Spirits & Liqueur
   brand_or_distillery: Stumbras
   region_or_style: Mead
@@ -54,6 +54,7 @@ items:
     warming spices and a 50% ABV kick.
   verdict_quote: I'm going to give that a solid 7.7 out of 10 dingo mandingos it's
     not my kind of drink but I have enjoyed it.
+names_verified: true
 ---
 
 **[07:56]** There you go guys that looks absolutely fantastic time to get stuck in. Now I've got a little audience as well don't mind me I'm just going to waff on right here we go. Good old Cumberland sausage there guys that's absolutely lovely jubly. Absolutely spot on perfect you don't mind paying a bit extra money when you're getting something as lovely as this. Let's get some butter on this nice bread. Yes guys let's make a nice sausage sarnie get that in there yes look at that the thing of beauty. Really really nice obviously I had a few drinks last night when I was doing the car camp this has sort me right out before I drive home. Top quality guys that's absolutely top quality. Most cafes you go to the sausages are just like below standard that's absolutely top quality. **[17:32]** Right guys let's wrap this up with a score I've got to give it a 10 out of 10 it's absolutely fantastic I really enjoyed it there you go guys Greystone Cafe in the village of Grange in the Borrowdale Valley absolutely fantastic it's a 10 out of 10 from me you better believe it is. **[21:00]** That's quite rich yeah very rich with like a sweet honey type of smell. Give that a swirl around folks maybe some mild spices in there as well. Yeah that's enough of the sniffing let's get on with the tasting rights. I said some mild spices up the old Nostradamus but it's got some um it's got a few serious spices there in the old tasterooni. Wow a lot stronger 50% the old placenta and most whiskies I like 40. It doesn't taste as strong as a wasy but it obviously is you know this they're not going to bullshit that's the strength that's on the side of the bottle. Come on let's see if I can get some tastes quite fruity yeah sweet and tarty dingo is it raspberries or blueberries maybe it's even like blackberries black currants. There's definitely like a a fruity Jammy type of taste with some definite spices. Su Tantis Lithuanian mead bottled in the famous Lithuanian city. **[25:12]** I got like a honey like a rich honey and the smell maybe some light spices stronger spices in the taste a fruity thing also like a sweet honey yep just a lovely warmth in the mouth and as it's going down they all throw dingo imagine I'm going to give that a solid 7.7 out of 10 dingo mandingos it's not my kind of drink but I have enjoyed it.

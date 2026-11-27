@@ -32,6 +32,7 @@ items:
     floral touch. On the palate, it has a burning kick on the gums, but goes down
     smooth in the throat, delivering flavors of plum, black currant, and peach.
   verdict_quote: I'm going to give that a very respectable... 7.7 out of 10 dingo.
+names_verified: true
 ---
 
 **[53:37]** Oh yes, man. Dingos, you know what time it is. It's Hungarian brandy time. Bastillo pelinka. I can't understand that writing, but what I can understand is apricot. So, yeah, we know it's going to have some apricot in it. The rest of it, we'll just have to make it up as we go along. Well, we're not going to make it up. I'm going to tell you what I honestly think, if you know what I'm doing about.
