@@ -6,5 +6,52 @@
   "description": "#wildcamping #getoutside #northumberland \n#stealthcamping #camping #wildcampinguk \n#comedy #hiking #stealthcampinguk \n#hikingandcamping\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\ude09 \nhttps://theblotoutdoorsmerch.myshopify.com/collections/all\n\nHere's the link for James and Laura's channel:\nhttps://youtube.com/@JamesandLaura?feature=shared",
   "thumbnail": "https://i.ytimg.com/vi/2QdHaGtsNvI/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Arrival at the castle ruins",
+      "end_time": 332
+    },
+    {
+      "start_time": 332,
+      "title": "Setting up the campsite",
+      "end_time": 770
+    },
+    {
+      "start_time": 770,
+      "title": "Reflecting on low energy",
+      "end_time": 1056
+    },
+    {
+      "start_time": 1056,
+      "title": "Trip to Wembley Stadium",
+      "end_time": 1717
+    },
+    {
+      "start_time": 1717,
+      "title": "Nighttime atmosphere",
+      "end_time": 2178
+    },
+    {
+      "start_time": 2178,
+      "title": "Reviewing gear and drinks",
+      "end_time": 2499
+    },
+    {
+      "start_time": 2499,
+      "title": "Cooking camp dinner",
+      "end_time": 3216
+    },
+    {
+      "start_time": 3216,
+      "title": "Hungarian brandy review",
+      "end_time": 3761
+    },
+    {
+      "start_time": 3761,
+      "title": "Morning departure",
+      "end_time": 3987
+    }
+  ]
 }

@@ -6,5 +6,37 @@
   "description": "#breakfast #food #takeaway #fullenglishbreakfast #foodreview #foodie \n#foodlover #foodcritic #foodlover #foodblogger\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\ude09\nhttps://theblotoutdoorsmerch.myshopify.com/collections/all",
   "thumbnail": "https://i.ytimg.com/vi/4f6mC0ZTNBI/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Breakfast in the Lake District",
+      "end_time": 969
+    },
+    {
+      "start_time": 969,
+      "title": "Driving home to Sunderland",
+      "end_time": 1152
+    },
+    {
+      "start_time": 1152,
+      "title": "Lithuanian Mead tasting",
+      "end_time": 1556
+    },
+    {
+      "start_time": 1556,
+      "title": "Q&A and channel updates",
+      "end_time": 1938
+    },
+    {
+      "start_time": 1938,
+      "title": "Closing thoughts and plans",
+      "end_time": 2022
+    },
+    {
+      "start_time": 2022,
+      "title": "Outtakes and bloopers",
+      "end_time": 2380
+    }
+  ]
 }
