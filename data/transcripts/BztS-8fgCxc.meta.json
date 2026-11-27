@@ -6,5 +6,47 @@
   "description": "#takeaway #food #steaksandwich #foodreview \n#takeawayfood #toastie #foodlover #foodie \n#wildcamping #stealthcamping\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\ude09\nhttps://theblotoutdoorsmerch.myshopify.com/collections/all",
   "thumbnail": "https://i.ytimg.com/vi/BztS-8fgCxc/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Seaham town introduction",
+      "end_time": 220
+    },
+    {
+      "start_time": 220,
+      "title": "Walking to Humbles",
+      "end_time": 509
+    },
+    {
+      "start_time": 509,
+      "title": "Ordering takeout food",
+      "end_time": 646
+    },
+    {
+      "start_time": 646,
+      "title": "Picking up the meal",
+      "end_time": 793
+    },
+    {
+      "start_time": 793,
+      "title": "Food review and rating",
+      "end_time": 1584
+    },
+    {
+      "start_time": 1584,
+      "title": "Gin tasting review",
+      "end_time": 2096
+    },
+    {
+      "start_time": 2096,
+      "title": "Fans Q&A and channel update",
+      "end_time": 2670
+    },
+    {
+      "start_time": 2670,
+      "title": "Fan clips and closing",
+      "end_time": 2807
+    }
+  ]
 }

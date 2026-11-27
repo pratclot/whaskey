@@ -121,6 +121,7 @@ items:
     smooth finish.
   verdict_quote: I'm going to give that Johnnie Walker song of ice blended scotch
     a big fat juicy 9.4 out of 10.
+names_verified: true
 ---
 
 **[11:55]** Time to get stuck right into this lovely looking food from Istanbul in Egremont. Mrs Blot tries the garlic bread with chili sauce, noting it is quite soft and a standard garlic bread. **[12:44]** Next he tries the meat feast pizza, finding it very nice indeed with a big garlic kick. **[14:12]** Moving on to the loaded fries packed with cheese, onions, and jalapenos, he describes an absolute explosion of flavors that is very spicy yet tasty. **[19:11]** He assembles a chicken kebab in a pita with chili and garlic, praising the chicken as tender, succulent, and cooked to perfection. **[21:04]** He then samples the lamb kebab meat, noting how remarkably soft and tender it is, melting in the mouth. **[26:33]** Giving his final verdict on the takeaway, he awards it a 9.3 out of 10, while Mrs Blot gives it an 8.9. **[35:55]** Later, during the world famous whisky review, he tastes the Johnnie Walker A Song of Ice blended Scotch whisky, highlighting notes of vanilla, caramel, tropical fruit, and a smooth, sweet finish, ultimately rating it a brilliant 9.4 out of 10.

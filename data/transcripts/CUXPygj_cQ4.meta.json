@@ -6,5 +6,47 @@
   "description": "#food #takeaway #foodie #foodchallenge #yummy #nicefood #takeaways\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\ude09 \nhttps://theblotoutdoorsmerch.myshopify.com/collections/all",
   "thumbnail": "https://i.ytimg.com/vi/CUXPygj_cQ4/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Intro",
+      "end_time": 24
+    },
+    {
+      "start_time": 24,
+      "title": "Vlog",
+      "end_time": 239
+    },
+    {
+      "start_time": 239,
+      "title": "Chip Shop Review",
+      "end_time": 660
+    },
+    {
+      "start_time": 660,
+      "title": "Fish Bites Review",
+      "end_time": 1000
+    },
+    {
+      "start_time": 1000,
+      "title": "Mingos Review",
+      "end_time": 1507
+    },
+    {
+      "start_time": 1507,
+      "title": "Moonshine Time",
+      "end_time": 1807
+    },
+    {
+      "start_time": 1807,
+      "title": "Taste Test",
+      "end_time": 2107
+    },
+    {
+      "start_time": 2107,
+      "title": "Rating",
+      "end_time": 2550
+    }
+  ]
 }

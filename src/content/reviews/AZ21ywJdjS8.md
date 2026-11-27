@@ -55,6 +55,7 @@ items:
     cinnamon.
   verdict_quote: I'm going to give that a big fat better than respectable 8.9 out
     of 10 dingo my Mandy dingles
+names_verified: true
 ---
 
 **[50:19]** yes you know what time it is it's wasy time the Balvenie 12-year-old DoubleWood kindly sent to me from a bunch of Legends not just this loads of treats as well biscuits sweet biltong everything in a big box very much appreciated guys from the Glegthorn family Daz, Ian, and the two Kims. **[51:41]** Oak straight away talk about the obvious double wood straight away like a dried fruit thing going on as well like figs, dates maybe a little bit sherry there as well just very slight oh no it's not slight it is there oak, sherry, mild spices. **[53:21]** Mild spices, smooth and like a creamy sherry vanilla. Very nice indeed. Going down smooth there's no harshness to it, there's no kick. **[54:48]** Dark fruits thing coming through now like dried sultanas, dried prunes. When you get that taste in a wasy oh it's so rich, it's rich in flavor but it's delicate on the palate and it's going down silky and smooth it's very enjoyable guys. **[57:12]** The Balvenie 12-year-old single malt wasy I'm going to give that a big fat better than respectable 8.9 out of 10 dingo my Mandy dingles and that is a really good score.

@@ -6,5 +6,67 @@
   "description": "#wildcamping #hikingandcamping #camping \n#lakedistrict #wildcampinguk #stormcamping \n#comedy #stealthcamping #raincamping\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\ude09 \nhttps://theblotoutdoorsmerch.myshopify.com/collections/all\n\nHere's the link for Blackdeer guys \ud83d\udc4d\nhttps://emea01.safelinks.protection.outlook.com/?url=http%3A%2F%2Fwww.blackdeer.com%2F&data=05%7C02%7C%7C755862fc470a4bda1f2608ddfa4cd599%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C638941930121989272%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=aI%2BEYlm5kmxhBzxDLiaGjrfNpocdQoFJT%2BcBr70SiiQ%3D&reserved=0",
   "thumbnail": "https://i.ytimg.com/vi/ARS2cIFgT7k/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Hiking to campsite",
+      "end_time": 240
+    },
+    {
+      "start_time": 240,
+      "title": "Setting up the new tent",
+      "end_time": 487
+    },
+    {
+      "start_time": 487,
+      "title": "Tent tour and views",
+      "end_time": 743
+    },
+    {
+      "start_time": 743,
+      "title": "Gear and drinks",
+      "end_time": 1125
+    },
+    {
+      "start_time": 1125,
+      "title": "Evening meal prep",
+      "end_time": 1478
+    },
+    {
+      "start_time": 1478,
+      "title": "Seeking phone signal",
+      "end_time": 1787
+    },
+    {
+      "start_time": 1787,
+      "title": "Responding to trolls",
+      "end_time": 2515
+    },
+    {
+      "start_time": 2515,
+      "title": "Relaxing in the tent",
+      "end_time": 2762
+    },
+    {
+      "start_time": 2762,
+      "title": "Cooking dinner",
+      "end_time": 3032
+    },
+    {
+      "start_time": 3032,
+      "title": "Enjoying dinner",
+      "end_time": 3556
+    },
+    {
+      "start_time": 3556,
+      "title": "Whiskey review",
+      "end_time": 4278
+    },
+    {
+      "start_time": 4278,
+      "title": "Morning departure",
+      "end_time": 4448
+    }
+  ]
 }

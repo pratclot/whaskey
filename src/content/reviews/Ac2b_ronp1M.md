@@ -31,6 +31,7 @@ items:
     a hint of banana. The palate delivers a big tropical flavor explosion, lots of
     vanilla, and a very smooth, burn-free finish from the rum casks.
   verdict_quote: I'm going to give it a 8.5 out of 10 dingo mandingos.
+names_verified: true
 ---
 
 **[21:12]** Mandingos you know what time it is, waski time and this is what I've got this week: Bushmills Caribbean Rum Cask Finish, you better believe it is. Well Mick, let's get this poured in the old-famous cup dingo... 

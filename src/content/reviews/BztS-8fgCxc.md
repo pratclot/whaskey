@@ -66,6 +66,7 @@ items:
   tasting_notes: Intense zesty clementine and orange flavors with subtle hints of
     cinnamon and perfume, going down surprisingly smooth and oily.
   verdict_quote: I'm going to give it a solid I'm going to give it a 7.2.
+names_verified: true
 ---
 
 **[13:30]** First I'm going to have a little half a toastie because when I finish that I might be nearly full. So there you go, nice ham, cheese and onion toastie, still piping hot, good quality bread. That's nice thick gaming ham, mhm. **[15:20]** Now it's time for the steak and onion with homemade chips. Just going to try a chip before I put the gravy on. Nice thick, oh spot on, absolutely spot on. That's what you want, none of that frozen shite. Plenty of steak in there guys, plenty of onions. Let's get some of this nice proper beef gravy on. That is so soft, cooked to perfection, lovely! **[28:37]** Gordon's Gin Mediterranean Orange. Let's get the old glass in it. Sweet obviously, oranges, but like a sweet clementine. Give that a swirl around folks. A slight perfumey smell mixed in with the smell of gin and clementine. **[17:57]** Woo, I said it was subtle, but that was quite intense, strong, intense orange, zesty orange flavor. Going down smooth, quite smooth and oily, very enjoyable. There's some definite cinnamon in there as well. **[34:14]** I'm going to give it a solid 7.2.

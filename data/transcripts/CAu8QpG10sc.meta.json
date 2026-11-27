@@ -6,5 +6,62 @@
   "description": "#wildcamping #hikingandcamping #adventure \n#camping #comedy #hiking #wildcampinguk \n#stealthcamping #whiskyreview #greatoutdoors\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\ude09\nhttps://theblotoutdoorsmerch.myshopify.com/collections/all\n\nHere's the link for my Facebook page:\nhttps://www.facebook.com/share/1GBCuGFzJv/\n\nHere's the link for my Instagram account:\nhttps://www.instagram.com/blot.outdoors.show.official?igsh=ejBsYjZmem82ZHRr\n\nHere's the link for Merch Bitch on Instagram:\nhttps://www.instagram.com/merchbitch?igsh=OW1qaWp3amY4ZmJp",
   "thumbnail": "https://i.ytimg.com/vi/CAu8QpG10sc/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Arrival and scouting",
+      "end_time": 221
+    },
+    {
+      "start_time": 221,
+      "title": "Finding the campsite",
+      "end_time": 624
+    },
+    {
+      "start_time": 624,
+      "title": "Setting up camp",
+      "end_time": 868
+    },
+    {
+      "start_time": 868,
+      "title": "Relaxing and tidying up",
+      "end_time": 1301
+    },
+    {
+      "start_time": 1301,
+      "title": "Gear and meal prep",
+      "end_time": 1798
+    },
+    {
+      "start_time": 1798,
+      "title": "Visiting the monument",
+      "end_time": 2031
+    },
+    {
+      "start_time": 2031,
+      "title": "Evening reflections",
+      "end_time": 2378
+    },
+    {
+      "start_time": 2378,
+      "title": "Merch draw and news",
+      "end_time": 3032
+    },
+    {
+      "start_time": 3032,
+      "title": "Cooking and eating dinner",
+      "end_time": 4018
+    },
+    {
+      "start_time": 4018,
+      "title": "Whisky review and closing",
+      "end_time": 4482
+    },
+    {
+      "start_time": 4482,
+      "title": "Morning departure",
+      "end_time": 4712
+    }
+  ]
 }

@@ -30,6 +30,7 @@ items:
   tasting_notes: Very smooth with notes of marmalade jam, honey, toffee, fudge, and
     a touch of cinnamon and charcoal barbecue smoke on the finish.
   verdict_quote: I'm gonna give that a big massive nine.3 out of 10 dingo.
+names_verified: true
 ---
 
 **[53:21]** Yes, mingles. You know what time it is. It's was time. And this is what we've got this week from Loch Lomond, single malt scotch whisky, Steam & Fire. Let's get the old glass out. You know it makes sense. Quite sweet, a bit of honey, maybe a bit of toffee, maybe a bit of fudge. Oh, maybe a little bit of orange as well. Very very smooth, maybe the smoothest whisky I've had in quite a few months. Almost like a marmalade jam. Smooth, thick, gloopy, very nice.

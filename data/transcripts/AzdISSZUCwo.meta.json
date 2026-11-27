@@ -6,5 +6,72 @@
   "description": "#wildcamping #getoutside #camping #hiking \n#backpacking #greatoutdoors #stealthcamping \n#wildcampinguk\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\ude09\nhttps://theblotoutdoorsmerch.myshopify.com/collections/all\n\nHere's the link for Brown's Biltong \ud83d\ude0b\nhttps://brownsbiltong.co.uk/mandingo",
   "thumbnail": "https://i.ytimg.com/vi/AzdISSZUCwo/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Arrival and hiking",
+      "end_time": 284
+    },
+    {
+      "start_time": 284,
+      "title": "Finding the campsite",
+      "end_time": 381
+    },
+    {
+      "start_time": 381,
+      "title": "Setting up camp",
+      "end_time": 685
+    },
+    {
+      "start_time": 685,
+      "title": "Chris's supplies",
+      "end_time": 817
+    },
+    {
+      "start_time": 817,
+      "title": "Cowboy Chris's camp",
+      "end_time": 844
+    },
+    {
+      "start_time": 844,
+      "title": "Evening chilling",
+      "end_time": 1172
+    },
+    {
+      "start_time": 1172,
+      "title": "Cooking dinner",
+      "end_time": 1478
+    },
+    {
+      "start_time": 1478,
+      "title": "Enjoying the meal",
+      "end_time": 1993
+    },
+    {
+      "start_time": 1993,
+      "title": "Wasy review",
+      "end_time": 2410
+    },
+    {
+      "start_time": 2410,
+      "title": "Whiskey tasting session",
+      "end_time": 3114
+    },
+    {
+      "start_time": 3114,
+      "title": "Getting ready for bed",
+      "end_time": 3371
+    },
+    {
+      "start_time": 3371,
+      "title": "Morning routine",
+      "end_time": 3471
+    },
+    {
+      "start_time": 3471,
+      "title": "Conclusion",
+      "end_time": 3627
+    }
+  ]
 }

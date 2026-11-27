@@ -56,6 +56,7 @@ items:
     cake with custard and a mild hint of smoke on the medium-length finish.
   verdict_quote: I'm going to give that naked grous a very solid a very steady eight
     out of 10 dingo M dingos
+names_verified: true
 ---
 
 **[10:13]** oh yes guys here we go time to do some Munch and glad back on this lovely looking food as usual I'm going to try a few chips first I love my chips there's nice chunky chips guys not french fries... **[14:15]** I don't even know if I'm writing this I think it's supposed to be like lamb... and if it tastes nice like this does and you'll just enjoy it now what I am liking about this what I am really enjoying about this is guys all what's good Don M and I didn't want that it's very moist... **[24:34]** I'm going to give it a very steady a very respectable win everything up you know the price everything very respectable get your words out Chris 8.5 out of 10 dingo man dingos... **[31:00]** and now it's time for the world famous wasy with you and what have we got this time we have got naked grous oh yes naked grous blended Scotch wasy... **[32:50]** tasting tricycles that's quite smooth sometimes your your Blended wasis can be a bit rough they can be a bit harsh oh there a definite there is a definite Cherry taste in there guys... **[35:45]** time for the all score dingles man dingles I'm going to give that naked grous a very solid a very steady eight out of 10 dingo M dingos

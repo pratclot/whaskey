@@ -71,6 +71,7 @@ items:
     salad, garlic sauce, and chili.
   verdict_quote: The wrap I would give that a 9.5 out of 10. One of the best wraps
     I've ever had.
+names_verified: true
 ---
 
 **[52:14]** It's Wasky time. And this is what we've got this week: Glen Scotia Single Malt Scotch Whisky Double Cask Campbelltown Single Malt Scotch Whisky, kindly given to me from a legend by the name of Nick Ball. Cheers, Nick my man friend, a massive fan of the Blot Outdoor Show. **[54:30]** Let's get the old beaker in it. It's quite mild. Quite... it's got like a sugary like a brown sugar, like a young girl should now honey, brown sugar. Quite sweet. **[55:42]** Fruity, sugary, toffee, caramel. **[57:48]** Smooth, delicate, no burn. Slight tingle on the old tongue dingo, but that's nice. It's not a burning tingle. **[1:01:04]** Toffee, caramel, cinnamon, damn, smooth, not spicy, but it is giving us a little bit of a tingle. **[1:02:08]** It has got a woody taste to it. Oak it is, as it says on the bottle. Very enjoyable indeed. **[1:03:04]** I'm going to give this Glen Scotia a steady 8.9 out of 10 dingo mandingos.

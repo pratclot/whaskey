@@ -6,5 +6,62 @@
   "description": "#stealthcamping #wildcamping #getoutside \n#adventure #stealthcamp #whiskyreview \n#stealthcampinguk #wildcampinguk \n#camping #tentcamping\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\ude09 \nhttps://theblotoutdoorsmerch.myshopify.com/collections/all",
   "thumbnail": "https://i.ytimg.com/vi/AZ21ywJdjS8/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Setting up camp",
+      "end_time": 142
+    },
+    {
+      "start_time": 142,
+      "title": "Securing the location",
+      "end_time": 350
+    },
+    {
+      "start_time": 350,
+      "title": "Tent setup and environment",
+      "end_time": 634
+    },
+    {
+      "start_time": 634,
+      "title": "Reviewing gear and drinks",
+      "end_time": 920
+    },
+    {
+      "start_time": 920,
+      "title": "Receiving viewer gifts",
+      "end_time": 1139
+    },
+    {
+      "start_time": 1139,
+      "title": "Whiskey and snack review",
+      "end_time": 1442
+    },
+    {
+      "start_time": 1442,
+      "title": "Preparation for dinner",
+      "end_time": 2028
+    },
+    {
+      "start_time": 2028,
+      "title": "Ordering at Burger King",
+      "end_time": 2329
+    },
+    {
+      "start_time": 2329,
+      "title": "Dinner and chat",
+      "end_time": 2983
+    },
+    {
+      "start_time": 2983,
+      "title": "Whiskey review",
+      "end_time": 3541
+    },
+    {
+      "start_time": 3541,
+      "title": "Packing up and departing",
+      "end_time": 3689
+    }
+  ]
 }

@@ -74,6 +74,7 @@ items:
     fresh apricot and a nice underlying honey sweetness.
   verdict_quote: A nine for me guys it's absolutely beautiful ardin amican saw turns
     cusk release a nine a straight nine out of 10.
+names_verified: true
 ---
 
 **[09:05]** I've just parked the bloodmobile up at horn bargain car park at Stanley let's have a quick look and see what we've got before we dive in this is the hot beef s with homemade chipperoni that doesn't look too bad plenty beef in there gravy gravy all over the chips happy dingles. **[09:25]** This is obviously going to be the chicken curry with rice... **[23:47]** Right so I'm going to start off with value for money, £10 these day guys, £10 for two takeaway meals... **[25:22]** I'm going to give it a very good a very steady eight a straight eight out of 10 and nothing's wrong with that guys. **[39:35]** Ardnamurchan Sauternes Cask release, am I saying that right Sauternes? Let's get that popped in the old famous cup dingo and let's get the old beaker running... **[41:12]** A lovely peppery kick a good kick to it peppery but nice and smooth and silky at exactly the same time... apricot and also like a lovely little bit of honey thing going on. **[44:05]** A nine for me guys it's absolutely beautiful Ardnamurchan Sauternes Cask release, a nine a straight nine out of 10.

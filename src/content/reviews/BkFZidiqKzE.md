@@ -33,6 +33,7 @@ items:
     oily mouthfeel, and a subtle aftertaste of smoke.
   verdict_quote: I'm going to give that a very respectable 8.2 an 8.2 out of 10 dingo
     mingles I've really enjoyed it I'surprisingly enjoyed it
+names_verified: true
 ---
 
 **[37:02]** oh yes Mandingo you know what time it is wasy time and this is what we have got this week Austrian wasy wild verler wasy am I saying that right I don't know sorry James and Laura if I'm saying that wrong wild vert single mold wasy from Austria once again a massive thank you to James and Laura big Mega massive fans of the blood out door sh I've met them a couple of times absolutely lovely couple you better believe they are they' give us this and they've give us a few more so over the next few weeks you will see me mentioning James and Laura's names quite a few times a couple of Legends anyway let's get on this you put your own little shot cup glass 10 whatever you want to call it on the top but I've got the famous Cub dingo somewhere... 

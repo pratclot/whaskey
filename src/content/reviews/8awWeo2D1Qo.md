@@ -32,6 +32,7 @@ items:
     a delicate taste with hints of port, rum, and a subtle coffee espresso finish.
   verdict_quote: I'm going to give it a steady ear there you go guys a steady ear
     a 8 out of 10 dingo Mandingo for gold Reserve.
+names_verified: true
 ---
 
 **[36:07]** Yes guys you know what I'm talking about this is another serious wasy review gold Reserve yes which has just been popped into the famous cingo M dingo as you can see right and let's get the old big arette you know it makes sense guys let's give it a bsh and get it up the old Nostradamus.

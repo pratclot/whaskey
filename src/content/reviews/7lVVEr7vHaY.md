@@ -32,6 +32,7 @@ items:
     carries a pleasant warming tingle.
   verdict_quote: I'm going to give that moonshine Pete... a very respectable seven
     out of 10.
+names_verified: true
 ---
 
 **[38:46]** So this was given to us by work mate... Kev. It's his relative... a bit of moonshine obviously. We've had a few already, but we will tell you now... I think you can give a better review if you've smashed burgered the whole bottle. **[39:07]** It's got a toffee smell... a bit sweet for me, maybe like a trickle toffee. Quite like malty as well. Certainly like a trickle toffee... quite surprised at the minute. **[39:49]** It's not too much, got a strong tear like, but like sweet spicy taste, sweet and spicy. **[40:09]** Let's have a taste guys. Put this way, it ain't the smoothest, no, but certainly not the roughest we've had. **[42:25]** I'm going to give that moonshine Pete... a very respectable seven out of 10. I was thinking it's going to get a three or a four maybe a five if we're being polite. That's a 7 out of 10 for this man.

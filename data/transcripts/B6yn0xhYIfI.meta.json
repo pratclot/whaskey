@@ -6,5 +6,37 @@
   "description": "#food #waffle #crepe #takeaway #waffles #foodchallenge #crepes #foodie #dessert\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\ude09\nhttps://theblotoutdoorsmerch.myshopify.com/collections/all",
   "thumbnail": "https://i.ytimg.com/vi/B6yn0xhYIfI/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Trip introduction",
+      "end_time": 257
+    },
+    {
+      "start_time": 257,
+      "title": "Ordering at Kaspers",
+      "end_time": 483
+    },
+    {
+      "start_time": 483,
+      "title": "Dessert tasting",
+      "end_time": 1234
+    },
+    {
+      "start_time": 1234,
+      "title": "Mick's life update",
+      "end_time": 1523
+    },
+    {
+      "start_time": 1523,
+      "title": "Whitby spiced rum review",
+      "end_time": 1917
+    },
+    {
+      "start_time": 1917,
+      "title": "Conclusion and bloopers",
+      "end_time": 2155
+    }
+  ]
 }

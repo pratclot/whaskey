@@ -6,5 +6,72 @@
   "description": "#stealthcamping #wildcamping #camping \n#stealthcamp #adventure #stealthcampinguk \n#wildcampinguk #whiskyreview #stealth\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\ude09 \nhttps://theblotoutdoorsmerch.myshopify.com/collections/all",
   "thumbnail": "https://i.ytimg.com/vi/AT8-WJYTFs4/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Introduction",
+      "end_time": 47
+    },
+    {
+      "start_time": 47,
+      "title": "Finding a spot",
+      "end_time": 268
+    },
+    {
+      "start_time": 268,
+      "title": "Delayed setup",
+      "end_time": 539
+    },
+    {
+      "start_time": 539,
+      "title": "Preparing camp",
+      "end_time": 778
+    },
+    {
+      "start_time": 778,
+      "title": "Camp setup complete",
+      "end_time": 1045
+    },
+    {
+      "start_time": 1045,
+      "title": "Q&A part one",
+      "end_time": 1279
+    },
+    {
+      "start_time": 1279,
+      "title": "Gear and food review",
+      "end_time": 1584
+    },
+    {
+      "start_time": 1584,
+      "title": "Q&A part two",
+      "end_time": 2048
+    },
+    {
+      "start_time": 2048,
+      "title": "Q&A part three",
+      "end_time": 2656
+    },
+    {
+      "start_time": 2656,
+      "title": "Channel philosophy",
+      "end_time": 3192
+    },
+    {
+      "start_time": 3192,
+      "title": "Whiskey review",
+      "end_time": 3708
+    },
+    {
+      "start_time": 3708,
+      "title": "Cooking and dining",
+      "end_time": 4143
+    },
+    {
+      "start_time": 4143,
+      "title": "Conclusion",
+      "end_time": 4332
+    }
+  ]
 }

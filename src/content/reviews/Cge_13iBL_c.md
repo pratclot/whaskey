@@ -111,6 +111,7 @@ items:
     curry, adding a delicious spiced crunch.
   verdict_quote: it's only barie and onion and they are really nice and mix them with
     our curry that's a nice cry
+names_verified: true
 ---
 
 **[48:13]** Yes mandingos you know what time it is it's Romanian cognac time kindly sent for me from a lovely couple by the name of Svetlana and Trumpy... **[49:18]** Let's get the old big roon in the cognac lice. Woody straight away the old Woody Harrelson why I'm some Ted Danson, very like a very strong woody smell and that is Fantastical as I'm in Harwood Forest... **[50:24]** A caramelly nutty, the old Christy nutting now say you know the score on the Blot Outdoors Show the whisky is my thing... **[51:48]** A little bit of a red wine type of sniffer roon I know it's not red wine it's Cognac and I'm getting that cognac smell yes with a little bit caramel a definite Woody sniff Dingle... **[53:06]** That is very nice guys and I'm telling you now there isn't a hair on Little Mick's bot it is as smooth... **[57:54]** Brancoveanu Romanian cognac I'm going to give that a big straight as a die nine in fact no it's better than a nine I'm going to give it a 9.2 out of 10 dingo!

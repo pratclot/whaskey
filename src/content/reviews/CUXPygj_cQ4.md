@@ -55,6 +55,7 @@ items:
     and rye notes on the palate. It has a peppery, harsh kick with a hint of cinnamon.
   verdict_quote: I'm going to give that Climax Moonshine a score of six, six out of
     10 dingo Mingos.
+names_verified: true
 ---
 
 **[11:06]** oh yes mandingos here we go time to get stuck in this food I might as well dive straight into there a nice chunky fish bite that guys nice and Big And Chunky M oh you can see the steam still coming off still red hot... **[12:11]** oh my God them are really really nice really tasty wow... **[14:34]** I'm going to see it they are up there with the best fish bites I've ever had... **[17:13]** normally when you get mixed wrap them somewhere from your typical pizza shop or Kebab shop the chips are just standard Frozen chips these is probably fish and chip shop chips so that's make it's really nice guys... **[23:47]** I'm going to give this Thornley fisheries and K Durham I'm going to give it a big fat 9.5 out of 10 dinga Mingos... **[31:21]** let's get on with it teing rice oh boomski that's got a strong strange taste I've never had before and me first impression straight away is I'm not a lover of it... **[35:07]** for that Climax Moonshine I'm going to give that a score of six six out of 10 dingo Mingos.

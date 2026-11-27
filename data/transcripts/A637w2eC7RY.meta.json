@@ -6,5 +6,62 @@
   "description": "#stealthcamping #wildcamping \n#stealthcampinguk\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\ude09 \nhttps://theblotoutdoorsmerch.myshopify.com/collections/all\n\nHere's the link for Nicks channel: \nhttps://youtube.com/@Thats_him_with_the_daft_hat?feature=shared",
   "thumbnail": "https://i.ytimg.com/vi/A637w2eC7RY/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Heading to town",
+      "end_time": 172
+    },
+    {
+      "start_time": 172,
+      "title": "Setting up camp",
+      "end_time": 376
+    },
+    {
+      "start_time": 376,
+      "title": "Relaxing at camp",
+      "end_time": 648
+    },
+    {
+      "start_time": 648,
+      "title": "Examining the location",
+      "end_time": 909
+    },
+    {
+      "start_time": 909,
+      "title": "Preparing evening meal",
+      "end_time": 1557
+    },
+    {
+      "start_time": 1557,
+      "title": "Mooching through town",
+      "end_time": 1817
+    },
+    {
+      "start_time": 1817,
+      "title": "Ordering takeout food",
+      "end_time": 2202
+    },
+    {
+      "start_time": 2202,
+      "title": "Takeaway food review",
+      "end_time": 2865
+    },
+    {
+      "start_time": 2865,
+      "title": "Post-meal relax",
+      "end_time": 3122
+    },
+    {
+      "start_time": 3122,
+      "title": "Whiskey review",
+      "end_time": 3845
+    },
+    {
+      "start_time": 3845,
+      "title": "Morning packing",
+      "end_time": 4133
+    }
+  ]
 }

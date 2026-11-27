@@ -6,5 +6,87 @@
   "description": "#wildcampingscotland #wildcamping #camping \n#scotland #getoutside #wildcampinguk \n#backpacking #stealthcamping #whiskyreview \n#stealthcampinguk\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\ude09 \nhttps://theblotoutdoorsmerch.myshopify.com/collections/all",
   "thumbnail": "https://i.ytimg.com/vi/968XinzH_Kw/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Hiking to the monument",
+      "end_time": 275
+    },
+    {
+      "start_time": 275,
+      "title": "Setting up camp",
+      "end_time": 403
+    },
+    {
+      "start_time": 403,
+      "title": "Weather and wildlife",
+      "end_time": 579
+    },
+    {
+      "start_time": 579,
+      "title": "Dealing with the cows",
+      "end_time": 898
+    },
+    {
+      "start_time": 898,
+      "title": "Gear and refreshments",
+      "end_time": 1101
+    },
+    {
+      "start_time": 1101,
+      "title": "Camera mishaps",
+      "end_time": 1253
+    },
+    {
+      "start_time": 1253,
+      "title": "Ipa and cow stories",
+      "end_time": 1548
+    },
+    {
+      "start_time": 1548,
+      "title": "Editing and relaxing",
+      "end_time": 1723
+    },
+    {
+      "start_time": 1723,
+      "title": "A messy discovery",
+      "end_time": 1840
+    },
+    {
+      "start_time": 1840,
+      "title": "Camp food plans",
+      "end_time": 2176
+    },
+    {
+      "start_time": 2176,
+      "title": "Rusty nail incident",
+      "end_time": 2400
+    },
+    {
+      "start_time": 2400,
+      "title": "Tetanus shot story",
+      "end_time": 2750
+    },
+    {
+      "start_time": 2750,
+      "title": "Monument history",
+      "end_time": 3131
+    },
+    {
+      "start_time": 3131,
+      "title": "Whiskey review",
+      "end_time": 3774
+    },
+    {
+      "start_time": 3774,
+      "title": "Cooking dinner",
+      "end_time": 3976
+    },
+    {
+      "start_time": 3976,
+      "title": "Packing up and departure",
+      "end_time": 4223
+    }
+  ]
 }

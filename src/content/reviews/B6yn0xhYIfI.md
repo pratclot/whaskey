@@ -72,6 +72,7 @@ items:
     and rich stewed plum flavours with no harsh burn on the finish.
   verdict_quote: Whitby spice room I'm going to give that a solid very very good very
     very respectable 8.5.
+names_verified: true
 ---
 
 **[10:19]** Here we go time for me and Mick to get stuck into this lovely looking dessert. We've got the strawberry Indulgence American waffle, we've got the French crepes with strawberries, blueberry ice cream, and vanilla ice cream. Time to get stuck in!  

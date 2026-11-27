@@ -6,5 +6,62 @@
   "description": "#tentbox #carcamping #comedy #wildcamping \n#stealthcamping #wildcampingscotland \n#hikingandcamping #hiking \n#whiskyreview #getoutside\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\ude09\nhttps://theblotoutdoorsmerch.myshopify.com/collections/all",
   "thumbnail": "https://i.ytimg.com/vi/7rZqA_uYXX8/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Coastal walk and snacks",
+      "end_time": 422
+    },
+    {
+      "start_time": 422,
+      "title": "Exploring a harbor town",
+      "end_time": 748
+    },
+    {
+      "start_time": 748,
+      "title": "Setting up roof tent",
+      "end_time": 931
+    },
+    {
+      "start_time": 931,
+      "title": "Tent tour and views",
+      "end_time": 1393
+    },
+    {
+      "start_time": 1393,
+      "title": "Pre-dinner drinks and chat",
+      "end_time": 1640
+    },
+    {
+      "start_time": 1640,
+      "title": "Helping the local farmer",
+      "end_time": 1945
+    },
+    {
+      "start_time": 1945,
+      "title": "Tent interior and drinks",
+      "end_time": 2360
+    },
+    {
+      "start_time": 2360,
+      "title": "Cooking beef stew dinner",
+      "end_time": 2870
+    },
+    {
+      "start_time": 2870,
+      "title": "Evening relaxation and wine",
+      "end_time": 3630
+    },
+    {
+      "start_time": 3630,
+      "title": "World famous whiskey review",
+      "end_time": 4137
+    },
+    {
+      "start_time": 4137,
+      "title": "Morning recap and conclusion",
+      "end_time": 4324
+    }
+  ]
 }

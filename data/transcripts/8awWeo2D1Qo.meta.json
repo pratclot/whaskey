@@ -6,5 +6,52 @@
   "description": "#stealthcamping #bikepacking #wildcamping \n#getoutside #stealthcampinguk #bikecamping \n#wildcampinguk #camping #greatoutdoors \n#outdoorcooking\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\ude09 \nhttps://theblotoutdoorsmerch.myshopify.com/collections/all\n\nHere's the link for fiido e-bikes:\nhttps://bit.ly/3GAH5Xh\n\nHere's a link for fiido on YouTube:\nhttps://www.youtube.com/@FIIDOEbikeOfficial",
   "thumbnail": "https://i.ytimg.com/vi/8awWeo2D1Qo/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Ebike stealth camp intro",
+      "end_time": 208
+    },
+    {
+      "start_time": 208,
+      "title": "Traveling to the camp spot",
+      "end_time": 458
+    },
+    {
+      "start_time": 458,
+      "title": "Setting up camp site",
+      "end_time": 748
+    },
+    {
+      "start_time": 748,
+      "title": "Evening whiskey review",
+      "end_time": 1003
+    },
+    {
+      "start_time": 1003,
+      "title": "Ebike performance review",
+      "end_time": 1407
+    },
+    {
+      "start_time": 1407,
+      "title": "Philosophy and channel updates",
+      "end_time": 1815
+    },
+    {
+      "start_time": 1815,
+      "title": "Evening meal and drinks",
+      "end_time": 2633
+    },
+    {
+      "start_time": 2633,
+      "title": "Morning breakfast and thanks",
+      "end_time": 3132
+    },
+    {
+      "start_time": 3132,
+      "title": "Packing up and departure",
+      "end_time": 3395
+    }
+  ]
 }

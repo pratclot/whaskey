@@ -56,7 +56,7 @@ items:
     watching the ripples on Ullswater.
   verdict_quote: Oh yes, that's a nice quality hoppy drop — haven't had one of these
     for a few weeks and thoroughly enjoyed it!
-- name: Duration Brewing — Turtles All The Way Down ('Fish of Them') Pale Ale
+- name: Duration Brewing — Fishermen Pale Ale
   category: Beer & Ale
   brand_or_distillery: Duration Brewing
   region_or_style: American Pale Ale
@@ -96,8 +96,8 @@ items:
     while rain lashed the tent at Silver Bay. Melt-in-the-mouth tender.
   verdict_quote: Look how soft that is, pulling apart in your mouth — I've had steaks
     in restaurants that haven't been as good as that. Unbelievable!
+names_verified: true
 ---
-
 
 ## Tasting Transcript Excerpt
 

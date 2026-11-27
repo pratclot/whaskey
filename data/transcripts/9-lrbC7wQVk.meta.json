@@ -6,5 +6,37 @@
   "description": "#stealthcamping #wildcampinguk #camping \n#stealthcampingalliance #comedy #rumreview \n#stealthcampinguk #wildcamping #adventure\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\ude09\nhttps://theblotoutdoorsmerch.myshopify.com/collections/all",
   "thumbnail": "https://i.ytimg.com/vi/9-lrbC7wQVk/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Arrival and setup",
+      "end_time": 124
+    },
+    {
+      "start_time": 124,
+      "title": "Security and surroundings",
+      "end_time": 544
+    },
+    {
+      "start_time": 544,
+      "title": "Finding a campsite",
+      "end_time": 1182
+    },
+    {
+      "start_time": 1182,
+      "title": "Camping and festival sounds",
+      "end_time": 2351
+    },
+    {
+      "start_time": 2351,
+      "title": "Snacks and preparations",
+      "end_time": 2810
+    },
+    {
+      "start_time": 2810,
+      "title": "Rum review",
+      "end_time": 3693
+    }
+  ]
 }

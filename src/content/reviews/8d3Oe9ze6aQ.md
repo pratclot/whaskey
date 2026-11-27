@@ -88,6 +88,7 @@ items:
     the camp stove to provide warmth in the tent.
   verdict_quote: I mean it's done the job, guys, to be honest. But I don't think I'll
     be buying it again.
+names_verified: true
 ---
 
 **[32:42]** Right, folks. Brewed in the UK in the northeast of England in the fine tiny town of Tow Law. We have got a bottle of Charlotte's love juice. Also, we've got a bottle of Staropramen Belgian's fine lager beer. Let's give it a blast. That isn't bad, you know. When I smelled it, I wasn't too sure. That isn't bad at all. Spank you very much, Craig and Charlotte. I think you're onto something there, like. I'll give that an eight out of 10.

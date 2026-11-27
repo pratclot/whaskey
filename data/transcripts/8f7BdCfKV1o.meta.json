@@ -6,5 +6,72 @@
   "description": "#food #foodchallenge #foodie #Istanbul #kebab #yummy #pizzashop #whiskyreview #ratemyplate #takeaway\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\udc4d\nhttps://theblotoutdoorsmerch.myshopify.com/collections/all",
   "thumbnail": "https://i.ytimg.com/vi/8f7BdCfKV1o/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Intro",
+      "end_time": 24
+    },
+    {
+      "start_time": 24,
+      "title": "Welcome",
+      "end_time": 285
+    },
+    {
+      "start_time": 285,
+      "title": "Ordering",
+      "end_time": 418
+    },
+    {
+      "start_time": 418,
+      "title": "Istanbul Kebab Shop",
+      "end_time": 630
+    },
+    {
+      "start_time": 630,
+      "title": "Food review",
+      "end_time": 703
+    },
+    {
+      "start_time": 703,
+      "title": "First bite",
+      "end_time": 1000
+    },
+    {
+      "start_time": 1000,
+      "title": "Chicken",
+      "end_time": 1433
+    },
+    {
+      "start_time": 1433,
+      "title": "Kebab",
+      "end_time": 1653
+    },
+    {
+      "start_time": 1653,
+      "title": "Draw",
+      "end_time": 2165
+    },
+    {
+      "start_time": 2165,
+      "title": "Johnny Walker",
+      "end_time": 2223
+    },
+    {
+      "start_time": 2223,
+      "title": "Mrs Blot",
+      "end_time": 2265
+    },
+    {
+      "start_time": 2265,
+      "title": "Tasting",
+      "end_time": 2741
+    },
+    {
+      "start_time": 2741,
+      "title": "Bloopers",
+      "end_time": 3036
+    }
+  ]
 }

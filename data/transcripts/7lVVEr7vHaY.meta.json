@@ -6,5 +6,62 @@
   "description": "#wildcampinguk #scotland #wildcamping\n#backpacking #getoutside #hiking #stealthcamping #wildcampingscotland \n#whiskyreview #stealthcampinguk\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\ude09\nhttps://theblotoutdoorsmerch.myshopify.com/collections/all",
   "thumbnail": "https://i.ytimg.com/vi/7lVVEr7vHaY/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Introduction",
+      "end_time": 76
+    },
+    {
+      "start_time": 76,
+      "title": "Arrival and setup",
+      "end_time": 402
+    },
+    {
+      "start_time": 402,
+      "title": "Exploring castle ruins",
+      "end_time": 755
+    },
+    {
+      "start_time": 755,
+      "title": "Meal and drink prep",
+      "end_time": 1136
+    },
+    {
+      "start_time": 1136,
+      "title": "Night time at camp",
+      "end_time": 1584
+    },
+    {
+      "start_time": 1584,
+      "title": "Landowner encounter",
+      "end_time": 1744
+    },
+    {
+      "start_time": 1744,
+      "title": "Cooking paella",
+      "end_time": 2223
+    },
+    {
+      "start_time": 2223,
+      "title": "Moonshine review",
+      "end_time": 2609
+    },
+    {
+      "start_time": 2609,
+      "title": "Late night reflections",
+      "end_time": 2765
+    },
+    {
+      "start_time": 2765,
+      "title": "Morning packing",
+      "end_time": 2934
+    },
+    {
+      "start_time": 2934,
+      "title": "Conclusion",
+      "end_time": 3057
+    }
+  ]
 }

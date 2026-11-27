@@ -54,6 +54,7 @@ items:
     a waxy mouthfeel with notes of green and red apples, a subtle hint of grapefruit,
     and gentle spices.
   verdict_quote: I'm going to give that an 8.7 guys. You better believe I am.
+names_verified: true
 ---
 
 **[31:11]** Anyway, this is what we've got, guys. Knockdhu. Can you say that? Knotchi organic scotch wasky. Kindly sent to me from a lovely couple by the name of Steven and Jillian... **[34:19]** Here we go, guys. Let me get the old bakeroon in it. Quite fruity. Lemon peaches at recot. I tell you what, that's actually quite elegant. There's a few mild spices in there, guys... **[35:41]** Ah, tarty sweet lemon on a lemon cheesecake. Wow. Tangy tarty lemon cheesecake, a few mild spices. That that's nice... **[38:16]** Do you know what? I have thoroughly enjoyed that. I'm going to give that a solid nine. **[52:34]** It is time for the second world famous wasky review. So you was lovers are getting a real treat tonight... Deanston 12-year-old single malt scotch wasky kindly given to me from a legend by the name of Michael Jefferson... **[53:49]** Oo, a little bit heather. Like a honeyed heather toffee. Creamy toffee. Oh yes, pet... **[54:53]** Quite grainy. Quite waxy. A nice waxy feel. A lovely tingle on the old tong dingo of some spices... apples like a mixture of red and green apples at exactly the same time, guys... **[58:33]** I'm going to give that not quite as high as the last one... I'm going to give that a 8.7 guys.

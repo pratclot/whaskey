@@ -32,6 +32,7 @@ items:
     notes, gentle spices, and a pleasant back taste of treacle toffee.
   verdict_quote: Glen fidic 12y old I'm going to give that a nice solid steady eight
     it's a eight out of 10 dingo from this man dingo
+names_verified: true
 ---
 
 **[53:40]** Glen fidic 12-year-old single malt scotch wasy kindly given to me from Mrs blood's dad and his wife Angela. Cheers Glenn and Angela. Let's get the biger roonin. That's quite greeny. Yeah, it is quite greany indeed, but like a floral type of smell. Does that make sense? Like a floral sniffon up the old Nostradamus, yeah, definitely greeny, definite floral. Give that a swirl around, a slight little few spices going up the bake there, giving us a bit tingle and the old nostradamus's head and goes maybe the slightest fruity element, but that's enough for the sniffing, let's get on with a tting rice cakes. I love Glenfiddich. It's going down so smooth, so oily. Come on, let's have another couple of tests and see where I get. Almost like, yeah, like a little bit of a back taste of like a bit of a trickle toffee. There's no harshness about it. Yes, there's a few spices, but they're not overpowering. They're just mixing in with a flavor Oni and it's very enjoyable. Glen fidic 12y old I'm going to give that a nice solid steady eight it's a eight out of 10 dingo from this man dingo.

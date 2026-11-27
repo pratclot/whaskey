@@ -30,6 +30,7 @@ items:
     bonfire, and sweet toffee. The palate is quite harsh and burning, featuring charred
     oak and a heavy sweet toffee character.
   verdict_quote: I'm going to give it a seven out of 10, dingo. My mandy dingleberry.
+names_verified: true
 ---
 
 **[45:08]** Oh yes, my manny dingleberries. You know what time it is? It's washy time. This is what we've got this week. Bladnoch single malt scotch washy, 52 placenta. A customized bottle with the best looking wild camper in the UK wild camping scene. Spank you very much to the legends, David Redford and Christine Hawborn from Washington.

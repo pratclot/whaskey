@@ -6,5 +6,52 @@
   "description": "#fishandchips #food #foodchallenge #foodie #yummy #nastyfood #ratemyplate #whiskyreview\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\udc4d\nhttps://theblotoutdoorsmerch.myshopify.com/collections/all",
   "thumbnail": "https://i.ytimg.com/vi/BRRrJsGGK2w/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Introduction",
+      "end_time": 166
+    },
+    {
+      "start_time": 166,
+      "title": "Perfect Fry takeaway review",
+      "end_time": 293
+    },
+    {
+      "start_time": 293,
+      "title": "Ordering food",
+      "end_time": 418
+    },
+    {
+      "start_time": 418,
+      "title": "Food pickup",
+      "end_time": 566
+    },
+    {
+      "start_time": 566,
+      "title": "Food review",
+      "end_time": 751
+    },
+    {
+      "start_time": 751,
+      "title": "Final food verdict",
+      "end_time": 1148
+    },
+    {
+      "start_time": 1148,
+      "title": "Mid-video update",
+      "end_time": 1319
+    },
+    {
+      "start_time": 1319,
+      "title": "Whiskey review",
+      "end_time": 1732
+    },
+    {
+      "start_time": 1732,
+      "title": "Conclusion",
+      "end_time": 1920
+    }
+  ]
 }

@@ -6,5 +6,37 @@
   "description": "#pizzashop #food #foodchallenge #foodie #yummy #nastyfood #ratemyplate #whiskey\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\udc4d\nhttps://theblotoutdoorsmerch.myshopify.com/collections/all",
   "thumbnail": "https://i.ytimg.com/vi/CHsjyFhRtmY/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Introduction",
+      "end_time": 157
+    },
+    {
+      "start_time": 157,
+      "title": "Ordering food",
+      "end_time": 350
+    },
+    {
+      "start_time": 350,
+      "title": "Collecting the takeaway",
+      "end_time": 602
+    },
+    {
+      "start_time": 602,
+      "title": "Food review",
+      "end_time": 1493
+    },
+    {
+      "start_time": 1493,
+      "title": "Whiskey review",
+      "end_time": 1779
+    },
+    {
+      "start_time": 1779,
+      "title": "Outro and bloopers",
+      "end_time": 2050
+    }
+  ]
 }

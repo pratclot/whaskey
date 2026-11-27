@@ -31,6 +31,7 @@ items:
     notes like pineapple and marshmallow. The palate is sweet, smooth, and easy to
     sip, developing hints of lemon and oak on later tastes.
   verdict_quote: I'm going to give that Tomatin a very decent 8 out of 10 mandingo.
+names_verified: true
 ---
 
 **[10:16]** was key time you know what i'm talking about waski time this is what we've got mandingos Tomatin like i said i think that's how you see it that's how we're gonna see it highland single malt scotch waskey first time i've had this it's just a little bottle so me and the little mandingo will share it let's get in there right schmick  

@@ -6,5 +6,57 @@
   "description": "#hikingandcamping #wildcamping #hiking \n#getoutside #wildcampinguk \n#stealthcamping #tarpcamping\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\ude09 \nhttps://theblotoutdoorsmerch.myshopify.com/collections/all",
   "thumbnail": "https://i.ytimg.com/vi/ADt0-blSIXs/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Tarn Hows introduction",
+      "end_time": 209
+    },
+    {
+      "start_time": 209,
+      "title": "Hiking to Black Crag",
+      "end_time": 481
+    },
+    {
+      "start_time": 481,
+      "title": "Summit views and scouting",
+      "end_time": 608
+    },
+    {
+      "start_time": 608,
+      "title": "Setting up the campsite",
+      "end_time": 816
+    },
+    {
+      "start_time": 816,
+      "title": "Gear and food review",
+      "end_time": 1464
+    },
+    {
+      "start_time": 1464,
+      "title": "Life and channel talk",
+      "end_time": 2135
+    },
+    {
+      "start_time": 2135,
+      "title": "Evening in the bivouac",
+      "end_time": 2639
+    },
+    {
+      "start_time": 2639,
+      "title": "Dinner and food review",
+      "end_time": 3198
+    },
+    {
+      "start_time": 3198,
+      "title": "Whiskey review",
+      "end_time": 3783
+    },
+    {
+      "start_time": 3783,
+      "title": "Morning packing and departure",
+      "end_time": 4015
+    }
+  ]
 }

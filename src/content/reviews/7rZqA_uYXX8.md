@@ -32,6 +32,7 @@ items:
     a nice spicy back kick that is very enjoyable and smooth.
   verdict_quote: I'll give that a solid tie. I'm going to give it a solid eight out
     of 10.
+names_verified: true
 ---
 
 **[01:00:33]** Yes, mingoes. You know what time it is? It's was time. You better believe it is. What have we got this week? It's an Irish was and it's called Tyrconnell. I think that's how you say it. A full size bottle of that would cost you about 25, 26, 27 pound depending where you get it from. Let's get the old big Rooney in it. Quite mild. A slight plum, sugary flavor on the old tongue dingo, but it has got that kick of a naughty wasy. Down the hatch, guys. Plummy, sugary, few tingles on the old tongue dingo. Not harsh. Very enjoyable. I'll give that a solid eight out of 10, Dingo.

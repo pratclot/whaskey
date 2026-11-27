@@ -53,6 +53,7 @@ items:
     stove inside the stealth camp.
   verdict_quote: That is nice mandingos, right up and all that is a cheap bag from
     Iceland chinese chicken stir fry.
+names_verified: true
 ---
 
 **[14:29]** Oh yeah you know what time it is mandingos waski time and this is what i've got this week cheap war morrison's own brand three-year-old scotch waskey in the old little cup straight in the last of it i need to keep it down i'm talking too loud.  

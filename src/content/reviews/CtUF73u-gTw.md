@@ -32,6 +32,7 @@ items:
     features nutty caramel and warm spices, making for a very decent and enjoyable
     pour.
   verdict_quote: Paul John Indian single malt wasi is getting a 7.7 out of 10 dingo.
+names_verified: true
 ---
 
 **[44:38]** You know what time it is? It is certainly was time. And this is what we've got this week. Paul John Indian single malt was. **[45:16]** It has been kindly given to me from my lovely mother-in-law, the lovely Lorraine. Thank you very much, Lorraine. **[46:12]** Not a strong smell and not a nasty smell. Bit of a ginger, the old ginger spice snifferooni. **[47:11]** It's got a little bit of a trial toffee type of snifferoon. **[49:20]** In the taste it's more like a nutty caramel thing going on. **[51:20]** Nutty toffee caramel. **[53:34]** Paul John Indian single malt waski. I'm going to give that a 7.7 out of 10.

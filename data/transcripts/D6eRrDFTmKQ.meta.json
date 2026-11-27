@@ -6,5 +6,52 @@
   "description": "#wildcamping #hikingandcamping #getoutside \n#wildcampinguk #comedy #stealthcampinguk \n#lakedistrict #stealthcamping #camping \n#whiskyreview\n\nHere's the link for young Chris's channel: \nhttps://youtube.com/@yackertravels?feature=shared\n\nHere's the link for Tony's channel:\nhttps://youtube.com/@Northeastnomad44?feature=shared\n\nHere's the link for YakandTone (music)\nhttps://youtube.com/@TheShafts44?feature=shared\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\ude09\nhttps://theblotoutdoorsmerch.myshopify.com/collections/all",
   "thumbnail": "https://i.ytimg.com/vi/D6eRrDFTmKQ/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Arrival at camp",
+      "end_time": 334
+    },
+    {
+      "start_time": 334,
+      "title": "Setting up camp and supplies",
+      "end_time": 780
+    },
+    {
+      "start_time": 780,
+      "title": "Hiking to the summit",
+      "end_time": 955
+    },
+    {
+      "start_time": 955,
+      "title": "Live music session",
+      "end_time": 1446
+    },
+    {
+      "start_time": 1446,
+      "title": "Evening relaxation and tunes",
+      "end_time": 2021
+    },
+    {
+      "start_time": 2021,
+      "title": "Inside the tent",
+      "end_time": 2387
+    },
+    {
+      "start_time": 2387,
+      "title": "Whiskey tasting",
+      "end_time": 3062
+    },
+    {
+      "start_time": 3062,
+      "title": "Preparing dinner",
+      "end_time": 3710
+    },
+    {
+      "start_time": 3710,
+      "title": "Packing up and departure",
+      "end_time": 3946
+    }
+  ]
 }

@@ -6,5 +6,37 @@
   "description": "",
   "thumbnail": "https://i.ytimg.com/vi/APQe5MXMj3o/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Arrival and hike setup",
+      "end_time": 270
+    },
+    {
+      "start_time": 270,
+      "title": "Finding a campsite",
+      "end_time": 518
+    },
+    {
+      "start_time": 518,
+      "title": "Setting up camp",
+      "end_time": 835
+    },
+    {
+      "start_time": 835,
+      "title": "Cooking dinner",
+      "end_time": 990
+    },
+    {
+      "start_time": 990,
+      "title": "Whiskey review and evening",
+      "end_time": 1302
+    },
+    {
+      "start_time": 1302,
+      "title": "Morning wrap-up",
+      "end_time": 1435
+    }
+  ]
 }

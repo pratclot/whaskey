@@ -6,5 +6,52 @@
   "description": "#wildcampingscotland #camping #wildcamping \n#getoutside #stealthcamping #greatoutdoors \n#wildcampinguk #whiskyreview \n#stealthcampinguk #scotland\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\ude09\nhttps://theblotoutdoorsmerch.myshopify.com/collections/all",
   "thumbnail": "https://i.ytimg.com/vi/9xQJLrFKGiQ/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Hiking to the tower",
+      "end_time": 329
+    },
+    {
+      "start_time": 329,
+      "title": "Setting up camp",
+      "end_time": 661
+    },
+    {
+      "start_time": 661,
+      "title": "Exploring the ruins",
+      "end_time": 925
+    },
+    {
+      "start_time": 925,
+      "title": "Gear and beer review",
+      "end_time": 1406
+    },
+    {
+      "start_time": 1406,
+      "title": "Riverside Q&A",
+      "end_time": 2118
+    },
+    {
+      "start_time": 2118,
+      "title": "Evening drinks and chat",
+      "end_time": 2584
+    },
+    {
+      "start_time": 2584,
+      "title": "Whisky review",
+      "end_time": 3389
+    },
+    {
+      "start_time": 3389,
+      "title": "Cooking the steak",
+      "end_time": 3836
+    },
+    {
+      "start_time": 3836,
+      "title": "Morning departure",
+      "end_time": 4054
+    }
+  ]
 }

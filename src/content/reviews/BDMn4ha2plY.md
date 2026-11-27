@@ -33,6 +33,7 @@ items:
     a dark chocolate note coming through in the finish.
   verdict_quote: Monkey Shoulder blended Scotch whisky waski I am going to give that
     a very very decent 7.2 out of 10 dingo manding goes
+names_verified: true
 ---
 
 **[27:18]** Waski time and this is what I've got this way gi shoulder blended Scotch waski kindly given to me from the legend by the name of badger McCullough. Badger mate thank you very much for that my man friend get it all in this Jack Daniel's glass. Oh yeah, get the old schnecker Ruble in it. I'm getting a strong floral smell, very sweet, nice hint of sherry. You know I like a bit of sherry, you better believe I do. Anyway guys that's enough for the sniffing let's go on with the tasterooni. Citrus, a little bit citrusy. Oh strong taste, lots of spices, lots of spices in there. Yep, it's got a bit of a kick to it certainly as mandingos a little bit bitter, but not a horrible bitter, but definitely bitter. Lots of spices, a really strong taste. In the aftertaste after the fourth or fifth taste I'm getting there a dark chocolate thing coming through. Definitely a bit citrus, long spices, very bitter, and then dark chocolate thing going on. Monkey shoulder, like I said I've done a review on this before... Monkey shoulder blended Scotch whiskey waski I am going to give that a very very decent 7.2 out of 10 dingo manding goes.

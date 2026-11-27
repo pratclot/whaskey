@@ -30,6 +30,7 @@ items:
     notes. The palate delivers warming spices, a hint of honey, dark chocolate notes,
     and a subtle cigar smoke aftertaste.
   verdict_quote: I'm going to give that Paul John a 5.5 out of 10 dingo mandingos.
+names_verified: true
 ---
 
 **[48:57]** This is what we have got this week Paul John Indian Yes you heard me right Indian Brilliance single malt whaskey kindly given to me from a legend you've heard His Name a few times before a legend by the name of Nick ball who's got his own YouTube channel called that's him with the duft hat what absolute Legend this guy is.  

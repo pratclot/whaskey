@@ -32,6 +32,7 @@ items:
     note going down smoothly.
   verdict_quote: I'm going to give that a steady seven. Ho ho yes, Monkey Shoulder
     it's a steady seven out of 10 dingle.
+names_verified: true
 ---
 
 **[46:41]** You know what time it is? It's whiskey time. And this is what we've got this week. Monkey Shoulder. Tonight, guys, we are going to review Monkey Shoulder. **[51:54]** Quite malty, quite biscuity. Biscuity, yeah. Mild spices, nothing overpowering. A fruity element. Maybe some apricots. **[53:51]** Let's go. Warming that round the old gummy bears. Oh. Mhm. Now that does like the job 10 times better. **[55:15]** I'm getting like a warmth down the old throat dingle. And a bit of a spicy marmalade. Not spicy burn your mouth spicy, just a nice little tingle, marmalade going down. **[59:03]** Yeah. It tastes of marmalade, some spices, obviously whisky, and went down nice and smooth. A nice pop toss linger. I'm going to give that a steady seven. Ho ho yes, Monkey Shoulder it's a steady seven out of 10 dingle.

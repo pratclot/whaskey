@@ -11,9 +11,9 @@ episode_summary: The host goes wild camping in the Scottish Borders near the Wat
   a unique Finnish single malt whisky, and cooks smash burgers before packing up the
   next morning.
 items:
-- name: Cairo Oloroso Sherry Virgin Oak
+- name: Kyrö Malt Oloroso Sherry Cask Finish
   category: Whisky
-  brand_or_distillery: Teerenpeli
+  brand_or_distillery: Kyrö Distillery
   region_or_style: Finnish Single Malt Whisky
   abv: ''
   timestamp_seconds: 3136
@@ -34,6 +34,7 @@ items:
   verdict_quote: I'm not going to [ __ ] you guys... it's a completely different flavor
     wasy compared to what I get normally every week... I'm going to give that a straight
     seven out of 10.
+names_verified: true
 ---
 
 **[52:16]** Yes what time it is it's wasy time you better believe it is we have got the old famous CB dingo my Mandy dingles and we have got a nice little miniature bottle of wasy cairu this is from Finland James and Laura a couple of Legends picked this up when they were on their travels at the airport in Hell sinky. 

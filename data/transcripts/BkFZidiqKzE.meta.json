@@ -6,5 +6,52 @@
   "description": "#stealthcamping #wildcamping #adventure \n#getoutside #stealthcampinguk #wildcampinguk \n#greatoutdoors #stealthurbancamping \n#camping #stealth\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\ude09 \nhttps://theblotoutdoorsmerch.myshopify.com/collections/all",
   "thumbnail": "https://i.ytimg.com/vi/BkFZidiqKzE/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Heading to the camping spot",
+      "end_time": 181
+    },
+    {
+      "start_time": 181,
+      "title": "Navigating obstacles",
+      "end_time": 356
+    },
+    {
+      "start_time": 356,
+      "title": "Setting up camp in secret",
+      "end_time": 648
+    },
+    {
+      "start_time": 648,
+      "title": "Evening relaxation and plans",
+      "end_time": 919
+    },
+    {
+      "start_time": 919,
+      "title": "Whiskey review and campsite update",
+      "end_time": 1471
+    },
+    {
+      "start_time": 1471,
+      "title": "French themed food and drink",
+      "end_time": 2216
+    },
+    {
+      "start_time": 2216,
+      "title": "Whiskey tasting and social commentary",
+      "end_time": 2838
+    },
+    {
+      "start_time": 2838,
+      "title": "Campsite observations and reflections",
+      "end_time": 3071
+    },
+    {
+      "start_time": 3071,
+      "title": "Morning packing and departure",
+      "end_time": 3272
+    }
+  ]
 }

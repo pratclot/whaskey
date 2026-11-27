@@ -6,5 +6,27 @@
   "description": "#stealthcamping #wildcamping #stealthcampingalliance #wildcampinguk #adventure #stealth #stealthurbancamping #secretcamping #stealthcampinguk #stevewallis",
   "thumbnail": "https://i.ytimg.com/vi/AwmZgZmJQus/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Setting up the stealth camp",
+      "end_time": 222
+    },
+    {
+      "start_time": 222,
+      "title": "Waiting and settling in",
+      "end_time": 562
+    },
+    {
+      "start_time": 562,
+      "title": "Whiskey tasting session",
+      "end_time": 919
+    },
+    {
+      "start_time": 919,
+      "title": "Departure and conclusion",
+      "end_time": 1155
+    }
+  ]
 }

@@ -33,6 +33,7 @@ items:
     aniseed, and a pleasant warm finish.
   verdict_quote: Glen Maria, 12-year-old, I'm going to give a very respectable 8.2.
     It was nice. It wasn't the best... but I have really enjoyed it.
+names_verified: true
 ---
 
 **[41:25]** You know what time it is? It's whisky time. This is what we've got this week from Kenneth Jess and Finley. Thank you so much you absolute bunch of legends. Glen Moray 12-year-old single malt whisky.

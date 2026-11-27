@@ -55,6 +55,7 @@ items:
     developing into a lovely roasted coffee note on the finish.
   verdict_quote: Glenn going Legacy chapter three absolutely tremendous I'm gonna
     give that a big fat juicy ER nine point three of tendingo mandingos
+names_verified: true
 ---
 
 **[09:29]** oh yes folks here we go time to get stuck in to this food and it does look absolutely lovely jubbly first of all try there we'll try the chips as you know I have no luck with chips normally it normally tastes like when I get them they carry sauce on there mmm Kerry sauce really really nice chips are a bit crispy on the outside soft on the inside just the way I like them.

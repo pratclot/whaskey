@@ -6,5 +6,62 @@
   "description": "#wildcampinguk #getoutside #camping #lakedistrict #wildcamping #hiking #backpacking #stealthcamping \n#whiskyreview #stealthcampinguk\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\ude09 \nhttps://theblotoutdoorsmerch.myshopify.com/collections/all",
   "thumbnail": "https://i.ytimg.com/vi/BBmM9QLMnwc/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Hiking to the summit",
+      "end_time": 321
+    },
+    {
+      "start_time": 321,
+      "title": "Setting up camp",
+      "end_time": 454
+    },
+    {
+      "start_time": 454,
+      "title": "Air drying equipment",
+      "end_time": 656
+    },
+    {
+      "start_time": 656,
+      "title": "Inventory and drinks",
+      "end_time": 1153
+    },
+    {
+      "start_time": 1153,
+      "title": "Meeting a fellow camper",
+      "end_time": 1644
+    },
+    {
+      "start_time": 1644,
+      "title": "Reflecting on the journey",
+      "end_time": 2042
+    },
+    {
+      "start_time": 2042,
+      "title": "Whiskey review session",
+      "end_time": 2551
+    },
+    {
+      "start_time": 2551,
+      "title": "Preparing dinner",
+      "end_time": 3006
+    },
+    {
+      "start_time": 3006,
+      "title": "Cooking and tasting",
+      "end_time": 3349
+    },
+    {
+      "start_time": 3349,
+      "title": "Evening meal and rest",
+      "end_time": 3481
+    },
+    {
+      "start_time": 3481,
+      "title": "Morning packing and departure",
+      "end_time": 3697
+    }
+  ]
 }

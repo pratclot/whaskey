@@ -48,8 +48,7 @@ items:
     combined with Tilda firecracker rice, creating a piping hot, satisfying camp meal.
   verdict_quote: If I was out camping now in the freezing, cold, icy, frosty conditions
     and I wanted a quick meal to warm me up Oh, this would do the old job dingo guy.
-- name: The Lakes Distillery The One Fine Blended Whisky (Wire Works Cask Treasures
-    Edition)
+- name: Cask Treasures Wire Works 5yo STR Cask
   category: Whisky
   brand_or_distillery: Cask Treasures
   region_or_style: English Single Malt
@@ -71,6 +70,7 @@ items:
     alongside fruity notes of blackberries and blueberries with a crisp, fresh finish.
   verdict_quote: A flocking massive nine flocking point five out of 10 dingle mandingoes.
     And that's a flocking English washy, guys.
+names_verified: true
 ---
 
 **[54:55]** This week, we have got this from Cask Treasures. It's an English single malt. This one is Z Wire Works. Let's get that popping the all famous cup dingle. My mind the dingle berries. Oh, yeah. Kind of getting to me from Kim and Daz. A couple of big fun dingles of the blood outdoor show. And let's get the old big around here. Oh. Mhm. Yeah. Yeah. I'm getting like a strong like a treacle toffee. Sniffer Rooney, guys.

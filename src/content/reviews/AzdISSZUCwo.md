@@ -33,6 +33,7 @@ items:
     finish.
   verdict_quote: I'm going to give that a steady 7.5 generous out of 10 Dingle man
     dingles.
+names_verified: true
 ---
 
 **[40:31]** Okay the mandingos you know what time it is wasy time you better believe it is this is what we've got this week Campbeltown Loch Blended malt Scotch whaskey. This is made at the Spring Bank distilleries in Bonnie Scotland 46%... **[42:09]** I think it smells a bit fruity big peachy. Oh peachy oh all definitely definitely all sniffer sniffer. **[43:05]** For me it's more like apricots and maybe the slightest little bit but still a nice smell of it honey. **[44:45]** What the hell are we been get a good old G skis now it ain't the smoothest I'm definitely going to see that... **[45:39]** Give me your opinion on the taste now it's a bit sweet as well sweet but strong. **[50:10]** I'm going to give that a steady 7.5 generous out of 10 Dingle man dingles.

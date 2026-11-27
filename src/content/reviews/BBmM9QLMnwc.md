@@ -34,6 +34,7 @@ items:
     or harsh burn, making it go down very smoothly.
   verdict_quote: I'm going to give it a seven a straight seven out of 10 dingo mandingos
     you know what I'm talking about.
+names_verified: true
 ---
 
 **[42:35]** Oh yes my fun sexualities you know what time it is whisky time and this is what we've got this week Wolfies can you see that Blended Scotch whisky oh yes kindly given to me from my lovely wife the beautiful Mrs blot with a sexy bot and my son Preston Chase Preston soon you're the best son a dad could ever wish for and let's get this popped in the old famous cb dingo my Mandy dingles oh yes oh yes yes look at that that's a nice healthy drop of whisky guys and let's get the old bigun unit rice cakes.  
