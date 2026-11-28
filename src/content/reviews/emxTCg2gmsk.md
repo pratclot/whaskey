@@ -48,6 +48,7 @@ items:
     pepper kick and an oily texture.
   verdict_quote: I'm going to give it a very good, a very respectable 7.7 out of 10
     dingo mandingos.
+names_verified: true
 ---
 
 **[41:37]** Whasky time. And this is what we've got this week. Arran Robert Burns single malt Scotch whasky. This little bottle was £6 in the whisky shop in the Metro Centre on my way up to this camp... **[42:53]** It were like a fresh green apples. Some pears as well there. A definite pear smell. Ooh, the pears is actually stronger than the apples. Like a maybe like a apple strudel thing going on... And the slightest little bit of pepper... **[43:50]** A little bit burnt. I'll tell you strange. And that did give a little bit of a roughish burn flavor taste down the back of the old throat... Slightly peppery. But it's not a peppery kick where you're tasting it and you're going But it isn't the smoothest whisky... **[45:09]** It's got a nice oily texture to it. I said apples and pears in the smell. There's definitely a fruity thing going on in the taste, like a mixed fruit... **[49:03]** I'm going to give it a very good, a very respectable 7.7 out of 10 dingo mandingos.

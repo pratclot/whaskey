@@ -30,6 +30,7 @@ items:
     woody mahogany notes, and a gentle peppery kick on the finish.
   verdict_quote: It's a 8.8 out of 10 dingo for this man dingo you better believe
     it is.
+names_verified: true
 ---
 
 **[44:53]** Yes folks my fun sexualities it is time for the whisky time you better believe it is and this is what we've got this week Penderyn Welsh whisky this one is the Sherrywood kindly given to me from a lovely family by the names of Richard Jenna and Travis thank you very much you absolute bunch of Legends you better believe I really appreciate it thank you guys.  

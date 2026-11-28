@@ -6,5 +6,42 @@
   "description": "#hiking #lakedistrict #mountains #trekking #vanlife #whiskyreview #vanlifeuk #wainwrightwalks #ukhiking #adventure",
   "thumbnail": "https://i.ytimg.com/vi/jCX3QjNgAEw/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Introduction to the trip",
+      "end_time": 82
+    },
+    {
+      "start_time": 82,
+      "title": "Campsite setup",
+      "end_time": 224
+    },
+    {
+      "start_time": 224,
+      "title": "Hiking up the ridge",
+      "end_time": 382
+    },
+    {
+      "start_time": 382,
+      "title": "Reaching the summit",
+      "end_time": 962
+    },
+    {
+      "start_time": 962,
+      "title": "Returning to the van",
+      "end_time": 1259
+    },
+    {
+      "start_time": 1259,
+      "title": "Whiskey review",
+      "end_time": 1756
+    },
+    {
+      "start_time": 1756,
+      "title": "Morning after",
+      "end_time": 1836
+    }
+  ]
 }

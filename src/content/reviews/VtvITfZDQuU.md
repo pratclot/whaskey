@@ -68,6 +68,7 @@ items:
     camp meal.
   verdict_quote: nice bit of red wine after a nice mail chili con corny mixed pepper
     rice absolutely beautiful
+names_verified: true
 ---
 
 **[12:36]** here a mapping matron getting your law off san miguel starting to take effect oh this is the life mandingos so i'd just like to see it anyone that subscribed thank you very much really appreciate it cheers if you haven't already subscribed you know what to do hit that button and if it's not too much trouble give us a thumbs up or a thumbs down we're not bothered either way.

@@ -6,5 +6,42 @@
   "description": "#food #takeaway #kebab #pizzashop #fastfood #takeawayfood #foodie\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\ude09\nhttps://theblotoutdoorsmerch.myshopify.com/collections/all\n\nHere's the link for Daveys channel D.C Outdoors \nhttps://youtube.com/@D.C.Outdoors?si=RUYNqXcD988_4JEq",
   "thumbnail": "https://i.ytimg.com/vi/VUSRCoBrTxk/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Trip intro and plan",
+      "end_time": 267
+    },
+    {
+      "start_time": 267,
+      "title": "Exploring Ulverston town",
+      "end_time": 358
+    },
+    {
+      "start_time": 358,
+      "title": "Ordering and eating kebab",
+      "end_time": 770
+    },
+    {
+      "start_time": 770,
+      "title": "Kebab review and scores",
+      "end_time": 1288
+    },
+    {
+      "start_time": 1288,
+      "title": "Return to lodge and pub",
+      "end_time": 1698
+    },
+    {
+      "start_time": 1698,
+      "title": "Lodge details and costs",
+      "end_time": 1969
+    },
+    {
+      "start_time": 1969,
+      "title": "Whiskey review with wife",
+      "end_time": 2786
+    }
+  ]
 }

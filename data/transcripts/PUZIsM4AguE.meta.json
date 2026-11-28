@@ -6,5 +6,52 @@
   "description": "#stealthcamping #wildcamping #getoutside \n#comedy #camping #stealthcampinguk \n#wildcampinguk #whiskyreview \n#stealthcamp #adventure\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\ude09 \nhttps://theblotoutdoorsmerch.myshopify.com/collections/all",
   "thumbnail": "https://i.ytimg.com/vi/PUZIsM4AguE/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Setting up camp",
+      "end_time": 284
+    },
+    {
+      "start_time": 284,
+      "title": "Camp relaxation",
+      "end_time": 659
+    },
+    {
+      "start_time": 659,
+      "title": "Exploring the surroundings",
+      "end_time": 921
+    },
+    {
+      "start_time": 921,
+      "title": "Whiskey and gear talk",
+      "end_time": 1338
+    },
+    {
+      "start_time": 1338,
+      "title": "Channel updates",
+      "end_time": 1752
+    },
+    {
+      "start_time": 1752,
+      "title": "Survival stories",
+      "end_time": 2107
+    },
+    {
+      "start_time": 2107,
+      "title": "Merchandise and banter",
+      "end_time": 2649
+    },
+    {
+      "start_time": 2649,
+      "title": "World famous whiskey review",
+      "end_time": 3183
+    },
+    {
+      "start_time": 3183,
+      "title": "Morning pack up",
+      "end_time": 3657
+    }
+  ]
 }

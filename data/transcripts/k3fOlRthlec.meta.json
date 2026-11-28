@@ -6,5 +6,52 @@
   "description": "",
   "thumbnail": "https://i.ytimg.com/vi/k3fOlRthlec/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Introduction",
+      "end_time": 28
+    },
+    {
+      "start_time": 28,
+      "title": "Ordering at Pizza Corner",
+      "end_time": 372
+    },
+    {
+      "start_time": 372,
+      "title": "Food Pickup",
+      "end_time": 516
+    },
+    {
+      "start_time": 516,
+      "title": "The Kebab Taste Test",
+      "end_time": 923
+    },
+    {
+      "start_time": 923,
+      "title": "Wrapping Up the Review",
+      "end_time": 1607
+    },
+    {
+      "start_time": 1607,
+      "title": "Post-Meal Q&A",
+      "end_time": 1961
+    },
+    {
+      "start_time": 1961,
+      "title": "Whiskey Review",
+      "end_time": 2481
+    },
+    {
+      "start_time": 2481,
+      "title": "Bloopers and Fan Clips",
+      "end_time": 2781
+    },
+    {
+      "start_time": 2781,
+      "title": "Outro",
+      "end_time": 3090
+    }
+  ]
 }

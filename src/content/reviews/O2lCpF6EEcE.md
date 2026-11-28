@@ -33,6 +33,7 @@ items:
     and a smooth, warming oak finish.
   verdict_quote: I'm going to give that a massive big fat nine out of tendingo mandingos
     you better believe I am Chris I really like short score I would say 9.5
+names_verified: true
 ---
 
 **[22:06]** you know what time this mandingos waski time and this week this is what we've got Glenn Gary it doesn't look like it's here's Glengarry or Believers that's how it's pronounced Highland single mold waski okay then Chris you do the honors.

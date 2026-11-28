@@ -33,6 +33,7 @@ items:
     The palate reveals breakfast cereal, honey, toffee, and a late zesty orange note.
   verdict_quote: I'm going to give it a steady seven. Yeah, I'm going to give it a
     seven out of 10.
+names_verified: true
 ---
 
 **[50:14]** Cutty Sark blended scotch was kindly sent to me from a legend by the name of Neil Gandhi. Neil Romesh Gandhi. Yes, Neil. You're absolute legend. And it's not the first time you've sent me some whisky. It's very much appreciated. You better believe it is. Come on then. Let's get this popped in. **[50:53]** Oh yeah, a little bit vanilla. Little bit creamy. Like a creamy vanilla. But it's a funny one. Maybe a little bit. I'll have a little swirl around again and give another sniff before I save it. **[51:12]** Almost like a soapy type of smell. A little bit soapy vanilla, like a creamy vanilla but like a soapiness to it at exactly the same time. You know what I'm talking about. **[58:21]** I've got like a nice taste of orange there in the end. The old Jason orange as well as like a toffee. **[58:41]** Cutty Sark from the legend sent to me from the legend by the name of Neil Gandhi. Cheers Neil, my man friend. I'm going to give it a steady seven. Yeah, I'm going to give it a seven out of 10.

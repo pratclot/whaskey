@@ -6,5 +6,52 @@
   "description": "#costcofood #takeaway #cheapfood #fastfood \n#costco #foodreview #takeawayfood #food \n#foodblogger #foodcritic\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\ude09\nhttps://theblotoutdoorsmerch.myshopify.com/collections/all",
   "thumbnail": "https://i.ytimg.com/vi/I5RVdD1ommk/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Trip to Costco",
+      "end_time": 176
+    },
+    {
+      "start_time": 176,
+      "title": "Food ordering",
+      "end_time": 366
+    },
+    {
+      "start_time": 366,
+      "title": "Chicken slice review",
+      "end_time": 603
+    },
+    {
+      "start_time": 603,
+      "title": "Chicken burger review",
+      "end_time": 883
+    },
+    {
+      "start_time": 883,
+      "title": "Chili potato review",
+      "end_time": 1310
+    },
+    {
+      "start_time": 1310,
+      "title": "Rum review",
+      "end_time": 1756
+    },
+    {
+      "start_time": 1756,
+      "title": "Q&A and chat",
+      "end_time": 2020
+    },
+    {
+      "start_time": 2020,
+      "title": "Car chat and merch update",
+      "end_time": 2487
+    },
+    {
+      "start_time": 2487,
+      "title": "Conclusion and fan clips",
+      "end_time": 2808
+    }
+  ]
 }

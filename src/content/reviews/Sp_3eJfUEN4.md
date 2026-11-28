@@ -66,6 +66,7 @@ items:
     for a cheap dram.
   verdict_quote: It's not rough that's probably the biggest plus point of it it's
     actually quite smooth for a bargain booked wasy.
+names_verified: true
 ---
 
 **[35:28]** What we've got is guys High Commissioner which is a bargain booket wasy... **[37:10]** Very Grinny granny... **[40:04]** Let's have a blast and see... after two or three tasts... a little bit of a toffee caramel thing there coming through... for a cheap wasy tast it is actually going down quite smooth... **[46:09]** That last gulp tells me it's not rough that's probably the biggest plus point of it... I'm going to give it a steady five... **[46:49]** I'm very generous just over 5.5 there... average score five point one.

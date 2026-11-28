@@ -78,6 +78,7 @@ items:
   verdict_quote: Peppery but also with like a flavon of dark berries in there guys...
     a proper little chest warmer... I'm going to give this a big fat jorn 9.4 out
     of 10 dingo man landing was lovely jubly.
+names_verified: true
 ---
 
 **[09:18]** Right here we go guys looks like it's pretty chicken on there you can't bait homemade chips and that's nice and hot still... chicken's nice nice and tasty nice and soft... give me homemade chips any day of the week and this man dingo is happy.

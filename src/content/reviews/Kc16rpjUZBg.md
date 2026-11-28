@@ -74,8 +74,8 @@ items:
     a pouch of Tilda rice.
   verdict_quote: Look at the quality of that homemade chili with butcher's lean mince,
     peppers, and mushrooms — miles better than tinned Stag chili. Good good ding ding!
+names_verified: true
 ---
-
 
 ## Tasting Transcript Excerpt
 

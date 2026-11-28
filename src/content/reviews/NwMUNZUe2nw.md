@@ -32,6 +32,7 @@ items:
   tasting_notes: It has a malty aroma with some herbal notes and spices. On the palate,
     it delivers fruity citrus flavors reminiscent of orange crossed with lemon.
   verdict_quote: It's a 7.5 for me, so that's an average score of 7.8.
+names_verified: true
 ---
 
 **[45:11]** So, we have got Glenfiddich 12-year-old. Just a miniature. Ben just got just a miniature. But they are lost doesn't mind. Do you know what I mean? Kindly given to me from a lovely couple by the name of Lee and Lindsey from Chesney Street. Thank you so much. Colin Ben Mead. Get that pop in the old famous cup dingo. Why you I? Straight in. Haha, yes. Come on then. I'll have the fist in the pepperoni. There you go. My very first wild camp with a subscriber even though it's happened accidentally. It's been good stuff, hasn't it? Unbelievable. Let's get the old beaker-rooney in. All quite grainy. It all is. Give that a swirl around there, guys. Maybe some orchard fruits. Definitely a grainy thing going on. Go on, Ben mate. It all is. You get your beaker-rooney in there. Tell me what you stink, I mean think.  

@@ -10,7 +10,7 @@ episode_summary: The host goes stealth camping in a rough wasteland area in Hend
   Sunderland, where he cooks king prawns with mushrooms and rice, drinks American
   IPA craft beer, and reviews a bottle of Lambay Irish Whisky.
 items:
-- name: Lock Jaw American IPA
+- name: Lock Keepers American IPA
   category: Beer & Ale
   brand_or_distillery: Aldi
   region_or_style: American IPA
@@ -55,6 +55,7 @@ items:
   verdict_quote: I'm going to give that Lambay Irish whiskie... I'm so impressed.
     From a whiskey that I've never even heard of before... I'm going to give it a
     big fat juicy 9.2 out of 10 dingo man dingos.
+names_verified: true
 ---
 
 **[09:51]** Just what I needed. Lock jaw. American IPA. Batch number 14. Just the cheap [__] from Aldi. 1 pound a can. Or 1 pound 9. 5.5 percent. Or placenta as my mate says. Oh yes. And that is really nice. Really really nice.

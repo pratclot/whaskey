@@ -6,5 +6,57 @@
   "description": "#cavecamping #wildcamping #stealthcamping \n#cave #comedy #camping #hikingandcamping \n#wildcampinguk #stealthcampinguk #caves\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\ude09 \nhttps://theblotoutdoorsmerch.myshopify.com/collections/all",
   "thumbnail": "https://i.ytimg.com/vi/XEZbFBPllK8/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Arrival at the cave",
+      "end_time": 337
+    },
+    {
+      "start_time": 337,
+      "title": "Setting up the campsite",
+      "end_time": 723
+    },
+    {
+      "start_time": 723,
+      "title": "Camp talk and prep",
+      "end_time": 1061
+    },
+    {
+      "start_time": 1061,
+      "title": "Evening relaxation",
+      "end_time": 1674
+    },
+    {
+      "start_time": 1674,
+      "title": "Reflections and future plans",
+      "end_time": 2295
+    },
+    {
+      "start_time": 2295,
+      "title": "Nighttime musings",
+      "end_time": 2868
+    },
+    {
+      "start_time": 2868,
+      "title": "Morning after",
+      "end_time": 3161
+    },
+    {
+      "start_time": 3161,
+      "title": "Whiskey review",
+      "end_time": 3448
+    },
+    {
+      "start_time": 3448,
+      "title": "Cooking breakfast",
+      "end_time": 3770
+    },
+    {
+      "start_time": 3770,
+      "title": "Departing the cave",
+      "end_time": 3883
+    }
+  ]
 }

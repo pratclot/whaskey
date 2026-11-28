@@ -6,5 +6,42 @@
   "description": "#stealthcamping #wildcamping #whiskyreview\n#stealthcampinguk #stealthcampingalliance \n#adventure #mcdonalds #whiskey #sunderland  #bloopers\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\udc4d \nhttps://theblotoutdoorsmerch.myshopify.com/collections/all",
   "thumbnail": "https://i.ytimg.com/vi/XwPWUNEqfTY/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Introduction and walking",
+      "end_time": 133
+    },
+    {
+      "start_time": 133,
+      "title": "Running track camp spot",
+      "end_time": 416
+    },
+    {
+      "start_time": 416,
+      "title": "Fire station camp spot",
+      "end_time": 574
+    },
+    {
+      "start_time": 574,
+      "title": "McDonald's camp spot",
+      "end_time": 747
+    },
+    {
+      "start_time": 747,
+      "title": "Camping bloopers",
+      "end_time": 1105
+    },
+    {
+      "start_time": 1105,
+      "title": "Channel Q&A",
+      "end_time": 1417
+    },
+    {
+      "start_time": 1417,
+      "title": "Whisky review and conclusion",
+      "end_time": 1729
+    }
+  ]
 }

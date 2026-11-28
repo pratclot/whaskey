@@ -6,5 +6,47 @@
   "description": "#stealthcamp #stealthcamping #wildcamping \n#adventure #getoutside #stealthcampinguk \n#wildcampinguk #whiskyreview #camping\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\ude09 \nhttps://theblotoutdoorsmerch.myshopify.com/collections/all",
   "thumbnail": "https://i.ytimg.com/vi/Sp_3eJfUEN4/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Arrival at camp spot",
+      "end_time": 178
+    },
+    {
+      "start_time": 178,
+      "title": "Setting up the tent",
+      "end_time": 352
+    },
+    {
+      "start_time": 352,
+      "title": "Food and drink review",
+      "end_time": 560
+    },
+    {
+      "start_time": 560,
+      "title": "Campfire conversation",
+      "end_time": 1414
+    },
+    {
+      "start_time": 1414,
+      "title": "Q&A and future plans",
+      "end_time": 1812
+    },
+    {
+      "start_time": 1812,
+      "title": "Whiskey tasting session",
+      "end_time": 2868
+    },
+    {
+      "start_time": 2868,
+      "title": "Nighttime and falling asleep",
+      "end_time": 3144
+    },
+    {
+      "start_time": 3144,
+      "title": "Morning packing and departure",
+      "end_time": 3483
+    }
+  ]
 }

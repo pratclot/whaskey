@@ -6,5 +6,42 @@
   "description": "#motorway #stealthcamping #wildcamping #stealthcampingalliance #wildcampinguk #adventure #stealth #stealthurbancamping #secretcamping #whiskyreview\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\udc4d \nhttps://theblotoutdoorsmerch.myshopify.com/collections/all\n\nHere's the link for Brown's Biltong \ud83d\ude0b \nhttps://brownsbiltong.co.uk/",
   "thumbnail": "https://i.ytimg.com/vi/HtPPKqoR_v0/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Arriving at the site",
+      "end_time": 268
+    },
+    {
+      "start_time": 268,
+      "title": "Setting up and coffee",
+      "end_time": 742
+    },
+    {
+      "start_time": 742,
+      "title": "Camp setup and gear review",
+      "end_time": 1090
+    },
+    {
+      "start_time": 1090,
+      "title": "Evening meal and snacks",
+      "end_time": 1727
+    },
+    {
+      "start_time": 1727,
+      "title": "Whiskey review",
+      "end_time": 2152
+    },
+    {
+      "start_time": 2152,
+      "title": "Cooking dinner and chatting",
+      "end_time": 2782
+    },
+    {
+      "start_time": 2782,
+      "title": "Morning pack up",
+      "end_time": 3125
+    }
+  ]
 }

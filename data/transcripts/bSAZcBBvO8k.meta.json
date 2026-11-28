@@ -5,5 +5,87 @@
   "duration": 3003,
   "description": "#wildcamping #wildcampingscotland #comedy \n#beachcamping #whiskyreview #wildcampinguk \n#camping #adventure #beachcamp #funny\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\ude09 \nhttps://theblotoutdoorsmerch.myshopify.com/collections/all\n\nHere's the link for Bonny Ladd Adventures:\nhttps://youtube.com/@Bonnyladdadventures?si=UDeQqBSoehU9S212\n\nHere's the link for Yacker Travels:\nhttps://youtube.com/@yackertravels?si=BzYrEBg6ZOeHpYPd",
   "thumbnail": "https://i.ytimg.com/vi/bSAZcBBvO8k/hqdefault.jpg",
-  "channel": "BLOT OUTDOORS SHOW"
+  "channel": "BLOT OUTDOORS SHOW",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Arrival at the campsite",
+      "end_time": 172
+    },
+    {
+      "start_time": 172,
+      "title": "Setting up camp",
+      "end_time": 308
+    },
+    {
+      "start_time": 308,
+      "title": "First impressions of the drink",
+      "end_time": 401
+    },
+    {
+      "start_time": 401,
+      "title": "Organizing the campsite",
+      "end_time": 607
+    },
+    {
+      "start_time": 607,
+      "title": "Relaxing at camp",
+      "end_time": 840
+    },
+    {
+      "start_time": 840,
+      "title": "Planning dinner and drinks",
+      "end_time": 1068
+    },
+    {
+      "start_time": 1068,
+      "title": "Music and campfire chat",
+      "end_time": 1227
+    },
+    {
+      "start_time": 1227,
+      "title": "Discussing musical projects",
+      "end_time": 1331
+    },
+    {
+      "start_time": 1331,
+      "title": "Evening drinking and banter",
+      "end_time": 1569
+    },
+    {
+      "start_time": 1569,
+      "title": "Preparing for whiskey review",
+      "end_time": 1757
+    },
+    {
+      "start_time": 1757,
+      "title": "World-famous whiskey review",
+      "end_time": 2160
+    },
+    {
+      "start_time": 2160,
+      "title": "Preparing for dinner",
+      "end_time": 2247
+    },
+    {
+      "start_time": 2247,
+      "title": "Cooking and eating dinner",
+      "end_time": 2637
+    },
+    {
+      "start_time": 2637,
+      "title": "Winding down for the night",
+      "end_time": 2755
+    },
+    {
+      "start_time": 2755,
+      "title": "Waking up and packing",
+      "end_time": 2915
+    },
+    {
+      "start_time": 2915,
+      "title": "Departure from the beach",
+      "end_time": 3003
+    }
+  ]
 }

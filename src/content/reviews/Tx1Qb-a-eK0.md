@@ -52,6 +52,7 @@ items:
   tasting_notes: Features succulent chicken and pork meatballs with tender pasta in
     a rich tomato and minced beef sauce, topped with red chilies and mixed herbs.
   verdict_quote: I'm glad I have I'm really glad I have cuz that is absolutely beautiful.
+names_verified: true
 ---
 
 **[51:45]** We have got Jura. Just bring that camera a little bit closer, guys, cuz it's rocking all over the world. Jura Bourbon Cask Single Malt Scotch Whisky. Let's get this popping the old famous cub dingo. **[52:33]** A little bit nutty. Maybe a little bit coconut. Let's give that a swirl around there, folks. There's the slightest bit of cinnamon there, guys. The slightest bit of cherry cinnamon. **[54:44]** Quite thick and creamy. That went down so smooth, down the back of the old throat dingo. I'm getting the bourbon now, guys. It's just a nice quality drop. **[59:26]** Right, guys. I'm going to give that Jura Bourbon Cask a very steady a very respectable 8.7. A very good and a very respectable score on this week's whisky review. So, it's 8.7 out of 10 dingo. **[1:05:15]** Spicy meatball pasta. Mhm. Quite a few meatballs in there. Little tingle on the old tongue dingo. Nice little spice on that, but not overpowering. That's really nice, guys. Really really nice.

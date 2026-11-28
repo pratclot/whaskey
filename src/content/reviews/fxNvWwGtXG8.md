@@ -34,6 +34,7 @@ items:
   verdict_quote: I'm going to give that from Robert Rumple, shaved dog, peanut butter
     whiskey, whiskey liqueur, a steady seven. I'll tell you what. I'm going to give
     it a 7.3 out of 10 dinger.
+names_verified: true
 ---
 
 **[43:29]** This is what we've got this week. Sheepdog waskey. Well, it's like a waskey liqueur, mate. Normal waskeys are like 40% because this is a liqueur. It's only 35%. **[44:24]** Your wish is granted. Schmicker Rooney, get your baker Rooney in there and tell these legends exactly what you think about it. What are you getting from this whiskey? Peanut butter, is it? **[45:57]** Peanut butter, you were saying? Let's get the old bakerina. State the obvious, mix right. Peanut butter. I mean, you know what I'm going to say, I know. But it has got like a sweet and it's got like a woody smell to it as well. **[48:01]** Buttery and Wow. Like melt it. You know, like Werther's Original sweets. All right. Like Werther's Original toffee in your mouth. **[50:59]** I'm going to give that from Robert Rumple, shaved dog, peanut butter whiskey, whiskey liqueur, a steady seven. I'll tell you what. I'm going to give it a 7.3 out of 10 dinger, my Mandy Dingleberry.

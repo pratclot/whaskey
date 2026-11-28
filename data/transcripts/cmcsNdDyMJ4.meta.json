@@ -6,5 +6,47 @@
   "description": "#wildcamping #hikingandcamping #adventure \n#camping #comedy #hiking #wildcampinguk \n#lakedistrict #whiskyreview #stealthcamping\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\ude09 \nhttps://theblotoutdoorsmerch.myshopify.com/collections/all\n\nHere's the link for Craig's channel:\nhttps://youtube.com/@craigjoinsonoutdoors?si=OMOJPI_mgnhXlweJ",
   "thumbnail": "https://i.ytimg.com/vi/cmcsNdDyMJ4/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Arrival and introductions",
+      "end_time": 78
+    },
+    {
+      "start_time": 78,
+      "title": "Setting up camp",
+      "end_time": 361
+    },
+    {
+      "start_time": 361,
+      "title": "Campground setup and gear",
+      "end_time": 861
+    },
+    {
+      "start_time": 861,
+      "title": "Initial drinks and banter",
+      "end_time": 1492
+    },
+    {
+      "start_time": 1492,
+      "title": "Whiskey review preparation",
+      "end_time": 1882
+    },
+    {
+      "start_time": 1882,
+      "title": "The whiskey review",
+      "end_time": 2668
+    },
+    {
+      "start_time": 2668,
+      "title": "Cooking dinner",
+      "end_time": 3039
+    },
+    {
+      "start_time": 3039,
+      "title": "Morning departure",
+      "end_time": 3334
+    }
+  ]
 }

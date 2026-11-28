@@ -49,6 +49,7 @@ items:
     and light, grease-free poppadoms with delicious dips.
   verdict_quote: I'm going to give it a 10 out of 10. I can't give it any less. It's
     a 10 star.
+names_verified: true
 ---
 
 **[55:28]** Yes folks, I have drove 10 minutes away to this spot. So, that's a good test to see how hot and fresh the food is before we dive in. So, let's have a quick look, guys. We've got the chips in there. Nice lovely bag of chunky chips. We've got the garlic naan. We've got some poppadum preaches. Here we have, oh look at that, nice big carton of mushroom rice, goes four sauces or dips or whatever you want to call it. This is the chef special apna. I think there's different meats in there. He said there's a garlic chili, quite a few spices. He said it won't give us sting ring in the morning. We shall see.  

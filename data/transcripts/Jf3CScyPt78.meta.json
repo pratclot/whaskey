@@ -6,5 +6,72 @@
   "description": "#Sunderland #stealthcamping #wildcamping #stealthcampingalliance #wildcampinguk #adventure #stealth #stealthurbancamping #secretcamping #stealthcampinguk\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\udc4d \nhttps://theblotoutdoorsmerch.myshopify.com/collections/all",
   "thumbnail": "https://i.ytimg.com/vi/Jf3CScyPt78/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Finding a stealth camp spot",
+      "end_time": 142
+    },
+    {
+      "start_time": 142,
+      "title": "Navigating to the gas works",
+      "end_time": 255
+    },
+    {
+      "start_time": 255,
+      "title": "Scouting the wasteland",
+      "end_time": 389
+    },
+    {
+      "start_time": 389,
+      "title": "Setting up the tent",
+      "end_time": 477
+    },
+    {
+      "start_time": 477,
+      "title": "Campground setup",
+      "end_time": 566
+    },
+    {
+      "start_time": 566,
+      "title": "Food and drink overview",
+      "end_time": 702
+    },
+    {
+      "start_time": 702,
+      "title": "Evening chilling and chat",
+      "end_time": 940
+    },
+    {
+      "start_time": 940,
+      "title": "Snack review and discussion",
+      "end_time": 1280
+    },
+    {
+      "start_time": 1280,
+      "title": "Whiskey tasting",
+      "end_time": 1614
+    },
+    {
+      "start_time": 1614,
+      "title": "Cooking dinner",
+      "end_time": 1749
+    },
+    {
+      "start_time": 1749,
+      "title": "Viewer appreciation",
+      "end_time": 1942
+    },
+    {
+      "start_time": 1942,
+      "title": "Morning routine",
+      "end_time": 2114
+    },
+    {
+      "start_time": 2114,
+      "title": "Packing up and departing",
+      "end_time": 2305
+    }
+  ]
 }

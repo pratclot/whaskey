@@ -6,5 +6,62 @@
   "description": "#lakedistrict #wildcamping #hiking #backpacking #wildcampinguk #whiskyreview\n#stealthcamping #stealth #outdoors #outdoorcooking\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\ude09 \ud83d\udc4d\nhttps://theblotoutdoorsmerch.myshopify.com/collections/all\n\nHere's the link for the HOMELESS VETERAN'S which young Chris camped out for. \nhttps://gofund.me/ad02f7e2\n\nHere's the link for young Chris's channel \nhttps://youtube.com/@yackertravels?si=RL_04nkL7dvxZB_f",
   "thumbnail": "https://i.ytimg.com/vi/TOLnUN1Valw/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Arrival at Small Water",
+      "end_time": 313
+    },
+    {
+      "start_time": 313,
+      "title": "Setting up camp",
+      "end_time": 576
+    },
+    {
+      "start_time": 576,
+      "title": "Returning to camp",
+      "end_time": 828
+    },
+    {
+      "start_time": 828,
+      "title": "Rations and music preparations",
+      "end_time": 1135
+    },
+    {
+      "start_time": 1135,
+      "title": "Live music session",
+      "end_time": 1552
+    },
+    {
+      "start_time": 1552,
+      "title": "Whiskey tasting review",
+      "end_time": 2131
+    },
+    {
+      "start_time": 2131,
+      "title": "Discussing charitable causes",
+      "end_time": 2319
+    },
+    {
+      "start_time": 2319,
+      "title": "Dinner and evening reflections",
+      "end_time": 2622
+    },
+    {
+      "start_time": 2622,
+      "title": "Late night gratitude",
+      "end_time": 3019
+    },
+    {
+      "start_time": 3019,
+      "title": "Morning departure",
+      "end_time": 3175
+    },
+    {
+      "start_time": 3175,
+      "title": "Trip conclusion",
+      "end_time": 3262
+    }
+  ]
 }

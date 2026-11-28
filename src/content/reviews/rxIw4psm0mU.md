@@ -90,9 +90,9 @@ items:
     flaky fish inside that completely elevates the takeaway.
   verdict_quote: Very nice, batter's nice and crispy. I think that's been the best
     thing so far... that's decent quality fish.
-- name: Honey Rum Version Van Dyke
+- name: Honey Rum
   category: Spirits & Liqueur
-  brand_or_distillery: The Sulfur Rum Company
+  brand_or_distillery: Salford Rum Company
   region_or_style: Honey Rum
   abv: ''
   timestamp_seconds: 1972
@@ -113,6 +113,7 @@ items:
     and just the right amount of natural sweetness.
   verdict_quote: I'm going to give it an 8.6 out of 10 dingo Mandingo, thoroughly
     enjoy that and I would certainly consider buying a full-size bottle of that.
+names_verified: true
 ---
 
 **[08:44]** I tell you what I'm going to do I'm going to try some scampi first I love a bit scampy. Yeah it's all right it's just like what you would make in the house yourself. I mean it's tasty there's nothing wrong with it that curry sauce is nice. It's not proper scampy it's just like what you would buy from the supermarket. **[10:29]** Yep nice thick chips cook well done a nice tasting gravy nice fresh barm not bad. Decent chippy let's pick it up and eat it like you should. **[17:30]** Very nice, batter's nice and crispy. I think that's been the best thing so far... that's decent quality fish. George's Fish Box in the village of South Hetton... only getting one out of five for the food hygiene, but like I said that doesn't mean the food is going to be bad. The fish has saved the day! **[21:22]** Before I start eating the fish I was going to give it about a 7 out of 10, but the fish has saved the day so I'm going to boost it up to an 8 out of 10 dingo Mingos. **[32:52]** This one's called... it's from the Sulfur Rum Company and this is their honey rum version, the old honey room version Van Dyke. **[39:52]** I'm going to give it an 8.6 out of 10 dingo Mandingo thoroughly enjoy that!

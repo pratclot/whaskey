@@ -72,6 +72,7 @@ items:
     offers a delicate, silky texture with subtle spices, sweet sugary pastry, and
     a distinct apple turnover flavor.
   verdict_quote: That is Sensational and I've got to give it no less than a 9.5.
+names_verified: true
 ---
 
 **[01:00:24]** Right so there you go guys this week's takeaway review it's a nine from this Mingo. I'm now going to drive home back to the city of Sunderland. Stick around guys join me in the back of the Z blot mobile for a little miniature world-famous whisky review.

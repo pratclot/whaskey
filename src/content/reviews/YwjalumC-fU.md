@@ -32,6 +32,7 @@ items:
     pear.
   verdict_quote: I'm going to give that a nice big fat steady nine straight as a die
     nine out of 10 dingo mandingos
+names_verified: true
 ---
 
 **[36:12]** Oh yes Mandingos, you know what time it is, wasy time and this is what we've got this week: Nikka Coffey Grain Japanese wasy kindly given to me from a couple of legends by the name of Alex and James. Cheers my man friend dingo, it is very much appreciated.  

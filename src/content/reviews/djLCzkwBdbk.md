@@ -106,6 +106,7 @@ items:
     a noticeable chili kick.
   verdict_quote: Proper chunks of chicken. Brilliant. You know, it's a bit pricey,
     but the quality of food is lovely, isn't it?
+names_verified: true
 ---
 
 **[20:57]** This is Where's the bottle? Four roses bourbon kindly bought for me and Mrs. Blot from my lovely stepdaughter... Let's get the old bakeroon in it. Quite creamy. Orangey. Creamy orangey. **[21:31]** Go on. You get your big nostrils in there. Caramel. Caramel. I get caramel. **[21:52]** Nice caramel. I said orange like it's like a marmalade type of sniffing... **[23:31]** Thick and gloopy down your throat. Amazing. What you getting? I got like okie like a marmalade. **[24:13]** Like a thick caramel. Yeah. Well, you do get that with a lot of bourbons. Nice and smooth. Nice and creamy. **[25:25]** So going off that I'm going to give it a pardon. It's g us the hiccups. I'm going to give it a steady 8.5. **[26:02]** I'm going to give that a 8.5 out of 10. Dingo. My Mandy Dingleberries. I'll go for 8.6.

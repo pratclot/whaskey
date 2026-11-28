@@ -35,6 +35,7 @@ items:
     throat.
   verdict_quote: I'm going to give that a very good a very solid massive straight
     as a die nine the old nine out of 10 dingo mandingos.
+names_verified: true
 ---
 
 **[40:02]** What we've got sitting in the middle Middlesbrough fan Zone outside the Riverside Stadium the home of Middlesbrough Football Club, we have got Inchgower which has been kindly given to me from a bunch of Legends who are working away on the oil rigs off the coast of Azerbaijan.

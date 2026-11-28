@@ -52,6 +52,7 @@ items:
     premium flavors, but works decently as a mixer.
   verdict_quote: I'm going to give it a standard steady not terrible five out of 10...
     Mrs. blot... I'm going to give it a seven... average score of six.
+names_verified: true
 ---
 
 **[16:18]** Time for the main event guys. Do you all call them? Look at them chips as they've cooled down now. You can see that's not good at all. It's frustrating because chips has got to be the most basic thing you can cook good. **[20:17]** Good old Curry Katona, save the deer with the scabby chips. So guys, time for the old score, dingos, man dingos. I'm going to give it... I'm going to give it a seven out of 10. **[30:38]** What we've got this time guys, it's just a bog standard wasy, one of your budget ones that you'll see in every shop in every Supermarket, Grant's. **[33:53]** Rice, that's harsh. It is harsh. I'm not going to lie, guys. **[37:55]** I'm struggling with this one. It's a basic wasy Mrs. Blot. There's not loads of flavors going on. **[39:06]** I'm going to give it a standard steady not terrible, five out of 10, dingo. Mrs. Blot, I'm going to give it a seven.

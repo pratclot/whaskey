@@ -50,8 +50,8 @@ items:
     though noticeably gassy.
   verdict_quote: Can't beat it for a good beer — a little bit of sophistication, though
     quite gassy!
+names_verified: true
 ---
-
 
 ## Tasting Transcript Excerpt
 

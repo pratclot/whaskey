@@ -6,5 +6,52 @@
   "description": "#wildcamping #getoutside #greatoutdoors #stealthcamping #adventure #wildcampinguk #whiskyreview #camping\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\udc4d \nhttps://theblotoutdoorsmerch.myshopify.com/collections/all\n\nHere's the link for Brown's Biltong \ud83d\ude0b\nhttps://brownsbiltong.co.uk/",
   "thumbnail": "https://i.ytimg.com/vi/F5H0J_1FdNU/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Arrival at camp site",
+      "end_time": 146
+    },
+    {
+      "start_time": 146,
+      "title": "Setting up the tent",
+      "end_time": 448
+    },
+    {
+      "start_time": 448,
+      "title": "A tribute to Little Mick",
+      "end_time": 658
+    },
+    {
+      "start_time": 658,
+      "title": "Camp setup and food review",
+      "end_time": 927
+    },
+    {
+      "start_time": 927,
+      "title": "Evening relaxation by the sea",
+      "end_time": 1416
+    },
+    {
+      "start_time": 1416,
+      "title": "Christmas plans and reflections",
+      "end_time": 1748
+    },
+    {
+      "start_time": 1748,
+      "title": "Bourbon whiskey review",
+      "end_time": 2336
+    },
+    {
+      "start_time": 2336,
+      "title": "Cooking and final thank yous",
+      "end_time": 2898
+    },
+    {
+      "start_time": 2898,
+      "title": "Morning departure",
+      "end_time": 3161
+    }
+  ]
 }

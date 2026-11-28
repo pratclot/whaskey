@@ -34,6 +34,7 @@ items:
     warming ginger spice reminiscent of gingerbread.
   verdict_quote: I am gonna give that very very good eight out of ten yeah maybe you
     know what is I'm 8.5 out of ten.
+names_verified: true
 ---
 
 **[15:49]** washy time washy time two rides young crazy right to get it up wasci time this week what we've got is Tamnavulin I think that's how it's pronounced is it yeah spear side single malt scotch whiskey.

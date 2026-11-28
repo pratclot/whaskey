@@ -6,5 +6,52 @@
   "description": "#wildcamping #camping #stealthcamping\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\ude09 \nhttps://theblotoutdoorsmerch.myshopify.com/collections/all",
   "thumbnail": "https://i.ytimg.com/vi/kzQWtxnsI58/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Arrival and setup",
+      "end_time": 281
+    },
+    {
+      "start_time": 281,
+      "title": "Setting up camp",
+      "end_time": 551
+    },
+    {
+      "start_time": 551,
+      "title": "Camp review",
+      "end_time": 1053
+    },
+    {
+      "start_time": 1053,
+      "title": "Local hike and reflection",
+      "end_time": 1556
+    },
+    {
+      "start_time": 1556,
+      "title": "Camping stories",
+      "end_time": 2225
+    },
+    {
+      "start_time": 2225,
+      "title": "Cooking dinner",
+      "end_time": 2717
+    },
+    {
+      "start_time": 2717,
+      "title": "Drink and commentary",
+      "end_time": 3011
+    },
+    {
+      "start_time": 3011,
+      "title": "Whiskey review",
+      "end_time": 3647
+    },
+    {
+      "start_time": 3647,
+      "title": "Packing up and departure",
+      "end_time": 3920
+    }
+  ]
 }

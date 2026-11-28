@@ -55,6 +55,7 @@ items:
     dangerous drinking experience.
   verdict_quote: I'm going to give it very very good not a meal or anything like that
     but a very very good 8.3 out of 10 dingo Mingos for Firefly apple pie flavor moonshine.
+names_verified: true
 ---
 
 **[19:10]** Right oh yes folks here we go time to get stuck in this lovely looking Indian takeaway meal. I'm going straight for onion bhajis let's get that proven in the mint sauce guys. Mmm shut up! Very nice, nice and crunchy on the outside, nice and soft on the inside. I'll try this one, very nice, very tasty onion bhajis. Now I'm going to try some 69 with Mrs. Blot, chicken cut in chili flakes and black pepper with mustard and shallow fried. That's got a nice little bit of a kick to it. I'm now going to go for the chicken tikka masala with some mushroom rice. Nice big chunks of chicken really nice, really tender, nice thick big chunks of chicken. The only thing that's disappointing at the minute was the chips. They are just your basic skin-on fries you buy in a big frozen bag, they're not proper Indian chunky chips. But overall the chicken and everything else has been spot on. So for that I can't give it a 10, what I can give it is a big fat steady, very respectable, really good score of nine straight nine out of 10 dingo Mingos!

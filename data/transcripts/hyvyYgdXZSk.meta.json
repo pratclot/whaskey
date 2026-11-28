@@ -6,5 +6,47 @@
   "description": "#subway #foodchallenge #subwaysandwich #food #disgusting #stealthy #adventure #disgustingfood\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\udc4d \nhttps://theblotoutdoorsmerch.myshopify.com/collections/all\n\nHere's the link for Roberts YouTube channel \nhttps://youtube.com/@murchiesmountains2820 \ud83d\ude09",
   "thumbnail": "https://i.ytimg.com/vi/hyvyYgdXZSk/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Subway sandwich adventure",
+      "end_time": 125
+    },
+    {
+      "start_time": 125,
+      "title": "Ordering at Subway",
+      "end_time": 186
+    },
+    {
+      "start_time": 186,
+      "title": "Making the sandwich",
+      "end_time": 526
+    },
+    {
+      "start_time": 526,
+      "title": "Post-stunt reflection",
+      "end_time": 553
+    },
+    {
+      "start_time": 553,
+      "title": "Camping bloopers",
+      "end_time": 926
+    },
+    {
+      "start_time": 926,
+      "title": "Answering viewer questions",
+      "end_time": 1128
+    },
+    {
+      "start_time": 1128,
+      "title": "Whiskey review",
+      "end_time": 1403
+    },
+    {
+      "start_time": 1403,
+      "title": "Conclusion and bloopers",
+      "end_time": 1478
+    }
+  ]
 }

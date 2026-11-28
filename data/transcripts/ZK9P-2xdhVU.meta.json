@@ -6,5 +6,42 @@
   "description": "#wintercamping #stealthcamping #wildcamping #stealthcampingalliance #wildcampinguk #adventure #stealth #stealthurbancamping #secretcamping #stealthcampinguk\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\udc4d \nhttps://theblotoutdoorsmerch.myshopify.com/collections/all",
   "thumbnail": "https://i.ytimg.com/vi/ZK9P-2xdhVU/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Arriving at the camp site",
+      "end_time": 156
+    },
+    {
+      "start_time": 156,
+      "title": "Navigating fence and spot",
+      "end_time": 418
+    },
+    {
+      "start_time": 418,
+      "title": "Setting up the tent",
+      "end_time": 785
+    },
+    {
+      "start_time": 785,
+      "title": "Campfire conversation",
+      "end_time": 1341
+    },
+    {
+      "start_time": 1341,
+      "title": "Whiskey review",
+      "end_time": 1661
+    },
+    {
+      "start_time": 1661,
+      "title": "Cooking dinner",
+      "end_time": 2239
+    },
+    {
+      "start_time": 2239,
+      "title": "Packing up and leaving",
+      "end_time": 2549
+    }
+  ]
 }

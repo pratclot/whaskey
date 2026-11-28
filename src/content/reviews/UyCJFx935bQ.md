@@ -33,6 +33,7 @@ items:
   verdict_quote: Aba Falls Welsh whiskey. The first time I've had a Welsh one. And
     I tell you what, that's as good as any Scotch Irish whiskey I've had. Absolutely
     fantastic. I'm going to give that a massive 8.5 out of 10.
+names_verified: true
 ---
 
 **[09:27]** Yeah. You know what time it is, guys. Whisky time. And this is what I've got this week. Aber Falls. And it's a single malt Welsh whisky. Normally Scotch or Irish I have. This is the first Welsh one. Let's get it in there. Mandingos. Give it a smell. **[09:57]** Straight away that's got a massive intense sherry smell. Little bit fruity smell, but a massive sherry smell. That's enough of the sniffing. Let's go on with the tasting. **[10:24]** Right. Straight away, same as a smell, a massive sherry thing going on. Absolutely beautiful. Right, this is stuff. Oh, that's absolutely beautiful. On the second taste, I'm getting like a nutty, little bit spicy, little bit nutty. **[11:04]** And I'm also getting like a coffee, like an espresso, like a coffee aftertaste. Definite big sherry thing going on. That is absolutely beautiful. Aber Falls Welsh whisky. **[11:23]** The first time I've had a Welsh one. And I tell you what, that's as good as any Scotch or Irish whisky I've had. Absolutely fantastic. We'll make this quick. I'm going to give that a massive 8.5 out of 10. **[11:43]** Aber Falls single malt Welsh whisky, 8.5 out of 10. You know what I'm talking about, mandingos. This is serious whisky tasting, right?

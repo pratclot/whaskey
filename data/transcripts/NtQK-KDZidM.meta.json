@@ -6,5 +6,67 @@
   "description": "#stealthy #stealthcamping #wildcamping #stealthcampingalliance #wildcampinguk #adventure #stealth #stealthurbancamping #secretcamping #stealthcampinguk\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\udc4d \nhttps://theblotoutdoorsmerch.myshopify.com/collections/all",
   "thumbnail": "https://i.ytimg.com/vi/NtQK-KDZidM/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Setting up the trip",
+      "end_time": 107
+    },
+    {
+      "start_time": 107,
+      "title": "Finding a stealth spot",
+      "end_time": 261
+    },
+    {
+      "start_time": 261,
+      "title": "Setting up camp",
+      "end_time": 404
+    },
+    {
+      "start_time": 404,
+      "title": "Evening coffee and Q&A",
+      "end_time": 522
+    },
+    {
+      "start_time": 522,
+      "title": "Food and drink inventory",
+      "end_time": 680
+    },
+    {
+      "start_time": 680,
+      "title": "First whiskey review",
+      "end_time": 938
+    },
+    {
+      "start_time": 938,
+      "title": "Whiskey tasting and scoring",
+      "end_time": 1270
+    },
+    {
+      "start_time": 1270,
+      "title": "Chilling by the tent",
+      "end_time": 1383
+    },
+    {
+      "start_time": 1383,
+      "title": "Second whiskey review",
+      "end_time": 1756
+    },
+    {
+      "start_time": 1756,
+      "title": "Cooking Singapore noodles",
+      "end_time": 2064
+    },
+    {
+      "start_time": 2064,
+      "title": "Turning in for the night",
+      "end_time": 2146
+    },
+    {
+      "start_time": 2146,
+      "title": "Morning pack up",
+      "end_time": 2522
+    }
+  ]
 }

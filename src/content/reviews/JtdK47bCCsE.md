@@ -54,6 +54,7 @@ items:
     buns, enhanced with Reggae Reggae jerk barbecue sauce.
   verdict_quote: That is very nice indeed rather than just putting ketchup on that
     Reggae Reggae barbecue sauce here it is... it's just made that a little bit better.
+names_verified: true
 ---
 
 **[50:31]** oh yes Mingos you know what time it is it's wasy time and this is what we've got this week Aberfeldy 16 year old Highland single malt Scotch wasy. This bottle will set you back between 70 and 80 pound... **[52:12]** There's a fruit in the turret for me I would see apple and it's got like a floral smell as well yeah definite a definite floral smell in there some mild spices but definite caramel apple smell and a good old florness aboutness... **[53:15]** Yeah a few little spices like a gingerness the old Ginger Spice washy is Bonny yeah quite smooth um silky like a waxy type of like texture... **[54:12]** Yeah that Apple flavors there... apple pears slight Touch of cinnamon oh yes... **[01:02:01]** oh yes guys here we go two sausages on the bottom Burger steaming hot um reggae reggae sauce it's certainly a male fit for a mandingo... **[01:03:15]** That Reggae Reggae barbecue sauce here it is reggae reggae jerk jerk off a Morrison's barbecue sauce it's just made that a little bit better compared to just putting you know ketchup on.

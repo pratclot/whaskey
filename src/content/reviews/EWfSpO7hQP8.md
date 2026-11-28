@@ -49,6 +49,7 @@ items:
   tasting_notes: A hearty camp meal featuring chunks of beef in a tangy American-style
     sauce served over mashed potato and rice.
   verdict_quote: Right guys, I'm going to finish this off in peace.
+names_verified: true
 ---
 
 **[58:56]** Belmont Estate was from St. Kitts at the Caribbean Islands of Love. Oh, get the old dropper in there, guys. Let's get the old boogie boogie boogie. Disco boogie disco boogie boogie. Disco boogie Rooney. You got to see boogie ro. He said boogie Rooney. It's supposed to be disco. **[1:01:49]** Got like a bit of a marmalade there smell straight away. The old marmalade Rooney. The old marmalade Wayne Rooney. swirl around. Maybe a little bit of a toffee smell, but very mild. Marmalade toffee, but not overpowering. Sweetness. **[1:03:17]** Oh, wasn't expecting that. Like a tangy. It was a taste completely different than the smell dingo. Yeah. Almost like um I don't know. That's proper weird. Not nasty. **[1:05:02]** I'm so grateful to Craig and Joan gave me hope. Do you want to give me oh do you want to? That is not very enjoyable at all. It's not. Damn. Maybe a fruity. Come on. Let's swirl this around the old gummy bears and give it a good old blaster. I would see it has maybe got a bananaama thing going on. **[1:07:35]** So from Craig and Joanna, I think it's Joanna. Give me hope. Give me hope please. It's Joanna Belmont Estate Rum from St. Kitts. I'm going to give that a straight as a die. No messing. Four out of 10. Dingo.

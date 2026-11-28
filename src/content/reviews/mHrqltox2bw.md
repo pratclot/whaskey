@@ -10,9 +10,9 @@ episode_summary: The host takes a random bus trip to Newcastle for a mooch aroun
   bumps into many local fans and legends, visits St. James' Park, and ultimately returns
   to Sunderland to review a chicken shawarma wrap meal.
 items:
-- name: Cruise Campari Shandy
+- name: Cruz Campo Shandy
   category: Beer & Ale
-  brand_or_distillery: Cruise
+  brand_or_distillery: Cruzcampo
   region_or_style: Shandy
   abv: 2.0%
   timestamp_seconds: 1478
@@ -51,6 +51,7 @@ items:
     kick.
   verdict_quote: So, I'm going to give that a big fat 9.5 out of 10. You know what
     I'm talking about.
+names_verified: true
 ---
 
 **[24:38]** The strawberry. Strawberry Lane right next to St. James's Park. You know what time it is, guys? It's beer o'lock. Yes. Here we are, guys. Nice pint of cruise combo shandi. I'm going to sit in the corner like the loser I am. That's a lovely pint of Cruise Camp or Shandi.

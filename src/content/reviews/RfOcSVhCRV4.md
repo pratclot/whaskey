@@ -32,6 +32,7 @@ items:
     Surprisingly smooth on the palate with notes of burnt ash and a definite caramel
     sweetness.
   verdict_quote: I'm going to give that a very very respectable 7 out of 10.
+names_verified: true
 ---
 
 **[16:37]** Waskey time you know what i'm talking about waskiti mandingos and this is what we've got this week nice and cheap and very nasty High Commissioner blended scotch wasabi just a little bottle five pound forty nine it'll do for me and you mick get that open our famous little cup for the world famous blond outdoor show basket review oh you know what i'm talking about mandingos.

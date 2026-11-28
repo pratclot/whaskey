@@ -10,7 +10,7 @@ episode_summary: The host goes stealth camping right next to a Premier Inn hotel
   an industrial area in Sunderland, where he enjoys Innis & Gun beers, a top-tier
   whisky, and cooks a delicious sirloin steak breakfast.
 items:
-- name: Innis & Gunn Rum Cask Finish Scottish Beer
+- name: Innis & Gunn Caribbean Rum Cask Finish Scottish Beer
   category: Beer & Ale
   brand_or_distillery: Innis & Gunn
   region_or_style: Scottish Beer
@@ -28,7 +28,7 @@ items:
   tasting_notes: Reminds the host of a double Maxim with a nice Caribbean rum cask
     finish that brings smooth malt and sweet notes.
   verdict_quote: Scottish beer rum cask very nice... it's very nice guys very nice
-- name: Innis & Gunn Irish Whisky Cask Scottish Beer
+- name: Innis & Gunn Irish Whiskey Cask Scottish Oatmeal Stout
   category: Beer & Ale
   brand_or_distillery: Innis & Gunn
   region_or_style: Scottish Beer
@@ -90,6 +90,7 @@ items:
     chili, and garlic salt, accompanied by crispy jalapeño cheese croquettes.
   verdict_quote: A lovely juicy Raheem sirloin steak with some cheesy croquettes the
     best breakfast ever
+names_verified: true
 ---
 
 **[26:55]** Right now I'm totally relaxed I know there's no one there I'm gonna have one of these Innis & Gunn Scottish beer rum cask finish and when I bring it back I'm gonna tell you what it tastes like and we will talk some more shite.

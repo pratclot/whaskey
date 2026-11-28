@@ -6,5 +6,62 @@
   "description": "#stealthcamping #wildcamping #getoutside \n#stealthcampinguk #adventure #wildcampinguk \n#rumreview #stealthcamp #hunkerdown #stealth\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\ude09 \nhttps://theblotoutdoorsmerch.myshopify.com/collections/all\n\nHere's the link for Mark's channel:\nhttps://youtube.com/@MarkOutdoors_?si=W3dQDlBfcksUadmb\n\nHere's the link for Terry's channel:\nhttps://youtube.com/@Madsoutandabout?si=ktEBX0LR4n3NoAk0",
   "thumbnail": "https://i.ytimg.com/vi/S1rvyTPPr0M/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Heading to the old barn",
+      "end_time": 196
+    },
+    {
+      "start_time": 196,
+      "title": "Accessing the campsite",
+      "end_time": 427
+    },
+    {
+      "start_time": 427,
+      "title": "Setting up camp",
+      "end_time": 725
+    },
+    {
+      "start_time": 725,
+      "title": "Food and drinks overview",
+      "end_time": 1032
+    },
+    {
+      "start_time": 1032,
+      "title": "A painful mishap",
+      "end_time": 1453
+    },
+    {
+      "start_time": 1453,
+      "title": "Reflections and tips",
+      "end_time": 1961
+    },
+    {
+      "start_time": 1961,
+      "title": "Evening camp setup",
+      "end_time": 2360
+    },
+    {
+      "start_time": 2360,
+      "title": "Q&A and night thoughts",
+      "end_time": 2935
+    },
+    {
+      "start_time": 2935,
+      "title": "Cooking dinner",
+      "end_time": 3450
+    },
+    {
+      "start_time": 3450,
+      "title": "Estonian rum review",
+      "end_time": 3950
+    },
+    {
+      "start_time": 3950,
+      "title": "Morning departure",
+      "end_time": 4203
+    }
+  ]
 }

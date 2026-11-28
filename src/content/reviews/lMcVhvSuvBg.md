@@ -33,6 +33,7 @@ items:
     delivers a strong anise and licorice taste, accompanied by a bit of spice, ginger
     kick, and a lovely sweet finish.
   verdict_quote: I'm gonna give that a very good a really good 8.5 out of 10.
+names_verified: true
 ---
 
 **[10:24]** Merry Christmas, oh yes you know what time it is mandingos, wasky time. And this week kindly given to me by a lovely couple called James and Laura, got a nice little bottle of Tobermory single malt scotch wasky which is made on the Isle of Mull. Never had this before, let's get that open.

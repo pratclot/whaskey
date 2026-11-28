@@ -6,5 +6,52 @@
   "description": "#wildcamping #scotland #getoutside #raincamping #hiking #backpacking #camping \n#adventure #stealthcamping #greatoutdoors\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\ude09 \nhttps://theblotoutdoorsmerch.myshopify.com/collections/all\n\nHere's the links for the channels i spoke about.\n\nGood Bloke Outdoors:\nhttps://youtube.com/@GoodBlokeOutdoors?si=PVHq_o2swrLq-zRW\n\nButchy Boys Adventures:\nhttps://youtube.com/@Butchyboysadventures?si=nlKwRrJMduKsArt6\n\nCharles Veitch:\nhttps://youtube.com/@CharlesVeitch?si=_WS27lJxDv8rrrYq\n\nThe Great Raymondo Outdoors:\nhttps://youtube.com/@SERVICETOSUMMIT?si=J6LLE85Hut_9wjD8\n\nCallums Corner:\nhttps://youtube.com/@CallumsCorner.?si=rI7O5SIauAR2tLgJ",
   "thumbnail": "https://i.ytimg.com/vi/FeNIrJ1O0wQ/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Arrival and setup",
+      "end_time": 396
+    },
+    {
+      "start_time": 396,
+      "title": "Hiking to the summit",
+      "end_time": 928
+    },
+    {
+      "start_time": 928,
+      "title": "Food and drink overview",
+      "end_time": 1312
+    },
+    {
+      "start_time": 1312,
+      "title": "Exploring in the rain",
+      "end_time": 1555
+    },
+    {
+      "start_time": 1555,
+      "title": "Whisky review",
+      "end_time": 2228
+    },
+    {
+      "start_time": 2228,
+      "title": "Channel shoutouts",
+      "end_time": 3054
+    },
+    {
+      "start_time": 3054,
+      "title": "Cooking dinner",
+      "end_time": 3323
+    },
+    {
+      "start_time": 3323,
+      "title": "Late night check-in",
+      "end_time": 3431
+    },
+    {
+      "start_time": 3431,
+      "title": "Packing up and leaving",
+      "end_time": 3583
+    }
+  ]
 }

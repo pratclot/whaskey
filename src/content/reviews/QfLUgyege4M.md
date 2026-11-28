@@ -31,6 +31,7 @@ items:
     prominent vanilla, a touch of passion fruit, and grassy notes, while the palate
     is dominated by an intense, lingering chili burn that overtakes most other flavors.
   verdict_quote: It's a 5.5 from this Mandingo.
+names_verified: true
 ---
 
 **[35:35]** Yes, mingoes. You know what time it is. What time is it, Mick? Long time. Yes. It's rum time, guys. And this was given to us from a legend called Scott who has his own barber shop called Denby's Barbers just off Chester Road in the City of Sunderland. **[37:58]** Let's get the old baker in it, guys. Oh, straight away. That is a strong sniff dingo, guys. Loads of spices. It just lets me know straight away that when I do taste it, it's going to blow me cap off. **[40:10]** Now, it's quite thick. It's quite gloopy. It's not watery. Dead Man's Fingers Chili Rum from Scott. Oh, it's hard to get any flavors apart from the spicy, the chilliness to it. **[43:52]** Main thing I'm getting now is just a burning sensation. Burning lips, tongue, chest. I'm going to give it a 5.5 out of 10 dingo. What you got, Mick? 4.8.

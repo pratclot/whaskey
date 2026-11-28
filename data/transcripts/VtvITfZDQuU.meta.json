@@ -6,5 +6,27 @@
   "description": "",
   "thumbnail": "https://i.ytimg.com/vi/VtvITfZDQuU/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Arrival and hike preparation",
+      "end_time": 543
+    },
+    {
+      "start_time": 543,
+      "title": "Setting up camp",
+      "end_time": 862
+    },
+    {
+      "start_time": 862,
+      "title": "Dinner and evening relaxation",
+      "end_time": 1081
+    },
+    {
+      "start_time": 1081,
+      "title": "Morning departure",
+      "end_time": 1201
+    }
+  ]
 }

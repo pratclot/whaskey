@@ -71,6 +71,7 @@ items:
   verdict_quote: Chairman's reserve rum I am getting more iny rooms now I've only
     been having them cuz people have been sending as the odd one and I'm really really
     really joining them
+names_verified: true
 ---
 
 **[09:12]** So here we are then guys I've just parked the block the bail up and this nice little quiet car park out the wave everyone let's have a quick look at the food before we dive in so this is the breakfast puty or the British bun it's called oh yes that is exactly what I'm talking about and this is just what I fancied bacon sausages fried egg hash brown and tomatoes. **[17:42]** So let me show you hot beef and grvy there's plenty in there mandingos let's dive in. Oh that is nice lovely soft beef just exactly like you know when you put a beef joint in the slow cook at home guys and you leave it for hours and hours and it just all falls apart. **[34:33]** Chairman's reserve my mouth is dry drier than a nuns snatcher in it room time get this popped in the old famous C dingo a yes oh I can smell that already without even putting me bakeron next to it and let's get the old bakeron in give there a swirl around just like what I do with the um the wasy well that's very fruity on the nose straight away and very rich as well.

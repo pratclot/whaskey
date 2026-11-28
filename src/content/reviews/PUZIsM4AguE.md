@@ -30,6 +30,7 @@ items:
     and smoky character.
   verdict_quote: That is got like a strong medical, medicinal sniff dingle. My mind
     is dingleberries. But like a peaty smoky thing at exactly the same time.
+names_verified: true
 ---
 
 **[46:32]** Now, wowza Rooney, wowza Wayne, and Colleen Rooney. That is got like a strong medical, medicinal sniff dingle. My mind is dingleberries. But like a peaty smoky thing at exactly the same time. It's a funny one. Give me that bottle cuz I'll need to bring that black up. Black? I'm in back. Gary! Hey, goddamn it. [ __ ] it. Now, come on.

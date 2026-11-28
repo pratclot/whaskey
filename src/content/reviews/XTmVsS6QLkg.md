@@ -30,6 +30,7 @@ items:
     complemented by a hint of vanilla and a syrupy, smooth mouthfeel.
   verdict_quote: I'm going to give it a very steady, a very respectable 7 out of 10
     dingo.
+names_verified: true
 ---
 
 **[01:03:09]** You know what time it is. It's breakfast rum time. You know what makes sense. Bounty rum from the island of St. Lucia. This was kindly given to me from Kenneth, Jess, and Finley. Spank you very much, the three years. I will certainly enjoy a breakfast time rum review. 

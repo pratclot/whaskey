@@ -30,6 +30,7 @@ items:
   tasting_notes: Starts off harsh with notes of toffee and sweet treacle, developing
     into a smoky peach and fruity profile before finishing with a burnt, rough edge.
   verdict_quote: I'm going to only give this a five out of 10.
+names_verified: true
 ---
 
 **[47:11]** But it's time for the world famous was review. Let's get that popped into the old famous goingo. Oh yeah. A massive spank you to Lee Williams. Thank you for this. Cheers me. Cheers Lee. What an absolute legend. 

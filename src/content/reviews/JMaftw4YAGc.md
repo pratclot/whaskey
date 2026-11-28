@@ -56,6 +56,7 @@ items:
     honey, and a chocolatey fruit-and-nut finish.
   verdict_quote: I'm gonna give that Johnny Walker Blue Label a big fat nine point
     three out of tending or manding course
+names_verified: true
 ---
 
 **[11:35]** yeah not bad at all right I think it's time now to try and fold this up and ate it like a wrap a little bit chip there chip Dynamite chili and garlic... **[19:11]** the wrap's nice and tasty but I felt like it had skin in it and I was having to peel the skin off... so I'm going to give it a very good solid eight out of 10 ding or mandingos oh yes you better believe I am. **[27:09]** lovely and the tiniest little bit of orc oh it's got just a perfect the perfect amount of smoke... I'm getting a little bit honey there guys oh honestly first time trying this and it certainly won't be the last time an absolute quality whiskey down the hutch oh and a lovely aftertaste there and like chocolate like with the dark fruits in the oak... I'm gonna give that Johnny Walker Blue Label a big fat nine point three out of tending or manding course oh yes you better believe I am.

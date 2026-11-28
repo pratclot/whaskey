@@ -31,6 +31,7 @@ items:
     and toffee. On the palate, it has a slight vodka-like spirit character mixed with
     sweet rice and sweetness.
   verdict_quote: I'm going to give it a five.5 out of 10 dingo.
+names_verified: true
 ---
 
 **[01:02:00]** Yes, man. Dingos. You know what time it is. It's wasky time. And this is a massive thank you from John and Donna Gregory. Thank you very much. You absolute couple of legends. They didn't just send me this Hong Thong Fuy. They sent me another few bottles as well. So yes, you're a couple of legends. You better believe you are. And you know you are the legends of the blood door show. Cheers, John and Donna. Right, let's get this popped in. The old famous cub dingo. My Mandy Dingleberry Finley quiz. Oh, not much left. Just enough for the review. And let's make this quick because this video has gone on already. It's gone on over an hour. I try and keep me videos less than an hour, but like I thought that much shine. I'm doing it now and I So, let's get on with it. Smooth.

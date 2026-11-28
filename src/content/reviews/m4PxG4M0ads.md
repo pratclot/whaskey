@@ -31,6 +31,7 @@ items:
     is weak as piss.
   verdict_quote: It's probably one of the worst ones I've ever had... I'm going to
     give that a three out of 10.
+names_verified: true
 ---
 
 **[53:12]** Right oh Paul [__] hell your breath stinks yes my fandingos you know what time it is certainly is time and this is what we have got this week it's a naughty one folks Highland Earl. It's a Aldi special. I think it is the bog standard bottom of the line of the Aldi Wasis.

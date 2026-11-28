@@ -73,6 +73,7 @@ items:
     beef, fluffy dumplings, peas, carrots, onions, and rich gravy.
   verdict_quote: This is probably been my best camping meal... absolutely tremendous,
     guys.
+names_verified: true
 ---
 
 **[50:55]** Let's get that pop in. You old famous cup dingo. Mandingos. Oh, yes. Get that. I'm just trying to get that steady there guys. In the ground so it doesn't fall over. There we go. Let's get the old baker rooney in this. Rice. Little bit peppery. Slight just a little bit of oak. Give that a swirl around there my man and woman friend sexuals. Oh, it's like a nice hint of like a like a lovely scent of like sandalwood coming through there guys. Mhm, and it's very mild. It's not a one that goes you know Everyone smelled the whiskey. Even if you know a whiskey drinker, you've all had a sniff of the whiskey and then get up the old Nostradamus and you're like You know what I'm talking about guys. But, that's a nice smooth mellow sandalwood smell. It has got a little bit of a peppery a peppery thing to it. So, although the peppery is not blowing your cap off because you can smell the pepper now I'm expecting a little bit of a nice little peppery tingle down the throat and on the old tongue dingo. So, on that note guys, that's enough of the sniffing. Let's get on with the tasting. Try circles. No. It's not really peppery at all. Hold on, let's have another blast. Oh, yeah. Maybe the slightest little bit. Like the slightest peppery spicy flavor rooney. It's actually quite watery.

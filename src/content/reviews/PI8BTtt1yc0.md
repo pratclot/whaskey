@@ -50,7 +50,7 @@ items:
     flavor.
   verdict_quote: I'll give mine a 9.3 because it's something different... and the
     chips were nice chunky and they were fluffy.
-- name: Mount Gay Barbados Rum
+- name: Mount Gay Eclipse Barbados Rum
   category: Spirits & Liqueur
   brand_or_distillery: Mount Gay
   region_or_style: Barbados Rum
@@ -71,6 +71,7 @@ items:
     oak, dark fruits, raisins, stewed plums, and holiday spices.
   verdict_quote: I'm going to give this very decent very respectable... 7.7 out of
     10 dingo mingles.
+names_verified: true
 ---
 
 **[20:45]** Right guys here we go time to get stuck into the old Jack sanels the old scran Daniels if you know what I'm talking about. The place is called Billy at brockwood... **[31:21]** What have we got? Mount Gay Barbados rum kindly given to me from a lovely guy by the name of Barry Hornwood. Cheers Barry my man friend! **[34:09]** Right, what are you getting? Plums... like a toasted oak type of taste and it has got a few spices. I'm going to give this very decent very respectable... 7.7 out of 10 dingo mingles.

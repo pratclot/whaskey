@@ -33,6 +33,7 @@ items:
     spices, and rich flavors of toffee, hazelnuts, and subtle orange fruitiness.
   verdict_quote: It's a 9.2 out of 10 dingo. My mandy dingleberries. You know what
     I'm talking about.
+names_verified: true
 ---
 
 **[33:50]** This week we have got a Bunnahabhain 12-year-old single malt scotch whisky kindly bought for me from an absolute legend and he goes by the name of Grant Wilson. Cheers Grant Wilson my man friend sexual. Let's get this popped in the old famous cup dingo.

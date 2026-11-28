@@ -6,5 +6,57 @@
   "description": "#stealthcamping #wildcamping #stealthcampingalliance #wildcampinguk\n#cookingoutdoors #outdoors #urbancamping\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\udc4d \nhttps://theblotoutdoorsmerch.myshopify.com/collections/all\n\nHere's the link for Brown's Biltong \ud83d\ude0b\nhttps://brownsbiltong.co.uk/",
   "thumbnail": "https://i.ytimg.com/vi/abMbKxdh9rE/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Introduction",
+      "end_time": 22
+    },
+    {
+      "start_time": 22,
+      "title": "Planning the camp",
+      "end_time": 193
+    },
+    {
+      "start_time": 193,
+      "title": "Setting up the spot",
+      "end_time": 354
+    },
+    {
+      "start_time": 354,
+      "title": "Evening relaxation",
+      "end_time": 1061
+    },
+    {
+      "start_time": 1061,
+      "title": "Gear and food review",
+      "end_time": 1388
+    },
+    {
+      "start_time": 1388,
+      "title": "Beer comparison",
+      "end_time": 1762
+    },
+    {
+      "start_time": 1762,
+      "title": "Dealing with the rain",
+      "end_time": 2311
+    },
+    {
+      "start_time": 2311,
+      "title": "Whiskey review",
+      "end_time": 2992
+    },
+    {
+      "start_time": 2992,
+      "title": "Cooking dinner",
+      "end_time": 3555
+    },
+    {
+      "start_time": 3555,
+      "title": "Turning in for the night",
+      "end_time": 3812
+    }
+  ]
 }

@@ -86,6 +86,7 @@ items:
     finish.
   verdict_quote: tomatine Port Cask finish I'm going to give that a massive a big
     fat Megasaur us a 9.3
+names_verified: true
 ---
 
 **[11:00]** I'm going to dive straight into the salt and pepper chips I think that's where I was getting the the strong smells off on the way to this car park leaving Simon's Chinese takeaway. Mhm, salt and pepper but it tastes like salt and chili as well. M, them are absolutely lovely. I know it's only a bit salt pepper and chili on your normal Chinese chips, but just the extra flavors you're getting off them compared to the normal chips, really, really nice. Yeah, that was worth paying a little bit more to get the salt and pepper on. That's a solid start, Mingos.

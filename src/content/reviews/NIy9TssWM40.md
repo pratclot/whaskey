@@ -55,6 +55,7 @@ items:
     pleasant Woody Harrison aftertaste.
   verdict_quote: I'm going to give that I've really enjoyed that a solid 8.5 out of
     10 dingo mingles.
+names_verified: true
 ---
 
 **[06:50]** before I dive in I'll give you a quick look at what I've got so that's large fish and chips there's Lads more chips in that guys but they're buried underneath the fish and the fish is that fresh it's Fallen apart... **[07:26]** here we go manding goes time to get stuck in this lovely looking food I don't know where to start let's start with a couple of chips the old Joy whips yeah them's not dry they're nice and moist... **[17:52]** so we it all up bingos I'm going to give it a big fat Mega 9.9 out of 10 dingo mandingos absolutely fantastic and I think I'm going to make this my goto chippy now... **[27:22]** let's get the old bakeron on it oh like a light fruity smell that smells really really nice that I think I'm going to start and getting my rooms a little bit more... **[30:27]** Ron Abuelo Anejo kind of give from Nick ball thanks again Nick very much very much appreciated my man friend I'm going to give that a solid 8.5 out of 10 dingo mingles.

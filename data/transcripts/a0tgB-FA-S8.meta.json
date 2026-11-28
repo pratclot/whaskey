@@ -6,5 +6,52 @@
   "description": "#golfcourse #stealthcamping #wildcamping #stealthcampingalliance #wildcampinguk #adventure #stealth #stealthurbancamping #secretcamping #stealthcampinguk\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\udc4d \nhttps://theblotoutdoorsmerch.myshopify.com/collections/all\n\nHere's the link for Brown's Biltong, remember to use the code \"mandingo\" to get your discount \ud83d\ude09 \nhttps://brownsbiltong.co.uk/",
   "thumbnail": "https://i.ytimg.com/vi/a0tgB-FA-S8/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Trekking to the golf course",
+      "end_time": 156
+    },
+    {
+      "start_time": 156,
+      "title": "Finding a campsite",
+      "end_time": 332
+    },
+    {
+      "start_time": 332,
+      "title": "Setting up camp",
+      "end_time": 690
+    },
+    {
+      "start_time": 690,
+      "title": "Cider and Q&A session",
+      "end_time": 1055
+    },
+    {
+      "start_time": 1055,
+      "title": "Preparing dinner",
+      "end_time": 1241
+    },
+    {
+      "start_time": 1241,
+      "title": "Whiskey review",
+      "end_time": 1767
+    },
+    {
+      "start_time": 1767,
+      "title": "Evening relaxation",
+      "end_time": 1933
+    },
+    {
+      "start_time": 1933,
+      "title": "Cooking and meal time",
+      "end_time": 2459
+    },
+    {
+      "start_time": 2459,
+      "title": "Morning departure",
+      "end_time": 2725
+    }
+  ]
 }

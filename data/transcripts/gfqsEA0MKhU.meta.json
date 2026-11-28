@@ -6,5 +6,32 @@
   "description": "#food #takeaway #fastfood #cafefood #cafe \n#foodie #takeawayfood #burger #foodreview #foodcritic\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\ude09\nhttps://theblotoutdoorsmerch.myshopify.com/collections/all\n\nHere's the link for Nicks channel:\nhttps://youtube.com/@Thats_him_with_the_daft_hat?si=LUAm512rRlBoJjyH",
   "thumbnail": "https://i.ytimg.com/vi/gfqsEA0MKhU/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Road trip and caf\u00e9 search",
+      "end_time": 292
+    },
+    {
+      "start_time": 292,
+      "title": "Ordering at Michael's Cafe",
+      "end_time": 446
+    },
+    {
+      "start_time": 446,
+      "title": "Takeaway food review",
+      "end_time": 1333
+    },
+    {
+      "start_time": 1333,
+      "title": "Channel update and banter",
+      "end_time": 1957
+    },
+    {
+      "start_time": 1957,
+      "title": "Whiskey review and clips",
+      "end_time": 2705
+    }
+  ]
 }

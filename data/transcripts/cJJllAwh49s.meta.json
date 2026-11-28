@@ -6,5 +6,57 @@
   "description": "#wildcamping #camping #comedy #hiking \n#wildcampinguk #hikingandcamping #funny \n#stealthcamping #whiskyreview #adventure\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\ude09 \nhttps://theblotoutdoorsmerch.myshopify.com/collections/all",
   "thumbnail": "https://i.ytimg.com/vi/cJJllAwh49s/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Arrival and route planning",
+      "end_time": 167
+    },
+    {
+      "start_time": 167,
+      "title": "Finding a campsite",
+      "end_time": 497
+    },
+    {
+      "start_time": 497,
+      "title": "Setting up the tent",
+      "end_time": 727
+    },
+    {
+      "start_time": 727,
+      "title": "Evening relaxation",
+      "end_time": 1021
+    },
+    {
+      "start_time": 1021,
+      "title": "Evening preparations",
+      "end_time": 1140
+    },
+    {
+      "start_time": 1140,
+      "title": "Personal reflections and banter",
+      "end_time": 1982
+    },
+    {
+      "start_time": 1982,
+      "title": "Whisky review and dinner",
+      "end_time": 2745
+    },
+    {
+      "start_time": 2745,
+      "title": "Late night wind-down",
+      "end_time": 3628
+    },
+    {
+      "start_time": 3628,
+      "title": "Morning departure",
+      "end_time": 3932
+    },
+    {
+      "start_time": 3932,
+      "title": "Journey home",
+      "end_time": 4012
+    }
+  ]
 }

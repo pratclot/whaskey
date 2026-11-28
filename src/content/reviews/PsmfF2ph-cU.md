@@ -34,6 +34,7 @@ items:
     biscuit finish.
   verdict_quote: I'm going to give this from Jones Connacht Irish whiskey... a solid
     8.5.
+names_verified: true
 ---
 
 **[43:30]** We have got this from Jones Connacht Irish whiskey. Let's get that popped in there. And we are going straight to sleep after this. I thought I was doing this by itself, but it's even better. I have got the legendary human dorsal fin joining in.

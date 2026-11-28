@@ -10,7 +10,7 @@ episode_summary: The host goes wild camping in the Simonside Hills in Northumber
   with Young Chris, where they cook a homemade chicken tikka masala curry and review
   an Irish blended whisky sent by a mystery viewer.
 items:
-- name: Virtuous Grapefruit IPA
+- name: Virtuous Aromatic Session IPA
   category: Beer & Ale
   brand_or_distillery: Kirkstall Brewery
   region_or_style: Session IPA
@@ -65,7 +65,7 @@ items:
   tasting_notes: A classic Belgian lager brought along by Young Chris.
   verdict_quote: good old wife biter a good old wife baiter oh yes better than snout
     M lovely
-- name: Open Space Session IPA
+- name: Open Space Gluten Free Pale
   category: Beer & Ale
   brand_or_distillery: North Brewing Co
   region_or_style: Session IPA
@@ -124,6 +124,7 @@ items:
     spicy tingle on the palate with a smooth finish.
   verdict_quote: I'm going to give that very steady nothing special but it wasn't
     bad straight as a die seven out of 10
+names_verified: true
 ---
 
 **[37:41]** oh yes Mingos you know what time it is wasy time and this is what we've got this week Slane Irish wasy you better believe us like we said earlier on we don't know who sent this I've had it for like 8 or 10 weeks I was hoping someone was going to get back to us and tell me who sent it but that's just the way it goes mandingos so whoever you are you're absolute Legend and me and Young Chris really appreciated it...  

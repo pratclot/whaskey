@@ -6,5 +6,72 @@
   "description": "#wildcampinguk #adventure #getoutside \n#hiking #backpacking #wildcamping \n#stealthcamping #greatoutdoors \n#whiskyreview #camping",
   "thumbnail": "https://i.ytimg.com/vi/Xx1dU5P4phM/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Arrival and camp setup",
+      "end_time": 354
+    },
+    {
+      "start_time": 354,
+      "title": "Pre-dinner drinks",
+      "end_time": 606
+    },
+    {
+      "start_time": 606,
+      "title": "Campsite tour",
+      "end_time": 774
+    },
+    {
+      "start_time": 774,
+      "title": "Rocky outcrop view",
+      "end_time": 1007
+    },
+    {
+      "start_time": 1007,
+      "title": "Whiskey tasting",
+      "end_time": 1247
+    },
+    {
+      "start_time": 1247,
+      "title": "Future plans",
+      "end_time": 1494
+    },
+    {
+      "start_time": 1494,
+      "title": "Drinks and snacks",
+      "end_time": 1845
+    },
+    {
+      "start_time": 1845,
+      "title": "More whiskey banter",
+      "end_time": 2049
+    },
+    {
+      "start_time": 2049,
+      "title": "Final whiskey review",
+      "end_time": 2616
+    },
+    {
+      "start_time": 2616,
+      "title": "Retreating to the tent",
+      "end_time": 2831
+    },
+    {
+      "start_time": 2831,
+      "title": "Cooking dinner",
+      "end_time": 3139
+    },
+    {
+      "start_time": 3139,
+      "title": "Late night meal",
+      "end_time": 3698
+    },
+    {
+      "start_time": 3698,
+      "title": "Morning pack up",
+      "end_time": 4092
+    }
+  ]
 }

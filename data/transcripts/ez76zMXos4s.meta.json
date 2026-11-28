@@ -6,5 +6,57 @@
   "description": "#camping #wildcamping #hikingandcamping \n#stealthcamping #comedy #hiking \n#wildcampinguk #stealthcampinguk\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\ude09 \nhttps://theblotoutdoorsmerch.myshopify.com/collections/all\n\nHere's the link for Kevs channel:\nhttps://youtube.com/@Kevsoutdooradventure?feature=shared",
   "thumbnail": "https://i.ytimg.com/vi/ez76zMXos4s/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Introduction and setup",
+      "end_time": 272
+    },
+    {
+      "start_time": 272,
+      "title": "Setting up camp",
+      "end_time": 616
+    },
+    {
+      "start_time": 616,
+      "title": "Camping talk and drinks",
+      "end_time": 843
+    },
+    {
+      "start_time": 843,
+      "title": "History and socialising",
+      "end_time": 1243
+    },
+    {
+      "start_time": 1243,
+      "title": "Food and drink showcase",
+      "end_time": 1687
+    },
+    {
+      "start_time": 1687,
+      "title": "Evening drinks and conversation",
+      "end_time": 2251
+    },
+    {
+      "start_time": 2251,
+      "title": "Cooking and eating dinner",
+      "end_time": 2602
+    },
+    {
+      "start_time": 2602,
+      "title": "Checking on Kev",
+      "end_time": 2874
+    },
+    {
+      "start_time": 2874,
+      "title": "Whiskey review",
+      "end_time": 3610
+    },
+    {
+      "start_time": 3610,
+      "title": "Morning packing and departure",
+      "end_time": 3807
+    }
+  ]
 }

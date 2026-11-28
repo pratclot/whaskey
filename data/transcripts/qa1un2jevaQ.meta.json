@@ -6,5 +6,42 @@
   "description": "#stealthcamping #getoutside #wildcamping #getoutdoors #stealthurbancamping #greatoutdoors #camping #whiskyreview #outdoorcooking #adventure\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\ude09 \nhttps://theblotoutdoorsmerch.myshopify.com/collections/all",
   "thumbnail": "https://i.ytimg.com/vi/qa1un2jevaQ/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Stealth camp setup",
+      "end_time": 285
+    },
+    {
+      "start_time": 285,
+      "title": "Evening camp relax",
+      "end_time": 833
+    },
+    {
+      "start_time": 833,
+      "title": "Gear and food review",
+      "end_time": 1423
+    },
+    {
+      "start_time": 1423,
+      "title": "Cooking and banter",
+      "end_time": 2245
+    },
+    {
+      "start_time": 2245,
+      "title": "Whiskey review",
+      "end_time": 2607
+    },
+    {
+      "start_time": 2607,
+      "title": "Dinner and reflection",
+      "end_time": 3021
+    },
+    {
+      "start_time": 3021,
+      "title": "Morning pack up",
+      "end_time": 3336
+    }
+  ]
 }

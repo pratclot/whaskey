@@ -32,6 +32,7 @@ items:
     finishing smooth and pleasant.
   verdict_quote: I'm going to give it a a very decent 8.2 out of 10 dingo mingles
     for this week's was review.
+names_verified: true
 ---
 
 **[55:27]** balentine's finest blended Scotch whisky not much left let's get pop in the old famous Cup Dingo mandingos whisky time yes just enough for the review. Oh God I think there's a fly in my cup. **[55:57]** There's some spices there guys there like a nice heather smell yeah like a planty fresh heather dingo Mandingo. Maybe like a zesty orange thing going on. **[57:23]** It's quite soft on the back there's nothing blowing your cup off and that's enough of the sniffing let's get on with the tasting. **[57:54]** Oh and when you talk about a little chest warmer that has done the perfect job. **[01:00:13]** Nice milk chocolate flavor in this whisky yeah definitely for me nice milk chocolate flavor the mildest of spices a little bit of vanilla there. **[01:02:11]** Down the hatch mandingo quite smooth a big vanilla a few spices a few tingles on the old tongue dingo chocolatey definite chocolate so it's like a chocolate orangey spicy whisky flavor really really nice. **[01:03:15]** Well guys Ballantine's I've reviewed Ballantine's before but not this one not this limited edition version Van Dyke. I'm going to give it a very decent 8.2 out of 10 dingo mingles for this week's whisky review you know what I'm talking about.

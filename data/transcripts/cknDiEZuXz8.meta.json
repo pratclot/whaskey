@@ -6,5 +6,67 @@
   "description": "#stealthcamping #wildcamping #stealthcampingalliance #getoutside #camping \n#stealthcampinguk #wildcampinguk #adventure \n#rumreview #scarycamping\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\ude09 \nhttps://theblotoutdoorsmerch.myshopify.com/collections/all",
   "thumbnail": "https://i.ytimg.com/vi/cknDiEZuXz8/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Arrival and intro",
+      "end_time": 21
+    },
+    {
+      "start_time": 21,
+      "title": "Finding a campsite",
+      "end_time": 442
+    },
+    {
+      "start_time": 442,
+      "title": "Setting up the tent",
+      "end_time": 725
+    },
+    {
+      "start_time": 725,
+      "title": "Exploring the church",
+      "end_time": 922
+    },
+    {
+      "start_time": 922,
+      "title": "Drinks and spooky stories",
+      "end_time": 1243
+    },
+    {
+      "start_time": 1243,
+      "title": "Second church visit",
+      "end_time": 1588
+    },
+    {
+      "start_time": 1588,
+      "title": "Cooking camp dinner",
+      "end_time": 1888
+    },
+    {
+      "start_time": 1888,
+      "title": "Evening relaxation",
+      "end_time": 2306
+    },
+    {
+      "start_time": 2306,
+      "title": "Late night refreshments",
+      "end_time": 2745
+    },
+    {
+      "start_time": 2745,
+      "title": "Food review and thanks",
+      "end_time": 3351
+    },
+    {
+      "start_time": 3351,
+      "title": "World famous rum review",
+      "end_time": 4020
+    },
+    {
+      "start_time": 4020,
+      "title": "Morning after and wrap-up",
+      "end_time": 4231
+    }
+  ]
 }

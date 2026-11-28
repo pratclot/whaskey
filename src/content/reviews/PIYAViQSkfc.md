@@ -62,9 +62,9 @@ items:
   tasting_notes: A juicy New England style IPA with tropical fruit and citrus notes,
     strong and hoppy.
   verdict_quote: definitely the best one so far of the three beers I've had
-- name: Aldi Spanish Red Wine
+- name: Toro Loco Amarillo Tempranillo
   category: Spirits & Liqueur
-  brand_or_distillery: Aldi
+  brand_or_distillery: Toro Loco
   region_or_style: Red Wine
   abv: 11.5%
   timestamp_seconds: 2346
@@ -118,6 +118,7 @@ items:
   tasting_notes: Extra large king prawns, sliced mushrooms in a tin, and smoky barbecue
     rice cooked on the camp stove, staying remarkably hot.
   verdict_quote: this has got to be the hottest meal I've ever had in my life
+names_verified: true
 ---
 
 **[47:39]** righty mandingo you know what time it is wasy time and this is what we have got this week Laphroaig Oak Select. I've reviewed Laphroaig two times before over the last year or two but this is a different one it's the Oak select. **[48:38]** Straight away as I expected like a strong medicine chemical type sniff but it's strange you know sometimes I get the low budget wasis and if you get a chemical sniff it's not nice... **[52:44]** oh that is very enjoyable it's very oaky yes it has still got that medical medicine slightly chemical type of taste but it's very oaky aged in American oak and you taste it and you're like yeah I can taste the oak a little bit that has got a big fat mega oaky flavor to it which is killing out the nasty... **[55:19]** I'm going to give that and I think I only gave the normal Laphroaig something like a four or five that is quite enjoyable not the greatest but compared to the normal one this has got lovely oak flavor drowning out the medical taste I'm going to give it a steady seven a big fat steady seven out of 10 dingo mandingos you know what I'm talking about.

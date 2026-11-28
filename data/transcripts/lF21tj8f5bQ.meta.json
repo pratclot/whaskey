@@ -6,5 +6,82 @@
   "description": "#stealthcamping #wildcamping #stealthcampinguk #getoutside #adventure #stealthurbancamping #getoutdoors #camping\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\ude09 \nhttps://theblotoutdoorsmerch.myshopify.com/collections/all\n\nHere's the link for Brown's Biltong \ud83d\ude0b\nhttps://brownsbiltong.co.uk/mandingo",
   "thumbnail": "https://i.ytimg.com/vi/lF21tj8f5bQ/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Arrival and planning",
+      "end_time": 157
+    },
+    {
+      "start_time": 157,
+      "title": "Assessing the spot",
+      "end_time": 311
+    },
+    {
+      "start_time": 311,
+      "title": "Initial setup attempt",
+      "end_time": 477
+    },
+    {
+      "start_time": 477,
+      "title": "Waiting and preparation",
+      "end_time": 628
+    },
+    {
+      "start_time": 628,
+      "title": "Setting up camp",
+      "end_time": 801
+    },
+    {
+      "start_time": 801,
+      "title": "Evening drinks and snacks",
+      "end_time": 1137
+    },
+    {
+      "start_time": 1137,
+      "title": "Campground tour",
+      "end_time": 1527
+    },
+    {
+      "start_time": 1527,
+      "title": "Stealth concerns",
+      "end_time": 1841
+    },
+    {
+      "start_time": 1841,
+      "title": "Financial hypothetical",
+      "end_time": 2337
+    },
+    {
+      "start_time": 2337,
+      "title": "Late night reflection",
+      "end_time": 2576
+    },
+    {
+      "start_time": 2576,
+      "title": "Midnight ramblings",
+      "end_time": 2935
+    },
+    {
+      "start_time": 2935,
+      "title": "Morning wake-up",
+      "end_time": 3134
+    },
+    {
+      "start_time": 3134,
+      "title": "Morning whisky review",
+      "end_time": 3799
+    },
+    {
+      "start_time": 3799,
+      "title": "Breakfast and departure",
+      "end_time": 4103
+    },
+    {
+      "start_time": 4103,
+      "title": "Wrap up",
+      "end_time": 4180
+    }
+  ]
 }

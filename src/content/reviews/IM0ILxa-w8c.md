@@ -71,6 +71,7 @@ items:
     spices, and a lovely nougat finish.
   verdict_quote: I'm going to give that Haig Club single green scotch waski very very
     good 8.2 out of 10 Dingle mandingos.
+names_verified: true
 ---
 
 **[18:50]** What I'm going to do is the bucket sausage was tremendous it's as good as any buttered sausage I've ever had from so-called brilliant fish and chip shops so 10 out of 10 for the sausage. Kebab meat I'll never get 10 out of 10 from me because it's not my favorite thing in the world... I'll give the Kebab meat and the chips maybe a seven out of ten overall score... I'm going to give it a total score altogether of 7.5 out of 10. **[37:02]** Time for the score guys that's very very nice I'm going to give that Haig Club single grain Scotch whisky very very good 8.2 out of 10 Dingle mandingos.

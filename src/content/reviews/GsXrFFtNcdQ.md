@@ -77,6 +77,7 @@ items:
   verdict_quote: I think I'll give it a five last time and I am getting used to it
     a little bit more than I than I was then so I'm gonna give it a steady six out
     of 10
+names_verified: true
 ---
 
 **[10:15]** rights oh yes guys time to get stuck in this food luckily I ordered two meals because I'm a big fat lad and the portions are not very big... homemade corn beef pie chips and gravy... **[11:10]** straight in for a nice big and sunny we'll get that egg in as well... the bacon is really nice cooped perfect... **[14:30]** as soon as I looked at them that are just the cheap sausages... **[16:42]** here we go on the homemade corned beef pie chips and gravy... that gravy is really nice not too watery not too thick... **[18:44]** let's get this down the old Gregory Peck mmm oh yes oh yes that is really nice comb beef bits of potato... **[21:32]** all together I'm gonna give it a score for the streetcar on the seafood I'm gonna give it a very good very very decent 8 out of 10 dingo mandingos... **[32:58]** oh yes mandingos you know what time it is waski time Mrs blott is joining me on tonight's waski review what have we got let's have a look smokehead Isla single malt scotch waski... **[41:35]** a very very strong Pete smoke smell and I'm also getting like a smoked ham kind of smell... **[37:49]** I think I'll give it a five last time and I am getting used to it a little bit more than I than I was then so I'm gonna give it a steady six out of 10 dingo mandingos

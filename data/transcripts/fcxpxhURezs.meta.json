@@ -6,5 +6,107 @@
   "description": "",
   "thumbnail": "https://i.ytimg.com/vi/fcxpxhURezs/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Introduction",
+      "end_time": 28
+    },
+    {
+      "start_time": 28,
+      "title": "Arriving at the spot",
+      "end_time": 173
+    },
+    {
+      "start_time": 173,
+      "title": "Searching for a campsite",
+      "end_time": 285
+    },
+    {
+      "start_time": 285,
+      "title": "Setting up camp in rain",
+      "end_time": 423
+    },
+    {
+      "start_time": 423,
+      "title": "Preparing food and drink",
+      "end_time": 534
+    },
+    {
+      "start_time": 534,
+      "title": "Discovering a mess",
+      "end_time": 669
+    },
+    {
+      "start_time": 669,
+      "title": "Waiting for the gate",
+      "end_time": 866
+    },
+    {
+      "start_time": 866,
+      "title": "Rethinking the location",
+      "end_time": 1105
+    },
+    {
+      "start_time": 1105,
+      "title": "Waiting for calm",
+      "end_time": 1247
+    },
+    {
+      "start_time": 1247,
+      "title": "Deciding to pitch tent",
+      "end_time": 1546
+    },
+    {
+      "start_time": 1546,
+      "title": "Setting up the tent",
+      "end_time": 1716
+    },
+    {
+      "start_time": 1716,
+      "title": "Enjoying the shelter",
+      "end_time": 2073
+    },
+    {
+      "start_time": 2073,
+      "title": "Talking about merchandise",
+      "end_time": 2451
+    },
+    {
+      "start_time": 2451,
+      "title": "Setup and comfort",
+      "end_time": 2561
+    },
+    {
+      "start_time": 2561,
+      "title": "Whiskey and food prep",
+      "end_time": 2968
+    },
+    {
+      "start_time": 2968,
+      "title": "The whisky review",
+      "end_time": 3490
+    },
+    {
+      "start_time": 3490,
+      "title": "Checking the surroundings",
+      "end_time": 3712
+    },
+    {
+      "start_time": 3712,
+      "title": "Enjoying a hot meal",
+      "end_time": 4075
+    },
+    {
+      "start_time": 4075,
+      "title": "Final reflections",
+      "end_time": 4207
+    },
+    {
+      "start_time": 4207,
+      "title": "Morning and packing up",
+      "end_time": 4412
+    }
+  ]
 }

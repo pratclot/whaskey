@@ -85,6 +85,7 @@ items:
     and bland.
   verdict_quote: I'm going to give it a score miic I'm going to give it a pretty disappointing
     5.5 out of 10.
+names_verified: true
 ---
 
 **[12:13]** Here we go time for me and Mick to get stuck in this food it come to 24 pounds all together so that's a lot of money Mick. **[12:49]** Them cheesy chips is nice but they're just like chips from Burger King so I would say they're no better than Burger King's chips with cheese on. **[14:27]** Here we go guys m m that is nice that is really really nice guys compared to a normal doner wrap you would get from your local pizza shop or kebab shop that is top quality. **[19:09]** Obviously a similar taste cuz we got the same meats yeah you can taste the different flavors in the kick of the jalapenos and the lovely garlic flavor coming through very nice indeed. **[22:44]** I'm not going to give it a 10 out of 10 Mick because of the price and the size of the portion but it is absolutely beautiful so I'm going to give it still a big fat juicy nine out of 10. **[25:56]** And this is what we've got John Lee stream bourbon product of the good old US of A. **[26:33]** A little bit vanilla straight away vanilla a little bit yeah little bit vanilla smell there. It's quite bland for a bourbon. **[27:46]** Typical bourbon taste very sweet but I'm going to be honest yeah it's not blow me socks off. **[30:18]** I'm going to give it a score miic I'm going to give it a pretty disappointing 5.5 out of 10 dingo Mingos.

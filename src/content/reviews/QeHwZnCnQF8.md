@@ -33,7 +33,7 @@ items:
     and cheesy, though the chips were a bit well-done and stubby.
   verdict_quote: all together I'm going to give it a very very good very very very
     good nine out of 10 dingo mandingos... total score of 8.5 all together
-- name: Tomatin Bourbon and Sherry Cask Highland Single Malt Scotch Whisky
+- name: Tomatin Legacy Highland Single Malt Scotch Whisky
   category: Whisky
   brand_or_distillery: Tomatin
   region_or_style: Highland Single Malt Scotch Whisky
@@ -56,6 +56,7 @@ items:
     a lasting tingle.
   verdict_quote: I'm going to give that mandingos a very very fantastic brilliant
     score of nine out of 10 dingo mandingos
+names_verified: true
 ---
 
 **[22:54]** and keep these Legends waiting for the score I'll give my score first no the chips weren't the best so I'm gonna have to mark it down slightly garlic cheese absolutely beautiful tremendous the Kebab the mix Kebab nothing wrong with it at all chicken was nice the bits of stick was nice the cream of sausage was lovely the tips were slowly the salad was nice and fresh so all together I'm going to give it a very very good very very very good nine out of 10 dingo mandingos... 

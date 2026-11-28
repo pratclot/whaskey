@@ -30,9 +30,9 @@ items:
     coming through simultaneously.
   verdict_quote: That's a little bit sickly for my liking guys. Thankfully, I've only
     got one of these.
-- name: Renegade Party Boss Double IPA
+- name: Tiny Rebel Party Bus Double IPA
   category: Beer & Ale
-  brand_or_distillery: Renegade Brewery
+  brand_or_distillery: Tiny Rebel
   region_or_style: Double IPA
   abv: 8%
   timestamp_seconds: 2161
@@ -88,6 +88,7 @@ items:
     zero burn.
   verdict_quote: Cardhu single malt Scotch whisky. It's a solid very good score of
     8.8 out of 10.
+names_verified: true
 ---
 
 **[06:07]** Let's try this one. Never had this one guys before. Seven brothers honeycomb beer. Let's give it a bash. Even if you've got a smelly gash. Or is it it's only 4% honeycomb pale ale. Right. Let's give it a try guys. I'll tell you what. I'll tell you exactly what it tastes like. And you can really taste that honey. But it's like the honey and toffee at exactly the same time. Probably a little bit sickly to be honest. I think one of these will be enough.  

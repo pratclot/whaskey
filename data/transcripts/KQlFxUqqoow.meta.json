@@ -6,5 +6,42 @@
   "description": "#lakedistrict #vanlife #hiking #whiskyreview #vanlifeUK #wainwrightwalks #ukhiking #adventure",
   "thumbnail": "https://i.ytimg.com/vi/KQlFxUqqoow/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Arrival and hike plans",
+      "end_time": 92
+    },
+    {
+      "start_time": 92,
+      "title": "Hiking the corpse road",
+      "end_time": 458
+    },
+    {
+      "start_time": 458,
+      "title": "South side pike views",
+      "end_time": 723
+    },
+    {
+      "start_time": 723,
+      "title": "Reaching the summit",
+      "end_time": 1088
+    },
+    {
+      "start_time": 1088,
+      "title": "Van camping and cooking",
+      "end_time": 1574
+    },
+    {
+      "start_time": 1574,
+      "title": "Whiskey review and dinner",
+      "end_time": 1991
+    },
+    {
+      "start_time": 1991,
+      "title": "Morning departure",
+      "end_time": 2118
+    }
+  ]
 }

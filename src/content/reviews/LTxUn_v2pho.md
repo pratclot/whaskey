@@ -54,6 +54,7 @@ items:
     peanuts.
   verdict_quote: Isle of Raasay single malt Scotch wasy I'm going to give that a big
     fat juicy 9.3 out of 10 dingo mingles.
+names_verified: true
 ---
 
 **[11:52]** Okay then folks time to get stuck into what looks like an absolutely beautiful Bengali box from Nawaab Indian takeaway in the city of Sunderland. I'm going to start off with a chip like I normally do. Everything's still red hot... wow bit spicy and them are probably the best chips I've ever had in my life. **[13:56]** Let's give this onion bhaji a bash. Lovely and crisp, not soggy like the takeaway from some places. Very nice, really, really tasty guys. **[26:00]** I'm going to give this a massive weapon. I've got to give it a 10 out of 10 guys. I've got to give it a 10 out of 10. **[36:17]** And this week what have we've got? Isle of Raasay, yes just a miniature bottle. Isle of Raasay Highland single malt Scotch whisky... **[37:37]** Give it another swirl around there... oh, smoky like a smokey wood type of smell, very nice. **[38:17]** Right, down the hatch... oh, that's got a bit of a kick to it, very peppery with like a strongish peat smoke thing going on. Definitely a peppery kick, but it's lovely and sweet with like a lovely sweet caramel thing going on. **[40:27]** Isle of Raasay single malt Scotch whisky, I'm going to give that a big fat juicy 9.3 out of 10 dingo mingles.

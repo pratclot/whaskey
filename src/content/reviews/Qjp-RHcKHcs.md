@@ -53,6 +53,7 @@ items:
   tasting_notes: Cooked in a pan with sliced chicken breast pieces and oil, providing
     a warm and savory camping meal.
   verdict_quote: oh that's absolutely beautiful
+names_verified: true
 ---
 
 **[17:21]** time this is what I've got this wig Chivas Regal blended Scotch waski there's loads of car coming through there drive through I'm getting a bit wet as soon as I finish this Whiskey Review I'm going in the Biffy anyway guys let's get the last bit in the cup. **[18:30]** very light at first I'm getting a bit fruitiness a definite bit Floral and a little bit oak smell mandingos anyway that's enough of the sniffing let's get on with the TSN now the first test has gone down very smooth very mild indeed so first impressions really good just gone down lovely jubbly a little bit spice to it slightly fruity dare us here a nice taste of apples the tiniest little bit of smoke not overpowering a little bit smoke is nice. **[21:20]** Chivas Regal absolute quality blended scotch waski a lovely um a little bit it's like caramel slight vanilla a little bit smoke just the right amount top quality I'm going to give that a very very good 8.5 out of 10. you know what I'm talking about Monday was this is serious stealth coming boom.

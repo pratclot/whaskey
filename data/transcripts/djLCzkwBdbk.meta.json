@@ -6,5 +6,47 @@
   "description": "#reallife #holiday #lakedistrict #whiskyreview \n#realpeople #food #foodreview #foodblogger \n#stealthcamping #wildcamping\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\ude09 \nhttps://theblotoutdoorsmerch.myshopify.com/collections/all",
   "thumbnail": "https://i.ytimg.com/vi/djLCzkwBdbk/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Arrival and lodge tour",
+      "end_time": 229
+    },
+    {
+      "start_time": 229,
+      "title": "Supplies and preparations",
+      "end_time": 521
+    },
+    {
+      "start_time": 521,
+      "title": "Post-camp relaxation",
+      "end_time": 739
+    },
+    {
+      "start_time": 739,
+      "title": "Family time and hot tub",
+      "end_time": 1179
+    },
+    {
+      "start_time": 1179,
+      "title": "Whiskey review",
+      "end_time": 1643
+    },
+    {
+      "start_time": 1643,
+      "title": "Trip to Coniston",
+      "end_time": 1900
+    },
+    {
+      "start_time": 1900,
+      "title": "Pub lunch review",
+      "end_time": 3040
+    },
+    {
+      "start_time": 3040,
+      "title": "Final night and outro",
+      "end_time": 3353
+    }
+  ]
 }

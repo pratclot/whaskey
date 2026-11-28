@@ -6,5 +6,67 @@
   "description": "",
   "thumbnail": "https://i.ytimg.com/vi/PIYAViQSkfc/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Introduction and plan",
+      "end_time": 140
+    },
+    {
+      "start_time": 140,
+      "title": "Navigating to the spot",
+      "end_time": 355
+    },
+    {
+      "start_time": 355,
+      "title": "Searching for a campsite",
+      "end_time": 657
+    },
+    {
+      "start_time": 657,
+      "title": "Setting up camp",
+      "end_time": 1050
+    },
+    {
+      "start_time": 1050,
+      "title": "Initial drinks and setup",
+      "end_time": 1456
+    },
+    {
+      "start_time": 1456,
+      "title": "Dinner and food review",
+      "end_time": 1844
+    },
+    {
+      "start_time": 1844,
+      "title": "Whisky tasting",
+      "end_time": 2137
+    },
+    {
+      "start_time": 2137,
+      "title": "Evening relaxation",
+      "end_time": 2673
+    },
+    {
+      "start_time": 2673,
+      "title": "Late night check-in",
+      "end_time": 2855
+    },
+    {
+      "start_time": 2855,
+      "title": "Final whisky review",
+      "end_time": 3413
+    },
+    {
+      "start_time": 3413,
+      "title": "Morning recap",
+      "end_time": 3766
+    },
+    {
+      "start_time": 3766,
+      "title": "Departure and conclusion",
+      "end_time": 4031
+    }
+  ]
 }

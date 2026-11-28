@@ -33,6 +33,7 @@ items:
     flavours with a touch of honey.
   verdict_quote: I will give that a very decent seven out of ten you know what I'm
     talking about.
+names_verified: true
 ---
 
 **[16:28]** Whiskey time guys this time we have got Bowmore single malt Islay whiskey 12 year old you know what I'm talking about the bonnie lads on tour world famous whiskey review.

@@ -6,5 +6,47 @@
   "description": "#family #adventure #logcabin #cumbria #whiskey #whiskyreview #dogs #smalldogs\n#familyvlog #walking\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\udc4d \nhttps://theblotoutdoorsmerch.myshopify.com/collections/all\n\nHere's the link for the log cabin \ud83d\ude09\nhttps://www.booking.com/Share-3wE3iJ",
   "thumbnail": "https://i.ytimg.com/vi/lx-Yq4P3PhY/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Arrival in Cumbria",
+      "end_time": 213
+    },
+    {
+      "start_time": 213,
+      "title": "Visiting Gretna Green",
+      "end_time": 338
+    },
+    {
+      "start_time": 338,
+      "title": "Evening relaxation",
+      "end_time": 447
+    },
+    {
+      "start_time": 447,
+      "title": "Whiskey review",
+      "end_time": 855
+    },
+    {
+      "start_time": 855,
+      "title": "Family day out",
+      "end_time": 1162
+    },
+    {
+      "start_time": 1162,
+      "title": "Cabin relaxation",
+      "end_time": 1260
+    },
+    {
+      "start_time": 1260,
+      "title": "Exploring Wetherall",
+      "end_time": 1515
+    },
+    {
+      "start_time": 1515,
+      "title": "Final review and Q&A",
+      "end_time": 1835
+    }
+  ]
 }

@@ -30,9 +30,9 @@ items:
     that delivers a proper spicy kick.
   verdict_quote: kangaroo jerky sweet and hot this was kindly sent to me from Dan
     helwell... it's sweet and very hot it's got a right spicy kick a kangaroo kick
-- name: Glengarioch Highland Single Malt Scotch Whisky
+- name: Glen Garioch 1797 Founder's Reserve Highland Single Malt Scotch Whisky
   category: Whisky
-  brand_or_distillery: Glengarioch
+  brand_or_distillery: Glen Garioch
   region_or_style: Highland Single Malt Scotch Whisky
   abv: 48%
   timestamp_seconds: 1937
@@ -72,6 +72,7 @@ items:
     cooked at the campsite, making for a hearty and tasty meal.
   verdict_quote: very tasty I've got prry Perry chicken breasts in there manting go
     tasted million times better than a freas
+names_verified: true
 ---
 
 **[32:17]** maningo you know what time it is wasy time and this is what we've got this week Glen G Highland single mold Scotch wasy I know you're reading that and you seeing well I doesn't say Glen Gary that's exactly what I said but apparently it does that's how you see it in the old NOS or gck or or whatever it is huh I don't know all I'm good at is drinking the wasy you better believe it my dingles anyway let's get this popped in the old famous C dingo Mingos oh yes you know makes sense there's a nice there's a nice amount of wasy the old famous go Dingle anyway let's get the old bigger Rooney in it oh no I'm getting a strong like a lovely cherry and bourbon smelling there guys almost it's been stored in Sherry and bourbon cus maybe it has been tell me in the comments guys if it has and some fruity elements as well very nice... **[35:23]** yes get that around there you better believe it now oh a good old tingle on the old Tong dingo... **[36:05]** like a pine more like a pine wood thing going on guys I'm also getting just very mild like a slight fruit tast of like a dried aot kind of thing guys or like a dry like a dried plum am I saying this right I don't know what's dried plums is it like like prunes you know only get like dried prunes and dried sultanas... **[37:25]** it is a bit rough and smooth at the same time if you know what I'm talking about mying go hold on let me get a good old mouthful and a good taste yes mhm yeah mhm it definitely K good a little bit a little bit of a a dark chocolate thing going on yeah dark chocolate thing with a the slightest bit of coffee... **[39:49]** there you go guys I'm going to give that Glenn Gary a big fat it 9 out of 10 dingo Mandingo you know what I'm talking about

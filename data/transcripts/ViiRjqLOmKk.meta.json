@@ -6,5 +6,72 @@
   "description": "#wildcamping #hiking #getoutside #backpacking \n#wildcampinguk #comedy #camping #stealthcamping\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\ude09\nhttps://theblotoutdoorsmerch.myshopify.com/collections/all\n\nHere's the link for Brown's Biltong \ud83d\ude0b \nhttps://brownsbiltong.co.uk/mandingo",
   "thumbnail": "https://i.ytimg.com/vi/ViiRjqLOmKk/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Introduction",
+      "end_time": 67
+    },
+    {
+      "start_time": 67,
+      "title": "Hiking to the summit",
+      "end_time": 471
+    },
+    {
+      "start_time": 471,
+      "title": "Setting up camp",
+      "end_time": 544
+    },
+    {
+      "start_time": 544,
+      "title": "Football and beer",
+      "end_time": 837
+    },
+    {
+      "start_time": 837,
+      "title": "Match aftermath",
+      "end_time": 966
+    },
+    {
+      "start_time": 966,
+      "title": "Campground tour",
+      "end_time": 1275
+    },
+    {
+      "start_time": 1275,
+      "title": "Evening atmosphere",
+      "end_time": 1412
+    },
+    {
+      "start_time": 1412,
+      "title": "Resolving a conflict",
+      "end_time": 2033
+    },
+    {
+      "start_time": 2033,
+      "title": "Whisky review",
+      "end_time": 2698
+    },
+    {
+      "start_time": 2698,
+      "title": "Cooking dinner",
+      "end_time": 2733
+    },
+    {
+      "start_time": 2733,
+      "title": "Dinner and reflection",
+      "end_time": 3060
+    },
+    {
+      "start_time": 3060,
+      "title": "Morning routine",
+      "end_time": 3343
+    },
+    {
+      "start_time": 3343,
+      "title": "Conclusion",
+      "end_time": 3506
+    }
+  ]
 }

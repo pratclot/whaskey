@@ -6,5 +6,27 @@
   "description": "#takeaway #fastfood #burger #foodreview #takeawayfood #pizza #foodie #foodcritic \n#foodchallenge #foodchannel\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\ude09 \nhttps://theblotoutdoorsmerch.myshopify.com/collections/all",
   "thumbnail": "https://i.ytimg.com/vi/PI8BTtt1yc0/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Lake District takeaway review",
+      "end_time": 1470
+    },
+    {
+      "start_time": 1470,
+      "title": "Lodge and hot tub tour",
+      "end_time": 1870
+    },
+    {
+      "start_time": 1870,
+      "title": "Whiskey and rum tasting",
+      "end_time": 2370
+    },
+    {
+      "start_time": 2370,
+      "title": "Closing thoughts and clips",
+      "end_time": 2653
+    }
+  ]
 }

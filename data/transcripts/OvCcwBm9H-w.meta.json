@@ -6,5 +6,57 @@
   "description": "#stealthcamping #comedy #camping \n#stealthcampinguk #stealthcamp",
   "thumbnail": "https://i.ytimg.com/vi/OvCcwBm9H-w/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Heading to the camp",
+      "end_time": 77
+    },
+    {
+      "start_time": 77,
+      "title": "Planning the mission",
+      "end_time": 203
+    },
+    {
+      "start_time": 203,
+      "title": "Approaching the billboard",
+      "end_time": 389
+    },
+    {
+      "start_time": 389,
+      "title": "Securing the spot",
+      "end_time": 621
+    },
+    {
+      "start_time": 621,
+      "title": "Evening chat and drinks",
+      "end_time": 1286
+    },
+    {
+      "start_time": 1286,
+      "title": "The state of YouTube",
+      "end_time": 1965
+    },
+    {
+      "start_time": 1965,
+      "title": "Setting up the sleep system",
+      "end_time": 2522
+    },
+    {
+      "start_time": 2522,
+      "title": "Evening meal and brew",
+      "end_time": 3025
+    },
+    {
+      "start_time": 3025,
+      "title": "Whiskey review",
+      "end_time": 3538
+    },
+    {
+      "start_time": 3538,
+      "title": "Morning departure",
+      "end_time": 3904
+    }
+  ]
 }

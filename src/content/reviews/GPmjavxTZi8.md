@@ -33,6 +33,7 @@ items:
     taste reminiscent of apples and just a tiny hint of spice.
   verdict_quote: It's really smooth beautiful my favorite whiskey out of this kind
     of price range... I'm going to give that a 8 out of 10.
+names_verified: true
 ---
 
 **[11:21]** Right this time I've got that Chivas Regal 12 year old blended scotch whiskey how with it let's get on with it.

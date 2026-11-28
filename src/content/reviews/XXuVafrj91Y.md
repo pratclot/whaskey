@@ -32,9 +32,9 @@ items:
     and fried rice. Piping hot with a great kick of spice and tons of tender meat.
   verdict_quote: Big chef at West rain I'm going to give it big fat juicy 9.5 out
     of 10 Dingle M dingles
-- name: Green Welly Stop Blended Scotch Whisky
+- name: Drivers Dram Blended Scotch Whisky
   category: Whisky
-  brand_or_distillery: Green Welly Stop
+  brand_or_distillery: Drivers Dram
   region_or_style: Blended Scotch Whisky
   abv: 40%
   timestamp_seconds: 1840
@@ -51,7 +51,7 @@ items:
     Extremely rough on the palate with metallic notes and a burnt wood finish, though
     usable for a hot toddy or mixer.
   verdict_quote: I'm going to give a very low 3.5 out of 10 dingo man dingos
-- name: Deanston Single Malt Scotch Whisky
+- name: Deanston Tyndrum Single Malt Scotch Whisky
   category: Whisky
   brand_or_distillery: Deanston
   region_or_style: Highland Single Malt Scotch Whisky
@@ -73,6 +73,7 @@ items:
     nutty oak, caramel, and toffee.
   verdict_quote: That single malt I'm going to give a solid big fat juicy nine out
     of tend dingo Mandingo
+names_verified: true
 ---
 
 **[10:04]** I think we'll start with one of them that mingles. You know when you haven't had something for years and you used to really enjoy them and you forget all about it and then you try them again for the first time in ages. Very, very nice. Just when I smell that there I could smell them chilies so I think it's going to have a bit of a kick to it.  

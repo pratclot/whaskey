@@ -6,5 +6,47 @@
   "description": "#hotdog #burgervan #stealth #cooking #adventure #whiskey #outdoorscooking #vanlife #sunderland #vancooking\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\udc4d \nhttps://theblotoutdoorsmerch.myshopify.com/collections/all",
   "thumbnail": "https://i.ytimg.com/vi/U_0V1rIqTkc/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Introduction and plans",
+      "end_time": 153
+    },
+    {
+      "start_time": 153,
+      "title": "Recalling a past campsite",
+      "end_time": 336
+    },
+    {
+      "start_time": 336,
+      "title": "Preparing the meal",
+      "end_time": 417
+    },
+    {
+      "start_time": 417,
+      "title": "Answering subscriber questions",
+      "end_time": 650
+    },
+    {
+      "start_time": 650,
+      "title": "Cooking and eating hot dogs",
+      "end_time": 952
+    },
+    {
+      "start_time": 952,
+      "title": "Video bloopers",
+      "end_time": 1221
+    },
+    {
+      "start_time": 1221,
+      "title": "Whiskey review",
+      "end_time": 1584
+    },
+    {
+      "start_time": 1584,
+      "title": "Closing thoughts",
+      "end_time": 1680
+    }
+  ]
 }

@@ -31,9 +31,9 @@ items:
     rice is piping hot and fluffy, though the chips and onion bhaji are dry and disappointing.
   verdict_quote: I'm going to give it a score now Mick... a steady very average five
     out of 10 dingo mandingos.
-- name: Hady Sock Blended Scotch Whisky
+- name: Cutty Sark Blended Scotch Whisky
   category: Whisky
-  brand_or_distillery: Hady Sock
+  brand_or_distillery: Cutty Sark
   region_or_style: Blended Scotch Whisky
   abv: 40%
   timestamp_seconds: 1633
@@ -53,6 +53,7 @@ items:
     distinct custard creaminess, mixed herbs, and mild spices.
   verdict_quote: Hady Sock blended Scotch waski... I'm going to give it a very decent
     very decent indeed 7.1 out of 10 dingo mandingos.
+names_verified: true
 ---
 
 **[16:13]** oh yes mandingos you know what time it is oh yes this is what I've got this time guys cut his sock kindly give it to us from a legend by the name of Cameron or his nickname's Kami cheese... anyway guys hoodie sock blended Scotch waski let's get that popped in the old-famous cook dingo mandingos oh yes I love the first sniff Mick let's get the old big Rooney in it... what's going nice light and gentle smell... I'm also getting some smells of herbs yeah definitely a herbie smell I'm also getting some here like a nice fresh hair smell.

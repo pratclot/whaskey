@@ -6,5 +6,52 @@
   "description": "#wildcamping #hikingandcamping #camping \n#comedy #adventure #hiking #whiskyreview \n#wildcampinguk #stealthcamping #funny\n\nHere's the link for Andy's camping channel:\nhttps://youtube.com/@AndyWardle?si=dD-HMQE4Tmrrw-jK\n\nHere's the link for Andy's vanlife channel:\nhttps://youtube.com/@andyscampervan-fj19?si=o4dLpzBeeWrbEU_X\n\nHere's the link for Derek's channel:\nhttps://youtube.com/@themountainmen9484?si=poxMLzIsL7sYHNFZ",
   "thumbnail": "https://i.ytimg.com/vi/gsRT1VUuamI/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Arrival at Holy Island",
+      "end_time": 86
+    },
+    {
+      "start_time": 86,
+      "title": "Journey to the campsite",
+      "end_time": 282
+    },
+    {
+      "start_time": 282,
+      "title": "Setting up camp",
+      "end_time": 567
+    },
+    {
+      "start_time": 567,
+      "title": "Camping preparations",
+      "end_time": 1087
+    },
+    {
+      "start_time": 1087,
+      "title": "Sharing food and drinks",
+      "end_time": 1483
+    },
+    {
+      "start_time": 1483,
+      "title": "Evening activities",
+      "end_time": 2151
+    },
+    {
+      "start_time": 2151,
+      "title": "The whiskey review",
+      "end_time": 2658
+    },
+    {
+      "start_time": 2658,
+      "title": "The morning after",
+      "end_time": 3138
+    },
+    {
+      "start_time": 3138,
+      "title": "Departure and wrap up",
+      "end_time": 3270
+    }
+  ]
 }

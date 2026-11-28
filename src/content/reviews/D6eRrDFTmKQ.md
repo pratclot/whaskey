@@ -31,6 +31,7 @@ items:
     On the palate, it is surprisingly smooth and not harsh, bringing forward caramel,
     vanilla, toffee, and woody oak notes.
   verdict_quote: Mountain pass a steady seven. As straight as a die.
+names_verified: true
 ---
 
 **[40:12]** Oh yes, man. Dingos. You know what time it is? Was time. You better believe it's time. And what have we got this week? Kindly given to us from a legend by the name of Barry Homewood from the fine city of Leads. Yet he's lived in Sunland for a lot of years. A true fandingo of Zebra Outdoor Show has given me two bottles of Wasy. This is the first one. 

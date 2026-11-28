@@ -6,5 +6,57 @@
   "description": "#wildcamping #lakedistrictcamping #camping \n#getoutside #comedy #hiking #whiskyreview \n#stealthcamping #hikingandcamping \n#wildcampinguk\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\ude09 \nhttps://theblotoutdoorsmerch.myshopify.com/collections/all",
   "thumbnail": "https://i.ytimg.com/vi/oHuilBqOoG4/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Journey to the summit",
+      "end_time": 139
+    },
+    {
+      "start_time": 139,
+      "title": "Setting up camp",
+      "end_time": 242
+    },
+    {
+      "start_time": 242,
+      "title": "Scenery and surroundings",
+      "end_time": 424
+    },
+    {
+      "start_time": 424,
+      "title": "Showcasing gear and supplies",
+      "end_time": 1040
+    },
+    {
+      "start_time": 1040,
+      "title": "Fan mail and channel talk",
+      "end_time": 1556
+    },
+    {
+      "start_time": 1556,
+      "title": "Reflections on camping",
+      "end_time": 2472
+    },
+    {
+      "start_time": 2472,
+      "title": "Beer tasting",
+      "end_time": 2732
+    },
+    {
+      "start_time": 2732,
+      "title": "Whiskey review",
+      "end_time": 3288
+    },
+    {
+      "start_time": 3288,
+      "title": "Dinner and bedtime",
+      "end_time": 3511
+    },
+    {
+      "start_time": 3511,
+      "title": "Morning routine and departure",
+      "end_time": 3763
+    }
+  ]
 }

@@ -6,5 +6,77 @@
   "description": "#bushcamping #stealthcamping #wildcamping \n#stealthcampingalliance #wildcampinguk #adventure #stealth #stealthurbancamping #secretcamping #stealthcampinguk\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\udc4d \nhttps://theblotoutdoorsmerch.myshopify.com/collections/all\n\nHere's the link for Brown's Biltong \ud83d\ude0b\nhttps://brownsbiltong.co.uk/",
   "thumbnail": "https://i.ytimg.com/vi/OZ9oOL_OvAg/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Intro",
+      "end_time": 133
+    },
+    {
+      "start_time": 133,
+      "title": "Bus Stop",
+      "end_time": 182
+    },
+    {
+      "start_time": 182,
+      "title": "Waiting",
+      "end_time": 209
+    },
+    {
+      "start_time": 209,
+      "title": "Fat Block",
+      "end_time": 325
+    },
+    {
+      "start_time": 325,
+      "title": "Uncle Denky",
+      "end_time": 548
+    },
+    {
+      "start_time": 548,
+      "title": "Food and Drink",
+      "end_time": 709
+    },
+    {
+      "start_time": 709,
+      "title": "Beer",
+      "end_time": 885
+    },
+    {
+      "start_time": 885,
+      "title": "Beer Tasting",
+      "end_time": 1441
+    },
+    {
+      "start_time": 1441,
+      "title": "Winter Camping",
+      "end_time": 1665
+    },
+    {
+      "start_time": 1665,
+      "title": "Wasy Time",
+      "end_time": 2111
+    },
+    {
+      "start_time": 2111,
+      "title": "Walking Around",
+      "end_time": 2426
+    },
+    {
+      "start_time": 2426,
+      "title": "Mexican Chicken",
+      "end_time": 2746
+    },
+    {
+      "start_time": 2746,
+      "title": "Good Night",
+      "end_time": 2786
+    },
+    {
+      "start_time": 2786,
+      "title": "Good Morning",
+      "end_time": 3031
+    }
+  ]
 }

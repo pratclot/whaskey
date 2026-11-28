@@ -6,5 +6,32 @@
   "description": "#loadedfries #takeaway #food #foodchallenge #foodie #yummy #ratemyplate #whiskey #eatingshow\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\udc4d\nhttps://theblotoutdoorsmerch.myshopify.com/collections/all",
   "thumbnail": "https://i.ytimg.com/vi/FkHHicDfVRc/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Introduction",
+      "end_time": 211
+    },
+    {
+      "start_time": 211,
+      "title": "Visiting Slice takeaway",
+      "end_time": 384
+    },
+    {
+      "start_time": 384,
+      "title": "Pizza and fries review",
+      "end_time": 1030
+    },
+    {
+      "start_time": 1030,
+      "title": "Whiskey tasting session",
+      "end_time": 1393
+    },
+    {
+      "start_time": 1393,
+      "title": "Trolley update and closing",
+      "end_time": 1551
+    }
+  ]
 }

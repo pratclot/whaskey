@@ -30,6 +30,7 @@ items:
     fresh coat of paint, and human piss. It provides a blistering burn with almost
     no redeeming flavor qualities.
   verdict_quote: It's a two out of 10, dingo. It's lucky to get a two.
+names_verified: true
 ---
 
 **[43:25]** Right, I'll do a review on it, but it's not going to get a good score. Oh god, I'm cold. I'm hungry. I'm drinking a shite moonshine. This is what we've got, guys. 64 plus percent moonshine review. It tastes like paint stripper! Yes, guys. It's like paint stripper. Like a freshly coat of paint on a wall... mixed with human piss and human shite. There's nothing good come from this. It's a two out of 10, guys. It's lucky to get a two. That's a [ __ ] horrible drink.

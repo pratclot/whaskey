@@ -6,5 +6,67 @@
   "description": "#wildcamping #hiking #msr #backpacking \n#wildcampinguk #getoutside #northumberland \n#stealthcamping #rumreview #camping\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\ude09\nhttps://theblotoutdoorsmerch.myshopify.com/collections/all\n\nHere's the link for young Chris's channel:\nhttps://youtube.com/@yackertravels?si=UuUxSvOGZXbFRwAP",
   "thumbnail": "https://i.ytimg.com/vi/Hpw8bQPhaT8/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Arrival and mountain hike",
+      "end_time": 391
+    },
+    {
+      "start_time": 391,
+      "title": "Summit arrival and site hunt",
+      "end_time": 537
+    },
+    {
+      "start_time": 537,
+      "title": "Setting up the new tent",
+      "end_time": 708
+    },
+    {
+      "start_time": 708,
+      "title": "Evening relaxation in tent",
+      "end_time": 1026
+    },
+    {
+      "start_time": 1026,
+      "title": "Beer and reflections",
+      "end_time": 1206
+    },
+    {
+      "start_time": 1206,
+      "title": "Food and drink gear overview",
+      "end_time": 1678
+    },
+    {
+      "start_time": 1678,
+      "title": "Inside the tent at night",
+      "end_time": 2124
+    },
+    {
+      "start_time": 2124,
+      "title": "Camp setup review",
+      "end_time": 2329
+    },
+    {
+      "start_time": 2329,
+      "title": "Uncle Bensky update",
+      "end_time": 3015
+    },
+    {
+      "start_time": 3015,
+      "title": "Cooking the evening meal",
+      "end_time": 3345
+    },
+    {
+      "start_time": 3345,
+      "title": "Rum tasting and nighttime",
+      "end_time": 3904
+    },
+    {
+      "start_time": 3904,
+      "title": "Morning pack up and departure",
+      "end_time": 4244
+    }
+  ]
 }

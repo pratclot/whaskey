@@ -6,5 +6,32 @@
   "description": "#takeaway #food #foodchallenge #foodie #yummy #nastyfood #ratemyplate #whiskey \n\nHere's the link for Roberts channel\nhttps://youtube.com/@murchiesmountains2820\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\udc4d \nhttps://theblotoutdoorsmerch.myshopify.com/collections/all",
   "thumbnail": "https://i.ytimg.com/vi/JMaftw4YAGc/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Arrival and ordering",
+      "end_time": 171
+    },
+    {
+      "start_time": 171,
+      "title": "Ordering at the takeaway",
+      "end_time": 413
+    },
+    {
+      "start_time": 413,
+      "title": "Food review",
+      "end_time": 1214
+    },
+    {
+      "start_time": 1214,
+      "title": "Merchandise update",
+      "end_time": 1460
+    },
+    {
+      "start_time": 1460,
+      "title": "Whisky tasting and wrap-up",
+      "end_time": 1818
+    }
+  ]
 }

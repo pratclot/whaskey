@@ -31,6 +31,7 @@ items:
     orange flavor with a tiny tingle on the tongue.
   verdict_quote: So, um I can't even give it a big score, you know, even though it
     was like quite nice... I'll give it a solid steady 8.2.
+names_verified: true
 ---
 
 **[52:45]** Oh yes, mandingos. You know what time it is? It's wasky time. And this is what we've got this week. The Dalmore, kindly bought for me from Lloyd and Amy two blot.

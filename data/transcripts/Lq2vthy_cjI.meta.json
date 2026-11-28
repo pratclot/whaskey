@@ -6,5 +6,62 @@
   "description": "#shed #stealthcamping #wildcamping #stealthcampingalliance #wildcampinguk #adventure #stealth #stealthurbancamping #secretcamping #whiskyreview\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\udc4d\nhttps://theblotoutdoorsmerch.myshopify.com/collections/all\n\nHere's the link for Brown's Biltong, remember to use the code \"mandingo\" for your discount \ud83d\ude09\nhttps://brownsbiltong.co.uk/\n\nHere's the link for my mate Davy Crangles channel. https://youtube.com/@biglad20101\n\nHere's the link for Cowboy Chris's channel \nhttps://youtube.com/@christophershiels786",
   "thumbnail": "https://i.ytimg.com/vi/Lq2vthy_cjI/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Hiking to the camp",
+      "end_time": 162
+    },
+    {
+      "start_time": 162,
+      "title": "Securing the spot",
+      "end_time": 413
+    },
+    {
+      "start_time": 413,
+      "title": "Setting up camp",
+      "end_time": 638
+    },
+    {
+      "start_time": 638,
+      "title": "Gear and food review",
+      "end_time": 880
+    },
+    {
+      "start_time": 880,
+      "title": "Future van camping plans",
+      "end_time": 1186
+    },
+    {
+      "start_time": 1186,
+      "title": "Inside the love shack",
+      "end_time": 1475
+    },
+    {
+      "start_time": 1475,
+      "title": "Whiskey review",
+      "end_time": 1947
+    },
+    {
+      "start_time": 1947,
+      "title": "Cooking dinner",
+      "end_time": 2227
+    },
+    {
+      "start_time": 2227,
+      "title": "Nighttime reflection",
+      "end_time": 2493
+    },
+    {
+      "start_time": 2493,
+      "title": "Bedtime",
+      "end_time": 2617
+    },
+    {
+      "start_time": 2617,
+      "title": "Morning packing",
+      "end_time": 2963
+    }
+  ]
 }

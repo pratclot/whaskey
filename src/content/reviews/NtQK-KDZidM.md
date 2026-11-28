@@ -52,6 +52,7 @@ items:
     harshness settles.
   verdict_quote: Proper No. Twelve Irish whisky I'm gonna give it a 6.5 out of 10.
     It's nice, it's not brilliant, but it's nice.
+names_verified: true
 ---
 
 **[15:41]** mandingos waski time and this week our first was review of tonight we've got Jack Daniels Apple and as you can see guys it's that cold the bottle is actually frosting up on the top... **[16:39]** little Schmidt Aruba is going to have the first Sniff and the first test to keep you mandingoes happy who's been questioning misjudgment... **[17:39]** that's a definite green apple smell there Mick and it's it's also got the obvious Jack Daniel smell which is a a nice sweet waski... **[20:16]** For Jacques Daniels Apple I'm gonna give that a solid very decent seven out of 10 dingo mandingos... I'll give that 7.5 out of 10... **[23:12]** manding goes waski time second waski review of the night and this is what we've got proper number 12 Irish waski endorsed by the walnoni Connor McGregor... **[24:16]** let's get that in there not much left guys as you can see we've been drinking it... **[25:23]** um it's a little bit harsh oh I'm getting the strong peppery... it's got a peppery kick like a white pepper I'm getting a little bit horny... **[28:30]** Proper number 12 ski Irish waski I'm gonna give it a 6.5 out of 10. It's nice it's not brilliant but it's nice but I would definitely buy it again.

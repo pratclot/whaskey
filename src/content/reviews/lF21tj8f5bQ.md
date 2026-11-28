@@ -32,6 +32,7 @@ items:
     down smooth and enjoyable.
   verdict_quote: I'm going to give that a very respectable very enjoyable and certainly
     decent 8.2 out of 10 dingo Mandingo Four Roses Bourbon.
+names_verified: true
 ---
 
 **[52:07]** M it's the glove of self love oh yes Mingos you know what time it is wasy time very first on the blood Outdoor Show 8:00 in the morning wasy review it's only a miniature so we might as well still do it...

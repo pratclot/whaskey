@@ -6,5 +6,52 @@
   "description": "#lakedistrict #wildcamping #hiking #stealthcamping #stealthcampingalliance #adventure #stealth #hikinguk #stealthcampinguk\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\udc4d \nhttps://theblotoutdoorsmerch.myshopify.com/collections/all",
   "thumbnail": "https://i.ytimg.com/vi/IZ7_Hx98Km8/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Introduction and journey",
+      "end_time": 134
+    },
+    {
+      "start_time": 134,
+      "title": "Hiking in the rain",
+      "end_time": 394
+    },
+    {
+      "start_time": 394,
+      "title": "Setting up camp",
+      "end_time": 553
+    },
+    {
+      "start_time": 553,
+      "title": "Food and drink preparation",
+      "end_time": 684
+    },
+    {
+      "start_time": 684,
+      "title": "Q&A session",
+      "end_time": 817
+    },
+    {
+      "start_time": 817,
+      "title": "Cooking dinner",
+      "end_time": 1097
+    },
+    {
+      "start_time": 1097,
+      "title": "Whiskey review",
+      "end_time": 1368
+    },
+    {
+      "start_time": 1368,
+      "title": "Late night reflection",
+      "end_time": 1557
+    },
+    {
+      "start_time": 1557,
+      "title": "Morning and conclusion",
+      "end_time": 1740
+    }
+  ]
 }

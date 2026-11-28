@@ -72,6 +72,7 @@ items:
     and a hint of milk chocolate.
   verdict_quote: I'm going to give this herdwick single malt scotch English wasy wherever
     it is I'm going to give it a solid 8.5.
+names_verified: true
 ---
 
 **[09:03]** Let's try the cheeseburger with the dirty bun, cheese on there, onions, nice fresh bun, little bit of ketchup. Let's dive in. M, oh, that's really nice for a burger van burger. Oh, I'm impressed with that. Moos Muncher was the name of the burger van. M, that's a good quality burger, Mrs. Blot. Good quality! 

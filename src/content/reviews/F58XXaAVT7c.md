@@ -52,6 +52,7 @@ items:
     vanilla.
   verdict_quote: I'm going to give this McClelland's Speyside single malt Scotch whisky
     I'm going to give it a steady straight no fucks eight out of 10.
+names_verified: true
 ---
 
 **[35:09]** Time for the first whisky review of the night. This one is McClelland's single malt Scotch whisky. The Islay single malt. Very peaty, very smoky straight away, almost like a campfire smoke. It's actually going down quite smooth. It's not watery, it's got a thickness to it and a little bit of a leather taste. With that sherry coming through in the oak as well, it makes it quite enjoyable. I'm going to give that a steady 7.5 out of 10. **[42:51]** Time for the second whisky review of the night. For this one, I've got McClelland's Speyside single malt Scotch whisky. A nice sherry sniffer coming through, a nice barley smell as well, like a nice sherry and barley mixed together. Nice and smooth, silky, not rough at all. A tiny little bit of a dried fruit thing going on, like sultanas, with the slightest little bit of vanilla. Very nice indeed. I'm going to give this a steady straight 8 out of 10.

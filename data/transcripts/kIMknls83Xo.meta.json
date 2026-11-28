@@ -6,5 +6,47 @@
   "description": "#factory #fishandchips #takeaway #food #factories #foodchallenge #whisky #foodie\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\ude09\nhttps://theblotoutdoorsmerch.myshopify.com/collections/all",
   "thumbnail": "https://i.ytimg.com/vi/kIMknls83Xo/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Final factory shift begins",
+      "end_time": 99
+    },
+    {
+      "start_time": 99,
+      "title": "Ordering the final takeaway",
+      "end_time": 251
+    },
+    {
+      "start_time": 251,
+      "title": "Reviewing Ambleside fish",
+      "end_time": 402
+    },
+    {
+      "start_time": 402,
+      "title": "Eating in the new car",
+      "end_time": 726
+    },
+    {
+      "start_time": 726,
+      "title": "Final review and feedback",
+      "end_time": 1177
+    },
+    {
+      "start_time": 1177,
+      "title": "Leaving the factory",
+      "end_time": 1346
+    },
+    {
+      "start_time": 1346,
+      "title": "Land Rover whiskey review",
+      "end_time": 2097
+    },
+    {
+      "start_time": 2097,
+      "title": "Outtakes and conclusion",
+      "end_time": 2750
+    }
+  ]
 }

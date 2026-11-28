@@ -6,5 +6,47 @@
   "description": "#food #chinesefood #takeaway #foodchallenge #foodcritic",
   "thumbnail": "https://i.ytimg.com/vi/MhaPtTIVrZY/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Travel to takeaway",
+      "end_time": 275
+    },
+    {
+      "start_time": 275,
+      "title": "Ordering the food",
+      "end_time": 439
+    },
+    {
+      "start_time": 439,
+      "title": "Food preparation and setup",
+      "end_time": 684
+    },
+    {
+      "start_time": 684,
+      "title": "Food tasting and review",
+      "end_time": 1509
+    },
+    {
+      "start_time": 1509,
+      "title": "Final food verdict",
+      "end_time": 1689
+    },
+    {
+      "start_time": 1689,
+      "title": "Weekly walles and commentary",
+      "end_time": 2174
+    },
+    {
+      "start_time": 2174,
+      "title": "Yorkshire pudding whiskey",
+      "end_time": 2557
+    },
+    {
+      "start_time": 2557,
+      "title": "Bloopers and outro",
+      "end_time": 3370
+    }
+  ]
 }

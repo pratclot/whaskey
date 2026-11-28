@@ -6,5 +6,62 @@
   "description": "#adventure #wildcampinguk #hikingandcamping \n#camping #comedy #getoutside #wildcamping \n#stealthcamping #whiskyreview #castlecamping\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\ude09\nhttps://theblotoutdoorsmerch.myshopify.com/collections/all\n\nHere's the link for young Chris's channel:\nhttps://youtube.com/@yackertravels?si=Qxnjj56C8gbJ74og",
   "thumbnail": "https://i.ytimg.com/vi/VW1HoDvG0jU/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Arrival at the castle",
+      "end_time": 260
+    },
+    {
+      "start_time": 260,
+      "title": "Camp setup and drinks",
+      "end_time": 491
+    },
+    {
+      "start_time": 491,
+      "title": "Reviewing gear and drinks",
+      "end_time": 847
+    },
+    {
+      "start_time": 847,
+      "title": "Snacks and Scottish traditions",
+      "end_time": 1224
+    },
+    {
+      "start_time": 1224,
+      "title": "More snacks and conversation",
+      "end_time": 1472
+    },
+    {
+      "start_time": 1472,
+      "title": "Music and cultural talk",
+      "end_time": 1819
+    },
+    {
+      "start_time": 1819,
+      "title": "Evening drinks and snacks",
+      "end_time": 2308
+    },
+    {
+      "start_time": 2308,
+      "title": "Cooking the lamb dinner",
+      "end_time": 2932
+    },
+    {
+      "start_time": 2932,
+      "title": "Enjoying the meal",
+      "end_time": 3458
+    },
+    {
+      "start_time": 3458,
+      "title": "Whiskey review and relaxation",
+      "end_time": 4228
+    },
+    {
+      "start_time": 4228,
+      "title": "Morning packing and departure",
+      "end_time": 4488
+    }
+  ]
 }

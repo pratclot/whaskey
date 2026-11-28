@@ -54,6 +54,7 @@ items:
     The palate brings sweet brown sugar, stewed plums, and a sweet vanilla aftertaste.
   verdict_quote: I'm gonna give that Loch Lomond 12 Year Old single malt scotchwarski
     a very very good eight out of the tending or mandingos
+names_verified: true
 ---
 
 **[15:28]** Right, what am I going to start with? I'll have a couple of chips, a little bit soggy, the dough tastes nice. Let's try one with garlic, garlic really tasty. Jason start, soggy chips, but that's not the end of the world. Pepperoni pizza, lovely and hot. You know what, that's really really nice. 

@@ -11,9 +11,9 @@ episode_summary: The host goes stealth camping on a public footpath underneath a
   steak dinner, and a review of Chivas Regal Extra 13 Year Old Tequila Cask Finish
   Scotch whisky.
 items:
-- name: Rockahoola Tropical IPA
+- name: Hop Foundry Tropical IPA
   category: Beer & Ale
-  brand_or_distillery: Rockahoola
+  brand_or_distillery: Hop Foundry
   region_or_style: Tropical IPA
   abv: 5.1%
   timestamp_seconds: 1226
@@ -53,6 +53,7 @@ items:
     the palate.
   verdict_quote: I am going to give that a steady 8.1 out of 10 dingo mandingos you
     better believe I am.
+names_verified: true
 ---
 
 **[20:26]** I am now on Rockahoola tropical IPA fresh from Aldi. Oh, that's not bad, 5.1% ABV. Grapefruit, mango, guava, hoppy tropical IPA finish, crisp and dry. If I didn't read that, that is exactly what I would have said, you better believe I would. Man, oh, this is absolute heaven.

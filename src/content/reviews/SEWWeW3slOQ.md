@@ -33,6 +33,7 @@ items:
     tropical fruit flavours, honey, and a warming, gentle chest-warming finish with
     a touch of charred oak.
   verdict_quote: It's a solid uh 9.2. It's a 9.2 from this Mandingo.
+names_verified: true
 ---
 
 **[20:43]** Oh yes, mandingos. You know what time it is? Was time. You better believe it is. Yes. Oh man, let's get the old snifferooni on that. The old Nostradarmas. Strongly. What have we got guys? We've got this Scapa 10-year-old. 

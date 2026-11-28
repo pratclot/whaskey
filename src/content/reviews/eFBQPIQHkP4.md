@@ -33,6 +33,7 @@ items:
     of cinnamon and brown sugar.
   verdict_quote: I'm going to give that a decent a better than decent solid steady
     eight a straight eight out of 10 dingo Mingo.
+names_verified: true
 ---
 
 **[42:16]** Mingos you know what time it is wasy time oh just getting comfortable the old sixpack... This is what we've got this week not much left Buffalo Trace Kentucky straight bbin this is the non-alcoholic version... **[44:10]** sweet and spicy at exactly the same time caramel and toffee at exactly the same time a lot of the Bourbons are very similar with the spiciness the caramel the toffee there's a oiness to it just what I was expecting... **[47:30]** sideways Buffalo Trace manding go down the hatot tickles very nice indeed I've enjoyed that a nice little chest warmer just before I'll go to sleep... I'm going to give that a decent a better than decent solid steady eight a straight eight out of 10 dingo Mingo.

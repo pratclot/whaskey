@@ -12,7 +12,7 @@ episode_summary: The host goes hot tent camping in the Lake District with friend
 items:
 - name: The Singleton of Glen Ord 12 Year Old Single Malt Scotch Whisky
   category: Whisky
-  brand_or_distillery: Singleton
+  brand_or_distillery: The Singleton of Glen Ord
   region_or_style: Speyside Single Malt
   abv: 40%
   timestamp_seconds: 4909
@@ -32,6 +32,7 @@ items:
     palate is smooth and rich with prominent notes of vanilla, toffee apple, and candy
     pear.
   verdict_quote: The Singleton average score of 9.3.
+names_verified: true
 ---
 
 **[48:29]** Here we are guys, we have got the Singleton for this week's whaskey review, kindly given to us from a legend by the name of Kevin Canell. Cheers Kevin my man friend. So this is the Singleton Lucious Nectar 12-year-old single Scotch whaskey. Let's get that popped in the famous glass. 

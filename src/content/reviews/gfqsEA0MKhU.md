@@ -93,6 +93,7 @@ items:
     biscuit finish.
   verdict_quote: I'm going to have to give that a 9.2... absolutely lovely jubly so
     smooth.
+names_verified: true
 ---
 
 **[08:24]** right folks here we go time to get stuck in looks quite decent straighten the chips no messing about still quite hot it took me like nearly 10 minutes to walk back here then I've been messing about for a couple of minutes setting the camera up so yeah that's a really good start the food is still nice and hot them chips is quite tasty.

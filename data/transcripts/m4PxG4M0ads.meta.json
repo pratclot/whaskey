@@ -6,5 +6,42 @@
   "description": "#wildcamping #wildcampingscotland #comedy \n#stealthcamping #getoutside #hiking \n#wildcampinguk #stealthcampinguk \n#hikingandcamping #whiskyreview\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\ude09 \nhttps://theblotoutdoorsmerch.myshopify.com/collections/all",
   "thumbnail": "https://i.ytimg.com/vi/m4PxG4M0ads/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Arrival and setup",
+      "end_time": 363
+    },
+    {
+      "start_time": 363,
+      "title": "Finding the perfect spot",
+      "end_time": 725
+    },
+    {
+      "start_time": 725,
+      "title": "Waiting for Paul",
+      "end_time": 1515
+    },
+    {
+      "start_time": 1515,
+      "title": "History of the bothy",
+      "end_time": 2098
+    },
+    {
+      "start_time": 2098,
+      "title": "Paul arrives",
+      "end_time": 2808
+    },
+    {
+      "start_time": 2808,
+      "title": "Whiskey review",
+      "end_time": 3763
+    },
+    {
+      "start_time": 3763,
+      "title": "Morning departure",
+      "end_time": 4162
+    }
+  ]
 }

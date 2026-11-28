@@ -53,6 +53,7 @@ items:
   tasting_notes: Features smoky and peaty notes with a citrus twist, developing a
     pleasant marmalade flavor. It is smooth, not harsh or rough, and very enjoyable.
   verdict_quote: Bourmore 18 year old straight as a die eight out of 10 dingo mandingos
+names_verified: true
 ---
 
 **[12:36]** Here we go manding gos time for a quick little wasky review. This time I've got Glenfarclas 105 Cask Strength Highland Single Malt Scotch wasy, 60 placent. This was bought for me from my granddaughter Lea Rose, thank you Lea Rose I love you more than anything in the world. I've left the world famous wasy cup in the bmobile so I'm going to have to do me best without the cup.

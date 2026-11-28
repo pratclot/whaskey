@@ -50,6 +50,7 @@ items:
     and egg fried rice cooked over the stove behind the bins.
   verdict_quote: You know what that's absolutely beautiful... it changes it doesn't
     get much better than that mandingos.
+names_verified: true
 ---
 
 **[06:42]** Time for a whiskey guys, I've got this Cardhu. I got him red Cardo Gold Reserve single malt whiskey, that's just what you need. Absolutely lovely, the wife got this for Christmas, but I kept a bit for a special occasion, and what more special can you get than camping out behind the bin?

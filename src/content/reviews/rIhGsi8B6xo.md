@@ -109,6 +109,7 @@ items:
   tasting_notes: Tender pieces of beef in a creamy Asian-inspired peppercorn sauce
     served with brown rice.
   verdict_quote: That's proper chunks of beef... it's top quality food.
+names_verified: true
 ---
 
 **[52:33]** Here we go. Wish me luck. I'm just going to take the tiniest little sip and we'll go from there. Oh man, straight away! Straight away guys, that is tingling on the old tongue dingo. Sorry if I swear, if I shout, if I curse, apologies now... that is horrendous man! **[56:32]** Ah, Jesus. Anyone that suggests 'oh you've got to do this mandingo', that was hilarious. No, fuck this, this isn't going to be a regular thing, it's a total one-off. **[1:03:00]** I'm giving it a 1 out of 10 and it's only getting the 1 for the laughs, for the shites. Now onto the Realo Foods Asian Peppered Beef with brown rice, you know, makes sense to all sense. Tender pieces of beef and a creamy Asian-inspired peppercorn sauce. High quality camp meals from Realo, you better believe it. **[1:04:40]** Oh, straight away you can taste the peppercorn, oh, the tasting... that's proper chunks of beef, it's the real deal. It's so tasty.

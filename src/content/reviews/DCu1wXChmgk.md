@@ -33,6 +33,7 @@ items:
     delivers a sweet vanilla, honey, and oaky wood taste accompanied by tropical fruit
     notes like mango and papaya, with nice spices on the finish.
   verdict_quote: I'm going to give this a massive big fat massive... 9.3.
+names_verified: true
 ---
 
 **[30:00]** Mandingos wasy time this is what we've got this week given to us from Damian and Stacy... Penderyn this one is the red wine and cognac small batch version... **[30:35]** get yourself your big on in there first a straight away very perfumey perfume fruity spicy notes... **[32:01]** tell us what you think than sure the burn inside of your mouth mhm but not rough not harsh... sweet vanillary taste a little bit honey as well sweet bit honey van vanilla honey vanilla... **[34:29]** definite woody taste as well it's got a bit of wood taste a little bit of... is it almond is it hazelnut is a nut to it definitely like a sweet vanilla honey... mango feel nice spices you can tell it's a quality drop... **[36:29]** I'm going to give this a massive big fat massive I'm going to give it a 9.3... I'm going to give it a 9.75... that's an average score of 9.4 you better believe this Mandingo!

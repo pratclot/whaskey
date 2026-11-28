@@ -27,7 +27,7 @@ items:
   tasting_notes: A crisp, ice-cold session beer enjoyed right after setting up camp.
   verdict_quote: Yes, mingles. Just finishing off me first Jeff beer... beers are
     still stone cold Steve Austin.
-- name: Lupuloid
+- name: Lunar Haze Hazy IPA
   category: Beer & Ale
   brand_or_distillery: Beavertown
   region_or_style: IPA
@@ -66,6 +66,7 @@ items:
     cherry, and a warm, delightful finish.
   verdict_quote: I'm going to give it a 9.1. You better believe it is, my fan sexualities.
     It's a 9.1 from Z Mandingo.
+names_verified: true
 ---
 
 **[54:31]** It's time for the world famous Wasi review Cardhu Gold Reserve given to me from Dave Patterson. We've had a nice bit of Scrandingo. Now it's time for the world famous Wasi review. Oh yes, I've reviewed this once before, maybe twice, but only one s I can remember properly which was behind the old biffer bins over four year ago. There we go guys. Look at that. Let's get the old baker runs into the old famous god dingua. Oh yes. Quite a sweet smell. Biscety. Like a sweet savory biscuit. I know that sounds silly, but that's just what I'm getting up the old bacon sauce, guys.

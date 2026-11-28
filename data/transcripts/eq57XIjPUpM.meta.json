@@ -6,5 +6,52 @@
   "description": "#barclays #stealthcamping #wildcamping #stealthcampingalliance #wildcampinguk #adventure #stealth #stealthurbancamping #secretcamping #stealthcampinguk\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\udc4d\nhttps://theblotoutdoorsmerch.myshopify.com/collections/all",
   "thumbnail": "https://i.ytimg.com/vi/eq57XIjPUpM/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Arrival and camp setup",
+      "end_time": 152
+    },
+    {
+      "start_time": 152,
+      "title": "Settling into the spot",
+      "end_time": 403
+    },
+    {
+      "start_time": 403,
+      "title": "Food and drink preparation",
+      "end_time": 597
+    },
+    {
+      "start_time": 597,
+      "title": "Discussing the incident",
+      "end_time": 883
+    },
+    {
+      "start_time": 883,
+      "title": "Q&A and well wishes",
+      "end_time": 1211
+    },
+    {
+      "start_time": 1211,
+      "title": "Evening relaxation",
+      "end_time": 1563
+    },
+    {
+      "start_time": 1563,
+      "title": "Mexican whiskey review",
+      "end_time": 2035
+    },
+    {
+      "start_time": 2035,
+      "title": "Cooking and eating dinner",
+      "end_time": 2561
+    },
+    {
+      "start_time": 2561,
+      "title": "Morning departure",
+      "end_time": 2919
+    }
+  ]
 }

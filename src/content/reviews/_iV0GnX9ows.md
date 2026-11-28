@@ -11,9 +11,9 @@ episode_summary: The host goes wild camping on the Northumberland coast right on
   border between England and Scotland, cooks homemade chips with spicy Mexican-style
   beef chili, and reviews a supermarket blended Scotch whisky.
 items:
-- name: Bracken Blended Scotch Whisky
+- name: Ben Bracken Blended Scotch Whisky
   category: Whisky
-  brand_or_distillery: Bracken
+  brand_or_distillery: Ben Bracken
   region_or_style: Blended Scotch Whisky
   abv: 40%
   timestamp_seconds: 4358
@@ -33,6 +33,7 @@ items:
     smooth and delicate with a few herbal hints and a light peppery spice.
   verdict_quote: I'm going to give that a bracken blended single malt whiskey. I'm
     going to give it a steady seven.3.
+names_verified: true
 ---
 
 **[43:38]** Oh yes, my Mandy Dingleberry Finley quiz. You know what time it is? It's Wasy time. And this is what we've got this week. A Bracken. H yes, a blended malt scotch was from Lidl. This is a Lidl supermarket was apparently it's won some awards. 

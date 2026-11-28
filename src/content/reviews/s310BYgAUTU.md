@@ -10,9 +10,9 @@ episode_summary: The host sets up his tent right outside a holiday lodge in Nort
   Yorkshire, relaxes in the hot tub, tries some rather disappointing canned meatballs
   for breakfast, and reviews a 15-year-old single malt scotch whisky.
 items:
-- name: Glen Garioch 15 Year Old (Colonel Gadamsky)
+- name: Black Tears Dry Spiced Rum
   category: Whisky
-  brand_or_distillery: Glen Garioch
+  brand_or_distillery: Black Tears
   region_or_style: Highland Single Malt Scotch Whisky
   abv: 46%
   timestamp_seconds: 3242
@@ -31,6 +31,7 @@ items:
     On the palate, it reveals a strong, rich dark toffee flavor, woody undertones,
     and gentle warming spices with a smooth finish.
   verdict_quote: I think that's worthy of a solid nine, guys. That was a quality drop.
+names_verified: true
 ---
 
 **[54:02]** Yes, Mandingos. You know what time it is. It's time for a breakfast time was review. Glen Gadam, the old Colonel Kadamsky Highland single malt 15-year-old Scotch Waski. Let's get that popped into the old glass dingo.  

@@ -54,6 +54,7 @@ items:
   verdict_quote: I'm going to give it a 7.5 yeah and that's a decent score that's
     absolutely snout wrong paroni the snout run with a 7.5 if you know what I'm talking
     to snout your shoulder.
+names_verified: true
 ---
 
 **[07:51]** yes guys I've got the Flamingo Land Chinese munchbox and now it's time to do some serious Baria munching glad back rice... right here we go then guys time to dive in to this lovely looking Chinese munchbox and sweet chili sauce I'm going to go straight for the spring roll that's sauce is lovely very nice indeed. Couple of salt and pepper chips really really nice that's a fantastic start guys. **[22:49]** Mingo you know what time it is it's wasy time you better believe it is and this is what I've got this week monkey shoulder or monkey Sher as they see it my neck of the woods... **[25:32]** yeah there's like a bit of a marmal smell out guys there certainly some vanilla as well you old Vanilla Ice there's a few spices in there... **[26:16]** oh now that's very mty quite nice though very mty and quite nice at exactly the same time the vanilla is there as well in the taste... **[30:13]** I'm going to give it a 7.5 yeah and that's a decent score that's absolutely snout wrong paroni the snout run with a 7.5 if you know what I'm talking to snout your shoulder.

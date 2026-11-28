@@ -10,7 +10,7 @@ episode_summary: The host goes stealth camping in woods next to a railway platfo
   in Seaton Carew, Hartlepool, drinking Punk IPA, cocktails, red wine, and tasting
   Glen Scotia whisky alongside salt and chili pork belly strips.
 items:
-- name: BrewDog Millionaire Punk IPA
+- name: BrewDog Punk IPA
   category: Beer & Ale
   brand_or_distillery: BrewDog
   region_or_style: IPA
@@ -103,6 +103,7 @@ items:
     brings warm, smooth fudge, woody oak, and a brandy-like aftertaste.
   verdict_quote: So I'm going to give it Glenn Scorcher a big fat and juicy nine.
     I think it's a little bit better than a nine. So, I'll give it a 9.1.
+names_verified: true
 ---
 
 **[44:54]** Yes, guys. Glen Scotia double cask scotch whisky. Let's get the old big Rooney in it. Oh, that's like rich and fruity straight away. Hold on. God, I know my stuff. It says rich and fruity on the bottle. No, it doesn't. It says rich and spicy. So there you go. Like a rich fruit, apple, like apple pale and a bit of a hint of peaches as well. **[49:58]** Oh, that's nice. Now I'm coming down, as you can hear, with a little bit of the man flu. That went down so warm and so smooth at exactly the same time. The old smooth criminal. Oh, like a fudge taste. The old fudge pusher. **[54:00]** So I'm going to give it Glen Scotia a big fat and juicy nine. I think it's a little bit better than a nine. So, I'll give it a 9.1 out of 10 dingo.

@@ -6,5 +6,57 @@
   "description": "#stealthcamping #wildcamping #stealthcampinguk #adventure #stealthurbancamping #wildcampinguk \n#getoutside\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\ude09 \nhttps://theblotoutdoorsmerch.myshopify.com/collections/all\n\nHere's the link for Brown's Biltong \ud83d\ude0b\nhttps://brownsbiltong.co.uk/mandingo",
   "thumbnail": "https://i.ytimg.com/vi/eFBQPIQHkP4/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Preparing for the stealth",
+      "end_time": 185
+    },
+    {
+      "start_time": 185,
+      "title": "Arriving and setting up",
+      "end_time": 421
+    },
+    {
+      "start_time": 421,
+      "title": "Camp review and drinks",
+      "end_time": 816
+    },
+    {
+      "start_time": 816,
+      "title": "Overcoming anxieties",
+      "end_time": 1137
+    },
+    {
+      "start_time": 1137,
+      "title": "Getting fast food",
+      "end_time": 1436
+    },
+    {
+      "start_time": 1436,
+      "title": "Eating and snacking",
+      "end_time": 1800
+    },
+    {
+      "start_time": 1800,
+      "title": "Supporting the channel",
+      "end_time": 2211
+    },
+    {
+      "start_time": 2211,
+      "title": "Late night reflection",
+      "end_time": 2517
+    },
+    {
+      "start_time": 2517,
+      "title": "Bourbon tasting review",
+      "end_time": 2933
+    },
+    {
+      "start_time": 2933,
+      "title": "Morning packing and exit",
+      "end_time": 3161
+    }
+  ]
 }

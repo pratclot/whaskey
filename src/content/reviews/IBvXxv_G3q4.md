@@ -53,6 +53,7 @@ items:
     a pleasant spicy kick and creamy mouthfeel that warms the chest without being
     harsh.
   verdict_quote: I can't give it any less than a nine, unbelievable.
+names_verified: true
 ---
 
 **[18:49]** So on that note guys I'm going to give this solid massive fantastic 9.5 out of 10 dingo Mingo. **[31:16]** Very nice indeed, Bounty Spice Rum from St Lucia. I can't give it any less than a nine, unbelievable. That's as good as any whiskey I've had, really really nice.

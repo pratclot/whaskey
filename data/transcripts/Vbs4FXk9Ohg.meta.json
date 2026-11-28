@@ -6,5 +6,47 @@
   "description": "#wildcamping #cavecamping #getoutside \n#lakedistrictcamping #camping #comedy \n#lakedistrict #hiking #stealthcamping \n#wildcampinguk #stealthcampinguk\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\ude09 \nhttps://theblotoutdoorsmerch.myshopify.com/collections/all",
   "thumbnail": "https://i.ytimg.com/vi/Vbs4FXk9Ohg/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Mishap and introduction",
+      "end_time": 71
+    },
+    {
+      "start_time": 71,
+      "title": "Hiking to Priest's Hole",
+      "end_time": 446
+    },
+    {
+      "start_time": 446,
+      "title": "Arriving at the cave",
+      "end_time": 1085
+    },
+    {
+      "start_time": 1085,
+      "title": "Camp setup and gear review",
+      "end_time": 1593
+    },
+    {
+      "start_time": 1593,
+      "title": "Drinks and personal stories",
+      "end_time": 2257
+    },
+    {
+      "start_time": 2257,
+      "title": "Cooking steak dinner",
+      "end_time": 3070
+    },
+    {
+      "start_time": 3070,
+      "title": "Whiskey review",
+      "end_time": 3697
+    },
+    {
+      "start_time": 3697,
+      "title": "Morning packing and departure",
+      "end_time": 3938
+    }
+  ]
 }

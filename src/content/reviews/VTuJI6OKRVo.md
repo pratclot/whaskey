@@ -53,6 +53,7 @@ items:
     rich sultanas and honey. The palate offers creaminess, a warm ginger kick, orange,
     and grapefruit notes with a smooth finish.
   verdict_quote: I'm going to give it a big fat juicy 9.2 out of 10 Dingle man dingles.
+names_verified: true
 ---
 
 **[09:18]** here we go guys time to get stuck into this lovely fish and chip shop mail I've got regular cotton chips I did ask for fish bites when I first went in... **[10:15]** straighten the chips guys and they are proper proper fish and chip shop chips still nice and hot... **[14:12s]** time for the beef partty let's rip there in half and give you a look com beef and potato guys oh yes M red hot still and once again not greasy at all... **[15:51]** I did ask for fish bites but I was asking for that many different things he must have got confused.com and he give us flish that looks like a nice bit of fish that it does look at that... **[18:43]** so I am going to give him a score of Ponsky 8.5 yes a big fat juicy 8.5 out of 10 dingo M Dingle.

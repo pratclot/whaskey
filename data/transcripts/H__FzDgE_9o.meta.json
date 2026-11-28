@@ -6,5 +6,67 @@
   "description": "#wildcamping #cavecamping #bivvycamping\n#camping #wildcampinguk #neardeath \n#stealthcamping #hikingandcamping \n#whiskyreview #getoutside\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\ude09\nhttps://theblotoutdoorsmerch.myshopify.com/collections/all\n\nHere's the link for Andy's channel:\nhttps://youtube.com/@AndyWardle?si=cu-gDXplhAMV0YtT\n\nHere's the link for Joe's channel:\nhttps://youtube.com/@joeoutdoors0161?si=FdMoRaRFTEZuz_fL",
   "thumbnail": "https://i.ytimg.com/vi/H__FzDgE_9o/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Pub drinks and football",
+      "end_time": 147
+    },
+    {
+      "start_time": 147,
+      "title": "Hiking to the secret cave",
+      "end_time": 427
+    },
+    {
+      "start_time": 427,
+      "title": "Setting up camp",
+      "end_time": 640
+    },
+    {
+      "start_time": 640,
+      "title": "Showing gear and whiskey",
+      "end_time": 1032
+    },
+    {
+      "start_time": 1032,
+      "title": "Evening conversation",
+      "end_time": 1515
+    },
+    {
+      "start_time": 1515,
+      "title": "Andy's accidental fall",
+      "end_time": 2045
+    },
+    {
+      "start_time": 2045,
+      "title": "Drinking and anecdotes",
+      "end_time": 2601
+    },
+    {
+      "start_time": 2601,
+      "title": "More food and stories",
+      "end_time": 3105
+    },
+    {
+      "start_time": 3105,
+      "title": "Late night check-in",
+      "end_time": 3424
+    },
+    {
+      "start_time": 3424,
+      "title": "Whiskey review",
+      "end_time": 3853
+    },
+    {
+      "start_time": 3853,
+      "title": "Pre-sleep antics",
+      "end_time": 4281
+    },
+    {
+      "start_time": 4281,
+      "title": "Morning packing",
+      "end_time": 4522
+    }
+  ]
 }

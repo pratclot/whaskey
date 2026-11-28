@@ -33,6 +33,7 @@ items:
     reminiscent of peach and strawberry flavored water.
   verdict_quote: Number seven is the lucky number... We'll give it a seven, guys.
     A straight seven.
+names_verified: true
 ---
 
 **[37:34]** And talking about King John Umbongu, he also give me this. This is what I'm going to do the review on tonight. Jinro peach soju, another thing from Korea. It's like a peach flavor alcohol spirit. So, I've got that. Pork ding dong crunch and the peach spirit kindly given to me from the legend King John Umbongu. In fact, why not have a little gobble of this now? Peach flavored spirit. Let's see what it's all about, guys. Ooh, taste of peach. Mhm. Yeah. There's more than just peach in there. But, we'll see of that Fuzzy Wuzzy famous review. You know that. In it.

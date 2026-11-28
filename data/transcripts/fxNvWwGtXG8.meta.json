@@ -6,5 +6,72 @@
   "description": "#camping #hiking #hikingandcamping \n#comedy #getoutside #lakedistrict #stealthcamping #wildcamping #whiskyreview\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\ude09 \nhttps://theblotoutdoorsmerch.myshopify.com/collections/all\n\nThe camping pod is at the Lowther Arms pub in Mawbray, Cumbria \ud83d\udc4d",
   "thumbnail": "https://i.ytimg.com/vi/fxNvWwGtXG8/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Show introduction",
+      "end_time": 121
+    },
+    {
+      "start_time": 121,
+      "title": "Hiking Orrest Head",
+      "end_time": 405
+    },
+    {
+      "start_time": 405,
+      "title": "Hiking conclusion",
+      "end_time": 488
+    },
+    {
+      "start_time": 488,
+      "title": "Arriving at the camping pod",
+      "end_time": 704
+    },
+    {
+      "start_time": 704,
+      "title": "Cooking beef snacks",
+      "end_time": 1058
+    },
+    {
+      "start_time": 1058,
+      "title": "Chilling in the pod",
+      "end_time": 1215
+    },
+    {
+      "start_time": 1215,
+      "title": "Evening drinks",
+      "end_time": 1667
+    },
+    {
+      "start_time": 1667,
+      "title": "Friendship and hiking",
+      "end_time": 1948
+    },
+    {
+      "start_time": 1948,
+      "title": "Cooking dinner",
+      "end_time": 2049
+    },
+    {
+      "start_time": 2049,
+      "title": "Eating dinner",
+      "end_time": 2394
+    },
+    {
+      "start_time": 2394,
+      "title": "Preparing the whiskey review",
+      "end_time": 2543
+    },
+    {
+      "start_time": 2543,
+      "title": "Whiskey review",
+      "end_time": 3166
+    },
+    {
+      "start_time": 3166,
+      "title": "Morning departure",
+      "end_time": 3331
+    }
+  ]
 }

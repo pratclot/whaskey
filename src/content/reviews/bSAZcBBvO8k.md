@@ -70,8 +70,8 @@ items:
     mixed peppers, onions, and two sachets of Aldi sweet chili & garlic sauce.
   verdict_quote: Look at them king prawns man — I would have paid good money for this
     in a restaurant. Sensational!
+names_verified: true
 ---
-
 
 ## Tasting Transcript Excerpt
 

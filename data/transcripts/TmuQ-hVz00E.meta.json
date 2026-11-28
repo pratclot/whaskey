@@ -6,5 +6,82 @@
   "description": "#stealthcampinguk #wildcampinguk #getoutside \n#adventure #stealthcamping #wildcamping \n#camping #whiskyreview #sunderland #stealth\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\ude09\nhttps://theblotoutdoorsmerch.myshopify.com/collections/all",
   "thumbnail": "https://i.ytimg.com/vi/TmuQ-hVz00E/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Starting the adventure",
+      "end_time": 186
+    },
+    {
+      "start_time": 186,
+      "title": "Scouting the location",
+      "end_time": 392
+    },
+    {
+      "start_time": 392,
+      "title": "Setting up camp",
+      "end_time": 538
+    },
+    {
+      "start_time": 538,
+      "title": "Evening relaxation",
+      "end_time": 794
+    },
+    {
+      "start_time": 794,
+      "title": "Showcasing gear",
+      "end_time": 1055
+    },
+    {
+      "start_time": 1055,
+      "title": "Exploring surroundings",
+      "end_time": 1332
+    },
+    {
+      "start_time": 1332,
+      "title": "Returning to camp",
+      "end_time": 1582
+    },
+    {
+      "start_time": 1582,
+      "title": "Late night food run",
+      "end_time": 1762
+    },
+    {
+      "start_time": 1762,
+      "title": "Preparing dinner",
+      "end_time": 2018
+    },
+    {
+      "start_time": 2018,
+      "title": "Chatting and drinking",
+      "end_time": 2237
+    },
+    {
+      "start_time": 2237,
+      "title": "Avoiding detection",
+      "end_time": 2542
+    },
+    {
+      "start_time": 2542,
+      "title": "Whiskey review",
+      "end_time": 3011
+    },
+    {
+      "start_time": 3011,
+      "title": "Morning after",
+      "end_time": 3218
+    },
+    {
+      "start_time": 3218,
+      "title": "Breakfast and packing",
+      "end_time": 3663
+    },
+    {
+      "start_time": 3663,
+      "title": "Heading home",
+      "end_time": 3811
+    }
+  ]
 }

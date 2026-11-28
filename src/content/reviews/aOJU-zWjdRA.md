@@ -52,6 +52,7 @@ items:
     The palate brings coffee flavors, woody spices, tangerine, and a hint of sherry
     with no harsh burn.
   verdict_quote: I'm going to give that a very very solid 7.8 out of 10.
+names_verified: true
 ---
 
 **[15:21]** Jericho which is made by the Lost Distillery company it's a company that specializes in making whiskeys from distilleries which are now closed down over the last hundred years... **[15:57]** this one's called Jericho blended Scotch waski The Distillery this was originally made out was in aberdeenshire anyway Mick let's get this poured... **[16:35]** straight away there I'm getting a strong lovely fruitcake smell you get there... **[17:31]** coffee thing going on there some spices some like Woody spices for a definite coffee thing mandingos lovely... **[19:11]** Jericho blended Scotch waski which is made by the Lost Distillery company bringing Whiskey's back to life that are no longer if you know what I mean Dingle manding goes I'm going to give that a very very solid 7.8 out of 10

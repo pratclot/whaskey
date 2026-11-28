@@ -6,5 +6,47 @@
   "description": "#hiking #wildcamping #adventure #stealthcamping #stealthcampingalliance #wildcampinguk #stealth #lakedistrict #secretcamping #stealthcampinguk\n\nThis is the link for Daveys channel D.C. OUTDOORS https://youtube.com/user/biglad20101\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\udc4d \nhttps://theblotoutdoorsmerch.myshopify.com/collections/all",
   "thumbnail": "https://i.ytimg.com/vi/JLOKOSuges4/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Lake District adventure",
+      "end_time": 182
+    },
+    {
+      "start_time": 182,
+      "title": "Exploring Rydal Caves",
+      "end_time": 308
+    },
+    {
+      "start_time": 308,
+      "title": "Ascending Loughrigg Fell",
+      "end_time": 520
+    },
+    {
+      "start_time": 520,
+      "title": "Setting up camp",
+      "end_time": 705
+    },
+    {
+      "start_time": 705,
+      "title": "Evening meal and drinks",
+      "end_time": 947
+    },
+    {
+      "start_time": 947,
+      "title": "Whisky review",
+      "end_time": 1259
+    },
+    {
+      "start_time": 1259,
+      "title": "Nighttime and shoutouts",
+      "end_time": 1357
+    },
+    {
+      "start_time": 1357,
+      "title": "Morning pack up",
+      "end_time": 1591
+    }
+  ]
 }

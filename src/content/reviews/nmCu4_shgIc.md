@@ -29,9 +29,9 @@ items:
     the beach.
   verdict_quote: Can this be a nice one compared to like some of the other ones? It
     can. You better believe it can.
-- name: Elvis Juice
+- name: 19 Crimes Red Wine
   category: Beer & Ale
-  brand_or_distillery: BrewDog
+  brand_or_distillery: 19 Crimes
   region_or_style: Grapefruit Infused IPA
   abv: ''
   timestamp_seconds: 1045
@@ -109,6 +109,7 @@ items:
     chorizo, peas, and peppers, providing a hot meal against the cold sea breeze.
   verdict_quote: Just what you need, guys... A nice hot meal in me belly is going
     to be like a hot water bottle through the night.
+names_verified: true
 ---
 
 **[40:33]** Yes, mandingos, you know what time it is. It is whisky time. We've got this number 15 from InchDairnie Distillery in Fife, number 15. Let's get that popped in. **[42:13]** Can we do a good wee review, guys, with only a little bit left? We can. You guys know exactly we can. We're going to do it. **[42:45]** It's like smoky and oh like a nice fine red wine at exactly the same time. Smokey and a fine wine at exactly the same time. **[43:27]** Like a bit of a marzipan smell as well there, guys. I haven't had that for a while. **[44:04]** Like that putty marzipan smell... you know when you played with Play-Doh and you got like that smell you'd never smelled before? **[45:13]** It's smooth, but it's also got a kick at exactly the same time. Now, that is definitely the first time I've said that on my whiskey reviews over the last six years. **[45:59]** I'm getting cherry notes. I'm getting like a red wine flavor. It's nice, guys. It's good quality. We're getting some oakiness. **[47:25]** It's like sweet, tangy, fruity. There's a slight fruity element coming through. There's an oakiness to it. **[48:26]** This is the number 15 batch from InchDairnie Distillery in Fife, Scotland. **[49:09]** The fruity thing I would say is orangey, like an orangey pale thing going on. It's smooth, but it's also got like a spicy, zesty kick to it. **[49:49]** I'll give it an 8.9. I mean, I've thoroughly enjoyed it. It's 8.9 out of 10 dingo from this man dingo.

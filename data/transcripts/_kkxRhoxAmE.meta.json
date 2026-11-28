@@ -6,5 +6,42 @@
   "description": "#pizzashop #kebab #takeaway #food #foodchallenge #foodie #whiskyreview\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\udc4d \nhttps://theblotoutdoorsmerch.myshopify.com/collections/all\n\nHere's the link for Nicks channel \ud83d\ude09\nhttp://www.youtube.com/@Thats_him_with_the_daft_hat",
   "thumbnail": "https://i.ytimg.com/vi/_kkxRhoxAmE/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Road trip to black hall",
+      "end_time": 242
+    },
+    {
+      "start_time": 242,
+      "title": "Ordering at Kira's place",
+      "end_time": 330
+    },
+    {
+      "start_time": 330,
+      "title": "Unboxing the munchy box",
+      "end_time": 438
+    },
+    {
+      "start_time": 438,
+      "title": "Tasting the fast food",
+      "end_time": 1450
+    },
+    {
+      "start_time": 1450,
+      "title": "Final food rating",
+      "end_time": 1523
+    },
+    {
+      "start_time": 1523,
+      "title": "World famous whiskey review",
+      "end_time": 2321
+    },
+    {
+      "start_time": 2321,
+      "title": "Fan clips and outro",
+      "end_time": 2474
+    }
+  ]
 }

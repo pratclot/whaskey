@@ -6,5 +6,47 @@
   "description": "#lakedistrict #adventure #hiking #wildcamping #whiskyreview #dangerous #cookingoutdoors #berghaus #camping #burgers\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\udc4d\nhttps://theblotoutdoorsmerch.myshopify.com/collections/all\n\nHere's the link for Brown's Biltong, remember to use the code \"mandingo\" for your discount \ud83d\ude09\nhttps://brownsbiltong.co.uk/",
   "thumbnail": "https://i.ytimg.com/vi/S9tvwW9ZqRY/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Hiking and finding camp",
+      "end_time": 277
+    },
+    {
+      "start_time": 277,
+      "title": "Setting up the campsite",
+      "end_time": 570
+    },
+    {
+      "start_time": 570,
+      "title": "Hiking Jack's Rake",
+      "end_time": 1036
+    },
+    {
+      "start_time": 1036,
+      "title": "Evening relaxation and drinks",
+      "end_time": 1638
+    },
+    {
+      "start_time": 1638,
+      "title": "Whisky review",
+      "end_time": 2206
+    },
+    {
+      "start_time": 2206,
+      "title": "Cooking dinner",
+      "end_time": 2617
+    },
+    {
+      "start_time": 2617,
+      "title": "Nighttime and morning",
+      "end_time": 2747
+    },
+    {
+      "start_time": 2747,
+      "title": "Packing up and departing",
+      "end_time": 3101
+    }
+  ]
 }

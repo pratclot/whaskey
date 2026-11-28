@@ -11,9 +11,9 @@ episode_summary: The host goes wild camping behind the walls of Codger Fort in N
   pasta, Vault City winter berry crumble beer, Jack Daniel's, and Macduff Speyside
   single malt whisky.
 items:
-- name: Winter Berry Crumble
+- name: Vault City Winter Berry Crumble
   category: Beer & Ale
-  brand_or_distillery: Vault City
+  brand_or_distillery: Vault City Brewing
   region_or_style: Fruit Beer / Sour
   abv: 5.0%
   timestamp_seconds: 1424
@@ -93,9 +93,9 @@ items:
   tasting_notes: Steaming hot pasta featuring small pieces of spicy chorizo sausage,
     providing a hearty and comforting camp meal.
   verdict_quote: Some pasta with spicy chorizo. Still red up. Very nice indeed.
-- name: Macduff Speyside Single Malt Whisky
+- name: Glentauchers Speyside Single Malt Whisky
   category: Whisky
-  brand_or_distillery: Macduff
+  brand_or_distillery: Glentauchers
   region_or_style: Speyside Single Malt Whisky
   abv: 40%
   timestamp_seconds: 3492
@@ -115,6 +115,7 @@ items:
     caramel, and honey. The palate delivers a smooth sherry sweetness paired with
     a strong dark charred oak and burnt wood finish.
   verdict_quote: I'm going to give that a solid straight eight out of 10 dingo.
+names_verified: true
 ---
 
 **[23:44]** Let's give this a blast, guys. Do you know what? That's nice. That like that is nice. Who's this by? Vault City. Vault is your name. You didn't know I could speak German, did you? You know what? That's nice. That like... Let's have another blaster. Oh, it's like a rhubarb pie or a rhubarb crumble. And I love rhubarb... That is nice guys... The main thing I'm getting, oh, it's a lovely rhubarb flavor, but it's not too sweet... I would get this one again.

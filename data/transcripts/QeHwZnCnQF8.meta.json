@@ -6,5 +6,47 @@
   "description": "#takeaway #food #foodchallenge #foodie #yummy #ratemyplate #whiskyreview #eating #eatingshow\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\udc4d \nhttps://theblotoutdoorsmerch.myshopify.com/collections/all",
   "thumbnail": "https://i.ytimg.com/vi/QeHwZnCnQF8/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Introduction to Shiney Row",
+      "end_time": 180
+    },
+    {
+      "start_time": 180,
+      "title": "Ordering takeout",
+      "end_time": 353
+    },
+    {
+      "start_time": 353,
+      "title": "Food reveal in the van",
+      "end_time": 510
+    },
+    {
+      "start_time": 510,
+      "title": "Tasting the kebab and sides",
+      "end_time": 1136
+    },
+    {
+      "start_time": 1136,
+      "title": "Food review scores",
+      "end_time": 1376
+    },
+    {
+      "start_time": 1376,
+      "title": "Q&A and preparation",
+      "end_time": 1525
+    },
+    {
+      "start_time": 1525,
+      "title": "Whiskey review",
+      "end_time": 2085
+    },
+    {
+      "start_time": 2085,
+      "title": "Weekend plans and closing",
+      "end_time": 2313
+    }
+  ]
 }

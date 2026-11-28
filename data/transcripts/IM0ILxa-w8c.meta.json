@@ -6,5 +6,37 @@
   "description": "#takeaway #food #foodchallenge #foodie #yummy #nastyfood #ratemyplate #whiskey\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\udc4d\nhttps://theblotoutdoorsmerch.myshopify.com/collections/all\n\nHere's the link for cowboy Chris's channel \nhttps://youtube.com/@christophershiels786\n\nHere's the link for Roberts channel \nhttps://youtube.com/@murchiesmountains2820",
   "thumbnail": "https://i.ytimg.com/vi/IM0ILxa-w8c/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Introduction to Peterlee",
+      "end_time": 228
+    },
+    {
+      "start_time": 228,
+      "title": "Ordering at the chippy",
+      "end_time": 537
+    },
+    {
+      "start_time": 537,
+      "title": "Takeaway food review",
+      "end_time": 1260
+    },
+    {
+      "start_time": 1260,
+      "title": "Drinking and future plans",
+      "end_time": 1781
+    },
+    {
+      "start_time": 1781,
+      "title": "Whiskey review",
+      "end_time": 2327
+    },
+    {
+      "start_time": 2327,
+      "title": "Video conclusion",
+      "end_time": 2350
+    }
+  ]
 }

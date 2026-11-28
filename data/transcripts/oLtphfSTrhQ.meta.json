@@ -6,5 +6,42 @@
   "description": "#wildcamping #hiking #getoutside #wildcampinguk #greatoutdoors\n#campingwithdogs #lakedistrict #backpacking #stealthcamping #whiskyreview\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\ude09\nhttps://theblotoutdoorsmerch.myshopify.com/collections/all\n\nHere's the link for Brown's Biltong \ud83d\ude0b\nhttps://brownsbiltong.co.uk/mandingo",
   "thumbnail": "https://i.ytimg.com/vi/oLtphfSTrhQ/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Hiking to the summit",
+      "end_time": 351
+    },
+    {
+      "start_time": 351,
+      "title": "Setting up camp",
+      "end_time": 756
+    },
+    {
+      "start_time": 756,
+      "title": "Camp setup and gear talk",
+      "end_time": 1748
+    },
+    {
+      "start_time": 1748,
+      "title": "Evening whiskey tasting",
+      "end_time": 2172
+    },
+    {
+      "start_time": 2172,
+      "title": "Cooking dinner",
+      "end_time": 2742
+    },
+    {
+      "start_time": 2742,
+      "title": "Relaxing and final whiskey",
+      "end_time": 3495
+    },
+    {
+      "start_time": 3495,
+      "title": "Morning departure",
+      "end_time": 3762
+    }
+  ]
 }

@@ -91,6 +91,7 @@ items:
   verdict_quote: What can you say about a chip buddy and gravy? It's so basic, but
     if it's done right, it's absolutely fantastical... I'm going to give it a solid
     8.8.
+names_verified: true
 ---
 
 **[35:52]** Can I have a special with gravy? And what else have you got ready then, mate? Burger. I'll have them both. I'm doing a little bit of a takeaway review for YouTube channel. Gravy? Gravy eye. Please, mate. Class, you say gravy. Station road chicken. Guys, I've been coming here since I was at school. **[39:23]** Here we go. I've sat down on this curb here. Let's dive in. Don't know if that's a combi or cheese patty. That's a cheese patty. That still all right. Not something I would normally order. Quite tasty. **[40:49]** Now we have a battered burger. Crunchy batter. If I'm going to be brutally honest, it's a little bit dry, but that's only because it was closing time and I'm getting the last of the stuff. Dry but tasty. **[44:34]** So, we have chip butty with gravy with a battered sausage. Look at that. That's what I'm talking about, folks. Good old traditional English chip putty with gravy on. The chips are piping hot. The gravy is nice and tasty. **[50:09]** Food quality. The chip butty and gravy spot on. The burger was a bit dry, but was nice and tasty. And the patty that was nice and fresh and moist. Amazing. And also tasty. I'm going to give it a solid 8.8.

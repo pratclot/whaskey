@@ -29,9 +29,9 @@ items:
     relaxing at the camp.
   verdict_quote: I am now on my third con of lock jar jar born yes I've just been
     chilling out for a good houra doing no recording just relaxing
-- name: G&B Blended Scotch Whisky
+- name: J&B Rare Blended Scotch Whisky
   category: Whisky
-  brand_or_distillery: ''
+  brand_or_distillery: J&B (Justerini & Brooks)
   region_or_style: Blended Scotch Whisky
   abv: ''
   timestamp_seconds: 1701
@@ -50,6 +50,7 @@ items:
     element, and a slight zesty orange note with a complex spice finish.
   verdict_quote: right here right now right here right now I'm going to give it a
     steady seven out of 10 dingo mandingos
+names_verified: true
 ---
 
 **[28:21]** Oh yes mandingos you know what time it is, wasky time and this is what we've got this week: G&B blended Scotch wasy kindly given to me from a legend by the name of Kevin green. Cheers Kevin, my man friend, very much appreciated. **[29:25]** Like a bit of a wood smell, a little bit toffee, a slight fruit to it, dare I see apples? So you could see like a like a toffee apple kind of smell with a little bit wood. **[30:05]** First taste: it's not the best thing ever, it's a blended wasy which normally aren't the greatest. Let's have another taste and see how it goes. A little bit wood, I'd say, oaken. **[30:48]** Yes, the oaken is so popular in the wasis. A toffee thing is coming through, guys, yeah and it is like a fruity element to it as well. **[31:09]** I said apple in the taste, that is the slightest little bit, but I'm also getting maybe like some zest of orange. **[31:48]** After four or five tastes, there is a definite wood with a little bit of a toffee thing going on, guys. **[34:19]** G&B blended Scotch wasy... right here right now I'm going to give it a steady seven out of 10 dingo mandingos.

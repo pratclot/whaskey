@@ -6,5 +6,47 @@
   "description": "#stealthcamping #wildcamping #stealthcampingalliance #wildcampinguk #stealth #whiskyreview #sunderland #sunderlandafc #stadiumoflight #adventure #stealthurbancamping #secretcamping #stealthcampinguk #stevewallis",
   "thumbnail": "https://i.ytimg.com/vi/o9BqgtGcxj0/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Arriving at the stadium",
+      "end_time": 133
+    },
+    {
+      "start_time": 133,
+      "title": "Scouting the location",
+      "end_time": 237
+    },
+    {
+      "start_time": 237,
+      "title": "Setting up camp",
+      "end_time": 366
+    },
+    {
+      "start_time": 366,
+      "title": "Relaxing and evening meal",
+      "end_time": 539
+    },
+    {
+      "start_time": 539,
+      "title": "Night time in the woods",
+      "end_time": 848
+    },
+    {
+      "start_time": 848,
+      "title": "Evening drinks and review",
+      "end_time": 1050
+    },
+    {
+      "start_time": 1050,
+      "title": "Enjoying the night",
+      "end_time": 1358
+    },
+    {
+      "start_time": 1358,
+      "title": "Morning packing and departure",
+      "end_time": 1620
+    }
+  ]
 }

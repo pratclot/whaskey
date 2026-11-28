@@ -6,5 +6,62 @@
   "description": "#takeaway #food #foodchallenge #foodie #yummy #nastyfood #ratemyplate #whiskyreview\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\udc4d \nhttps://theblotoutdoorsmerch.myshopify.com/collections/all\n\nHere's some links for my three favourite foodie channels \ud83d\ude0b \ud83d\ude09\n\nBeardMeatsFood:\nhttps://youtube.com/@Beardmeatsfood\n\nWilderness Cooking:\nhttps://youtube.com/@WILDERNESSCOOKING\n\nRate My Takeaway:\nhttps://youtube.com/@RateMyTakeaway",
   "thumbnail": "https://i.ytimg.com/vi/GsXrFFtNcdQ/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Introduction to Redcar",
+      "end_time": 159
+    },
+    {
+      "start_time": 159,
+      "title": "Ordering at The Stray Cafe",
+      "end_time": 398
+    },
+    {
+      "start_time": 398,
+      "title": "Waiting for the food",
+      "end_time": 534
+    },
+    {
+      "start_time": 534,
+      "title": "Food review part 1",
+      "end_time": 710
+    },
+    {
+      "start_time": 710,
+      "title": "Tasting the breakfast",
+      "end_time": 967
+    },
+    {
+      "start_time": 967,
+      "title": "Pie review and final score",
+      "end_time": 1257
+    },
+    {
+      "start_time": 1257,
+      "title": "Afternoon work break",
+      "end_time": 1375
+    },
+    {
+      "start_time": 1375,
+      "title": "YouTube channel advice",
+      "end_time": 1695
+    },
+    {
+      "start_time": 1695,
+      "title": "Bloopers and bloopers",
+      "end_time": 1837
+    },
+    {
+      "start_time": 1837,
+      "title": "Whiskey review",
+      "end_time": 2356
+    },
+    {
+      "start_time": 2356,
+      "title": "Conclusion",
+      "end_time": 2373
+    }
+  ]
 }

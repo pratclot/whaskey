@@ -6,5 +6,57 @@
   "description": "#stealthcamping #wildcamping #stealthcampinguk #getoutside #urbanstealthcamping #getoutdoors #funny \n#whiskyreview\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\ude09 \nhttps://theblotoutdoorsmerch.myshopify.com/collections/all\n\nHere's the link for Brown's Biltong \ud83d\ude0b\nhttps://brownsbiltong.co.uk/mandingo\n\nHere's the link for the Firemaple Polaris cooking system: https://bit.ly/3CXKihE",
   "thumbnail": "https://i.ytimg.com/vi/EvwfKoa2rMo/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Heading into the city",
+      "end_time": 353
+    },
+    {
+      "start_time": 353,
+      "title": "Finding the stealth spot",
+      "end_time": 627
+    },
+    {
+      "start_time": 627,
+      "title": "Setting up the camp",
+      "end_time": 830
+    },
+    {
+      "start_time": 830,
+      "title": "Camp gear overview",
+      "end_time": 1006
+    },
+    {
+      "start_time": 1006,
+      "title": "Supermarket food run",
+      "end_time": 1506
+    },
+    {
+      "start_time": 1506,
+      "title": "Returning to camp",
+      "end_time": 1806
+    },
+    {
+      "start_time": 1806,
+      "title": "Memories of working at Asda",
+      "end_time": 2395
+    },
+    {
+      "start_time": 2395,
+      "title": "Whiskey tasting review",
+      "end_time": 2915
+    },
+    {
+      "start_time": 2915,
+      "title": "Ending the night",
+      "end_time": 3508
+    },
+    {
+      "start_time": 3508,
+      "title": "Packing up and departing",
+      "end_time": 3809
+    }
+  ]
 }

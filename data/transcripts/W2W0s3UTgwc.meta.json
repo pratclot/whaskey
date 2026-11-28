@@ -6,5 +6,62 @@
   "description": "#stealthcampinguk #getoutside #wildcamping \n#greatoutdoors #camping #factory #getoutdoors\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\ude09 \nhttps://theblotoutdoorsmerch.myshopify.com/collections/all",
   "thumbnail": "https://i.ytimg.com/vi/W2W0s3UTgwc/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Arriving at the factory",
+      "end_time": 178
+    },
+    {
+      "start_time": 178,
+      "title": "Setting up camp",
+      "end_time": 438
+    },
+    {
+      "start_time": 438,
+      "title": "Relaxing in the tent",
+      "end_time": 741
+    },
+    {
+      "start_time": 741,
+      "title": "Gear and food showcase",
+      "end_time": 983
+    },
+    {
+      "start_time": 983,
+      "title": "Addressing comments",
+      "end_time": 1346
+    },
+    {
+      "start_time": 1346,
+      "title": "Whiskey tasting",
+      "end_time": 1628
+    },
+    {
+      "start_time": 1628,
+      "title": "Tasting notes and review",
+      "end_time": 2095
+    },
+    {
+      "start_time": 2095,
+      "title": "Factory stories",
+      "end_time": 2545
+    },
+    {
+      "start_time": 2545,
+      "title": "Cooking dinner",
+      "end_time": 2980
+    },
+    {
+      "start_time": 2980,
+      "title": "Late night chatter",
+      "end_time": 3396
+    },
+    {
+      "start_time": 3396,
+      "title": "Morning packing",
+      "end_time": 3620
+    }
+  ]
 }

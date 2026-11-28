@@ -6,5 +6,57 @@
   "description": "#cave #adventure #caves #lakedistrict #cavesandcliffs #hiking #wildcamping #whiskey #wildcampinguk #stealthcamping\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\udc4d \nhttps://theblotoutdoorsmerch.myshopify.com/collections/all\n\nHere's the link for Brown's Biltong, remember to use the code \"mandingo\" for your discount \ud83d\ude09\nhttps://brownsbiltong.co.uk/",
   "thumbnail": "https://i.ytimg.com/vi/U1qMFDFJ9Vs/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Hiking to the cave",
+      "end_time": 351
+    },
+    {
+      "start_time": 351,
+      "title": "Climbing to priest's hall",
+      "end_time": 571
+    },
+    {
+      "start_time": 571,
+      "title": "Setting up camp",
+      "end_time": 842
+    },
+    {
+      "start_time": 842,
+      "title": "Preparing the barbecue",
+      "end_time": 1035
+    },
+    {
+      "start_time": 1035,
+      "title": "Cooking and eating dinner",
+      "end_time": 1158
+    },
+    {
+      "start_time": 1158,
+      "title": "Enjoying the food",
+      "end_time": 1368
+    },
+    {
+      "start_time": 1368,
+      "title": "Whiskey review session",
+      "end_time": 1826
+    },
+    {
+      "start_time": 1826,
+      "title": "Nighttime reflections",
+      "end_time": 1953
+    },
+    {
+      "start_time": 1953,
+      "title": "Morning routine",
+      "end_time": 2074
+    },
+    {
+      "start_time": 2074,
+      "title": "Packing up and departing",
+      "end_time": 2255
+    }
+  ]
 }

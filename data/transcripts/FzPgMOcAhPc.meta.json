@@ -6,5 +6,57 @@
   "description": "#takeaway #food #foodchallenge #foodie #yummy #nastyfood #ratemyplate #whiskyreview\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\udc4d\nhttps://theblotoutdoorsmerch.myshopify.com/collections/all",
   "thumbnail": "https://i.ytimg.com/vi/FzPgMOcAhPc/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Introduction",
+      "end_time": 201
+    },
+    {
+      "start_time": 201,
+      "title": "Heading to the dip shop",
+      "end_time": 262
+    },
+    {
+      "start_time": 262,
+      "title": "Arriving in Sunderland",
+      "end_time": 310
+    },
+    {
+      "start_time": 310,
+      "title": "Ordering food",
+      "end_time": 532
+    },
+    {
+      "start_time": 532,
+      "title": "Food reveal",
+      "end_time": 610
+    },
+    {
+      "start_time": 610,
+      "title": "Tasting and review",
+      "end_time": 1077
+    },
+    {
+      "start_time": 1077,
+      "title": "Final food scores",
+      "end_time": 1174
+    },
+    {
+      "start_time": 1174,
+      "title": "Q&A session",
+      "end_time": 1320
+    },
+    {
+      "start_time": 1320,
+      "title": "Whiskey review",
+      "end_time": 1674
+    },
+    {
+      "start_time": 1674,
+      "title": "Outro",
+      "end_time": 1846
+    }
+  ]
 }

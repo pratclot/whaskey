@@ -6,5 +6,52 @@
   "description": "#reallife #streetwalking #takeaway #walkandtalk \n#realpeople #foodreview #stealthcamping\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\ude09\nhttps://theblotoutdoorsmerch.myshopify.com/collections/all",
   "thumbnail": "https://i.ytimg.com/vi/V5FAUzuKq3U/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Exploring Billingham",
+      "end_time": 140
+    },
+    {
+      "start_time": 140,
+      "title": "ICI tower history",
+      "end_time": 339
+    },
+    {
+      "start_time": 339,
+      "title": "Visit to Charlton's Pond",
+      "end_time": 543
+    },
+    {
+      "start_time": 543,
+      "title": "Conversations with locals",
+      "end_time": 802
+    },
+    {
+      "start_time": 802,
+      "title": "Housing estate exploration",
+      "end_time": 1310
+    },
+    {
+      "start_time": 1310,
+      "title": "Billingham town center walk",
+      "end_time": 2174
+    },
+    {
+      "start_time": 2174,
+      "title": "Ordering a Chinese takeaway",
+      "end_time": 2360
+    },
+    {
+      "start_time": 2360,
+      "title": "Chinese takeaway review",
+      "end_time": 3662
+    },
+    {
+      "start_time": 3662,
+      "title": "Whiskey review and wrap-up",
+      "end_time": 4192
+    }
+  ]
 }

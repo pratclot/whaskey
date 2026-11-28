@@ -6,5 +6,37 @@
   "description": "#tentbox #camping #comedy #wildcampinguk \n#whiskyreview #outdoorcooking #adventure \n#campingfails #carcamping #carbreakdown\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\ude09 \nhttps://theblotoutdoorsmerch.myshopify.com/collections/all",
   "thumbnail": "https://i.ytimg.com/vi/Qz0505OV7l4/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Breakdown and wait",
+      "end_time": 267
+    },
+    {
+      "start_time": 267,
+      "title": "Passing the time",
+      "end_time": 1313
+    },
+    {
+      "start_time": 1313,
+      "title": "Meeting James",
+      "end_time": 1971
+    },
+    {
+      "start_time": 1971,
+      "title": "Whiskey review",
+      "end_time": 2643
+    },
+    {
+      "start_time": 2643,
+      "title": "Last-minute meal and recovery",
+      "end_time": 3360
+    },
+    {
+      "start_time": 3360,
+      "title": "Final reflections",
+      "end_time": 3443
+    }
+  ]
 }

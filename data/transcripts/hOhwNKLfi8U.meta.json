@@ -6,5 +6,72 @@
   "description": "#stealthcamping #wildcamping #stealthcampinguk #getoutside #wildcampinguk\n#adventure  #getoutdoors #whiskyreview \n#greatoutdoors #outdoorcooking\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\ude09 \nhttps://theblotoutdoorsmerch.myshopify.com/collections/all\n\nHere's the link for Brown's Biltong \ud83d\ude0b\nhttps://brownsbiltong.co.uk/mandingo",
   "thumbnail": "https://i.ytimg.com/vi/hOhwNKLfi8U/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Setting up the stealth camp",
+      "end_time": 175
+    },
+    {
+      "start_time": 175,
+      "title": "Scouting and hiding the gear",
+      "end_time": 407
+    },
+    {
+      "start_time": 407,
+      "title": "Finding a spot in the bush",
+      "end_time": 688
+    },
+    {
+      "start_time": 688,
+      "title": "Setting up the shelter",
+      "end_time": 860
+    },
+    {
+      "start_time": 860,
+      "title": "Organizing camp gear",
+      "end_time": 1027
+    },
+    {
+      "start_time": 1027,
+      "title": "Answering subscriber questions",
+      "end_time": 1293
+    },
+    {
+      "start_time": 1293,
+      "title": "Shopping for supplies",
+      "end_time": 1473
+    },
+    {
+      "start_time": 1473,
+      "title": "Returning to camp and drinking",
+      "end_time": 1726
+    },
+    {
+      "start_time": 1726,
+      "title": "Amsterdam travel story",
+      "end_time": 2743
+    },
+    {
+      "start_time": 2743,
+      "title": "Whiskey review",
+      "end_time": 3153
+    },
+    {
+      "start_time": 3153,
+      "title": "Cooking and eating dinner",
+      "end_time": 3581
+    },
+    {
+      "start_time": 3581,
+      "title": "Thanking subscribers",
+      "end_time": 3794
+    },
+    {
+      "start_time": 3794,
+      "title": "Packing up and leaving",
+      "end_time": 3974
+    }
+  ]
 }

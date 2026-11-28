@@ -9,7 +9,7 @@ transcript_source: yt-dlp
 episode_summary: The host goes stealth camping behind a sign near a busy road during
   Storm Darragh, enjoying Italian beers and reviewing a Welsh whisky gifted by a viewer.
 items:
-- name: Penderyn Kelt
+- name: Penderyn Celt
   category: Whisky
   brand_or_distillery: Penderyn
   region_or_style: Welsh Single Malt Whisky
@@ -33,6 +33,7 @@ items:
   verdict_quote: I'm going to give that a very steady a very not quite a nine but
     a 8.9 oh yes thank you to Joseph Davies it's 8.9 from this man dingo for penderyn
     kelt.
+names_verified: true
 ---
 
 **[42:05]** Oh yes guys, you know what time it is, it's whisky time and this is what I've got: this week Penderyn Welsh whisky, this is the Penderyn Kelt, kindly given to me from a legend by the name of Joseph Davies. Let's get that popped in the old famous cup dingle.

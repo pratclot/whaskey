@@ -6,5 +6,57 @@
   "description": "#stealthcamping #stormcamping #wildcamping\n#comedy #stealthcampinguk #secretcamping\n#wildcampinguk #whiskyreview\n#urbancamping #stealthcampingalliance\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\ude09 \nhttps://theblotoutdoorsmerch.myshopify.com/collections/all",
   "thumbnail": "https://i.ytimg.com/vi/QtwErsyshrQ/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Introduction and set up",
+      "end_time": 169
+    },
+    {
+      "start_time": 169,
+      "title": "Walking to the camp location",
+      "end_time": 550
+    },
+    {
+      "start_time": 550,
+      "title": "Arriving at the bridge",
+      "end_time": 823
+    },
+    {
+      "start_time": 823,
+      "title": "Setting up camp and beer",
+      "end_time": 1068
+    },
+    {
+      "start_time": 1068,
+      "title": "Food and gear review",
+      "end_time": 1877
+    },
+    {
+      "start_time": 1877,
+      "title": "Evening wind down",
+      "end_time": 2206
+    },
+    {
+      "start_time": 2206,
+      "title": "Storm camping and cooking",
+      "end_time": 2608
+    },
+    {
+      "start_time": 2608,
+      "title": "Dinner and channel talk",
+      "end_time": 3130
+    },
+    {
+      "start_time": 3130,
+      "title": "Whiskey review",
+      "end_time": 3736
+    },
+    {
+      "start_time": 3736,
+      "title": "Morning packing and wrap up",
+      "end_time": 3957
+    }
+  ]
 }

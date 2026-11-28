@@ -6,5 +6,47 @@
   "description": "#chinesefood #takeaway #food #foodchallenge \n#foodie #yummy #nastyfood #ratemyplate #whiskyreview\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\udc4d\nhttps://theblotoutdoorsmerch.myshopify.com/collections/all",
   "thumbnail": "https://i.ytimg.com/vi/PkIpmQSqfwE/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Introduction and purpose",
+      "end_time": 182
+    },
+    {
+      "start_time": 182,
+      "title": "Ordering at Noodle Noodles",
+      "end_time": 281
+    },
+    {
+      "start_time": 281,
+      "title": "Selecting the food",
+      "end_time": 448
+    },
+    {
+      "start_time": 448,
+      "title": "Waiting for the order",
+      "end_time": 663
+    },
+    {
+      "start_time": 663,
+      "title": "Preparing to eat",
+      "end_time": 762
+    },
+    {
+      "start_time": 762,
+      "title": "Food review and tasting",
+      "end_time": 1190
+    },
+    {
+      "start_time": 1190,
+      "title": "Final rating and verdict",
+      "end_time": 1540
+    },
+    {
+      "start_time": 1540,
+      "title": "Whiskey review and conclusion",
+      "end_time": 1999
+    }
+  ]
 }

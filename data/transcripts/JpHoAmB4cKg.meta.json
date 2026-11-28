@@ -6,5 +6,52 @@
   "description": "#wildcamping #adventure #getoutdoors #getoutside #wildcampinguk #backpacking \n#greatoutdoors #northumberland #hiking #stealthcamping\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\ude09 \nhttps://theblotoutdoorsmerch.myshopify.com/collections/all\n\nHere's the link for Brown's Biltong \ud83d\ude0b \nhttps://brownsbiltong.co.uk/mandingo",
   "thumbnail": "https://i.ytimg.com/vi/JpHoAmB4cKg/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Introduction and trail",
+      "end_time": 358
+    },
+    {
+      "start_time": 358,
+      "title": "Summit arrival and setup",
+      "end_time": 490
+    },
+    {
+      "start_time": 490,
+      "title": "Relaxing and setup tour",
+      "end_time": 830
+    },
+    {
+      "start_time": 830,
+      "title": "Gear and supplies review",
+      "end_time": 1227
+    },
+    {
+      "start_time": 1227,
+      "title": "Midweek camping philosophy",
+      "end_time": 1734
+    },
+    {
+      "start_time": 1734,
+      "title": "YouTube plans and conversation",
+      "end_time": 2211
+    },
+    {
+      "start_time": 2211,
+      "title": "Cooking the evening meal",
+      "end_time": 2704
+    },
+    {
+      "start_time": 2704,
+      "title": "Whisky review",
+      "end_time": 3169
+    },
+    {
+      "start_time": 3169,
+      "title": "Morning packing and sign-off",
+      "end_time": 3558
+    }
+  ]
 }

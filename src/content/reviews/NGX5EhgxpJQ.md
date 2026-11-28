@@ -95,6 +95,7 @@ items:
   verdict_quote: the best way I can describe it is you know like a Snickers bar if
     you could melt a Snickers bar down the chocolate with there the peanuts and the
     caramel if you can melt that down at like a liquid and drink it
+names_verified: true
 ---
 
 **[07:08]** oh yes manding goes here we go I'm gonna get stuck into the pizza dog first from the Burger Barn called La Cucina... look at that Pizza dog um oh oh my God that is absolutely beautiful honestly guys something so simple didn't take much to work out where it is. **[10:31]** oh yes this is the spicy sensation one two patties jalapenos spicy sauce American cheese onions... I'll tell you what oh my God you can keep your McDonald's and you can keep your Burger Kings this is where it's at guys. **[09:58]** so all together I'm gonna give it a score of nine out of 10 dingo mandingos oh yes you better believe I am. **[19:13]** righty let's get the old big Rooney in it oh straight away like a you know you got like a spiced fruitcake with some definite ginger in there... oh that's very very rich with a definite Taste of dried fruits... I'm gonna give that really really good 8.5 out of 10. **[22:19]** sheepdog peanut butter American whiskey... oh that's just an obvious peanut butter smell really obvious... the taste of it is completely different than the smell I'm pleasantly surprised... I'm going to give it a very decent score a really good score... a very respectable eight out of 10 dingo mandingos.

@@ -6,5 +6,72 @@
   "description": "#walkandtalk #dublin #comedy #walkingtour \n#reallife #stealthcamping #wildcamping",
   "thumbnail": "https://i.ytimg.com/vi/r4TH3Sndnxk/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Arrival in Dublin",
+      "end_time": 140
+    },
+    {
+      "start_time": 140,
+      "title": "Hotel check-in and waiting",
+      "end_time": 233
+    },
+    {
+      "start_time": 233,
+      "title": "Exploring and shopping",
+      "end_time": 423
+    },
+    {
+      "start_time": 423,
+      "title": "Hotel room tour",
+      "end_time": 617
+    },
+    {
+      "start_time": 617,
+      "title": "Evening riverside walk",
+      "end_time": 776
+    },
+    {
+      "start_time": 776,
+      "title": "Breakfast and sightseeing",
+      "end_time": 964
+    },
+    {
+      "start_time": 964,
+      "title": "Dublin Castle visit",
+      "end_time": 1238
+    },
+    {
+      "start_time": 1238,
+      "title": "Lunch and shopping",
+      "end_time": 1482
+    },
+    {
+      "start_time": 1482,
+      "title": "Hotel return and dinner",
+      "end_time": 1695
+    },
+    {
+      "start_time": 1695,
+      "title": "Whiskey tasting review",
+      "end_time": 2295
+    },
+    {
+      "start_time": 2295,
+      "title": "Resolving aftershave issues",
+      "end_time": 2491
+    },
+    {
+      "start_time": 2491,
+      "title": "Final city exploration",
+      "end_time": 2786
+    },
+    {
+      "start_time": 2786,
+      "title": "Departure from Dublin",
+      "end_time": 3345
+    }
+  ]
 }

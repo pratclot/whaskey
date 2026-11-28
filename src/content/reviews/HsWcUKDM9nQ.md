@@ -77,6 +77,7 @@ items:
     great taste.
   verdict_quote: If you weigh everything up the price and the food, it was very nice,
     guys. A solid eight. A solid eight out of 10.
+names_verified: true
 ---
 
 **[20:56]** How's the flesh press on the old drug addict? Good. Good. Oh, well. Chips. Not bad. I don't know. Six out of 10. Fresh. Not the best. But I've certainly had worse. I'll say a six out of 10 for the fish as well. **[40:14]** I'm going to give that black tea is rum dingo. I think I'll give it a solid um bear in mind I'm not a rum drinker, but I have enjoyed that. I'd say a 7.9. **[01:03:38]** If you weigh everything up the price and the food, it was very nice, guys. A solid eight. A solid eight out of 10. You cannot go wrong, can you? With a good old weather spoon beats.

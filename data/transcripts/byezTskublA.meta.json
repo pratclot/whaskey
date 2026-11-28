@@ -6,5 +6,57 @@
   "description": "",
   "thumbnail": "https://i.ytimg.com/vi/byezTskublA/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Arrival and setup",
+      "end_time": 330
+    },
+    {
+      "start_time": 330,
+      "title": "Initial camp reveal",
+      "end_time": 610
+    },
+    {
+      "start_time": 610,
+      "title": "Air mat and beer review",
+      "end_time": 969
+    },
+    {
+      "start_time": 969,
+      "title": "Evening relaxation",
+      "end_time": 1367
+    },
+    {
+      "start_time": 1367,
+      "title": "Camp talk and future plans",
+      "end_time": 1874
+    },
+    {
+      "start_time": 1874,
+      "title": "Gear and meal prep",
+      "end_time": 2551
+    },
+    {
+      "start_time": 2551,
+      "title": "Late night refreshments",
+      "end_time": 3046
+    },
+    {
+      "start_time": 3046,
+      "title": "Whiskey tasting review",
+      "end_time": 3616
+    },
+    {
+      "start_time": 3616,
+      "title": "Dinner and overnight",
+      "end_time": 4093
+    },
+    {
+      "start_time": 4093,
+      "title": "Morning pack up and departure",
+      "end_time": 4292
+    }
+  ]
 }

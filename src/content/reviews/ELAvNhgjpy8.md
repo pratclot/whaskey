@@ -32,6 +32,7 @@ items:
     of cinnamon, sweet apple, toffee, and caramel, offering a smoother and more mellow
     drinking experience than standard Jack Daniel's.
   verdict_quote: I'm going to give this big fat eight out of 10 dingo mandingos.
+names_verified: true
 ---
 
 **[33:06]** You know what time it is. Whasky time. You better believe it is. The midges are biting. Are they biting you, Mick? Definitely. But, that's not going to stop us doing the world famous whasky with you. This is what we've got. Tin Cup American whasky. And as it says on the side, cut with Rocky Mountain water. You better believe it is.

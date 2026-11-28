@@ -6,5 +6,37 @@
   "description": "#takeawayfood #takeaway #fishandchips \n#fish #food #foodcritic #foodlover #foodie \n#rumreview #foodblogger\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\ude09\nhttps://theblotoutdoorsmerch.myshopify.com/collections/all",
   "thumbnail": "https://i.ytimg.com/vi/rxIw4psm0mU/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Introduction and location",
+      "end_time": 243
+    },
+    {
+      "start_time": 243,
+      "title": "Ordering at the takeaway",
+      "end_time": 423
+    },
+    {
+      "start_time": 423,
+      "title": "Food tasting and review",
+      "end_time": 1222
+    },
+    {
+      "start_time": 1222,
+      "title": "Final food score",
+      "end_time": 1365
+    },
+    {
+      "start_time": 1365,
+      "title": "Whiskey review and Q&A",
+      "end_time": 2283
+    },
+    {
+      "start_time": 2283,
+      "title": "Conclusion",
+      "end_time": 2480
+    }
+  ]
 }

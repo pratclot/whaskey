@@ -6,5 +6,47 @@
   "description": "#takeawayfood #food #fastfood #burgervan\n#foodie #foodchallenge #foodcritic #burger \n#foodclips #whiskyreview\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\ude09\nhttps://theblotoutdoorsmerch.myshopify.com/collections/all",
   "thumbnail": "https://i.ytimg.com/vi/SZtjBFQJHIA/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Roadside foodie night",
+      "end_time": 297
+    },
+    {
+      "start_time": 297,
+      "title": "Ordering at the burger van",
+      "end_time": 460
+    },
+    {
+      "start_time": 460,
+      "title": "Tasting the burger",
+      "end_time": 743
+    },
+    {
+      "start_time": 743,
+      "title": "Tasting the steak dinner",
+      "end_time": 1063
+    },
+    {
+      "start_time": 1063,
+      "title": "Final food rating",
+      "end_time": 1179
+    },
+    {
+      "start_time": 1179,
+      "title": "Whisky review",
+      "end_time": 1660
+    },
+    {
+      "start_time": 1660,
+      "title": "Q&A and future plans",
+      "end_time": 2228
+    },
+    {
+      "start_time": 2228,
+      "title": "Viewer clips",
+      "end_time": 2507
+    }
+  ]
 }

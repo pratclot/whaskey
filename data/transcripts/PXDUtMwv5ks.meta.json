@@ -6,5 +6,72 @@
   "description": "#stealthcamping #wildcampinguk #getoutside \n#camping #stealthcampinguk #wildcamping\n#whiskyreview\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\ude09\nhttps://theblotoutdoorsmerch.myshopify.com/collections/all",
   "thumbnail": "https://i.ytimg.com/vi/PXDUtMwv5ks/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Setting up the stealth camp",
+      "end_time": 171
+    },
+    {
+      "start_time": 171,
+      "title": "Navigating the bushes",
+      "end_time": 444
+    },
+    {
+      "start_time": 444,
+      "title": "Securing the spot",
+      "end_time": 640
+    },
+    {
+      "start_time": 640,
+      "title": "Exploring the area",
+      "end_time": 927
+    },
+    {
+      "start_time": 927,
+      "title": "Campground setup",
+      "end_time": 1156
+    },
+    {
+      "start_time": 1156,
+      "title": "Subscriber appreciation",
+      "end_time": 1406
+    },
+    {
+      "start_time": 1406,
+      "title": "Enjoying the evening",
+      "end_time": 1753
+    },
+    {
+      "start_time": 1753,
+      "title": "Relaxing by the tent",
+      "end_time": 2045
+    },
+    {
+      "start_time": 2045,
+      "title": "Personal reflection",
+      "end_time": 2426
+    },
+    {
+      "start_time": 2426,
+      "title": "Whiskey review",
+      "end_time": 3033
+    },
+    {
+      "start_time": 3033,
+      "title": "Cooking dinner",
+      "end_time": 3324
+    },
+    {
+      "start_time": 3324,
+      "title": "Late night reflection",
+      "end_time": 3614
+    },
+    {
+      "start_time": 3614,
+      "title": "Morning departure",
+      "end_time": 3837
+    }
+  ]
 }

@@ -93,6 +93,7 @@ items:
   verdict_quote: I was only expecting to give this five or six something like that
     and then I'm surprised it's not going to be a massive score but it's still a very
     decent a very steady seven point seven out of tending or mandingos.
+names_verified: true
 ---
 
 **[10:13]** Homemade chip with mints Jasper carrot very nice chips are absolutely lovely just like when you make homemade chips in the house the best kind of chips you can get that's what I think I think that the mince was very tasty sometimes from some cops can be a little bit Bland but that is very nice opening out some sizes as well what size of that generous portion so no complaints there oh we'll certainly feed a big fat lad like me.

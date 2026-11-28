@@ -11,7 +11,7 @@ episode_summary: The host goes on a wild and stealth camp near the ruins of Duns
   Castle in Northumberland, enjoying craft beers, a high-end whisky, and cooking a
   gourmet steak dinner with mashed potatoes under his tarp.
 items:
-- name: Virtuous Grapefruit IPA
+- name: Virtuous
   category: Beer & Ale
   brand_or_distillery: Kirkstall Brewery
   region_or_style: Grapefruit IPA
@@ -71,6 +71,7 @@ items:
     rum notes, dark chocolate undertones, and a hint of banana on the finish.
   verdict_quote: I'm going to give that a steady but a very good a very enjoyable
     8.7 out of 10 dingo mandingos for Arden American rum CK finish
+names_verified: true
 ---
 
 **[37:44]** Right, what time is it? You know what time it is, whisky time! And this is what we have got this week: Ardnamurchan Rum Cask Finish, kindly given to me from a lovely couple by the names of James and Laura. Thank you so much James and Laura, very much appreciated. Can you hear the rain? Can you hear the old rain falling? **[39:22]** Oh yes, my pansexualities, this is what wild camping is all about. Pouring it into the little cup... **[40:04]** I'm also getting a little bit like fresh grass or hay. If you imagine when you were younger playing in the fields and you get that fresh grass or hay sniff, if you know what I'm talking about. Give it a swirl around there, guys. **[44:06]** Also, like a zesty fresh lemon. A citrus lemon, but also like fresh air. It's definitely like a zesty lemon, maybe some other sort of fruit as well. It's very nice. **[42:17]** Let's get on with the tasting. Oh, and that's got like a zesty kick straight away, and I'll tell you what, how perfect is this? Absolutely tremendous! **[46:13]** It's got a rum flavor down the back of the throat mixed with a whisky dark chocolate. It has got a bit of a peatiness to it, and I've got there like a little bit of banana after the taste. Very enjoyable indeed! **[48:25]** Don't get me wrong dingo mandingos, I've really, really enjoyed it, but not quite as nice as the Sherry one. I think on the Sherry one I gave it like a 9.2 or something. So I'm going to give that a steady, but a very good, a very enjoyable 8.7 out of 10 dingo mandingos for Ardnamurchan Rum Cask Finish.

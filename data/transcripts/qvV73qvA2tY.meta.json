@@ -6,5 +6,37 @@
   "description": "",
   "thumbnail": "https://i.ytimg.com/vi/qvV73qvA2tY/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Introduction",
+      "end_time": 313
+    },
+    {
+      "start_time": 313,
+      "title": "Setting up camp",
+      "end_time": 494
+    },
+    {
+      "start_time": 494,
+      "title": "Evening relaxation",
+      "end_time": 665
+    },
+    {
+      "start_time": 665,
+      "title": "Channel recommendations",
+      "end_time": 789
+    },
+    {
+      "start_time": 789,
+      "title": "Whiskey review",
+      "end_time": 1038
+    },
+    {
+      "start_time": 1038,
+      "title": "Packing up and conclusion",
+      "end_time": 1110
+    }
+  ]
 }

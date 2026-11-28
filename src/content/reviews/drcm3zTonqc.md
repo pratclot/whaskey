@@ -50,6 +50,7 @@ items:
   tasting_notes: Campfire burgers cooked with cheese and spiced up with BrewDog Elvis
     Juice hot sauce, delivering a flavorful and decently spicy kick.
   verdict_quote: Decent guys. Decent burgers. Very very nice, guys.
+names_verified: true
 ---
 
 **[55:27]** Let's get the old big onion, guys. Look at that. We've still got plenty to work with. Ooh. Oh, there's a dead fly in there. Smells like a cinder toffee type of smell. Maybe a sweet fruity like an orange peel. Like a sweet fruity orange like a zesty orange, but definite cinder toffee like a burnt wood cinder toffee type of snifferoonie.

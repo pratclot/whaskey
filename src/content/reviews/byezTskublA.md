@@ -50,7 +50,7 @@ items:
   verdict_quote: Now I've had this a couple of times before and it is really nice.
 - name: Incognito Double IPA
   category: Beer & Ale
-  brand_or_distillery: Salopian Brewery
+  brand_or_distillery: Vocation Brewery
   region_or_style: Double IPA
   abv: 7.6%
   timestamp_seconds: 2329
@@ -107,6 +107,7 @@ items:
     a palate with mild banana, cinnamon, and subtle hints of mint.
   verdict_quote: So I'm going to give that a very steady... we'll meet in the middle,
     an 8.5 out of 10 dingo.
+names_verified: true
 ---
 
 **[51:05]** Let's get that pop in the old famous gub dingo... This is from the Muff Liquor Company Irish whiskey, kindly sent to me from a couple of legends right from the city of Sunderland, from Rye. Dave and Jan, thank you very much! **[53:07]** Now that is zesty straight away. Straight up zesty orange peel, lime, a big lime smell in there. Zesty lime, a bit flowery as well, a bit floral. **[55:28]** Now, I wasn't expecting that at all. It's an Irish whiskey. A mild banana taste. Tiny bit cinnamon... maybe a bit of like a Caribbean rum drink. **[57:51]** Oh, I got like a little bit of a minty flavor through there as well. I am highly impressed with the flavoroonies I'm getting off that. **[59:34]** So I'm going to give that a very steady... we'll meet in the middle, we'll go with 8.5 out of 10 dingo. My Mandy Dingleberry Finley quiz. It's 8.5 fuzzy muff diver.

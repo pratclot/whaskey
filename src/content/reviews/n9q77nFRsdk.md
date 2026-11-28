@@ -31,6 +31,7 @@ items:
     nectarine character with a gentle spicy tingle.
   verdict_quote: I'm going to give a nice steady respectable straight as a die 8 out
     of 10 dingo Mandingo.
+names_verified: true
 ---
 
 **[51:22]** Let's get this popped in the old famous C dingo man dingo. Oh yes the last drags of society guys you score on Z blood outdoors, there's no moing about here. Let's get the old baker in it, slight smokiness to it, but not overpowering, maybe a little bit honey. When I say honey, I don't mean like a strong honey smell... it's just a nice honey fragrance. Smoky honey whaskey, maybe a few little spices in there with the old nosas.

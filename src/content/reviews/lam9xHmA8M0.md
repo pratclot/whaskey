@@ -53,6 +53,7 @@ items:
   tasting_notes: Cooked in the pan with fried onions and served on burger buns, these
     juicy pork burgers provide a rich, satisfying campfire supper.
   verdict_quote: That is a proper nice juicy burger. Oh yes... very nice very tasty.
+names_verified: true
 ---
 
 **[41:55]** It's wasy time before I'm to Smash Burger we are going to do the world famous wasy with you. This is what we've got this week: The Woodsman blended Scotch whisky, kindly given to me from Tony and the lads at TNT Roofing in the sunny town of South Shields.

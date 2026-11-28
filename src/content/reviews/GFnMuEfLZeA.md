@@ -51,6 +51,7 @@ items:
     mixed peppers served over special fried rice.
   verdict_quote: If you kind of go higher than a 10 out of 10, I'll give this a nine
     out of 10. That's fair, guys.
+names_verified: true
 ---
 
 **[55:11]** It's whisky time. And this is what we've got this week. Tullibardine Sovereign. Spank you very much to the legends that sent me this. I really do appreciate it. **[55:57]** Soft vanilla. Tangerine. Listen, if anyone thinks Blot, you're a fake. I'm not. But at the same time, I'll admit I am certainly no expert. **[57:52]** It has got a quite a bit of a tingle around the tongue. Not really spicy, but I said you can tell by the snifferooni it's going to be not a spicy one. No, it's got a little bit of a kick to it. The Tullibardine. Very smooth, guys. It's like a smooth vanilla tasty roy. **[01:00:55]** Oh, it's got like a bourbon flavor about it, guys. Oh, like a nice bourbon flavoroon. Amazing. Not watery. Creamy. Thick. **[01:02:34]** I'm going to give that a BB bop and rock steady 8.6. **[01:04:10]** Right, yes, guys, you know where it's at. Special curry, beef, chicken, pork, onions, peppers. You know the dance on the Blot outdoors show. **[01:06:18]** The beef is so soft and tender. Love me tender. Love me too. **[01:09:35]** What did I give Lundy's? Well, when I was out with Jimmy Lundy, but it was Rooney's curry. What I give that? I think I said a 10 out of 10. But if I can't go higher than a 10 out of 10, I'll give this a nine out of 10. That's fair, guys.

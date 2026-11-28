@@ -6,5 +6,62 @@
   "description": "#stealthcamping #wildcamping #prison \n#camping #getoutside #stealthcamp \n#stealthcampinguk #whiskyreview #wildcampinguk\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\ude09\nhttps://theblotoutdoorsmerch.myshopify.com/collections/all",
   "thumbnail": "https://i.ytimg.com/vi/ekntMxgjvT4/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Parking and location",
+      "end_time": 92
+    },
+    {
+      "start_time": 92,
+      "title": "Scouting the campsite",
+      "end_time": 160
+    },
+    {
+      "start_time": 160,
+      "title": "Setting up camp",
+      "end_time": 446
+    },
+    {
+      "start_time": 446,
+      "title": "Gear and food review",
+      "end_time": 774
+    },
+    {
+      "start_time": 774,
+      "title": "Whiskey review part 1",
+      "end_time": 998
+    },
+    {
+      "start_time": 998,
+      "title": "A story of arrest",
+      "end_time": 1552
+    },
+    {
+      "start_time": 1552,
+      "title": "Reflections on freedom",
+      "end_time": 2088
+    },
+    {
+      "start_time": 2088,
+      "title": "Evening whiskey and sleep",
+      "end_time": 2678
+    },
+    {
+      "start_time": 2678,
+      "title": "Morning whiskey review",
+      "end_time": 3036
+    },
+    {
+      "start_time": 3036,
+      "title": "Breakfast and chat",
+      "end_time": 3478
+    },
+    {
+      "start_time": 3478,
+      "title": "Packing up and departure",
+      "end_time": 3686
+    }
+  ]
 }

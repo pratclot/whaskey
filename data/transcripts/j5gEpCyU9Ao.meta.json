@@ -6,5 +6,52 @@
   "description": "#breakfast #takeaway #food #foodchallenge #foodie #whiskyreview #cafefood\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\udc4d\nhttps://theblotoutdoorsmerch.myshopify.com/collections/all",
   "thumbnail": "https://i.ytimg.com/vi/j5gEpCyU9Ao/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Intro",
+      "end_time": 82
+    },
+    {
+      "start_time": 82,
+      "title": "The Bigest Deli",
+      "end_time": 203
+    },
+    {
+      "start_time": 203,
+      "title": "Bakers Deli",
+      "end_time": 394
+    },
+    {
+      "start_time": 394,
+      "title": "Mrs Blot",
+      "end_time": 433
+    },
+    {
+      "start_time": 433,
+      "title": "English Breakfast",
+      "end_time": 796
+    },
+    {
+      "start_time": 796,
+      "title": "Fried Bread",
+      "end_time": 1274
+    },
+    {
+      "start_time": 1274,
+      "title": "Leaving the Factory",
+      "end_time": 1568
+    },
+    {
+      "start_time": 1568,
+      "title": "The Spice King",
+      "end_time": 2021
+    },
+    {
+      "start_time": 2021,
+      "title": "Outtakes",
+      "end_time": 2192
+    }
+  ]
 }

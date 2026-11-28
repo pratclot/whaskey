@@ -6,5 +6,62 @@
   "description": "#wildcamping #getoutside #camping #wildcampinguk #northumberland #hiking #backpacking #stealthcamping #adventure",
   "thumbnail": "https://i.ytimg.com/vi/hU4kwSYEhDY/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Hiking to the ruins",
+      "end_time": 283
+    },
+    {
+      "start_time": 283,
+      "title": "Exploring the castle",
+      "end_time": 646
+    },
+    {
+      "start_time": 646,
+      "title": "Setting up camp",
+      "end_time": 855
+    },
+    {
+      "start_time": 855,
+      "title": "Campground tour",
+      "end_time": 1477
+    },
+    {
+      "start_time": 1477,
+      "title": "Exploring the hill fort",
+      "end_time": 1982
+    },
+    {
+      "start_time": 1982,
+      "title": "Evening whiskey review",
+      "end_time": 2249
+    },
+    {
+      "start_time": 2249,
+      "title": "Night castle tour",
+      "end_time": 2653
+    },
+    {
+      "start_time": 2653,
+      "title": "Morning after",
+      "end_time": 2875
+    },
+    {
+      "start_time": 2875,
+      "title": "Morning whiskey review",
+      "end_time": 3302
+    },
+    {
+      "start_time": 3302,
+      "title": "Last castle look",
+      "end_time": 3431
+    },
+    {
+      "start_time": 3431,
+      "title": "Breakfast and packing",
+      "end_time": 3864
+    }
+  ]
 }

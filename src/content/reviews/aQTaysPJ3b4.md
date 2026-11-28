@@ -53,6 +53,7 @@ items:
     dates, and subtle spices. The palate is oily, silky, and smooth with a pine wood
     note and a massive Sherry flavor coming through in the finish.
   verdict_quote: I'm going to give that a big fat massive 9.4 out of 10 mingles.
+names_verified: true
 ---
 
 **[10:33]** Time to get stuck in this lovely looking food, fried rice, chips, house special in peking sauce, and special egg foo young. There's no way I'm going to eat all of this, but I'll try it all. The special egg foo young, as you can see, might not look great, but let's hope it tastes better than it looks. Straight away, that has got a lovely taste to it. It's not dry, it's quite moist, amazing king prawns in there, bean sprouts, mushrooms, beef, pork, chicken, king prawns. You cannot whack this, still piping hot. I'm impressed with how hot the food is still.  

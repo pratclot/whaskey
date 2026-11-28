@@ -30,6 +30,7 @@ items:
   tasting_notes: It has a buttery toffee and nutty nose, offering a smooth, sweet
     palate with a peppery kick and a rich, chest-warming bourbon finish.
   verdict_quote: I'm going to give that a very respectable 8.5 out of 10 dingo Mingo.
+names_verified: true
 ---
 
 **[35:10]** You know what time it is wasy time he's not alive it looks like there's just two of us doing it young kiss is out fuzzy count is he we've been trying to wake him up for the last half an hour but the show must go on. **[35:30]** You've got the wasy where's the cup this is Long Branch by wild turkey that's being kindly bought for us from a legend by the name of Derek McAuley. **[37:37]** Strong nice strong dingo toffee is like quite smooth obviously sweet like a bourbon will be. It's definitely a better quality than Jack Daniels. It's a chest warmer it certainly is that guys. **[40:10]** It's got a toffee taste and with the toffee also coming through now a little bit caramel as well which is so common and so popular with Bourbons. **[41:05]** Long Branch by wild turkey very nice doesn't blow your mind no but I tell you what it's definitely better than Jack Daniels. It's right in the middle so I'm going to give that a very respectable 8.5 out of 10.

@@ -90,6 +90,7 @@ items:
   tasting_notes: Savory, rich pork belly slices seasoned with salt and chili, paired
     with flavorful jollof rice.
   verdict_quote: I know these are very fatty but they're very tasty
+names_verified: true
 ---
 
 **[23:00]** We've got Peroni Italian lager. Everyone knows what Peroni is... And we've got Peroni Gran Riserva. Now, I've done a little taste test like this before between the Peroni and the normal Peroni and I said they were pretty much the same apart from the price. Let's have a gobble. Peroni - very good, you know the score guys, you cannot go wrong. Gran Riserva - I think it's a bit stronger than the normal Peroni, a bit stronger in the taste as well, and I tell you what, I think that one is a little bit better than the Peroni. That Rosini Gran Riserva is definitely better, I'm not bullshitting you.

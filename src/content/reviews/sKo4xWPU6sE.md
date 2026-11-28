@@ -33,6 +33,7 @@ items:
     some oak undertones.
   verdict_quote: AirStone single malt scotch waski... I'm gonna give it a half decent
     six point six out of 10.
+names_verified: true
 ---
 
 **[37:17]** This is what I've got this time: AirStone Sherry Cask Edition single malt scotch waski, that's been kindly given to us from a legend by the name of Rich. Right, she is Rich, my man friend, you know makes total sense. Got the old-famous cup dingo up and let's get a pour in there, Schmick. Do you want the first sniff? Go on, Schmick, you have the first sniff and then I'll let you have the first go. What are you getting then, Schmick? 

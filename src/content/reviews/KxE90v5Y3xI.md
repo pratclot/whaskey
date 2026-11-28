@@ -48,7 +48,7 @@ items:
   tasting_notes: Nice big chunky fish bites with a crispy batter on the outside and
     lovely white fish on the inside.
   verdict_quote: 10 out of 10 for the fish mandingos
-- name: Highland Earl Blended Scotch Whisky
+- name: Highland Earl The Special Reserve Blended Scotch Whisky
   category: Whisky
   brand_or_distillery: Aldi
   region_or_style: Blended Scotch Whisky
@@ -66,6 +66,7 @@ items:
   tasting_notes: Offers a slight citrus and butterscotch note initially, but is heavily
     overpowered by a harsh chemical, nail polish, and paint-like aroma and taste.
   verdict_quote: rough is a Badger's ass with some paper stuck to it
+names_verified: true
 ---
 
 **[10:59]** onto hot short palm oil I only got a cheap plastic fork from the takeaway I forgot to bring a knife... **[13:43]** well get a different Fork that part more really really nice like I see it's not as good as the one I had from the Italian restaurant a couple of weeks ago... **[21:49]** now let's jump back in there the old Fandango and have some cheap waski some nasty Highland Earl waskey fresh from Aldi's oh yes you know what time it is mandingos waski time... **[27:35]** I'm gonna give that Island Earl from Aldi Brendan Scott's waski a very very low 3.5 out of 10 dingo manding goes

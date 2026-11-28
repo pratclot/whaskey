@@ -57,8 +57,8 @@ items:
     stove and upgraded with a £2.99 pack of Aldi extra-large king prawns.
   verdict_quote: The tomato and chili pasta is basic, but adding those £2.99 extra-large
     king prawns from Aldi makes an average meal pretty good!
+names_verified: true
 ---
-
 
 ## Tasting Transcript Excerpt
 

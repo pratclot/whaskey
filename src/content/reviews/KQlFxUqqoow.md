@@ -86,6 +86,7 @@ items:
   tasting_notes: Offers a buttery and peppery nose with a smooth, spicy palate that
     doesn't burn, developing subtle hints of cinnamon upon further sipping.
   verdict_quote: i'm going to give that a decent seven out of ten
+names_verified: true
 ---
 
 **[28:46]** Right mandingos, you know that it's time for the world famous Blot Outdoor Show whisky review! This is what we've got: James E. Pepper 1776 bourbon. You guys know that I like my bourbons. It's nearly down as usual, mandingos. He likes his bourbons, he's not really about Scotch or Irish whiskey, are you? I like the American whiskey, very much so. 

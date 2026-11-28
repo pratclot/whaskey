@@ -92,6 +92,7 @@ items:
     a hearty late-night camp feast.
   verdict_quote: That is absolutely unbelievable, guys. And it's like Bernie Giblin,
     you better believe it. Hot. Lovely.
+names_verified: true
 ---
 
 **[47:05]** First, I'm looking a bit fudge. Finger of fudge is just enough to give a girl a treat. Yes, guys. You know what time it is. It is wasky time. I bought this on me commute around the other day. But then someone left us a message, and they said that give us all and the coffee donations £10. This was £6. So, spank you very much to Billy H. You absolute legend. So, this is a English wasky from Northumberland, Ad Gefrin, Tàmora. A blended whisky.

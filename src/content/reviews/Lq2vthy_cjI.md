@@ -32,6 +32,7 @@ items:
     of dry fruit and a touch of sherry on the finish.
   verdict_quote: It's a bargain bucket waski... I'm gonna give it bog standards 5
     out of 10 mandingos.
+names_verified: true
 ---
 
 **[24:50]** mandingos you know what time it is time T-Rex mandingos and this is what we've got this Whyte & Mackay blended Scotch waski we're just doing a bug standard waski with you this time kindly given to us from a legend by the name of Simon Coke cheers Simon my man friend very much appreciated little schmidta Rooney has got the old famous cup Dingle mandingos get that listed up there Mick.

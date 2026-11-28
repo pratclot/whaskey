@@ -6,5 +6,52 @@
   "description": "#carcamping #lakedistrict #landrovercamping \n#hiking #landrover #wildcamping #landroverdiscovery #stealthcamping\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\ude09 \nhttps://theblotoutdoorsmerch.myshopify.com/collections/all\n\nHere's the link for Brown's Biltong \ud83d\ude0b\nhttps://brownsbiltong.co.uk/mandingo",
   "thumbnail": "https://i.ytimg.com/vi/bgm5C5KdazE/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Trip introduction",
+      "end_time": 228
+    },
+    {
+      "start_time": 228,
+      "title": "Mountain hike",
+      "end_time": 756
+    },
+    {
+      "start_time": 756,
+      "title": "Mountain whiskey review",
+      "end_time": 1127
+    },
+    {
+      "start_time": 1127,
+      "title": "Campsite setup",
+      "end_time": 1403
+    },
+    {
+      "start_time": 1403,
+      "title": "Evening relaxation",
+      "end_time": 2118
+    },
+    {
+      "start_time": 2118,
+      "title": "Nighttime car camp",
+      "end_time": 2693
+    },
+    {
+      "start_time": 2693,
+      "title": "Cooking and dining",
+      "end_time": 3194
+    },
+    {
+      "start_time": 3194,
+      "title": "Second whiskey review",
+      "end_time": 3527
+    },
+    {
+      "start_time": 3527,
+      "title": "Morning routine and departure",
+      "end_time": 3827
+    }
+  ]
 }

@@ -53,6 +53,7 @@ items:
     salt.
   verdict_quote: That's the softest piece of steak I've ever had in my life... that
     is better than any steak I've had over here in the Lake District.
+names_verified: true
 ---
 
 **[20:02]** oh yes mandingos you know what time it is wasy time and this is what we've got this week turn it around Cowboy Jim Beam red stag red cherry flavor wasy black cherry black cherry yes Red Stag black cherry red stag black cherry Young Chris is right all so it's not quite as strong as normal wasy your normal wasy is 40% this is only 32% cuz it's like a whiskey liqueur but it's still strong...

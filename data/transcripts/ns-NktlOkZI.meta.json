@@ -6,5 +6,82 @@
   "description": "#stealthcampinguk #stealthcamping #stealthcamp #wildcampinguk #wildcamping \n#getoutside #stealthurbancamping #camping #adventure\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\ude09 \nhttps://theblotoutdoorsmerch.myshopify.com/collections/all\n\nHere's the link for Brown's Biltong \ud83d\ude0b\nhttps://brownsbiltong.co.uk/mandingo",
   "thumbnail": "https://i.ytimg.com/vi/ns-NktlOkZI/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Heading to the camp",
+      "end_time": 182
+    },
+    {
+      "start_time": 182,
+      "title": "Shortcut through fields",
+      "end_time": 351
+    },
+    {
+      "start_time": 351,
+      "title": "Arriving at the car park",
+      "end_time": 435
+    },
+    {
+      "start_time": 435,
+      "title": "Setting up the tent",
+      "end_time": 571
+    },
+    {
+      "start_time": 571,
+      "title": "Drinks and stories",
+      "end_time": 748
+    },
+    {
+      "start_time": 748,
+      "title": "Southgate camping plan",
+      "end_time": 1107
+    },
+    {
+      "start_time": 1107,
+      "title": "Finalizing the campsite",
+      "end_time": 1509
+    },
+    {
+      "start_time": 1509,
+      "title": "Whiskey review",
+      "end_time": 1763
+    },
+    {
+      "start_time": 1763,
+      "title": "Checking the surroundings",
+      "end_time": 1851
+    },
+    {
+      "start_time": 1851,
+      "title": "Dealing with interruptions",
+      "end_time": 2215
+    },
+    {
+      "start_time": 2215,
+      "title": "Late night whiskey shots",
+      "end_time": 2679
+    },
+    {
+      "start_time": 2679,
+      "title": "Cooking camping meal",
+      "end_time": 3100
+    },
+    {
+      "start_time": 3100,
+      "title": "Mealtime review",
+      "end_time": 3257
+    },
+    {
+      "start_time": 3257,
+      "title": "Early morning whiskey",
+      "end_time": 3885
+    },
+    {
+      "start_time": 3885,
+      "title": "Packing up and leaving",
+      "end_time": 4090
+    }
+  ]
 }

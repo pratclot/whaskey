@@ -33,6 +33,7 @@ items:
     spices.
   verdict_quote: I'm gonna give that on bullied bourbon is a steady solid and steady
     8 out of 10 mandingos do you know what I'm talking about
+names_verified: true
 ---
 
 **[30:09]** Oh yes, my mandingos, you know what time it is, whiskey time, and this is what I've got this week: Bulleit Bourbon, American waski. This has been kindly bought for me from a lovely bunch of people by the names of Paul, Emma, Dizzy, and Ella, the coil family. Cheers, guys, it is very much appreciated.

@@ -6,5 +6,72 @@
   "description": "#stealthcamping #wildcamping #getoutside \n#camping #stealthcampinguk #wildcampinguk \n#adventure #whiskyreview #durham #stealth\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\ude09 \nhttps://theblotoutdoorsmerch.myshopify.com/collections/all",
   "thumbnail": "https://i.ytimg.com/vi/oGZtpOq7XM0/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Road trip and introduction",
+      "end_time": 148
+    },
+    {
+      "start_time": 148,
+      "title": "Locating the billboard camp",
+      "end_time": 289
+    },
+    {
+      "start_time": 289,
+      "title": "Assessing the location",
+      "end_time": 498
+    },
+    {
+      "start_time": 498,
+      "title": "Setting up the bivvy",
+      "end_time": 821
+    },
+    {
+      "start_time": 821,
+      "title": "Drinks and snacks",
+      "end_time": 1160
+    },
+    {
+      "start_time": 1160,
+      "title": "Biscuit crew drama",
+      "end_time": 1467
+    },
+    {
+      "start_time": 1467,
+      "title": "Mooching around the services",
+      "end_time": 1789
+    },
+    {
+      "start_time": 1789,
+      "title": "Returning to camp",
+      "end_time": 2014
+    },
+    {
+      "start_time": 2014,
+      "title": "Walk to the motorway bridge",
+      "end_time": 2347
+    },
+    {
+      "start_time": 2347,
+      "title": "Heating up dinner",
+      "end_time": 2660
+    },
+    {
+      "start_time": 2660,
+      "title": "Whiskey review",
+      "end_time": 3206
+    },
+    {
+      "start_time": 3206,
+      "title": "Eating dinner",
+      "end_time": 3794
+    },
+    {
+      "start_time": 3794,
+      "title": "Morning packing and departure",
+      "end_time": 4085
+    }
+  ]
 }

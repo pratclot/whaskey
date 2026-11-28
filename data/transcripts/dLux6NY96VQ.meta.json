@@ -6,5 +6,52 @@
   "description": "#stealthcamping  #wildcamping #stealthcampingalliance #wildcampinguk #adventure #stealth #stealthurbancamping #secretcamping #stevewallis #stealthcampinguk",
   "thumbnail": "https://i.ytimg.com/vi/dLux6NY96VQ/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Arriving and scouting",
+      "end_time": 93
+    },
+    {
+      "start_time": 93,
+      "title": "Setting up camp",
+      "end_time": 175
+    },
+    {
+      "start_time": 175,
+      "title": "Securing the spot",
+      "end_time": 264
+    },
+    {
+      "start_time": 264,
+      "title": "Evening whiskey and plans",
+      "end_time": 454
+    },
+    {
+      "start_time": 454,
+      "title": "Night time scouting",
+      "end_time": 608
+    },
+    {
+      "start_time": 608,
+      "title": "Cooking dinner",
+      "end_time": 784
+    },
+    {
+      "start_time": 784,
+      "title": "Dining and review",
+      "end_time": 918
+    },
+    {
+      "start_time": 918,
+      "title": "Whiskey review",
+      "end_time": 1289
+    },
+    {
+      "start_time": 1289,
+      "title": "Packing up and departing",
+      "end_time": 1437
+    }
+  ]
 }

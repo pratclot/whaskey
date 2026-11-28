@@ -6,5 +6,47 @@
   "description": "",
   "thumbnail": "https://i.ytimg.com/vi/fp2vvYuyETI/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Trip summary and introduction",
+      "end_time": 215
+    },
+    {
+      "start_time": 215,
+      "title": "Ordering Indian takeaway",
+      "end_time": 537
+    },
+    {
+      "start_time": 537,
+      "title": "Unpacking the food",
+      "end_time": 700
+    },
+    {
+      "start_time": 700,
+      "title": "Tasting and review",
+      "end_time": 1387
+    },
+    {
+      "start_time": 1387,
+      "title": "Takeaway verdict",
+      "end_time": 1556
+    },
+    {
+      "start_time": 1556,
+      "title": "Q&A and moonshine tasting",
+      "end_time": 1761
+    },
+    {
+      "start_time": 1761,
+      "title": "Moonshine review and conclusion",
+      "end_time": 2206
+    },
+    {
+      "start_time": 2206,
+      "title": "Bloopers and fan clips",
+      "end_time": 2522
+    }
+  ]
 }

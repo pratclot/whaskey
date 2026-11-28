@@ -6,5 +6,67 @@
   "description": "#wildcamping #wildcampingscotland #comedy \n#castlecamping #hikingandcamping #camping \n#wildcampinguk #stealthcamping\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\ude09 \nhttps://theblotoutdoorsmerch.myshopify.com/collections/all\n\nHere's the link for Kevs channel:\nhttps://youtube.com/@Kevsoutdooradventure?si=TqLpdxtrJ0JVT6Re",
   "thumbnail": "https://i.ytimg.com/vi/Utii99FE468/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Arrival at Fat Lips Castle",
+      "end_time": 253
+    },
+    {
+      "start_time": 253,
+      "title": "Setting up camp",
+      "end_time": 342
+    },
+    {
+      "start_time": 342,
+      "title": "Weather changes",
+      "end_time": 408
+    },
+    {
+      "start_time": 408,
+      "title": "Waiting out the storm",
+      "end_time": 657
+    },
+    {
+      "start_time": 657,
+      "title": "Drinks and snacks",
+      "end_time": 1020
+    },
+    {
+      "start_time": 1020,
+      "title": "Enjoying the evening",
+      "end_time": 1402
+    },
+    {
+      "start_time": 1402,
+      "title": "Whiskey review",
+      "end_time": 1777
+    },
+    {
+      "start_time": 1777,
+      "title": "Chatting by the fire",
+      "end_time": 2521
+    },
+    {
+      "start_time": 2521,
+      "title": "Deep conversation",
+      "end_time": 2805
+    },
+    {
+      "start_time": 2805,
+      "title": "Whiskey review part 2",
+      "end_time": 3545
+    },
+    {
+      "start_time": 3545,
+      "title": "Cooking dinner",
+      "end_time": 4009
+    },
+    {
+      "start_time": 4009,
+      "title": "Morning packing up",
+      "end_time": 4199
+    }
+  ]
 }

@@ -6,5 +6,52 @@
   "description": "#wildcamping #stormcamping #getoutside \n#hiking #backpacking #wildcampinguk \n#stealthcamping #lakedistrict\n#raincamping #windycamping\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\ude09\nhttps://theblotoutdoorsmerch.myshopify.com/collections/all\n\nHere's the link for Nortent:\nhttps://nortent.com/products/nortent-vern1a-one-person-backpacking-tent",
   "thumbnail": "https://i.ytimg.com/vi/YSqjc5uXtUY/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Arrival and camp search",
+      "end_time": 354
+    },
+    {
+      "start_time": 354,
+      "title": "Finding a new pitch",
+      "end_time": 647
+    },
+    {
+      "start_time": 647,
+      "title": "Setting up camp",
+      "end_time": 743
+    },
+    {
+      "start_time": 743,
+      "title": "Gear and setup review",
+      "end_time": 1418
+    },
+    {
+      "start_time": 1418,
+      "title": "Camp talk and anecdotes",
+      "end_time": 2546
+    },
+    {
+      "start_time": 2546,
+      "title": "Camp etiquette and survival",
+      "end_time": 2942
+    },
+    {
+      "start_time": 2942,
+      "title": "Cooking and the biscuit crew",
+      "end_time": 3864
+    },
+    {
+      "start_time": 3864,
+      "title": "Brandy review",
+      "end_time": 4249
+    },
+    {
+      "start_time": 4249,
+      "title": "Departure and conclusion",
+      "end_time": 4489
+    }
+  ]
 }

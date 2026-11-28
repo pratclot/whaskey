@@ -6,5 +6,62 @@
   "description": "#wildcamping #camping #comedy #adventure \n#wickedoutdooradventures #wildcampinguk \n#whiskyreview #stealthcamping \n#hikingandcamping #lakedistrict\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\ude09\nhttps://theblotoutdoorsmerch.myshopify.com/collections/all\n\nHere's the link for young Chris's channel:\nhttps://youtube.com/@yackertravels?si=-DXZVbSRGLtJUCzv",
   "thumbnail": "https://i.ytimg.com/vi/SEWWeW3slOQ/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Hiking to the summit",
+      "end_time": 294
+    },
+    {
+      "start_time": 294,
+      "title": "Selecting the campsite",
+      "end_time": 374
+    },
+    {
+      "start_time": 374,
+      "title": "Setting up the tents",
+      "end_time": 558
+    },
+    {
+      "start_time": 558,
+      "title": "Gear and food overview",
+      "end_time": 904
+    },
+    {
+      "start_time": 904,
+      "title": "Whiskey review session",
+      "end_time": 1240
+    },
+    {
+      "start_time": 1240,
+      "title": "Detailed whiskey review",
+      "end_time": 1780
+    },
+    {
+      "start_time": 1780,
+      "title": "Cooking dinner",
+      "end_time": 2368
+    },
+    {
+      "start_time": 2368,
+      "title": "Dining and evening chill",
+      "end_time": 2822
+    },
+    {
+      "start_time": 2822,
+      "title": "Bedtime routines",
+      "end_time": 2910
+    },
+    {
+      "start_time": 2910,
+      "title": "Morning packing",
+      "end_time": 3056
+    },
+    {
+      "start_time": 3056,
+      "title": "Post-hike breakfast",
+      "end_time": 3176
+    }
+  ]
 }

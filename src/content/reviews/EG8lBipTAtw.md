@@ -10,7 +10,7 @@ episode_summary: The host goes stealth camping in the rain behind a billboard ne
   to a railway line and a renowned dogging spot, enjoying Cobra Kai beer and Chivas
   Regal 12-Year-Old whisky, along with very spicy noodles and sweet chili chicken.
 items:
-- name: Cobra Kai Beer
+- name: Cobra Premium Lager
   category: Beer & Ale
   brand_or_distillery: Cobra
   region_or_style: Indian Beer
@@ -70,6 +70,7 @@ items:
     chili chicken chunks, packing a serious punch on the tongue.
   verdict_quote: This is spicy but still tastes nice. As long as I keep having a drink,
     I can handle that.
+names_verified: true
 ---
 
 **[46:57]** Here we go. My famous cub dingo at the ready. Wasi from Ethan. Shivers Regal. Oh yeah. You know it makes sense, guys. Here we go. Let's get the old bakeroon straight in it. Oh, look at that. Quite a big measure in there. Quite mild. Give that a swirl around. Got to be careful cuz it's quite full. Z famous Cubingo. Yeah, a bit fruiness. Maybe some apples there. I would say green apples. Fruity. Slight bit of a caramel snifferooni in there. Yeah. A little tiniest bit of sweetness. Delicate, I think, is the right word for that. **[49:34]** Well, it's not mild in the taste. There's a good flavor there, but it is delicate as in when it's going down the old throat dingo. There's no harshness at all there. There's no burn. Caramel nutty. It's more of like a zesty fruity lemony orangey. **[52:10]** It's got a big taste like a strong marmalade orange. But it's how it's going down so smooth that I'm enjoying so much. So yeah, and people say blended was a shite. I would say out of all the blended was shivers regal I would say is in the top three in the world out of all the blended wasis. **[53:51]** I'm going to give this a very very respectable 8.4 out of 10 dingo.

@@ -48,6 +48,7 @@ items:
     with exceptional chips, rich curry sauce, savory gravy, and traditional old-school
     mushy peas.
   verdict_quote: That is absolutely fantastic.
+names_verified: true
 ---
 
 **[39:06]** Here we go. Time to get stuck into the old scrandingo cod neck and chips. So, I'm going to try the peas first, which I paid for. Damn you blood. Getting freebies. Oh, them proper mushy pay them guys. M. Oh yes. Pet them proper like old school style mushy peas. Very nice indeed. That's a good start. **[41:16]** Curry sauce, folks. Let's try the old Kerry Katona sauce. Oh, look at that. Not too thick and not too watery. Oh, the vinegar, the salt and the vinegar and the curry sauce together. Lovely jubbly. Spot on, folks. **[44:28]** Right, let's show you the fish. Oh, look at that. U cod neck, guys. Oh wow, that is really, really good. As a family, we've had fish and chips two or three times lately when we haven't been making a video and we've been like let down. Haven't been too good. This is absolutely fantastic. **[49:06]** I'm going to give it a 9.9, guys. Yeah, I can't go any lower than a 9.9 out of 10 dingo. Fantastic.

@@ -6,5 +6,52 @@
   "description": "#germanfood #food #foodchallenge #foodie #kebab #yummy #whiskyreview #whiskey\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\udc4d \nhttps://theblotoutdoorsmerch.myshopify.com/collections/all",
   "thumbnail": "https://i.ytimg.com/vi/L8_v2AUoNtY/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Introduction and picking up",
+      "end_time": 229
+    },
+    {
+      "start_time": 229,
+      "title": "Heading to the kebab shop",
+      "end_time": 388
+    },
+    {
+      "start_time": 388,
+      "title": "Ordering the food",
+      "end_time": 598
+    },
+    {
+      "start_time": 598,
+      "title": "Returning to the van",
+      "end_time": 731
+    },
+    {
+      "start_time": 731,
+      "title": "Eating and reviewing the food",
+      "end_time": 1265
+    },
+    {
+      "start_time": 1265,
+      "title": "Final food scores",
+      "end_time": 1418
+    },
+    {
+      "start_time": 1418,
+      "title": "Channel update and giveaway",
+      "end_time": 1549
+    },
+    {
+      "start_time": 1549,
+      "title": "Whiskey review",
+      "end_time": 1857
+    },
+    {
+      "start_time": 1857,
+      "title": "Merch plug and closing",
+      "end_time": 1959
+    }
+  ]
 }

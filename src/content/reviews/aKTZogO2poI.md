@@ -117,6 +117,7 @@ items:
   tasting_notes: Incredibly smooth and velvety spirit with notes of dark fruits, raisins,
     chocolate-covered raisins, and a hint of vanilla.
   verdict_quote: that is so smooth and velvety... a straight nine out of 10
+names_verified: true
 ---
 
 **[11:15]** I'm going to go straight for a slice of the Napoli special pizza that's quite nice still nice and hot. There's chicken on there, I think there's mushrooms, peppers, onions, banana peppers. Thin crust, quite decent, not a bad start at all. 

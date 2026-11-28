@@ -6,5 +6,42 @@
   "description": "#wildcamping #hikingandcamping #camping \n#comedy #hiking #whiskyreview #getoutside \n#wildcampinguk #stealthcamping #lakedistrict\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\ude09 \nhttps://theblotoutdoorsmerch.myshopify.com/collections/all\n\nHere's the link for Bonny Ladd Adventures:\nhttps://youtube.com/@Bonnyladdadventures?si=EIH3a_EY__WK3LFu\n\nHere's the link for Yacker Travels:\nhttps://youtube.com/@yackertravels?si=QVUPv4Wq6narfnlX",
   "thumbnail": "https://i.ytimg.com/vi/prC7OUQ0bdQ/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Arrival at Lake District",
+      "end_time": 292
+    },
+    {
+      "start_time": 292,
+      "title": "Setting up camp",
+      "end_time": 771
+    },
+    {
+      "start_time": 771,
+      "title": "Scouting for signals",
+      "end_time": 1021
+    },
+    {
+      "start_time": 1021,
+      "title": "Evening social and food",
+      "end_time": 1373
+    },
+    {
+      "start_time": 1373,
+      "title": "Whiskey review session",
+      "end_time": 2120
+    },
+    {
+      "start_time": 2120,
+      "title": "Dealing with the rain",
+      "end_time": 2881
+    },
+    {
+      "start_time": 2881,
+      "title": "Morning departure",
+      "end_time": 3202
+    }
+  ]
 }

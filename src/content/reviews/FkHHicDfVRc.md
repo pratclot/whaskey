@@ -71,6 +71,7 @@ items:
     with white pepper. Palate brings dark chocolate, strawberry jam sponge cake, and
     nutty undertones like walnut and almond with a fruity finish.
   verdict_quote: I'm gonna give that another big fat juicy 9.5 out of 10
+names_verified: true
 ---
 
 **[06:28]** oh yes mandingos time for me and Schmick to get stuck in got these lovely salt and pepper chicken loaded fries... **[06:45]** and that's what I'm going to get stuck in new Fest guys the pizza um oh my God oh wow unbelievable really really nice in there... **[09:26]** well Mick ready to give our scores mate well what else can I see you guys it's impossible for me to go below 10 out of 10... so what yep I'm gonna give it a massive big fat unbeatable 10 out of 10. **[17:52]** waski time and this is what we've got this time Tomatin Port cask... **[18:13]** oh yeah oh just on that straight away you can smell that strong Port smell... **[18:48]** I'm getting the red berries and grapes tiniest little bit of vanilla and a bit peppery I think it's like white pepper... **[19:48]** now I'm getting there like a dark chocolate thing with some fruitiness a little bit strawberry... **[20:49]** I'm also now getting some like a Nutty test I would say a walnuts... **[23:33]** I'm gonna give that another big fat juicy 9.5 out of 10 dingo mandingos

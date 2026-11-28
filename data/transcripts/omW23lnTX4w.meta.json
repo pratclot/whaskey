@@ -6,5 +6,77 @@
   "description": "#stealthcamping #wildcamping #stealthcampinguk #wildcampinguk #adventure \n#comedy #getoutside\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\ude09 \nhttps://theblotoutdoorsmerch.myshopify.com/collections/all\n\nHere's the link for Brown's Biltong \ud83d\ude0b\nhttps://brownsbiltong.co.uk/mandingo",
   "thumbnail": "https://i.ytimg.com/vi/omW23lnTX4w/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Heading to the hotspot",
+      "end_time": 60
+    },
+    {
+      "start_time": 60,
+      "title": "Locating the camp spot",
+      "end_time": 298
+    },
+    {
+      "start_time": 298,
+      "title": "Setting up the tent",
+      "end_time": 466
+    },
+    {
+      "start_time": 466,
+      "title": "Evening drinks and stories",
+      "end_time": 723
+    },
+    {
+      "start_time": 723,
+      "title": "Food and drink overview",
+      "end_time": 1051
+    },
+    {
+      "start_time": 1051,
+      "title": "Waiting for action",
+      "end_time": 1432
+    },
+    {
+      "start_time": 1432,
+      "title": "Whiskey review part one",
+      "end_time": 1610
+    },
+    {
+      "start_time": 1610,
+      "title": "Whiskey review part two",
+      "end_time": 2045
+    },
+    {
+      "start_time": 2045,
+      "title": "Preparing for dinner",
+      "end_time": 2368
+    },
+    {
+      "start_time": 2368,
+      "title": "Cooking and eating dinner",
+      "end_time": 2675
+    },
+    {
+      "start_time": 2675,
+      "title": "Reflecting on the night",
+      "end_time": 2908
+    },
+    {
+      "start_time": 2908,
+      "title": "Going to sleep",
+      "end_time": 3033
+    },
+    {
+      "start_time": 3033,
+      "title": "Morning breakdown",
+      "end_time": 3232
+    },
+    {
+      "start_time": 3232,
+      "title": "Final thoughts",
+      "end_time": 3348
+    }
+  ]
 }

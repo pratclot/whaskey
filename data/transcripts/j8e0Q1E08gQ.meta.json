@@ -6,5 +6,72 @@
   "description": "#cemeterycamping #stealthcamping #wildcamping #stealthcampingalliance #wildcampinguk #adventure #stealth #stealthurbancamping #secretcamping #stealthcampinguk\n\nThis is the link for the Loch Lomond Distillery \nhttp://www.lochlomondgroup.com/\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\udc4d \nhttps://theblotoutdoorsmerch.myshopify.com/collections/all",
   "thumbnail": "https://i.ytimg.com/vi/j8e0Q1E08gQ/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Setting up the graveyard camp",
+      "end_time": 144
+    },
+    {
+      "start_time": 144,
+      "title": "Avoiding detection",
+      "end_time": 318
+    },
+    {
+      "start_time": 318,
+      "title": "Shelter installation",
+      "end_time": 473
+    },
+    {
+      "start_time": 473,
+      "title": "Evening meal and whiskey",
+      "end_time": 684
+    },
+    {
+      "start_time": 684,
+      "title": "Q&A session",
+      "end_time": 816
+    },
+    {
+      "start_time": 816,
+      "title": "Addressing the channel name",
+      "end_time": 1015
+    },
+    {
+      "start_time": 1015,
+      "title": "Completing the camp setup",
+      "end_time": 1103
+    },
+    {
+      "start_time": 1103,
+      "title": "Future plans and merch",
+      "end_time": 1229
+    },
+    {
+      "start_time": 1229,
+      "title": "Whiskey review one",
+      "end_time": 1427
+    },
+    {
+      "start_time": 1427,
+      "title": "Cooking and enjoying food",
+      "end_time": 1623
+    },
+    {
+      "start_time": 1623,
+      "title": "Whiskey review two",
+      "end_time": 1881
+    },
+    {
+      "start_time": 1881,
+      "title": "Nighttime reflections",
+      "end_time": 2043
+    },
+    {
+      "start_time": 2043,
+      "title": "Morning pack up and departure",
+      "end_time": 2208
+    }
+  ]
 }

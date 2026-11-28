@@ -6,5 +6,32 @@
   "description": "#badfood #foodchallenge #foodie #takeaway #badfoods #nastyfood #food #badfoodblog\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\ude09 \nhttps://theblotoutdoorsmerch.myshopify.com/collections/all",
   "thumbnail": "https://i.ytimg.com/vi/LCwopjbvuyU/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Introduction and arrival",
+      "end_time": 230
+    },
+    {
+      "start_time": 230,
+      "title": "Ordering at the takeaway",
+      "end_time": 450
+    },
+    {
+      "start_time": 450,
+      "title": "Food tasting and review",
+      "end_time": 1495
+    },
+    {
+      "start_time": 1495,
+      "title": "Drink review and commentary",
+      "end_time": 2155
+    },
+    {
+      "start_time": 2155,
+      "title": "Closing and bloopers",
+      "end_time": 2738
+    }
+  ]
 }

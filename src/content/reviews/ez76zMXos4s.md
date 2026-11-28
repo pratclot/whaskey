@@ -34,6 +34,7 @@ items:
     honey sweetness, finishing with a nice warming chest feel.
   verdict_quote: I'm going to give that a solid a 7.9. It's a 7.9 out of 10 out of
     10 dingo mandingos.
+names_verified: true
 ---
 
 **[47:54]** Yes, mandingos. You know what time it is? It's was time. We have got Weller Special Reserve Kentucky straight bourbon and this was kindly bought for me and Kev by David and Kate Sutherland from County Durham. **[50:22]** Let's get the old bigaronian. It's got like a strong menthol snifferooni, but like a nice fruity element as well. I would say there's some like apricots in there. Like a fruity apricot snifferooni. **[51:30]** Like a biscuity shortbread thing going on as well. It's also got a nice clean leather smell. **[53:21]** Quite smooth, dingo. Yeah, there ain't no harshness about that at all. Like a butterscotch flavor, rooni, and the biscuity thing, that's there as well. Like a nutmeg. **[54:43]** Vanilla toffee caramel. There's a sweetness and a nice little warmth around your mouth going down the old throat dingo. **[58:34]** I'm going to give that a solid a 7.9. It's a 7.9 out of 10 out of 10 dingo mandingos.

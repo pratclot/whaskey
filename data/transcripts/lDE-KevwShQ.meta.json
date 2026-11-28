@@ -6,5 +6,52 @@
   "description": "#wildcamping #hikingandcamping #adventure \n#camping #comedy #hiking #wildcampinguk \n#stealthcamping #whiskyreview #lakedistrict\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\ude09 \nhttps://theblotoutdoorsmerch.myshopify.com/collections/all",
   "thumbnail": "https://i.ytimg.com/vi/lDE-KevwShQ/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Hiking to the summit",
+      "end_time": 225
+    },
+    {
+      "start_time": 225,
+      "title": "Setting up camp",
+      "end_time": 445
+    },
+    {
+      "start_time": 445,
+      "title": "Camp supplies and meal prep",
+      "end_time": 761
+    },
+    {
+      "start_time": 761,
+      "title": "Evening relaxation",
+      "end_time": 1443
+    },
+    {
+      "start_time": 1443,
+      "title": "Cooking Philly cheese steaks",
+      "end_time": 2185
+    },
+    {
+      "start_time": 2185,
+      "title": "Post-dinner social time",
+      "end_time": 2544
+    },
+    {
+      "start_time": 2544,
+      "title": "Whiskey tasting review",
+      "end_time": 3053
+    },
+    {
+      "start_time": 3053,
+      "title": "Nighttime at camp",
+      "end_time": 3145
+    },
+    {
+      "start_time": 3145,
+      "title": "Breaking camp and departure",
+      "end_time": 3358
+    }
+  ]
 }

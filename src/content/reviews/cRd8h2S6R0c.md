@@ -57,6 +57,7 @@ items:
   verdict_quote: I'm gonna give that mandingos to Liska storm single malt scotch waski
     I'm gonna give it a decent nothing too special I'm going to give it a decent 6.9
     out of tending
+names_verified: true
 ---
 
 **[09:19]** I'm going to start off I'm gonna make a little chicken some chicken in a pita. Oh that's opened up nice, sometimes they don't open up nice and fresh. Hit the bread still nice and hot even though it's been 10 minutes since we picked it up. I'll have a little bit of salad on there Schmick and a nice bit of this chili sauce. That's absolutely beautiful. Mm, the chicken that is lovely, it's nice, look it's been like marinated in some sort of sauce, the chili, it's has a nice little bit of a kick to it, really really good start to this review mandingos.

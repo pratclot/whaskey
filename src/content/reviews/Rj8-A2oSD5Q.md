@@ -53,6 +53,7 @@ items:
     The palate is smooth and creamy with a zesty citrus sharpness and a nice peppery
     kick on the finish.
   verdict_quote: So guys I'm going to give that... a solid 8.9 out of 10 dingo Mingos.
+names_verified: true
 ---
 
 **[07:35]** yes guys I've got the food and two cans of pop let's go make me way back to Mrs blot's car and do some munching glad back you better believe it or than my fun sexuals I've just pulled into the car park at the Metro station in felgate sish your head rest yes there's the beard guys I'm going to jump in the back and give you a quick look at it first before I get stuck in nice all righty guys let's have a look and see what's in the box before we dive in... **[21:25]** portion size spot on fantastic and the main thing the food quality how do the taste brilliant absolutely brilliant and hardly any Grace either next to no Grace which I'm over the moon with so the score I'm going to give it guys is a big fat juicy 9.5 out of 10 dingo M dingos... **[31:42]** and what have we got this week we've got this cotwell English is it a single malt certainly is it's an English single malt wasy that's being kindly given to me from Nick the guy with the duft hat... **[33:47]** oh that's go lovely smooth and creamy texture feel in the mouth and tell you all throw dingo mingles that's quite sweet... **[36:25]** so guys I'm going to give that give you one more look I'm going to give it very very good solid not quite a nine but just underneath a solid 8.9 out of 10 dingo Mingos.

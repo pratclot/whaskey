@@ -32,6 +32,7 @@ items:
     on the nose, followed by a woody pine forest character. On the palate it has a
     nice burn, tasting like a softer and higher quality version of Jack Daniel's.
   verdict_quote: I'm giving that a massive 8.5 out of 10.
+names_verified: true
 ---
 
 **[19:31]** Here it is, this time we have this Bulleit Bourbon Kentucky... you'll see right, Kentucky straight bourbon, you know what I'm talking about right, never mucking around bonnie lad style, let's get right on with this. I'm just going to pour it all into one mug, we're not going to clot the boat, these haven't got a cup so we're all sharing. Come at ya! 

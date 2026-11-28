@@ -67,6 +67,7 @@ items:
     on the nose and palate, with some subtle fruit notes emerging over time.
   verdict_quote: It wasn't the best. Very much appreciated even though I don't wear
     a vest. I'll give it a 6.5.
+names_verified: true
 ---
 
 **[17:10]** What we got here top man? We have got a duo pack toffee vodka spirit drink from the legend Lee Williams. **[18:24]** Mine's toffee vodka and yours is toffee apple. Let's try it. It tastes like vodka and like toffee. Oh, that's nice. That is really nice. Is it? Yeah, that's dead nice. This one is the toffee apple. It makes it more appleley and more fruiticious at exactly the same time. **[41:17]** Abasolo Mexican whisky. I'm going to give that guys. It wasn't the best. Very much appreciated even though I don't wear a vest. I'll give it a 6.5. What do you reckon, Craig? For me, guys, as a non whiskey drinker, actually, it got worse as I drank it. For me, it's going to be 5.5.

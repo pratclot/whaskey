@@ -6,5 +6,47 @@
   "description": "#fishandchips #takeaway #food #nastyfood #foodchallenge #whiskyreview #foodie\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\ude09 \nhttps://theblotoutdoorsmerch.myshopify.com/collections/all",
   "thumbnail": "https://i.ytimg.com/vi/l0MGsphMaMM/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Introduction",
+      "end_time": 213
+    },
+    {
+      "start_time": 213,
+      "title": "Reading takeaway reviews",
+      "end_time": 385
+    },
+    {
+      "start_time": 385,
+      "title": "Ordering food",
+      "end_time": 578
+    },
+    {
+      "start_time": 578,
+      "title": "Eating the food",
+      "end_time": 868
+    },
+    {
+      "start_time": 868,
+      "title": "Food score and verdict",
+      "end_time": 1275
+    },
+    {
+      "start_time": 1275,
+      "title": "Van talk and reflection",
+      "end_time": 1822
+    },
+    {
+      "start_time": 1822,
+      "title": "Whiskey review",
+      "end_time": 2421
+    },
+    {
+      "start_time": 2421,
+      "title": "Bloopers and conclusion",
+      "end_time": 2950
+    }
+  ]
 }

@@ -6,5 +6,47 @@
   "description": "#wildcamping #hiking #lakedistrict #comedy \n#whiskyreview #backpacking #wildcampinguk \n#stealthcamping #getoutside #stealthcampinguk\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\ude09 \nhttps://theblotoutdoorsmerch.myshopify.com/collections/all",
   "thumbnail": "https://i.ytimg.com/vi/NwMUNZUe2nw/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Hiking to the summit",
+      "end_time": 296
+    },
+    {
+      "start_time": 296,
+      "title": "Setting up camp",
+      "end_time": 877
+    },
+    {
+      "start_time": 877,
+      "title": "Socializing and scenery",
+      "end_time": 1207
+    },
+    {
+      "start_time": 1207,
+      "title": "Subscriber interactions",
+      "end_time": 1765
+    },
+    {
+      "start_time": 1765,
+      "title": "Food and drink review",
+      "end_time": 2279
+    },
+    {
+      "start_time": 2279,
+      "title": "Evening activities",
+      "end_time": 3016
+    },
+    {
+      "start_time": 3016,
+      "title": "Late night meal",
+      "end_time": 3741
+    },
+    {
+      "start_time": 3741,
+      "title": "Packing up and departing",
+      "end_time": 4062
+    }
+  ]
 }

@@ -6,5 +6,37 @@
   "description": "#stealthcamping #wildcamping #stealthcampingalliance #wildcampinguk #adventure #stealth #stealthurbancamping #secretcamping #stealthcampinguk\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\udc4d \nhttps://theblotoutdoorsmerch.myshopify.com/collections/all",
   "thumbnail": "https://i.ytimg.com/vi/G3V9yJ0SjyI/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Introduction to spots",
+      "end_time": 90
+    },
+    {
+      "start_time": 90,
+      "title": "Car dealership spot",
+      "end_time": 280
+    },
+    {
+      "start_time": 280,
+      "title": "Factory back spot",
+      "end_time": 513
+    },
+    {
+      "start_time": 513,
+      "title": "Signboard spot",
+      "end_time": 716
+    },
+    {
+      "start_time": 716,
+      "title": "Whiskey review",
+      "end_time": 961
+    },
+    {
+      "start_time": 961,
+      "title": "Conclusion",
+      "end_time": 1023
+    }
+  ]
 }

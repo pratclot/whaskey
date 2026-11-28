@@ -6,5 +6,6 @@
   "description": "",
   "thumbnail": "https://i.ytimg.com/vi/m3YxsQTmuX4/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": []
 }

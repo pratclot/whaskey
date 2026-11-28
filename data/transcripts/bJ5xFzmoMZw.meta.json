@@ -6,5 +6,57 @@
   "description": "#stealthcamping #wildcamping #getoutside #stealthcampinguk #camping #wildcampinguk \n#adventure #greatoutdoors\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\ude09 \nhttps://theblotoutdoorsmerch.myshopify.com/collections/all\n\nHere's the link for Brown's Biltong \ud83d\ude0b\nhttps://brownsbiltong.co.uk/mandingo",
   "thumbnail": "https://i.ytimg.com/vi/bJ5xFzmoMZw/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Introduction and plans",
+      "end_time": 268
+    },
+    {
+      "start_time": 268,
+      "title": "Hiking to the ruins",
+      "end_time": 417
+    },
+    {
+      "start_time": 417,
+      "title": "Finchale Priory visit",
+      "end_time": 568
+    },
+    {
+      "start_time": 568,
+      "title": "Setting up camp",
+      "end_time": 718
+    },
+    {
+      "start_time": 718,
+      "title": "Drinks and snacks",
+      "end_time": 1129
+    },
+    {
+      "start_time": 1129,
+      "title": "Live chat and dinner",
+      "end_time": 1754
+    },
+    {
+      "start_time": 1754,
+      "title": "Whisky review",
+      "end_time": 2048
+    },
+    {
+      "start_time": 2048,
+      "title": "Dinner and washy",
+      "end_time": 2368
+    },
+    {
+      "start_time": 2368,
+      "title": "Late night drinks",
+      "end_time": 2859
+    },
+    {
+      "start_time": 2859,
+      "title": "Morning packing",
+      "end_time": 3151
+    }
+  ]
 }

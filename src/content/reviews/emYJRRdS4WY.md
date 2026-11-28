@@ -55,6 +55,7 @@ items:
     a pleasant touch of peat smoke, and a lingering orange peel finish.
   verdict_quote: I'm going to give it very good very very very good 9.2 out of 10
     dingo M dingos.
+names_verified: true
 ---
 
 **[06:12]** Well have a look at the loaded fries first. Oh yes, cheesy pepperoni loaded fries with jalapenos on. And the pizza, I've got the spicy beef and jalapeno pizza with red onions as well, like a proper thin crust Italian style pizza. **[07:08]** Very tasty! Now I'm not a great lover of cheese, I know I have cheese on a pizza and on a burger, but that cheesy sauce is really nice. **[10:16]** Plenty meat on, I haven't been tight with the meat, loads of jalapenos, plenty red onions. Oh yes, to say I'm impressed is an understatement. **[16:50]** All in all the score I'm going to give it guys, I'm going to give it a big fat mega 9.9 out of 10. **[23:25]** This one's called The One made in The Lakes Distillery here in England. This one is the orange wine cask finish. **[14:05]** It's like a strong like orange marmalade smell there straight up the old Nostradamus. **[14:44]** That's soft and gentle with an orangey taste, with like tropical fruits as well, and it's nice and soft and like gentle. **[16:31]** I'm going to give it very good, very very very good 9.2 out of 10 dingo M dingos.

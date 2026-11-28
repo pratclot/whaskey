@@ -6,5 +6,92 @@
   "description": "",
   "thumbnail": "https://i.ytimg.com/vi/_GS8WtYfJxQ/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Arrival and planning",
+      "end_time": 178
+    },
+    {
+      "start_time": 178,
+      "title": "Finding the spot",
+      "end_time": 327
+    },
+    {
+      "start_time": 327,
+      "title": "Setting up camp",
+      "end_time": 444
+    },
+    {
+      "start_time": 444,
+      "title": "Campground tour",
+      "end_time": 628
+    },
+    {
+      "start_time": 628,
+      "title": "Evening meal prep",
+      "end_time": 744
+    },
+    {
+      "start_time": 744,
+      "title": "Drinks and snacks",
+      "end_time": 857
+    },
+    {
+      "start_time": 857,
+      "title": "Factory shout-outs",
+      "end_time": 1024
+    },
+    {
+      "start_time": 1024,
+      "title": "Red wine and conversation",
+      "end_time": 1290
+    },
+    {
+      "start_time": 1290,
+      "title": "Future plans",
+      "end_time": 1503
+    },
+    {
+      "start_time": 1503,
+      "title": "Whiskey review",
+      "end_time": 1711
+    },
+    {
+      "start_time": 1711,
+      "title": "Whiskey taste test",
+      "end_time": 1968
+    },
+    {
+      "start_time": 1968,
+      "title": "Late night snacking",
+      "end_time": 2130
+    },
+    {
+      "start_time": 2130,
+      "title": "Dinner time",
+      "end_time": 2353
+    },
+    {
+      "start_time": 2353,
+      "title": "Reflections",
+      "end_time": 2691
+    },
+    {
+      "start_time": 2691,
+      "title": "Goodnight",
+      "end_time": 2803
+    },
+    {
+      "start_time": 2803,
+      "title": "Morning routine",
+      "end_time": 3009
+    },
+    {
+      "start_time": 3009,
+      "title": "Departure",
+      "end_time": 3099
+    }
+  ]
 }

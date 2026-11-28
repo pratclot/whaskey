@@ -49,6 +49,7 @@ items:
   tasting_notes: A bog-standard blended whisky with a very strong alcohol smell, harsh
     bite, and a slight smoky taste that warms you up in the cold tent.
   verdict_quote: solid 5 out of 10. i'll give it a 4.
+names_verified: true
 ---
 
 **[13:30]** what we got here chris we've got johnny walker red label now special idea just bog standard johnny walker red label normal blended whiskey no special it's the bottom of the line... **[14:12]** have a little taste whiskey review all right very strong you can proper whiskey you can very you can just smell that like a strong alcohol smell straight away... **[16:35]** note special bog standard whiskey just bought the cape was warm in the tent but it is nice it was a job a bit of a smoky taste to it very strong very harsh ain't going down smooth does this no but does the job got that nice little warm feeling it does that's what it does it's not special but i'll still give this a good solid 5 out of 10. i'll give it a 4.

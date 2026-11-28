@@ -6,5 +6,77 @@
   "description": "#wildcamping #camping #hikingandcamping \n#stealthcamping #comedy #wildcampinguk \n#whiskyreview #raincamping \n#stealthcampinguk #camping\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\ude09 \nhttps://theblotoutdoorsmerch.myshopify.com/collections/all",
   "thumbnail": "https://i.ytimg.com/vi/MbsWPAYGQhQ/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Heading to the camping spot",
+      "end_time": 266
+    },
+    {
+      "start_time": 266,
+      "title": "Setting up camp",
+      "end_time": 380
+    },
+    {
+      "start_time": 380,
+      "title": "Whiskey review begins",
+      "end_time": 500
+    },
+    {
+      "start_time": 500,
+      "title": "Gear issues and maintenance",
+      "end_time": 981
+    },
+    {
+      "start_time": 981,
+      "title": "New gear update",
+      "end_time": 1462
+    },
+    {
+      "start_time": 1462,
+      "title": "Tent issues and sponsorship",
+      "end_time": 1847
+    },
+    {
+      "start_time": 1847,
+      "title": "Battling the weather",
+      "end_time": 2021
+    },
+    {
+      "start_time": 2021,
+      "title": "Manchester trip recap",
+      "end_time": 2354
+    },
+    {
+      "start_time": 2354,
+      "title": "Preparing dinner",
+      "end_time": 2624
+    },
+    {
+      "start_time": 2624,
+      "title": "Cooking and eating dinner",
+      "end_time": 2778
+    },
+    {
+      "start_time": 2778,
+      "title": "Final whiskey review",
+      "end_time": 3110
+    },
+    {
+      "start_time": 3110,
+      "title": "Whiskey, chatter, and views",
+      "end_time": 3562
+    },
+    {
+      "start_time": 3562,
+      "title": "Final whiskey thoughts",
+      "end_time": 3821
+    },
+    {
+      "start_time": 3821,
+      "title": "Packing up and going home",
+      "end_time": 4096
+    }
+  ]
 }

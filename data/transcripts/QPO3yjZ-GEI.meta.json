@@ -6,5 +6,67 @@
   "description": "#stealthcamping #wildcamping #getoutside \n#stealthcamp #adventure #stealthcampinguk \n#camping #wildcampinguk #whiskyreview\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\ude09 \nhttps://theblotoutdoorsmerch.myshopify.com/collections/all",
   "thumbnail": "https://i.ytimg.com/vi/QPO3yjZ-GEI/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Arrival and setup",
+      "end_time": 80
+    },
+    {
+      "start_time": 80,
+      "title": "Finding the spot",
+      "end_time": 379
+    },
+    {
+      "start_time": 379,
+      "title": "Securing the campsite",
+      "end_time": 622
+    },
+    {
+      "start_time": 622,
+      "title": "Food and drink review",
+      "end_time": 784
+    },
+    {
+      "start_time": 784,
+      "title": "Observing the area",
+      "end_time": 1221
+    },
+    {
+      "start_time": 1221,
+      "title": "Nighttime relaxation",
+      "end_time": 1460
+    },
+    {
+      "start_time": 1460,
+      "title": "Memories and stories",
+      "end_time": 2147
+    },
+    {
+      "start_time": 2147,
+      "title": "Late night in Durham",
+      "end_time": 2761
+    },
+    {
+      "start_time": 2761,
+      "title": "Getting late night pizza",
+      "end_time": 3195
+    },
+    {
+      "start_time": 3195,
+      "title": "Eating and chatter",
+      "end_time": 3523
+    },
+    {
+      "start_time": 3523,
+      "title": "Whiskey review",
+      "end_time": 4031
+    },
+    {
+      "start_time": 4031,
+      "title": "Morning departure",
+      "end_time": 4230
+    }
+  ]
 }

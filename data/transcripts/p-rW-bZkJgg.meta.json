@@ -6,5 +6,52 @@
   "description": "#stealthcamping #stealthcampingalliance \n#wildcamping #comedy #camping #castle \n#stealthcampinguk #wildcampinguk \n#whiskyreview #getoutside\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\ude09 \nhttps://theblotoutdoorsmerch.myshopify.com/collections/all\n\nHere's the link for Nicks channel:\nhttps://youtube.com/@Thats_him_with_the_daft_hat?si=C_KR1lihjbb1psqY",
   "thumbnail": "https://i.ytimg.com/vi/p-rW-bZkJgg/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Arriving at Tynemouth",
+      "end_time": 232
+    },
+    {
+      "start_time": 232,
+      "title": "Scouting for a safe spot",
+      "end_time": 490
+    },
+    {
+      "start_time": 490,
+      "title": "Initial setup and cider",
+      "end_time": 710
+    },
+    {
+      "start_time": 710,
+      "title": "Camping rules and views",
+      "end_time": 1002
+    },
+    {
+      "start_time": 1002,
+      "title": "Inside the tent setup",
+      "end_time": 1525
+    },
+    {
+      "start_time": 1525,
+      "title": "Factory life stories",
+      "end_time": 3056
+    },
+    {
+      "start_time": 3056,
+      "title": "Whiskey review",
+      "end_time": 3365
+    },
+    {
+      "start_time": 3365,
+      "title": "Cooking late night meal",
+      "end_time": 3773
+    },
+    {
+      "start_time": 3773,
+      "title": "Morning packing and review",
+      "end_time": 3964
+    }
+  ]
 }

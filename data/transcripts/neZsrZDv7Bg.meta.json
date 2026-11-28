@@ -6,5 +6,47 @@
   "description": "#walkandtalk #indianfood #reallife #takeaway \n#walkingtour #comedy #realpeople #foodie \n#wildcamping #stealthcamping\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\ude09 \nhttps://theblotoutdoorsmerch.myshopify.com/collections/all",
   "thumbnail": "https://i.ytimg.com/vi/neZsrZDv7Bg/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Arrival in Wingate",
+      "end_time": 264
+    },
+    {
+      "start_time": 264,
+      "title": "Exploring local streets",
+      "end_time": 830
+    },
+    {
+      "start_time": 830,
+      "title": "Interactions with residents",
+      "end_time": 1099
+    },
+    {
+      "start_time": 1099,
+      "title": "Meeting more local legends",
+      "end_time": 1548
+    },
+    {
+      "start_time": 1548,
+      "title": "Touring landmarks and sites",
+      "end_time": 2152
+    },
+    {
+      "start_time": 2152,
+      "title": "Engaging with the community",
+      "end_time": 3023
+    },
+    {
+      "start_time": 3023,
+      "title": "Ordering at the takeaway",
+      "end_time": 3324
+    },
+    {
+      "start_time": 3324,
+      "title": "Food review and conclusion",
+      "end_time": 4111
+    }
+  ]
 }

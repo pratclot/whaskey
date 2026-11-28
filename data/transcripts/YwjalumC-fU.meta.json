@@ -6,5 +6,57 @@
   "description": "#catchingfish #wildcamping #catchandcook #wildcampinguk #catching_fish #getoutside\n#getoutdoors #stealthcamping\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\ude09 \nhttps://theblotoutdoorsmerch.myshopify.com/collections/all\n\nHere's the link for Brown's Biltong \ud83d\ude0b \nhttps://brownsbiltong.co.uk/mandingo",
   "thumbnail": "https://i.ytimg.com/vi/YwjalumC-fU/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Arrival and camp setup",
+      "end_time": 325
+    },
+    {
+      "start_time": 325,
+      "title": "Gear and setup tour",
+      "end_time": 627
+    },
+    {
+      "start_time": 627,
+      "title": "Tickling for fish",
+      "end_time": 1185
+    },
+    {
+      "start_time": 1185,
+      "title": "Fishing success",
+      "end_time": 1473
+    },
+    {
+      "start_time": 1473,
+      "title": "Chilling at camp",
+      "end_time": 1771
+    },
+    {
+      "start_time": 1771,
+      "title": "Q&A and storytelling",
+      "end_time": 2163
+    },
+    {
+      "start_time": 2163,
+      "title": "Whiskey review",
+      "end_time": 2614
+    },
+    {
+      "start_time": 2614,
+      "title": "Cooking and eating dinner",
+      "end_time": 2963
+    },
+    {
+      "start_time": 2963,
+      "title": "Morning routine",
+      "end_time": 3220
+    },
+    {
+      "start_time": 3220,
+      "title": "Heading home",
+      "end_time": 3348
+    }
+  ]
 }

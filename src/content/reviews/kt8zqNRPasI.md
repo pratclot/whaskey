@@ -92,6 +92,7 @@ items:
     style rice inside the tent, providing a piping hot and satisfying camp meal.
   verdict_quote: Tremendous... just what you need before you get into your sleeping
     bag and a good night's sleep.
+names_verified: true
 ---
 
 **[10:17]** I've got the the peri peri flavor the old Kevin and Perry get that rubbed in, nice quality packets. Right Mick pop some of that in your mouth and get chewing. **[11:01]** The flavor of that biltong has got to be the top snuck for camping... absolutely perfect. **[17:21]** Waski time and this week this is what we've got a blended Scotch waski kindly give it to us from a local lad from Sunderland... **[17:59]** Let's get the old big erroneous Mandingo and that's a very rich and very smoky and I'm getting a nice hint of like toffee and caramel. **[20:49]** I'm getting a lovely dark chocolate and coffee thing coming through mandingos, really nice and like I say this whiskey is just from little you know the little bargain supermarket it's really good a lot better than I thought was going to be. **[23:14]** I'm going to give that a solid seven and a dingo mandingos, you better believe I am.

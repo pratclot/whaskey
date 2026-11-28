@@ -6,5 +6,62 @@
   "description": "#wildcampinguk #getoutside #hiking #stealthcamping #tarpcamping #wildcamping \n#backpacking #bivvycamping #stealthcampinguk #greatoutdoors\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\ude09 \nhttps://theblotoutdoorsmerch.myshopify.com/collections/all",
   "thumbnail": "https://i.ytimg.com/vi/UoQXBQJ8gEA/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Hiking to the summit",
+      "end_time": 208
+    },
+    {
+      "start_time": 208,
+      "title": "Finding the perfect spot",
+      "end_time": 538
+    },
+    {
+      "start_time": 538,
+      "title": "Setting up camp",
+      "end_time": 957
+    },
+    {
+      "start_time": 957,
+      "title": "Night time drama",
+      "end_time": 1197
+    },
+    {
+      "start_time": 1197,
+      "title": "First rum review",
+      "end_time": 1612
+    },
+    {
+      "start_time": 1612,
+      "title": "Tribute to my wife",
+      "end_time": 2126
+    },
+    {
+      "start_time": 2126,
+      "title": "Mountain rescue encounter",
+      "end_time": 2535
+    },
+    {
+      "start_time": 2535,
+      "title": "Second rum review",
+      "end_time": 2935
+    },
+    {
+      "start_time": 2935,
+      "title": "Cooking dinner",
+      "end_time": 3270
+    },
+    {
+      "start_time": 3270,
+      "title": "Morning coffee and recap",
+      "end_time": 3730
+    },
+    {
+      "start_time": 3730,
+      "title": "Packing up and going home",
+      "end_time": 3880
+    }
+  ]
 }

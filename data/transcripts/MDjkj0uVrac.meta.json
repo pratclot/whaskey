@@ -6,5 +6,52 @@
   "description": "#carcamping #stealthcamping #wildcamping #stealthcampingalliance #wildcampinguk #adventure #stealth #stealthurbancamping #secretcamping #stealthcampinguk\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\udc4d \nhttps://theblotoutdoorsmerch.myshopify.com/collections/all",
   "thumbnail": "https://i.ytimg.com/vi/MDjkj0uVrac/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Arriving at the camp spot",
+      "end_time": 170
+    },
+    {
+      "start_time": 170,
+      "title": "Setting up the campsite",
+      "end_time": 339
+    },
+    {
+      "start_time": 339,
+      "title": "Food and drink preparations",
+      "end_time": 603
+    },
+    {
+      "start_time": 603,
+      "title": "Answering subscriber questions",
+      "end_time": 845
+    },
+    {
+      "start_time": 845,
+      "title": "Evening atmosphere and gear",
+      "end_time": 1346
+    },
+    {
+      "start_time": 1346,
+      "title": "Highland whisky tasting",
+      "end_time": 1667
+    },
+    {
+      "start_time": 1667,
+      "title": "Nighttime reflections",
+      "end_time": 1851
+    },
+    {
+      "start_time": 1851,
+      "title": "Morning departure",
+      "end_time": 2092
+    },
+    {
+      "start_time": 2092,
+      "title": "Closing thoughts",
+      "end_time": 2182
+    }
+  ]
 }

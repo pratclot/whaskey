@@ -74,8 +74,8 @@ items:
     hot chips, mayonnaise, and fiery takeaway chili sauce.
   verdict_quote: Garlic bread with cheese, chips, mayonnaise, and chili sauce — oh,
     that's got a right spicy kick to it, it's a thing of beauty!
+names_verified: true
 ---
-
 
 ## Tasting Transcript Excerpt
 

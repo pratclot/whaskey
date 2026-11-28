@@ -6,5 +6,52 @@
   "description": "#stealthcampinguk #wildcampinguk #comedy \n#camping #stealthcamping #wildcamping \n#whiskyreview",
   "thumbnail": "https://i.ytimg.com/vi/hcdk030Lds0/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Arriving at the spot",
+      "end_time": 371
+    },
+    {
+      "start_time": 371,
+      "title": "Setting up the camp",
+      "end_time": 666
+    },
+    {
+      "start_time": 666,
+      "title": "Whiskey review and stories",
+      "end_time": 1378
+    },
+    {
+      "start_time": 1378,
+      "title": "Showcasing the location",
+      "end_time": 1921
+    },
+    {
+      "start_time": 1921,
+      "title": "Detailed gear walkthrough",
+      "end_time": 2269
+    },
+    {
+      "start_time": 2269,
+      "title": "Evening reflections",
+      "end_time": 2826
+    },
+    {
+      "start_time": 2826,
+      "title": "Cooking camp dinner",
+      "end_time": 3167
+    },
+    {
+      "start_time": 3167,
+      "title": "Final whiskey review",
+      "end_time": 3707
+    },
+    {
+      "start_time": 3707,
+      "title": "Morning pack up",
+      "end_time": 3878
+    }
+  ]
 }

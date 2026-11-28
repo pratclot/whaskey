@@ -10,7 +10,7 @@ episode_summary: The host goes wild camping at Hill End in County Durham using a
   and bivy setup, cooks a delicious steak and king prawn surf and turf meal with peppercorn
   sauce, and reviews a 12-year-old single malt scotch sent by a viewer.
 items:
-- name: The Singleton 12 Year Old (Luscious Nectar)
+- name: The Singleton of Dufftown 12 Year Old
   category: Whisky
   brand_or_distillery: The Singleton
   region_or_style: Speyside Single Malt Scotch Whisky
@@ -55,6 +55,7 @@ items:
   verdict_quote: That's a nice piece of sirloin steak from Aldi. Sometimes you get
     lucky, sometimes you don't. Oh my god. Wow. That is a nice piece of steak with
     the peppercorn sauce.
+names_verified: true
 ---
 
 **[11:04]** Yes, you know what makes absolute complete and total sense to do a wild camp at Hill End in County Durham with a few shutteries of the good stuff. Was yes the singleton. I will give a big shout out to the legends that sent me this. What I can tell you now, Ben from Manchester. Cheers, Ben. My man friend sexual. It is very much appreciated.

@@ -92,6 +92,7 @@ items:
   verdict_quote: I'm going to give that a 9.5 guys, that is the biggest score I've
     given for quite a while.
 transcript_source: faster-whisper
+names_verified: true
 ---
 
 **[53:48]** You know what time it is, it's waski time, you better believe it is guys, kind of given to me from Shaz and Tony, Manor Words, Single Malt, Scotch Waski, 57 placenta, let's get that popped in... **[54:22]** Here we go, quite floral, no floral, maybe a few little spices in there... definitely apples and pears guys, with a little bit of a floral and hardy snifferooni going on... **[55:50]** That has got a right kick to it, which I'm not complaining about, that's a good old burner... **[01:00:08]** Oily texture in the mouth, a nice burning sensation... like a marzipan thing... **[01:02:41]** At the end of this wasky review, that's it, it's bonjourno time guys, I'm going to get some sleep and I'm going to give that a 9.5 guys, that is the biggest score I've given for quite a while, on the Block Manager General Outdoor Show.

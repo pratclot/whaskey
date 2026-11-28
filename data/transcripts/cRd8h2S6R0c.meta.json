@@ -6,5 +6,42 @@
   "description": "#takeaway #food #foodchallenge #foodie #yummy #nastyfood #ratemyplate #whiskey\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\udc4d \nhttps://theblotoutdoorsmerch.myshopify.com/collections/all",
   "thumbnail": "https://i.ytimg.com/vi/cRd8h2S6R0c/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Introduction",
+      "end_time": 152
+    },
+    {
+      "start_time": 152,
+      "title": "Ordering at Pizza Palace",
+      "end_time": 285
+    },
+    {
+      "start_time": 285,
+      "title": "Waiting for the food",
+      "end_time": 484
+    },
+    {
+      "start_time": 484,
+      "title": "Food review part 1",
+      "end_time": 651
+    },
+    {
+      "start_time": 651,
+      "title": "Food review part 2",
+      "end_time": 1294
+    },
+    {
+      "start_time": 1294,
+      "title": "Q&A and bloopers",
+      "end_time": 1470
+    },
+    {
+      "start_time": 1470,
+      "title": "Whisky review and conclusion",
+      "end_time": 2087
+    }
+  ]
 }

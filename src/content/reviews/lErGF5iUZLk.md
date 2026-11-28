@@ -187,6 +187,7 @@ items:
     like raisins and sultanas, creamy vanilla, and a gentle peppery warming finish.
   verdict_quote: That's going to get a very steady... I'm going to give it a solid
     8.2.
+names_verified: true
 ---
 
 **[08:02]** Right guys you know what time it is it's Bayer o'clock the good old Jeff Bayer, nice can of Corona virus. Oh that hits the spot and I'm getting some lovely Aromas of shite up my Nostradamus...

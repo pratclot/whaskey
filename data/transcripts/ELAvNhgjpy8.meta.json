@@ -6,5 +6,77 @@
   "description": "#lakedistrict #wildcamping #hiking #backpacking #wildcampinguk #whiskyreview #stealthcamping #stealth #outdoors #outdoorcooking\n\nHere's the link for Cowboy Chris's channel \nhttps://youtube.com/@christophershiels786\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\udc4d\nhttps://theblotoutdoorsmerch.myshopify.com/collections/all",
   "thumbnail": "https://i.ytimg.com/vi/ELAvNhgjpy8/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Arrival and setup",
+      "end_time": 84
+    },
+    {
+      "start_time": 84,
+      "title": "Hiking to the camp spot",
+      "end_time": 469
+    },
+    {
+      "start_time": 469,
+      "title": "Setting up camp",
+      "end_time": 591
+    },
+    {
+      "start_time": 591,
+      "title": "Gear and food tour",
+      "end_time": 864
+    },
+    {
+      "start_time": 864,
+      "title": "Storytelling and banter",
+      "end_time": 1237
+    },
+    {
+      "start_time": 1237,
+      "title": "Thunderstorm and shelter",
+      "end_time": 1508
+    },
+    {
+      "start_time": 1508,
+      "title": "More banter and stories",
+      "end_time": 1821
+    },
+    {
+      "start_time": 1821,
+      "title": "Preparing for whiskey review",
+      "end_time": 1983
+    },
+    {
+      "start_time": 1983,
+      "title": "World famous whiskey review",
+      "end_time": 2499
+    },
+    {
+      "start_time": 2499,
+      "title": "Cooking dinner",
+      "end_time": 2921
+    },
+    {
+      "start_time": 2921,
+      "title": "Closing the night",
+      "end_time": 3176
+    },
+    {
+      "start_time": 3176,
+      "title": "Final thoughts for the night",
+      "end_time": 3246
+    },
+    {
+      "start_time": 3246,
+      "title": "Morning routine",
+      "end_time": 3385
+    },
+    {
+      "start_time": 3385,
+      "title": "Packing up and departure",
+      "end_time": 3563
+    }
+  ]
 }

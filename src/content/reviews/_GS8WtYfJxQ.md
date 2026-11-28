@@ -33,6 +33,7 @@ items:
     rich spices, and a sweet anise licorice finish.
   verdict_quote: I'm going to give them a massive... a big fat nine out of 10 dingo
     mandingos!
+names_verified: true
 ---
 
 **[25:26]** Aming oh yes Mingos you know what time it is was time was time you better believe it is well gock Glen fck fire fire inen that's right Mick then a fire and Ken we've had a few already as you can see there's not much left in the bottle.  

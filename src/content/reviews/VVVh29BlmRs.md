@@ -52,7 +52,7 @@ items:
     seasoning, served with a delicious homemade dipping mayo.
   verdict_quote: The butter and the salt and pepper is like nice, but I just don't
     like the chewiness of them.
-- name: Bimber Club London Single Malt Whisky
+- name: Bimber Club Single Malt London Whisky
   category: Whisky
   brand_or_distillery: Bimber
   region_or_style: London Single Malt Whisky
@@ -73,6 +73,7 @@ items:
     delivering a spicy peppery kick on the palate, followed by sweet vanilla and porridge-like
     oat notes that linger long in the finish.
   verdict_quote: I'm giving that Ponsky a massive a ginormous a humongous 9.5.
+names_verified: true
 ---
 
 **[10:07]** Right, time to get stuck into this lovely looking food. I'm going to dive straight in to the fish finger sandwich. Got this mayo dip that's come with them, so we might as well get that on the old fingerroonie. This is nice chunky proper fish fingers in a nice fresh bun. Mmm, something so simple can be so nice. Straight away I can tell it's a quality fish finger, not just like the ones you buy in the house like Birds Eye. Proper fish, properly battered. That mayo is nice and tasty as well. Look at them chipronies! That is exactly what I'm talking about. That's what chips should be like, still got a bit of skin on as well, perfectly cooked all the way through.

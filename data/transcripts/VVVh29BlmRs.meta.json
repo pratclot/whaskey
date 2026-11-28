@@ -6,5 +6,42 @@
   "description": "#takeawayfood #squid #food #cafefood #takeaway #squidrings #foodie #whiskyreview\n#fishfingers\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\ude09\nhttps://theblotoutdoorsmerch.myshopify.com/collections/all",
   "thumbnail": "https://i.ytimg.com/vi/VVVh29BlmRs/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Heading to The Witch and Hair",
+      "end_time": 284
+    },
+    {
+      "start_time": 284,
+      "title": "Ordering food",
+      "end_time": 506
+    },
+    {
+      "start_time": 506,
+      "title": "The food review",
+      "end_time": 1222
+    },
+    {
+      "start_time": 1222,
+      "title": "Final verdict and score",
+      "end_time": 1337
+    },
+    {
+      "start_time": 1337,
+      "title": "Life updates and channel talk",
+      "end_time": 2073
+    },
+    {
+      "start_time": 2073,
+      "title": "Whiskey review",
+      "end_time": 2508
+    },
+    {
+      "start_time": 2508,
+      "title": "Fan clips and conclusion",
+      "end_time": 2742
+    }
+  ]
 }

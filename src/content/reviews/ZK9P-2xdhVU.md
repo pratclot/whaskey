@@ -53,6 +53,7 @@ items:
     and very satisfying.
   verdict_quote: better than any of them camp meals you can buy that cost you absolute
     fortune and they don't even fill yet oh want to see that is absolutely unbelievable
+names_verified: true
 ---
 
 **[22:50]** oh yeah you know what time it is mind dingo wasy time and this week this is what we've got Auchentoshan single malt Scotch wasy and this one is the American Oak version there's no age statement to it so it's definitely not 12-year-old 10-year-old probably is not even 8-year-old cuz if it was it'd be telling you so it's a fairly young wasy but that doesn't make us another good there's some young wasis that is very nice.

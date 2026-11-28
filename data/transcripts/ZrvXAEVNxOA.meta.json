@@ -6,5 +6,77 @@
   "description": "#stealthcamping #camping #stealthcampinguk \n#wildcamping #comedy #wildcampinguk \n#adventure #whiskyreview\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\ude09 \nhttps://theblotoutdoorsmerch.myshopify.com/collections/all",
   "thumbnail": "https://i.ytimg.com/vi/ZrvXAEVNxOA/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Arrival and location",
+      "end_time": 44
+    },
+    {
+      "start_time": 44,
+      "title": "Scouting the campsite",
+      "end_time": 178
+    },
+    {
+      "start_time": 178,
+      "title": "Uncovering the rubbish",
+      "end_time": 323
+    },
+    {
+      "start_time": 323,
+      "title": "Settling into the hut",
+      "end_time": 694
+    },
+    {
+      "start_time": 694,
+      "title": "Whiskey and man flu",
+      "end_time": 911
+    },
+    {
+      "start_time": 911,
+      "title": "Ordering food",
+      "end_time": 1109
+    },
+    {
+      "start_time": 1109,
+      "title": "Beer and editing",
+      "end_time": 1574
+    },
+    {
+      "start_time": 1574,
+      "title": "Nighttime car park scene",
+      "end_time": 1990
+    },
+    {
+      "start_time": 1990,
+      "title": "Draining the lizard",
+      "end_time": 2327
+    },
+    {
+      "start_time": 2327,
+      "title": "Food arrives and rant",
+      "end_time": 2888
+    },
+    {
+      "start_time": 2888,
+      "title": "Eating the takeaway",
+      "end_time": 3574
+    },
+    {
+      "start_time": 3574,
+      "title": "Subscriber appreciation",
+      "end_time": 3729
+    },
+    {
+      "start_time": 3729,
+      "title": "Whiskey review",
+      "end_time": 4244
+    },
+    {
+      "start_time": 4244,
+      "title": "Morning packing up",
+      "end_time": 4480
+    }
+  ]
 }

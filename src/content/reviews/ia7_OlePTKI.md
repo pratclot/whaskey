@@ -33,6 +33,7 @@ items:
     nutty notes, though some found it quite harsh.
   verdict_quote: A five? If I mixed it with Pepsi Max... I would give it an eight...
     I'll give it a five cuz there's room for improvement.
+names_verified: true
 ---
 
 **[16:57]** Just getting on with the hard stuff, folks. Bunnahabhain, I think that's how you say it. I'll give the legends who sent me the drinks and all the stuff a big shout-out very soon.

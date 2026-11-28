@@ -56,8 +56,8 @@ items:
     meal, but piping hot on a cold stealth camp.
   verdict_quote: I'm not going to say it was great — it wasn't — but it filled a hole
     and did the job behind the advertising boards!
+names_verified: true
 ---
-
 
 ## Tasting Transcript Excerpt
 

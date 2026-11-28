@@ -6,5 +6,72 @@
   "description": "#wildcamping #beachcamping #greatoutdoors \n#wildcampinguk #beachcamp #getoutside \n#hikingandcamping #stealthcamping \n#camping #whiskyreview\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\ude09 \nhttps://theblotoutdoorsmerch.myshopify.com/collections/all",
   "thumbnail": "https://i.ytimg.com/vi/nmCu4_shgIc/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Introduction and setup",
+      "end_time": 230
+    },
+    {
+      "start_time": 230,
+      "title": "Site selection",
+      "end_time": 376
+    },
+    {
+      "start_time": 376,
+      "title": "Pre-camp exploration",
+      "end_time": 525
+    },
+    {
+      "start_time": 525,
+      "title": "Camping tips",
+      "end_time": 779
+    },
+    {
+      "start_time": 779,
+      "title": "Gear and supplies",
+      "end_time": 1188
+    },
+    {
+      "start_time": 1188,
+      "title": "Evening relaxation",
+      "end_time": 1321
+    },
+    {
+      "start_time": 1321,
+      "title": "Football and celebration",
+      "end_time": 1598
+    },
+    {
+      "start_time": 1598,
+      "title": "Whisky review part one",
+      "end_time": 1790
+    },
+    {
+      "start_time": 1790,
+      "title": "More football talk",
+      "end_time": 2120
+    },
+    {
+      "start_time": 2120,
+      "title": "Whisky review part two",
+      "end_time": 2426
+    },
+    {
+      "start_time": 2426,
+      "title": "Whisky review conclusion",
+      "end_time": 3055
+    },
+    {
+      "start_time": 3055,
+      "title": "Cooking dinner",
+      "end_time": 3398
+    },
+    {
+      "start_time": 3398,
+      "title": "Packing up and departure",
+      "end_time": 3599
+    }
+  ]
 }

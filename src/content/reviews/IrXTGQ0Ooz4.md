@@ -34,6 +34,7 @@ items:
     a strong, zesty, bitter grapefruit finish with a gentle spice kick.
   verdict_quote: I'm going to give this Henstone Distillery single malt whisky...
     a nine out of 10 dingo from this man dingo.
+names_verified: true
 ---
 
 **[47:44]** Right, oh yes my spam dingo, you know what time it is, it's whisky time! I'll just pull this camera a little bit further towards me because the wind might hit the back of the camera. Here we go, got the old famous snifferooni, my mandy dingles, and we have got this — never heard of it before, it's actually a whisky from Shropshire! Yeah, I'm in Bonnie Scotland all the weeks and weeks and months and months I have Scotch whisky, and now I'm up in Bonnie Scotland and I've got a whisky from Shropshire, so that's just the way it goes my fun sexualities... 

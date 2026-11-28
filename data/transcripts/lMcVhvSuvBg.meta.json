@@ -6,5 +6,37 @@
   "description": "#urbancamping #stealthcamping #wildcamping  #stealthcampingalliance #wildcampinguk #adventure #stealth #stealthurbancamping #secretcamping #stealthcampinguk\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\udc4d \nhttps://theblotoutdoorsmerch.myshopify.com/collections/all",
   "thumbnail": "https://i.ytimg.com/vi/lMcVhvSuvBg/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Introduction",
+      "end_time": 24
+    },
+    {
+      "start_time": 24,
+      "title": "Old stealth camping spot",
+      "end_time": 141
+    },
+    {
+      "start_time": 141,
+      "title": "Reflections on the camp",
+      "end_time": 281
+    },
+    {
+      "start_time": 281,
+      "title": "Bloopers and banter",
+      "end_time": 353
+    },
+    {
+      "start_time": 353,
+      "title": "Whiskey review",
+      "end_time": 632
+    },
+    {
+      "start_time": 632,
+      "title": "Conclusion and plans",
+      "end_time": 1000
+    }
+  ]
 }

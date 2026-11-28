@@ -10,8 +10,7 @@ episode_summary: The host goes wild camping near Scales Tarn under Blencathra in
   Lake District, hikes to the summit, cooks a rump steak meal, and reviews a cheap
   supermarket blended scotch whisky.
 items:
-- name: Cragganmore (Sainsbury's Own Brew Blended Scotch Whisky - Parodied as 'Crag
-    and Glen')
+- name: Crag and Glen Blended Scotch Whisky
   category: Whisky
   brand_or_distillery: Sainsbury's
   region_or_style: Blended Scotch Whisky
@@ -34,6 +33,7 @@ items:
     of gloss paint.
   verdict_quote: Kag and Glen blended Scotch whaskey... I'm only going to give that
     a three out of 10 as well.
+names_verified: true
 ---
 
 **[46:32]** oh yes mandingos you know what time it is whaskey time and this is what we've got this week Crag and Glen that even sound [__] doesn't it cracking clean blended Scotch whaskey three year old matured in oak casks i-i b it is yes distilled and bottled in Scotland 40 plus Center this is Sainsbury's Own Brew and let's get popped in the old famous CB dingo M dingo oh yes oh you not make sense we have got a good few measures left for the world famous whaskey review and let's get the old big roone quite a mild smell to be honest some of the cheaper ones have been harsher straight away in the old sniff dingo with my Nostradamus maybe a little bit nutty hold on I'm getting like a like Emulsion you know when you're painting the walls in your house like a painy Emulsion smell that's not a good start... 

@@ -32,6 +32,7 @@ items:
     hearty finish.
   verdict_quote: I'm going to give that just a rocksteady a bebop and rocksteady eight
     a straight eight out of 10 dingo.
+names_verified: true
 ---
 
 **[47:54]** You know what time it is. It's washy time. And this is what we have got this week. Arran from the Isle of Arran single malt Scotch washy kindly bought for me from my stepdaughter Demi and her boyfriend Lee. Arran 10-year-old single malt Scotch washy.

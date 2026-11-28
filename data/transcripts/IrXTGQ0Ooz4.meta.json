@@ -6,5 +6,77 @@
   "description": "#wildcampingscotland #wildcampinguk \n#wildcamping #adventure #hiking #backpacking \n#whiskyreview #camping #stealthcamping\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\ude09 \nhttps://theblotoutdoorsmerch.myshopify.com/collections/all",
   "thumbnail": "https://i.ytimg.com/vi/IrXTGQ0Ooz4/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Introduction",
+      "end_time": 45
+    },
+    {
+      "start_time": 45,
+      "title": "Journey to Fast Castle",
+      "end_time": 304
+    },
+    {
+      "start_time": 304,
+      "title": "Unfortunate fall",
+      "end_time": 448
+    },
+    {
+      "start_time": 448,
+      "title": "Setting up camp",
+      "end_time": 679
+    },
+    {
+      "start_time": 679,
+      "title": "Initial relaxation",
+      "end_time": 1068
+    },
+    {
+      "start_time": 1068,
+      "title": "Setup and drinks",
+      "end_time": 1428
+    },
+    {
+      "start_time": 1428,
+      "title": "Evening reflections",
+      "end_time": 2085
+    },
+    {
+      "start_time": 2085,
+      "title": "Night wind",
+      "end_time": 2351
+    },
+    {
+      "start_time": 2351,
+      "title": "Factory stories",
+      "end_time": 2597
+    },
+    {
+      "start_time": 2597,
+      "title": "Preparing for meal",
+      "end_time": 2865
+    },
+    {
+      "start_time": 2865,
+      "title": "Whisky review",
+      "end_time": 3423
+    },
+    {
+      "start_time": 3423,
+      "title": "Cooking steak dinner",
+      "end_time": 3821
+    },
+    {
+      "start_time": 3821,
+      "title": "Morning routine",
+      "end_time": 3948
+    },
+    {
+      "start_time": 3948,
+      "title": "Packing up and conclusion",
+      "end_time": 4096
+    }
+  ]
 }

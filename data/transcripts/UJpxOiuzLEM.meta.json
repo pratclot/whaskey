@@ -6,5 +6,57 @@
   "description": "#lakedistrict #wildcamping #hiking #adventure #wildcampinguk #hikinguk #stealthcamping #stealthcampingalliance #stormcamping #scary #storm \n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\udc4d \nhttps://theblotoutdoorsmerch.myshopify.com/collections/all",
   "thumbnail": "https://i.ytimg.com/vi/UJpxOiuzLEM/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Arrival and intro",
+      "end_time": 92
+    },
+    {
+      "start_time": 92,
+      "title": "Hiking to campsite",
+      "end_time": 298
+    },
+    {
+      "start_time": 298,
+      "title": "Setting up camp",
+      "end_time": 420
+    },
+    {
+      "start_time": 420,
+      "title": "Securing the tent",
+      "end_time": 581
+    },
+    {
+      "start_time": 581,
+      "title": "Food and drink prep",
+      "end_time": 722
+    },
+    {
+      "start_time": 722,
+      "title": "Evening activities",
+      "end_time": 851
+    },
+    {
+      "start_time": 851,
+      "title": "Visiting friends",
+      "end_time": 999
+    },
+    {
+      "start_time": 999,
+      "title": "Whiskey review",
+      "end_time": 1465
+    },
+    {
+      "start_time": 1465,
+      "title": "A difficult night",
+      "end_time": 1716
+    },
+    {
+      "start_time": 1716,
+      "title": "Packing up and conclusion",
+      "end_time": 1922
+    }
+  ]
 }

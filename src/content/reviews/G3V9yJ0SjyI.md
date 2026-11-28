@@ -34,6 +34,7 @@ items:
     taste, followed by a dry fruit finish of sultanas.
   verdict_quote: I'm going to give that penduring sherry wood a very very good 8.5
     out of 10 which is fantastic
+names_verified: true
 ---
 
 **[12:13]** I've just came in the tent to warm up a bit getting a little bit chilly on the old way man oh man slay your words or what start again.  

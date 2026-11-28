@@ -6,5 +6,52 @@
   "description": "#wildcamping #hiking #camping #comedy \n#hikingandcamping #wildcampinguk #burgers \n#stealthcamping #whiskyreview #adventure\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\ude09\nhttps://theblotoutdoorsmerch.myshopify.com/collections/all\n\nHere's the link for my Facebook page:\nhttps://www.facebook.com/share/1CRmz8CyHF/\n\nHere's the link for my Instagram account:\nhttps://www.instagram.com/blot.outdoors.show.official?igsh=ejBsYjZmem82ZHRr",
   "thumbnail": "https://i.ytimg.com/vi/kxWXYOK2f9c/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Arrival at Dufton Pike",
+      "end_time": 242
+    },
+    {
+      "start_time": 242,
+      "title": "Setting up the campsite",
+      "end_time": 484
+    },
+    {
+      "start_time": 484,
+      "title": "Exploring the summit",
+      "end_time": 931
+    },
+    {
+      "start_time": 931,
+      "title": "Evening camp preparations",
+      "end_time": 1450
+    },
+    {
+      "start_time": 1450,
+      "title": "Weather and camp life",
+      "end_time": 1938
+    },
+    {
+      "start_time": 1938,
+      "title": "Subscriber prize draw",
+      "end_time": 2431
+    },
+    {
+      "start_time": 2431,
+      "title": "Whiskey review",
+      "end_time": 2862
+    },
+    {
+      "start_time": 2862,
+      "title": "Dinner and evening wrap",
+      "end_time": 3125
+    },
+    {
+      "start_time": 3125,
+      "title": "Morning departure",
+      "end_time": 3363
+    }
+  ]
 }

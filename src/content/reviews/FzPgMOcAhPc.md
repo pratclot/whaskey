@@ -87,6 +87,7 @@ items:
     aftertaste of gingerbread.
   verdict_quote: Very good and for a very good price... a very very good 7.7 out of
     10.
+names_verified: true
 ---
 
 **[10:13]** Oh yes mandingos Mrs blot are you ready to try some of Sunderland's finest one star cuisine? First I'm gonna try this dodgy looking burger. That's not the greatest thing I've ever set my eyes on, it just looks like your typical burger from a burger van. But although it doesn't look great, it actually tastes really nice!  

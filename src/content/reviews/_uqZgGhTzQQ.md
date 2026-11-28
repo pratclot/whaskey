@@ -51,6 +51,7 @@ items:
     burnt wood on the palate balanced by unexpected smoothness and a subtle nuttiness.
   verdict_quote: i'm gonna give that a very good eight out of ten beautiful i'll definitely
     buy that again
+names_verified: true
 ---
 
 **[11:42]** whiskey time guys what i've got this time is this laphroaig isla 10 year old single malt scotch whisky never had it before looking forward to trying it

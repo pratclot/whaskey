@@ -6,5 +6,42 @@
   "description": "#wildcampinguk  #hiking  #lakedistrict\n#whiskyreview",
   "thumbnail": "https://i.ytimg.com/vi/pxmSW5xoYHk/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Starting the hike",
+      "end_time": 146
+    },
+    {
+      "start_time": 146,
+      "title": "Ascent to the summit",
+      "end_time": 408
+    },
+    {
+      "start_time": 408,
+      "title": "Setting up camp",
+      "end_time": 625
+    },
+    {
+      "start_time": 625,
+      "title": "Giveaway details",
+      "end_time": 772
+    },
+    {
+      "start_time": 772,
+      "title": "Cooking dinner",
+      "end_time": 1135
+    },
+    {
+      "start_time": 1135,
+      "title": "Whiskey review",
+      "end_time": 1472
+    },
+    {
+      "start_time": 1472,
+      "title": "Morning departure",
+      "end_time": 1764
+    }
+  ]
 }

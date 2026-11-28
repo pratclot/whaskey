@@ -33,9 +33,9 @@ items:
     low hygiene score.
   verdict_quote: I'm going to give it a very strong not Sensational but very strong
     8.5 out of 10 dingo.
-- name: Royal Cup Port Whisky
+- name: Rugenbräu Swiss Port Whisky
   category: Whisky
-  brand_or_distillery: Royal Cup
+  brand_or_distillery: Rugenbräu
   region_or_style: Blended Whisky / Swiss Whisky
   abv: ''
   timestamp_seconds: 2067
@@ -54,6 +54,7 @@ items:
     harsh, though a subtle hint of pear emerges on the finish.
   verdict_quote: I'm going to give that Royal Cup port wasy from Valencia in Switzerland
     I'm going to give it a 4.5 out of 10 dingo.
+names_verified: true
 ---
 
 **[11:06]** Here will go I'm going to try one of these first these salt and chili spare ribs that's lovely and soft. Well what a good start this is guys very nice indeed really tasty you can say that made it's just falling off there guys.

@@ -33,6 +33,7 @@ items:
     drop candy, and vanilla with a warm finish.
   verdict_quote: I'll give it a 7.5. 7.5 for me it's like a strong whiskey but a nice
     strong whiskey does that make sense?
+names_verified: true
 ---
 
 **[18:29]** What time is it mandingos? This week, this is what we've got: Bushmills Irish Whiskey, kindly given to us from Alex Connolly. There's only enough left for the review as usual.

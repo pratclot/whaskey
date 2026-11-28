@@ -68,6 +68,7 @@ items:
     woodiness, delivering a powerful cask-strength kick backed by a smooth, lingering
     warmth.
   verdict_quote: a very very good 8.5 out of 10 dingo
+names_verified: true
 ---
 
 **[37:06]** hell yes M dinkles you know what time it is it's wasy time and this is what we've got this week make a skid mark sorry guys make us Mark Cas strength Kentucky stet bourbon... **[38:29]** let's get this popped in the old famous C Dingle... **[39:39]** oh there's Lads of vanilla in there certainly is Lords of Vanilla Ice Ice nice a few spices yeah warm my old nost nostradam up... **[41:24]** quite tarty quite Rich a strong taste but it's got like a bit of a kick of it there's lots of spices... **[46:01]** time for the score ding yeah I'm going to give it very respectable better than average... 8.5 out of 10 dingo Mingos M's mark from Steve from Southampton you better believe it 55 plus plus there it's 8.5 from this Ming go

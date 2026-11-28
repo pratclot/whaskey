@@ -71,6 +71,7 @@ items:
   tasting_notes: Piping hot Thai style noodles mixed with Morrisons savers hot and
     spicy chicken chunks.
   verdict_quote: That is very nice. It's piping hot.
+names_verified: true
 ---
 
 **[05:48]** Oh, that's not bad. Singha, is that what it's called? Singha Thai beer from Bangkok, Thailand. Endorsed by the one and only King John. You better believe it.

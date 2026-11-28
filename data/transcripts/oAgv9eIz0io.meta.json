@@ -6,5 +6,52 @@
   "description": "#wildcamping #hikingandcamping #camping \n#wildcampinguk #raincamping #stealthcamping \n#whiskyreview #comedy \n#lakedistrict #stealthcampinguk\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\ude09\nhttps://theblotoutdoorsmerch.myshopify.com/collections/all",
   "thumbnail": "https://i.ytimg.com/vi/oAgv9eIz0io/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Hiking to the campsite",
+      "end_time": 305
+    },
+    {
+      "start_time": 305,
+      "title": "Setting up camp",
+      "end_time": 536
+    },
+    {
+      "start_time": 536,
+      "title": "Campground snacks and drinks",
+      "end_time": 1051
+    },
+    {
+      "start_time": 1051,
+      "title": "Evening drinks and chat",
+      "end_time": 1558
+    },
+    {
+      "start_time": 1558,
+      "title": "More drinks and night views",
+      "end_time": 2075
+    },
+    {
+      "start_time": 2075,
+      "title": "Whiskey review prep",
+      "end_time": 2404
+    },
+    {
+      "start_time": 2404,
+      "title": "World famous whiskey review",
+      "end_time": 2953
+    },
+    {
+      "start_time": 2953,
+      "title": "Cooking and eating dinner",
+      "end_time": 3381
+    },
+    {
+      "start_time": 3381,
+      "title": "Morning pack up and departure",
+      "end_time": 3578
+    }
+  ]
 }

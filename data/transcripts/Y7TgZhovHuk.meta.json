@@ -6,5 +6,37 @@
   "description": "#stealthcamping  #wildcampinguk #stealthcampingalliance #stealth #wildcamping #secretcamping #adventure #stealthurbancamping #stevewallis #stealthcampinguk #secretcamping",
   "thumbnail": "https://i.ytimg.com/vi/Y7TgZhovHuk/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Finding a stealth camp spot",
+      "end_time": 223
+    },
+    {
+      "start_time": 223,
+      "title": "Gear and setup overview",
+      "end_time": 355
+    },
+    {
+      "start_time": 355,
+      "title": "Whiskey and site exploration",
+      "end_time": 686
+    },
+    {
+      "start_time": 686,
+      "title": "Cooking dinner",
+      "end_time": 1037
+    },
+    {
+      "start_time": 1037,
+      "title": "Whiskey review",
+      "end_time": 1386
+    },
+    {
+      "start_time": 1386,
+      "title": "Morning departure",
+      "end_time": 1459
+    }
+  ]
 }

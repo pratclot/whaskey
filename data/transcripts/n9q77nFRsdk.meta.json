@@ -6,5 +6,52 @@
   "description": "#stealthcamping #wildcamping #getoutside #backpacking #beachcamping #camping #stealthcampinguk\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\ude09\nhttps://theblotoutdoorsmerch.myshopify.com/collections/all\n\nHere's the link for Brown's Biltong \ud83d\ude0b\nhttps://brownsbiltong.co.uk/mandingo",
   "thumbnail": "https://i.ytimg.com/vi/n9q77nFRsdk/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Arrival at the beach",
+      "end_time": 230
+    },
+    {
+      "start_time": 230,
+      "title": "Setting up camp",
+      "end_time": 425
+    },
+    {
+      "start_time": 425,
+      "title": "City overview",
+      "end_time": 740
+    },
+    {
+      "start_time": 740,
+      "title": "Stealth checks",
+      "end_time": 1121
+    },
+    {
+      "start_time": 1121,
+      "title": "Gear and drama",
+      "end_time": 1754
+    },
+    {
+      "start_time": 1754,
+      "title": "Late night antics",
+      "end_time": 2306
+    },
+    {
+      "start_time": 2306,
+      "title": "Cooking dinner",
+      "end_time": 2877
+    },
+    {
+      "start_time": 2877,
+      "title": "Whiskey review",
+      "end_time": 3471
+    },
+    {
+      "start_time": 3471,
+      "title": "Packing up and departing",
+      "end_time": 3665
+    }
+  ]
 }

@@ -6,5 +6,97 @@
   "description": "#woodlandcamping #stealthcamping #wildcamping #stealthcampingalliance #wildcampinguk #adventure #stealth #stealthurbancamping #secretcamping #stealthcampinguk\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\udc4d\nhttps://theblotoutdoorsmerch.myshopify.com/collections/all\n\nHere's the link for Brown's Biltong, remember to use the code \"mandingo\" for your discount \ud83d\ude09\nhttps://brownsbiltong.co.uk/\n\nHere's the link for Andy Wardles channel \nhttps://youtube.com/@AndyWardle\n\nHere's the link for Haze Outdoors \nhttps://youtube.com/@HazeOutdoors\n\nHere's the link for Joe Robinets channel \nhttps://youtube.com/@josephallen19\n\nHere's the link for Tony Nobles channel \nhttps://youtube.com/@TheOutdoorswithTonyNoble\n\nHere's the link for D.C. Outdoors \nhttps://youtube.com/@biglad20101\n\nHere's the link for Sam Bananas channel \nhttps://youtube.com/@CampingwithSamBananas",
   "thumbnail": "https://i.ytimg.com/vi/sKo4xWPU6sE/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Intro",
+      "end_time": 44
+    },
+    {
+      "start_time": 44,
+      "title": "Welcome",
+      "end_time": 368
+    },
+    {
+      "start_time": 368,
+      "title": "Finding a campsite",
+      "end_time": 477
+    },
+    {
+      "start_time": 477,
+      "title": "The Fall Guy",
+      "end_time": 616
+    },
+    {
+      "start_time": 616,
+      "title": "The Woods",
+      "end_time": 738
+    },
+    {
+      "start_time": 738,
+      "title": "Candy Go",
+      "end_time": 768
+    },
+    {
+      "start_time": 768,
+      "title": "What got Mick into camping",
+      "end_time": 1311
+    },
+    {
+      "start_time": 1311,
+      "title": "What YouTube channels inspired me",
+      "end_time": 1814
+    },
+    {
+      "start_time": 1814,
+      "title": "I like shiku",
+      "end_time": 1879
+    },
+    {
+      "start_time": 1879,
+      "title": "Stretching",
+      "end_time": 2071
+    },
+    {
+      "start_time": 2071,
+      "title": "World Famous",
+      "end_time": 2121
+    },
+    {
+      "start_time": 2121,
+      "title": "Tom Cruise",
+      "end_time": 2225
+    },
+    {
+      "start_time": 2225,
+      "title": "Whisky Tasting",
+      "end_time": 2584
+    },
+    {
+      "start_time": 2584,
+      "title": "Little Mick",
+      "end_time": 2682
+    },
+    {
+      "start_time": 2682,
+      "title": "Morning Coffee",
+      "end_time": 2894
+    },
+    {
+      "start_time": 2894,
+      "title": "Pork Chop",
+      "end_time": 3023
+    },
+    {
+      "start_time": 3023,
+      "title": "Breakfast",
+      "end_time": 3389
+    },
+    {
+      "start_time": 3389,
+      "title": "Outro",
+      "end_time": 3480
+    }
+  ]
 }

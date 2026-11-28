@@ -6,5 +6,47 @@
   "description": "#camping #wildcamping #lakedistrict #backpacking #getoutside #outdoorcamping \n#hiking #wildcampinguk #stealthcamping \n#whiskyreview\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\ude09\nhttps://theblotoutdoorsmerch.myshopify.com/collections/all\n\nHere's the link for Nortent:\nhttps://nortent.com/products/nortent-vern1a-one-person-backpacking-tent",
   "thumbnail": "https://i.ytimg.com/vi/YYqBzeQAHzw/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Arrival and setup",
+      "end_time": 193
+    },
+    {
+      "start_time": 193,
+      "title": "Tent setup and review",
+      "end_time": 471
+    },
+    {
+      "start_time": 471,
+      "title": "Provisions and campsite tour",
+      "end_time": 884
+    },
+    {
+      "start_time": 884,
+      "title": "Chilling at the campsite",
+      "end_time": 1466
+    },
+    {
+      "start_time": 1466,
+      "title": "Wine review and evening chat",
+      "end_time": 1856
+    },
+    {
+      "start_time": 1856,
+      "title": "Whiskey tasting session",
+      "end_time": 2279
+    },
+    {
+      "start_time": 2279,
+      "title": "Morning routine",
+      "end_time": 2538
+    },
+    {
+      "start_time": 2538,
+      "title": "Packing up and departure",
+      "end_time": 2895
+    }
+  ]
 }

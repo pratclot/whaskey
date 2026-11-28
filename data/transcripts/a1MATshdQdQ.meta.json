@@ -6,5 +6,62 @@
   "description": "#wildcamping #hiking #hikingandcamping \n#adventure #comedy #backpacking #camping \n#stealthcamping #wildcampinguk #whiskyreview\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\ude09 \nhttps://theblotoutdoorsmerch.myshopify.com/collections/all",
   "thumbnail": "https://i.ytimg.com/vi/a1MATshdQdQ/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Heading to Angletarn",
+      "end_time": 281
+    },
+    {
+      "start_time": 281,
+      "title": "Setting up camp in rain",
+      "end_time": 419
+    },
+    {
+      "start_time": 419,
+      "title": "Gear and food overview",
+      "end_time": 736
+    },
+    {
+      "start_time": 736,
+      "title": "Checking on the lads",
+      "end_time": 900
+    },
+    {
+      "start_time": 900,
+      "title": "Views and social time",
+      "end_time": 1245
+    },
+    {
+      "start_time": 1245,
+      "title": "Music and chatting",
+      "end_time": 1700
+    },
+    {
+      "start_time": 1700,
+      "title": "Future plans and chats",
+      "end_time": 1845
+    },
+    {
+      "start_time": 1845,
+      "title": "Whiskey review",
+      "end_time": 2476
+    },
+    {
+      "start_time": 2476,
+      "title": "Cooking dinner",
+      "end_time": 2690
+    },
+    {
+      "start_time": 2690,
+      "title": "Late night meal and thanks",
+      "end_time": 3042
+    },
+    {
+      "start_time": 3042,
+      "title": "Morning packing and departure",
+      "end_time": 3299
+    }
+  ]
 }

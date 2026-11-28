@@ -113,6 +113,7 @@ items:
     a hint of zesty lemon citrus, and undertones of brandy.
   verdict_quote: the King's Ginger like a ginger liqueur with a little bit of a brandy
     thing going on I really enjoy that... solid 8.2 out of 10
+names_verified: true
 ---
 
 **[11:55]** we'll give it a bash there you go the old blaines oh that is not good at all I'm not lying it's got that taste... straight in the bin diesel for them.  

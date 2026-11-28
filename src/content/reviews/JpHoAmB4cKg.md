@@ -33,6 +33,7 @@ items:
     mild, and complex flavor featuring cognac influence, walnuts, coffee, dark fruits,
     and a hint of chocolate with virtually no burn.
   verdict_quote: I'm going to give it a big fat solid nine out of 10 dingo man dingles.
+names_verified: true
 ---
 
 **[45:04]** oh yes Ming goes you know what time it is wasy time and this is what we've got this Weg Glenn Maria spear side single malt scotch wasy and this one is the Twisted Vine cognac Cask version as you can see as usual on the blot door sh there isn't much left and that's just the way it goes guys you better believe it is how then let's get this popped in the old famous CB dingo mandingos oh yes I tell you what though there're still a a decent little meeron in let's get the old bakeron in it right like a dried fruit type of smell like prunes raisins you better believe it spillage on the old Bon maybe like a coffee like a like a freshly brewed John coffee I like a nuttiness to it.

@@ -6,5 +6,77 @@
   "description": "#stealthcamping #rooftopcamping #stealthcamp \n#wildcamping #comedy #camping #rooftop \n#stealthcampinguk #adventure #wildcampinguk\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\ude09\nhttps://theblotoutdoorsmerch.myshopify.com/collections/all",
   "thumbnail": "https://i.ytimg.com/vi/XTmVsS6QLkg/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Planning the mission",
+      "end_time": 102
+    },
+    {
+      "start_time": 102,
+      "title": "Approaching the target",
+      "end_time": 270
+    },
+    {
+      "start_time": 270,
+      "title": "Climbing onto the roof",
+      "end_time": 429
+    },
+    {
+      "start_time": 429,
+      "title": "Setting up camp",
+      "end_time": 718
+    },
+    {
+      "start_time": 718,
+      "title": "Exploring the rooftop",
+      "end_time": 966
+    },
+    {
+      "start_time": 966,
+      "title": "Selecting the spot",
+      "end_time": 1159
+    },
+    {
+      "start_time": 1159,
+      "title": "Looking back on adventures",
+      "end_time": 1850
+    },
+    {
+      "start_time": 1850,
+      "title": "Waiting for dark",
+      "end_time": 2110
+    },
+    {
+      "start_time": 2110,
+      "title": "Evening meal and drinks",
+      "end_time": 2523
+    },
+    {
+      "start_time": 2523,
+      "title": "The thrill of the spot",
+      "end_time": 2964
+    },
+    {
+      "start_time": 2964,
+      "title": "Dinner on the roof",
+      "end_time": 3337
+    },
+    {
+      "start_time": 3337,
+      "title": "Reflecting and thanking",
+      "end_time": 3683
+    },
+    {
+      "start_time": 3683,
+      "title": "Morning rum review",
+      "end_time": 4083
+    },
+    {
+      "start_time": 4083,
+      "title": "Descending and conclusion",
+      "end_time": 4202
+    }
+  ]
 }

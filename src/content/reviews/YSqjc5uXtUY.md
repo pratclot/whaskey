@@ -49,7 +49,7 @@ items:
   tasting_notes: A session IPA packed with tropical fruit, pine, and citrus notes.
   verdict_quote: Virtuous Session IPA 4.5 placenta this one Sears well it's got tropical
     fruit again Pine Citrus Ponsky sounds very rice
-- name: Poronui Passion Fruit IPA
+- name: Pogo Passion Fruit IPA
   category: Beer & Ale
   brand_or_distillery: Wild Beer Co
   region_or_style: Passion Fruit IPA
@@ -89,6 +89,7 @@ items:
     developing.
   verdict_quote: Down the Hatch guys I'm going to give it as straight as a die seven
     out of 10 dingo mingles
+names_verified: true
 ---
 
 **[30:13]** First cingo guys of this camping trip from the North Brewing Company this is Open Space quite fitting as I am up here in an open space you better believe it manding go 4.5 plus center oh yes let's give it a quick bsh oh that's lovely that that is very nice. **[1:05:07]** Oh yes guys you know what time it is it's Brandy time Brandy feeding ... Soberano Spanish Sherry Cask 12-year-old Brandy ... let's get on with the tear and mles oh yeah that's all right quite smooth deras here velvety ... like a treacle toffee type of testerone ... nice sweet cherry flavor ... Down the Hatch guys I'm going to give it as straight as a die seven out of 10 dingo mingles.

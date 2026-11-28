@@ -32,6 +32,7 @@ items:
     of wood. On the palate, it tastes like burnt wood with lovely coffee and chocolate
     flavors, proving much more complex than expected.
   verdict_quote: I'm gonna give that shape dip a very decent seven out of ten.
+names_verified: true
 ---
 
 **[27:02]** Whisky review coming up next guys. Sheep dip blended scotch waskey. Oh yeah, you know what time it is, mandingos. Whiskey time.

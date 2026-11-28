@@ -35,6 +35,7 @@ items:
     going down exceptionally smooth.
   verdict_quote: I have really enjoyed that tonight and I'm going to give that a 9.1
     out of 10 ding Mandingo yes you better believe I am
+names_verified: true
 ---
 
 **[27:08]** yes you know what time it is Mandingo wasy time and this is what we've got this week the Balvenie double wood 12-year-old single malt scotch wasy kindly sent to me from from I don't know who I got no name but if you're watching you are an absolute Legend and is very much appreciated you better believe it is and let's get this popped in the all famous CB dingo Mingo oh yes a lovely helping there of top quality wasy and let's get the old Sharoni in oh like a strong Sherry smell there straight away guys oh and I like a little bit Sherry as well let's get that swirled around there get the old bakeron buy there's oiness about it yes we were expecting that it is called the double wood a woody ory smell thing going on guys and a nice little garoon of honey as well yeah definitely honey in there but I got a good waft of Sherry and a ory wood thing going on. 

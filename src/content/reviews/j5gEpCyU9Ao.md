@@ -53,9 +53,9 @@ items:
     thick slices of bacon, standard cafe sausages, hash browns, and a perfectly cooked
     fried egg with a runny yolk.
   verdict_quote: I'm going to have to give it a very good 9 out of 10.
-- name: Spice King Blended Malt Whisky
+- name: Spice King Blended Malt Scotch Whisky
   category: Whisky
-  brand_or_distillery: King's Barns Distillery
+  brand_or_distillery: Wemyss Malts
   region_or_style: Blended Malt Scotch Whisky
   abv: ''
   timestamp_seconds: 1585
@@ -74,6 +74,7 @@ items:
     undertone, fading away relatively quickly for an approachable finish.
   verdict_quote: I'm going to give that a very good 8.9 out of 10... I would definitely
     buy a bottle of that to go in my collection.
+names_verified: true
 ---
 
 **[08:04]** Right, I'm getting stuck right in. I mean, we go straight for the pork sword—pork sarnie, I mean. So I'm having some chips with gravy on, they're nice and hot. Oh, you old dripper-ooni, I love me leg. Thank you! Oh, look at that nice thick bit of pork, then chips. It's piping hot, nice thick pork. Well, let's see if it's nice and soft and tasty.

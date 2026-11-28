@@ -30,6 +30,7 @@ items:
     candy floss notes on the palate.
   verdict_quote: That's like got a spicy kick. Spicy toffee. Oh, that's like a sweet
     candy thing in there.
+names_verified: true
 ---
 
 **[39:49]** Yes my dingos. You know what time it is. It is time for the world famous was review. We have got Glenfiddich. This is like a special version experimental series. And this has been sent to me from a lovely couple by the name of Steven and Emma. **[40:50]** Oh, that's like got a spicy kick. Spicy toffee. Oh, that's like a sweet candy thing in there. Among I had to I said toffee. Did you say toffee? Like a sweet candy. Sweet candy. Like a candy floss. **[45:52]** What we going to give it, Mick? It's another bad job. Eight points on it. 8.5.

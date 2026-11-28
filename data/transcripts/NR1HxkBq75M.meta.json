@@ -6,5 +6,62 @@
   "description": "",
   "thumbnail": "https://i.ytimg.com/vi/NR1HxkBq75M/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Hiking to the spot",
+      "end_time": 310
+    },
+    {
+      "start_time": 310,
+      "title": "Setting up camp",
+      "end_time": 401
+    },
+    {
+      "start_time": 401,
+      "title": "Camp tour and drinks",
+      "end_time": 548
+    },
+    {
+      "start_time": 548,
+      "title": "Evening relaxation",
+      "end_time": 681
+    },
+    {
+      "start_time": 681,
+      "title": "Gear and food plan",
+      "end_time": 1090
+    },
+    {
+      "start_time": 1090,
+      "title": "Conversations and comedy",
+      "end_time": 1465
+    },
+    {
+      "start_time": 1465,
+      "title": "Cooking dinner",
+      "end_time": 1949
+    },
+    {
+      "start_time": 1949,
+      "title": "Dinner review",
+      "end_time": 2250
+    },
+    {
+      "start_time": 2250,
+      "title": "Whiskey tasting",
+      "end_time": 2815
+    },
+    {
+      "start_time": 2815,
+      "title": "Morning routine",
+      "end_time": 2928
+    },
+    {
+      "start_time": 2928,
+      "title": "Packing and wrap up",
+      "end_time": 3032
+    }
+  ]
 }

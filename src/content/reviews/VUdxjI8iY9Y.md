@@ -30,6 +30,7 @@ items:
   tasting_notes: Very strong moonshine with a distinct toffee, tangy citrus profile,
     hints of peanut butter, and a brandy-like finish.
   verdict_quote: It's a 6.5. I'm a mandingo.
+names_verified: true
 ---
 
 **[51:37]** Merry Christmas. Polish. Yeah. Moonshine. That's what I've been told it is. Polish moonshine. There's no name. Do you know what? Should we give this a name? What we're going to call it? Look at that. Let's call it soy boy moonshine. There you go. We are on the old soy boy moonshine tonight, guys. Given to me from Wayne Winney. There we go. Let's get the old bag of Rooney's. Let's just pour the drink back. Oh, it's got toffee. Oh, it's got See, no, I thought I wasn't going to get a sniff thing going there. I thought it was going to be as weak as piss. Toffee. Nutty. It is not caramel. I don't know if there's anything going on there. 

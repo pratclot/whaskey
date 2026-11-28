@@ -6,5 +6,57 @@
   "description": "#stealthcamping #stealthcamp #wildcamping \n#comedy #getoutside #camping #whiskyreview \n#stealthcampinguk #wildcampinguk #adventure\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\ude09 \nhttps://theblotoutdoorsmerch.myshopify.com/collections/all",
   "thumbnail": "https://i.ytimg.com/vi/EG8lBipTAtw/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Arrival and setup",
+      "end_time": 152
+    },
+    {
+      "start_time": 152,
+      "title": "Camp site tour",
+      "end_time": 389
+    },
+    {
+      "start_time": 389,
+      "title": "Reflections and channel chat",
+      "end_time": 899
+    },
+    {
+      "start_time": 899,
+      "title": "Philosophy and inclusivity",
+      "end_time": 1645
+    },
+    {
+      "start_time": 1645,
+      "title": "Dinner and snacking",
+      "end_time": 1857
+    },
+    {
+      "start_time": 1857,
+      "title": "Exploring the area",
+      "end_time": 2102
+    },
+    {
+      "start_time": 2102,
+      "title": "Personal life updates",
+      "end_time": 2638
+    },
+    {
+      "start_time": 2638,
+      "title": "Whiskey review",
+      "end_time": 3314
+    },
+    {
+      "start_time": 3314,
+      "title": "Spicy noodle challenge",
+      "end_time": 4161
+    },
+    {
+      "start_time": 4161,
+      "title": "Morning pack up",
+      "end_time": 4348
+    }
+  ]
 }

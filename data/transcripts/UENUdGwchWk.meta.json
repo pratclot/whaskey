@@ -6,5 +6,67 @@
   "description": "#wildcamping #hiking #getoutside #backpacking \n#wildcampinguk #lakedistrict #greatoutdoors \n#camping #stealthcamping #whiskyreview\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\ude09 \nhttps://theblotoutdoorsmerch.myshopify.com/collections/all",
   "thumbnail": "https://i.ytimg.com/vi/UENUdGwchWk/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Hiking up Castle Crag",
+      "end_time": 126
+    },
+    {
+      "start_time": 126,
+      "title": "Tribute at the summit",
+      "end_time": 372
+    },
+    {
+      "start_time": 372,
+      "title": "Setting up camp",
+      "end_time": 490
+    },
+    {
+      "start_time": 490,
+      "title": "Reviewing drinks and gear",
+      "end_time": 830
+    },
+    {
+      "start_time": 830,
+      "title": "Preparing evening food",
+      "end_time": 1056
+    },
+    {
+      "start_time": 1056,
+      "title": "Chilling at the summit",
+      "end_time": 1283
+    },
+    {
+      "start_time": 1283,
+      "title": "Midnight ramblings",
+      "end_time": 1581
+    },
+    {
+      "start_time": 1581,
+      "title": "Life story and reminiscing",
+      "end_time": 2533
+    },
+    {
+      "start_time": 2533,
+      "title": "World famous whiskey review",
+      "end_time": 3137
+    },
+    {
+      "start_time": 3137,
+      "title": "Cooking and eating dinner",
+      "end_time": 3672
+    },
+    {
+      "start_time": 3672,
+      "title": "Wind down and bedtime",
+      "end_time": 3757
+    },
+    {
+      "start_time": 3757,
+      "title": "Morning packing and hike out",
+      "end_time": 3968
+    }
+  ]
 }

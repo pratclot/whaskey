@@ -6,5 +6,67 @@
   "description": "#lakedistrict #wildcamping #hiking #berghaus \n#adventure #wildcampinguk #hikingadventures #hikinguk #camping  #cookingoutdoors\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\udc4d \nhttps://theblotoutdoorsmerch.myshopify.com/collections/all",
   "thumbnail": "https://i.ytimg.com/vi/O2lCpF6EEcE/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Introduction",
+      "end_time": 68
+    },
+    {
+      "start_time": 68,
+      "title": "Hiking up the fell",
+      "end_time": 255
+    },
+    {
+      "start_time": 255,
+      "title": "Setting up camp",
+      "end_time": 357
+    },
+    {
+      "start_time": 357,
+      "title": "Gear and food reveal",
+      "end_time": 585
+    },
+    {
+      "start_time": 585,
+      "title": "Afternoon walk",
+      "end_time": 751
+    },
+    {
+      "start_time": 751,
+      "title": "Evening relaxation",
+      "end_time": 927
+    },
+    {
+      "start_time": 927,
+      "title": "Live music",
+      "end_time": 1323
+    },
+    {
+      "start_time": 1323,
+      "title": "Whiskey review",
+      "end_time": 1650
+    },
+    {
+      "start_time": 1650,
+      "title": "Cooking dinner",
+      "end_time": 1916
+    },
+    {
+      "start_time": 1916,
+      "title": "Nighttime and bedtime",
+      "end_time": 2166
+    },
+    {
+      "start_time": 2166,
+      "title": "Morning packing",
+      "end_time": 2330
+    },
+    {
+      "start_time": 2330,
+      "title": "Conclusion",
+      "end_time": 2407
+    }
+  ]
 }

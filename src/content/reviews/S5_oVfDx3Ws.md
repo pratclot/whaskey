@@ -31,6 +31,7 @@ items:
     blend of traditional malty beer sweetness with distinct warm whisky undertones.
   verdict_quote: if you haven't tried it guys get some it's absolutely beautiful if
     you like beer... and if you like whiskey like I do perfect perfect
+names_verified: true
 ---
 
 **[08:57]** cheese mandingos oh we've got these first time we've ever had them Innis & Gunn Scottish beer and it's beautiful it's been stored in whiskey casks. When I was doing the Food review you're the deer I was in the village of shiny raw and this nice lad came over for a big crap on um called Andrew I'll eat Andrew meat and he was sin he was telling us to buy these he said have you ever tried Innis & Gunn. I said I've never even heard of them yet he said you've got to go and try them mate he said all the shops are selling them as their Sainsbury's Morrisons so I went Morrison's the deer and I got me and Mick two bottles each of this Innis & Gunn if you haven't tried it guys get some it's absolutely beautiful if you like beer if you like beer like Schmick does and if you like whiskey like I do perfect perfect.

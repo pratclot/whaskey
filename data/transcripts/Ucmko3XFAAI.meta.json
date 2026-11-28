@@ -6,5 +6,47 @@
   "description": "#stealthcamp #wildcamping #stealthcampinguk \n#bushcamp #wildcampinguk #getoutside \n#stealthcamping #camping\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\ude09 \nhttps://theblotoutdoorsmerch.myshopify.com/collections/all",
   "thumbnail": "https://i.ytimg.com/vi/Ucmko3XFAAI/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Arriving at the castle",
+      "end_time": 126
+    },
+    {
+      "start_time": 126,
+      "title": "Setting up the camp",
+      "end_time": 478
+    },
+    {
+      "start_time": 478,
+      "title": "Camp stories and dramas",
+      "end_time": 1349
+    },
+    {
+      "start_time": 1349,
+      "title": "Evening drinks and drama",
+      "end_time": 1841
+    },
+    {
+      "start_time": 1841,
+      "title": "Subscriber Q&A",
+      "end_time": 2316
+    },
+    {
+      "start_time": 2316,
+      "title": "Whisky review",
+      "end_time": 3012
+    },
+    {
+      "start_time": 3012,
+      "title": "Cooking dinner",
+      "end_time": 3511
+    },
+    {
+      "start_time": 3511,
+      "title": "Packing up and departing",
+      "end_time": 3712
+    }
+  ]
 }

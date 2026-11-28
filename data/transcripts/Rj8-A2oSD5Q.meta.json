@@ -6,5 +6,67 @@
   "description": "#englishbreakfast #food #foodchallenge #foodie #takeaway #nastyfood #yummy #ratemyplate #whiskyreview #whiskey\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\udc4d\nhttps://theblotoutdoorsmerch.myshopify.com/collections/all\n\nHere's the link for Nicks channel:\nhttps://youtube.com/@Thats_him_with_the_daft_hat?si=-erwowK0_9yycx_B",
   "thumbnail": "https://i.ytimg.com/vi/Rj8-A2oSD5Q/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Intro",
+      "end_time": 210
+    },
+    {
+      "start_time": 210,
+      "title": "Ordering",
+      "end_time": 395
+    },
+    {
+      "start_time": 395,
+      "title": "Unpacking",
+      "end_time": 462
+    },
+    {
+      "start_time": 462,
+      "title": "Car park",
+      "end_time": 536
+    },
+    {
+      "start_time": 536,
+      "title": "First bite",
+      "end_time": 793
+    },
+    {
+      "start_time": 793,
+      "title": "Black pudding",
+      "end_time": 808
+    },
+    {
+      "start_time": 808,
+      "title": "Black pudding review",
+      "end_time": 1003
+    },
+    {
+      "start_time": 1003,
+      "title": "Second bite",
+      "end_time": 1426
+    },
+    {
+      "start_time": 1426,
+      "title": "Strangest comments",
+      "end_time": 1543
+    },
+    {
+      "start_time": 1543,
+      "title": "The glove of selflove",
+      "end_time": 1693
+    },
+    {
+      "start_time": 1693,
+      "title": "Can I come camping with you",
+      "end_time": 1896
+    },
+    {
+      "start_time": 1896,
+      "title": "World Famous Whisky Review",
+      "end_time": 2324
+    }
+  ]
 }

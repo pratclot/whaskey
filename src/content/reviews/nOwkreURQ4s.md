@@ -52,6 +52,7 @@ items:
   tasting_notes: Chopped hot dogs simmered and bubbled away with Korean barbecue rice
     for a classic camp meal.
   verdict_quote: This will ding dong do for this Mandingo.
+names_verified: true
 ---
 
 **[38:31]** This week's whaskey review is gonna be Glen Keith, which has been kindly given to me from a legend by the name of John Parkman. Cheers, John, my main friend, very much appreciated. Single malt Scotch whisky, this is gonna be a good one, guys.

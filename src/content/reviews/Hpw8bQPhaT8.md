@@ -13,7 +13,7 @@ episode_summary: The host goes wild camping in Northumberland at the summit of H
 items:
 - name: Juice Forsyth
   category: Beer & Ale
-  brand_or_distillery: Siren Craft Brewery
+  brand_or_distillery: Brew York
   region_or_style: California IPA
   abv: 6.2%
   timestamp_seconds: 947
@@ -71,9 +71,9 @@ items:
     profile during the camping trip.
   verdict_quote: Citrus C and it is very citrusy that's my third cingle of this camping
     trip
-- name: Original Spiced Rum
+- name: Spiced Rum
   category: Spirits & Liqueur
-  brand_or_distillery: Robert Murray (Suffit Rum Company)
+  brand_or_distillery: ' Salcombe Distilling Co. '
   region_or_style: Spiced Rum
   abv: ''
   timestamp_seconds: 3515
@@ -92,6 +92,7 @@ items:
     finish.
   verdict_quote: I'm going to give that a steady coz I did enjoy it still I did enjoy
     it a street seven at of 10 dingo Mandingo
+names_verified: true
 ---
 
 **[15:47]** From The Brew York company Brewery I should say juice forye you can't beat a bit of bully oh very nice very nice indeed. I used to always love Bruce fory and Bullseye was always one of my favorite game shows... **[31:00]** 6.9% transmission 69er let's give it a taste I haven't tasted it yet I just popped it open... citrusy little bit hoppy quite sharp quite Norman sharp it's very nice... **[58:35]** I've done a review on one of your little bottles last week on a food review I'm doing this one tonight which is the sulfit rum spicero... M Rich very rich yeah compared to a wasy very rich... I'm going to give that a steady coz I did enjoy it still I did enjoy it a street seven at of 10 dingo Mandingo.

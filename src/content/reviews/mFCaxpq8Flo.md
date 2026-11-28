@@ -32,6 +32,7 @@ items:
     delivers sweet vanilla, spice, and a touch of honey.
   verdict_quote: Really nice. Smell the vanilla. Bit of a smoky smell. It's sweet.
     You can taste the honey. Really nice. I will give that a seven out of 10.
+names_verified: true
 ---
 
 **[23:36]** Here we are back at the little van. Time for some whiskey. Absolutely lashing down. We're nice and dry in the van. Having a whiskey. Jack Daniels and then we'll get some food on soon. Champion. What I've got this time is make sure if I say it wrong, The Ardmore Highland single malt scotch whiskey. Let's get on with it.

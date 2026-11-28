@@ -6,5 +6,72 @@
   "description": "#stealthcamping #getoutside #greatoutdoors #whiskey #wildcamping #stealthcampinguk\n#camping #getoutdoors\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\udc4d\nhttps://theblotoutdoorsmerch.myshopify.com/collections/all\n\nHere's the link for Brown's Biltong \ud83d\ude0b\nhttps://brownsbiltong.co.uk/",
   "thumbnail": "https://i.ytimg.com/vi/P6y8i8pDV34/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Preparing for the derby",
+      "end_time": 148
+    },
+    {
+      "start_time": 148,
+      "title": "Journey to the stadium",
+      "end_time": 386
+    },
+    {
+      "start_time": 386,
+      "title": "Finding a stealth camp",
+      "end_time": 606
+    },
+    {
+      "start_time": 606,
+      "title": "Setting up camp",
+      "end_time": 750
+    },
+    {
+      "start_time": 750,
+      "title": "Match updates and defeat",
+      "end_time": 1079
+    },
+    {
+      "start_time": 1079,
+      "title": "Post-match reflection",
+      "end_time": 1228
+    },
+    {
+      "start_time": 1228,
+      "title": "Camping evening begins",
+      "end_time": 1528
+    },
+    {
+      "start_time": 1528,
+      "title": "Setting the scene",
+      "end_time": 1800
+    },
+    {
+      "start_time": 1800,
+      "title": "Personal reflections",
+      "end_time": 2280
+    },
+    {
+      "start_time": 2280,
+      "title": "Drink comparison",
+      "end_time": 2616
+    },
+    {
+      "start_time": 2616,
+      "title": "Whiskey review",
+      "end_time": 2973
+    },
+    {
+      "start_time": 2973,
+      "title": "Final meal and rest",
+      "end_time": 4026
+    },
+    {
+      "start_time": 4026,
+      "title": "Packing up the next morning",
+      "end_time": 4155
+    }
+  ]
 }

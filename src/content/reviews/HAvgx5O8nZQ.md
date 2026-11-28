@@ -34,6 +34,7 @@ items:
     with woody, oaky, and nutty notes, finishing with a velvet mouthfeel.
   verdict_quote: I am going to give that Cardhu 12-year-old single malt scotch whisky
     a really really good solid eight out of 10 dingo mandingos top quality.
+names_verified: true
 ---
 
 **[33:08]** oh yeah you know what time this Mingo wasy time and this week this is what we've got Cardhu 12-year-old single malt scotch whisky you better believe we have let's get this poured in the old oh yeah v c dingo mandingos anyway look at that oh spilling it that's not good guys that's because I'm tired and I fell asleep and I've only just walked up 10 minutes ago and I'm still not probably we yet let's get the old snifferoon in it 

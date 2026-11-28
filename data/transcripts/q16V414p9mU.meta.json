@@ -6,5 +6,32 @@
   "description": "#stealthcamp #camping #wildcampinguk \n#stealthcampinguk #comedy #getoutside \n#wildcamping #whiskyreview \n#stealthcamping #adventure\n\nHere's the link for Tim's channel:\nhttps://youtube.com/@nighthawkoutdoors462?feature=shared\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\ude09 \nhttps://theblotoutdoorsmerch.myshopify.com/collections/all",
   "thumbnail": "https://i.ytimg.com/vi/q16V414p9mU/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Graveyard and pylon setup",
+      "end_time": 1508
+    },
+    {
+      "start_time": 1508,
+      "title": "Evening chills and waffling",
+      "end_time": 2669
+    },
+    {
+      "start_time": 2669,
+      "title": "Whiskey review",
+      "end_time": 3090
+    },
+    {
+      "start_time": 3090,
+      "title": "Cooking dinner and relaxing",
+      "end_time": 3500
+    },
+    {
+      "start_time": 3500,
+      "title": "Morning packing and departure",
+      "end_time": 3751
+    }
+  ]
 }

@@ -6,5 +6,47 @@
   "description": "#walkthrough #foodreview #whiskyreview \n#reallife #walkingtour ##realpeople \n#stealthcamping #wildcamping\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\ude09\nhttps://theblotoutdoorsmerch.myshopify.com/collections/all",
   "thumbnail": "https://i.ytimg.com/vi/kCxyAcU2q7s/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Remembering Messi",
+      "end_time": 281
+    },
+    {
+      "start_time": 281,
+      "title": "Losing Uncle Ken",
+      "end_time": 440
+    },
+    {
+      "start_time": 440,
+      "title": "Local walk around Silksworth",
+      "end_time": 744
+    },
+    {
+      "start_time": 744,
+      "title": "Family updates and reflections",
+      "end_time": 948
+    },
+    {
+      "start_time": 948,
+      "title": "Visiting past camping spots",
+      "end_time": 1378
+    },
+    {
+      "start_time": 1378,
+      "title": "Local encounters and lakes",
+      "end_time": 1926
+    },
+    {
+      "start_time": 1926,
+      "title": "Whiskey review dedication",
+      "end_time": 2426
+    },
+    {
+      "start_time": 2426,
+      "title": "Homemade pie and final tribute",
+      "end_time": 3758
+    }
+  ]
 }

@@ -6,5 +6,52 @@
   "description": "#stealthcamping #wildcamping #getoutside \n#stealthcampinguk #wildcampinguk #camping \n#stealthcampingalliance\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\ude09 \nhttps://theblotoutdoorsmerch.myshopify.com/collections/all",
   "thumbnail": "https://i.ytimg.com/vi/_AGN6tLrzJA/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Arrival at caravan park",
+      "end_time": 172
+    },
+    {
+      "start_time": 172,
+      "title": "Setting up camp",
+      "end_time": 458
+    },
+    {
+      "start_time": 458,
+      "title": "Avoiding detection",
+      "end_time": 986
+    },
+    {
+      "start_time": 986,
+      "title": "The ethics of stealth camping",
+      "end_time": 1330
+    },
+    {
+      "start_time": 1330,
+      "title": "Waiting through the night",
+      "end_time": 2004
+    },
+    {
+      "start_time": 2004,
+      "title": "Preparing the camp site",
+      "end_time": 2255
+    },
+    {
+      "start_time": 2255,
+      "title": "Review and reminiscence",
+      "end_time": 2965
+    },
+    {
+      "start_time": 2965,
+      "title": "Cooking the evening meal",
+      "end_time": 3538
+    },
+    {
+      "start_time": 3538,
+      "title": "Morning departure",
+      "end_time": 4225
+    }
+  ]
 }

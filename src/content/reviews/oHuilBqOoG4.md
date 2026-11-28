@@ -76,6 +76,7 @@ items:
     tasty and satisfying in cold weather.
   verdict_quote: I did think it would be no better than what I normally bring out.
     But that is tasty.
+names_verified: true
 ---
 
 **[42:02]** I was going to bring you black comb for this brownie hunter from Wild Child Company sent to me from Lame Zoe and Archie. Yes. Never had this before. I normally avoid these ones. I normally avoid the stout ones and the chocolatey fudge ones... **[43:05]** It just taste like can imagine getting like a milkshake from McDonald's. A chocolate milkshake and pouring some beer in and slushing it around... **[45:36]** Dingos, you know what time it is. It's whisky time. Oban 14-year-old single malt scotch whisky. Let's not mess about... **[46:58]** Oh, straight away that is zesty. Wow. Zesty. I would say like a green apple type of snifferoni... **[50:05]** That is smooth, no harshness. You can just tell it's a absolute quality drop. Caramel toffee. Very light in them flavors, but it's there. Slight ginger... **[52:14]** Citrusy lemon as I just swash that round the old gummy bears lime orangey. Oh, a big orange... **[53:50]** Oban 14-year-old single malt scotch whiskey quality absolute quality I cannot fault it in any way that's got to get a big fat steady nine.3 yes out of 10... **[55:11]** Before we go to sleep, we've got this chicken curry katona from Rio Raw Foods. Tender pieces of chicken. Oh... That is nice. Mind. Oh yes. You see me coming out doing these wild camps every week... That is very nice indeed.

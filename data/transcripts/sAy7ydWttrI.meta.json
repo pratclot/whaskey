@@ -6,5 +6,42 @@
   "description": "#food #takeaway #foodie #englishbreakfast #foodchallenge #breakfast #adventure",
   "thumbnail": "https://i.ytimg.com/vi/sAy7ydWttrI/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Introduction",
+      "end_time": 337
+    },
+    {
+      "start_time": 337,
+      "title": "Ordering breakfast",
+      "end_time": 487
+    },
+    {
+      "start_time": 487,
+      "title": "Waiting in the rain",
+      "end_time": 577
+    },
+    {
+      "start_time": 577,
+      "title": "Breakfast review",
+      "end_time": 1488
+    },
+    {
+      "start_time": 1488,
+      "title": "Viewer comments and feedback",
+      "end_time": 2013
+    },
+    {
+      "start_time": 2013,
+      "title": "Rum tasting review",
+      "end_time": 2314
+    },
+    {
+      "start_time": 2314,
+      "title": "Conclusion",
+      "end_time": 2598
+    }
+  ]
 }

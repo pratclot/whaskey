@@ -31,7 +31,7 @@ items:
     has ever had in his life.
   verdict_quote: It's horrible. Karina and G, you sent me this Chinese craft beer...
     thank you very much for sending me the worst tasting beer I have ever had.
-- name: 11's Tropical Fruit Salad Single Malt Scotch Whisky
+- name: Elevens Tropical Fruit Salad Single Malt Scotch Whisky
   category: Whisky
   brand_or_distillery: Elevens
   region_or_style: Single Malt Scotch Whisky
@@ -54,6 +54,7 @@ items:
     by sweet melon, strawberry, and blackcurrant.
   verdict_quote: My rough and smooth take on it is it's a rough and smooth was...
     I'm going to give that a solid 7.1 out of 10.
+names_verified: true
 ---
 
 **[35:28]** Right. It's horrible. Karina and Jia, you sent me this Chinese craft beer... thank you very much for sending me the worst tasting beer I have ever had. The worst beer I've ever had in me life. It's absolutely disgusting. **[1:00:13]** This is whisky time, given to me from Lee Williams, Elevens tropical fruit salad whisky, 50%... Quite sweet, like a sweet pastry fruity melon. Creamy, like a creamy vanilla. Quite harsh, as you would expect from a 50% whisky, a 50 pound bottle of whisky. It's a six year old whisky, fruit salad. Yeah, I am getting like a melon, a little bit strawberry, a little bit blackcurrant as well. It has got a very fruity element to it, and that harshness has quite gone as I've been sitting over there. Sweet melon, vanilla. Very fruity like a very fruity, rough and smooth at exactly the same time. Lee Williams, you're an absolute legend. My rough and smooth take on it is it's a rough and smooth whisky. It's a very expensive top quality whisky. It has got a lot of fruity elements to it. It's got a good burning gibbling, a burning sensation. I'm going to give that a solid 7.1 out of 10.

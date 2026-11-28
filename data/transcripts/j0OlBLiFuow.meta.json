@@ -6,5 +6,42 @@
   "description": "#wildcamping #bushcraft #outdoors #outdoorcooking #campfire #camp #campfire_cooking #stealthcamping\n\nHere's the link for Jimmy's channel \nhttps://youtube.com/@LundysWildcampBushcraft?si=KCo6YrN-rXntK7Rw",
   "thumbnail": "https://i.ytimg.com/vi/j0OlBLiFuow/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Arrival and setup",
+      "end_time": 284
+    },
+    {
+      "start_time": 284,
+      "title": "Firewood and campsite prep",
+      "end_time": 732
+    },
+    {
+      "start_time": 732,
+      "title": "Soup and social bonding",
+      "end_time": 1221
+    },
+    {
+      "start_time": 1221,
+      "title": "Drinks and campsite talk",
+      "end_time": 1497
+    },
+    {
+      "start_time": 1497,
+      "title": "Preparing the main course",
+      "end_time": 2036
+    },
+    {
+      "start_time": 2036,
+      "title": "Whiskey review",
+      "end_time": 2713
+    },
+    {
+      "start_time": 2713,
+      "title": "Morning breakfast and wrap-up",
+      "end_time": 3329
+    }
+  ]
 }

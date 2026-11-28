@@ -33,6 +33,7 @@ items:
     gloopy like medicine, with a pleasant tingle of warming spices on the finish.
   verdict_quote: I'm going to give that a big fat steady 7.5... 7.5 out of 10 dingo
     from this man dingo Vana Tallinn from Estonia.
+names_verified: true
 ---
 
 **[59:17]** Right, look at that, a thing of black beauty. Now let's get the old nostrils in it. Vana Tallinn - well, I think Tallinn is the capital city, isn't it, of Estonia? So Vana Tallinn means old Estonia. Correct me if I'm wrong, dingo man dingo. Very sugary straight away. Do you know what that reminds me of straight away? Can you remember when you were a kid, and you had a stick of rhubarb in your hand, some sugar to dip it into? That's just cropped into my head there. That's strong, sugary sniffing o' that, right up my old nostril-ness. There's definitely like a fruity element, orangey lemony. Sweet, sugary, fruity. That's enough of the sniffing, let's get on with the tasting, my man dingles.

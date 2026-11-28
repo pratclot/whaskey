@@ -6,5 +6,57 @@
   "description": "#wildcamping #lakedistrict #getoutside #wildcampinguk #backpacking #getoutdoors \n#camping #greatoutdoors\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\ude09 \nhttps://theblotoutdoorsmerch.myshopify.com/collections/all",
   "thumbnail": "https://i.ytimg.com/vi/FjkvitFJivc/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Arrival at camp",
+      "end_time": 358
+    },
+    {
+      "start_time": 358,
+      "title": "Setting up the tents",
+      "end_time": 684
+    },
+    {
+      "start_time": 684,
+      "title": "Mingo's camping setup",
+      "end_time": 1002
+    },
+    {
+      "start_time": 1002,
+      "title": "Cowboy Chris's setup",
+      "end_time": 1229
+    },
+    {
+      "start_time": 1229,
+      "title": "Relaxing by the water",
+      "end_time": 1457
+    },
+    {
+      "start_time": 1457,
+      "title": "Evening drinks and chat",
+      "end_time": 2050
+    },
+    {
+      "start_time": 2050,
+      "title": "Whiskey review",
+      "end_time": 2646
+    },
+    {
+      "start_time": 2646,
+      "title": "Cooking steak dinner",
+      "end_time": 3151
+    },
+    {
+      "start_time": 3151,
+      "title": "Morning after camp",
+      "end_time": 3413
+    },
+    {
+      "start_time": 3413,
+      "title": "Packing up and leaving",
+      "end_time": 3516
+    }
+  ]
 }

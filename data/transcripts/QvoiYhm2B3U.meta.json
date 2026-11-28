@@ -6,5 +6,67 @@
   "description": "#stealthcamping #wildcamping #getoutside \n#stealthcampingalliance #camping #adventure \n#stealthcampinguk #littlemick \n#wildcampinguk #whiskyreview\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\ude09\nhttps://theblotoutdoorsmerch.myshopify.com/collections/all",
   "thumbnail": "https://i.ytimg.com/vi/QvoiYhm2B3U/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Heading to the camp",
+      "end_time": 183
+    },
+    {
+      "start_time": 183,
+      "title": "Setting up camp",
+      "end_time": 359
+    },
+    {
+      "start_time": 359,
+      "title": "First drinks and food",
+      "end_time": 712
+    },
+    {
+      "start_time": 712,
+      "title": "Whiskey review and jokes",
+      "end_time": 964
+    },
+    {
+      "start_time": 964,
+      "title": "Serious talk about racism",
+      "end_time": 1387
+    },
+    {
+      "start_time": 1387,
+      "title": "Coping with the wind",
+      "end_time": 1743
+    },
+    {
+      "start_time": 1743,
+      "title": "More drinks and laughter",
+      "end_time": 2043
+    },
+    {
+      "start_time": 2043,
+      "title": "Whiskey review and falling",
+      "end_time": 2334
+    },
+    {
+      "start_time": 2334,
+      "title": "Getting into the tent",
+      "end_time": 2680
+    },
+    {
+      "start_time": 2680,
+      "title": "Final whiskey review",
+      "end_time": 3232
+    },
+    {
+      "start_time": 3232,
+      "title": "Morning after",
+      "end_time": 3385
+    },
+    {
+      "start_time": 3385,
+      "title": "Packing up and breakfast",
+      "end_time": 3625
+    }
+  ]
 }

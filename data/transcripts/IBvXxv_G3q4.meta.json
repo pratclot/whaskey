@@ -6,5 +6,37 @@
   "description": "#takeaway #food #fishandchips #sunderland \n#takeawayfood #foodie #fastfood #yummy\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\ude09 \nhttps://theblotoutdoorsmerch.myshopify.com/collections/all",
   "thumbnail": "https://i.ytimg.com/vi/IBvXxv_G3q4/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Heading to the seaside",
+      "end_time": 308
+    },
+    {
+      "start_time": 308,
+      "title": "Ordering at the chippy",
+      "end_time": 473
+    },
+    {
+      "start_time": 473,
+      "title": "Tasting fish and chips",
+      "end_time": 1177
+    },
+    {
+      "start_time": 1177,
+      "title": "Rum and channel update",
+      "end_time": 1548
+    },
+    {
+      "start_time": 1548,
+      "title": "Rum review completion",
+      "end_time": 2080
+    },
+    {
+      "start_time": 2080,
+      "title": "Closing fan clips",
+      "end_time": 2259
+    }
+  ]
 }

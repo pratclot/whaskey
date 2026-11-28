@@ -6,5 +6,67 @@
   "description": "#wildcamping #getoutside #yorkshire #adventure #comedy #stealthcampinguk \n#wildcampinguk #camping #stealthcamping \n#whiskyreview\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\ude09 \nhttps://theblotoutdoorsmerch.myshopify.com/collections/all\n\nYou can find the camping meals at:\nrelofoods.co.uk",
   "thumbnail": "https://i.ytimg.com/vi/Tx1Qb-a-eK0/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Introduction",
+      "end_time": 77
+    },
+    {
+      "start_time": 77,
+      "title": "Arriving at Gunnerside",
+      "end_time": 133
+    },
+    {
+      "start_time": 133,
+      "title": "Hiking to the campsite",
+      "end_time": 499
+    },
+    {
+      "start_time": 499,
+      "title": "Setting up camp",
+      "end_time": 733
+    },
+    {
+      "start_time": 733,
+      "title": "Organizing gear and drinks",
+      "end_time": 883
+    },
+    {
+      "start_time": 883,
+      "title": "Gear review and food plans",
+      "end_time": 1189
+    },
+    {
+      "start_time": 1189,
+      "title": "Reflections on camping",
+      "end_time": 1818
+    },
+    {
+      "start_time": 1818,
+      "title": "Exploring the ruins",
+      "end_time": 2328
+    },
+    {
+      "start_time": 2328,
+      "title": "Nighttime relaxation",
+      "end_time": 3065
+    },
+    {
+      "start_time": 3065,
+      "title": "Whisky review",
+      "end_time": 3628
+    },
+    {
+      "start_time": 3628,
+      "title": "Morning breakfast",
+      "end_time": 4164
+    },
+    {
+      "start_time": 4164,
+      "title": "Conclusion and hike out",
+      "end_time": 4253
+    }
+  ]
 }

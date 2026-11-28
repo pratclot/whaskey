@@ -33,6 +33,7 @@ items:
     a short finish.
   verdict_quote: I'm still going to give it a solid steady very respectable 8.2 out
     of 10 dingo Mandingo
+names_verified: true
 ---
 
 **[31:04]** oh yes Mingos you know what time it is wasy time and this is what we've got this week old grandad Kentucky Street bourbon kindly bought for me from a lovely couple by the name of Michelle and Lee thank you so much my absolute man and woman friend dingles it is very much appreciated. **[32:08]** and let's get the old big reion it it's got your typical bourbon smell but quite mild to be honest yes quite a mild bourbon smell m a few spices I think are in there and not much else going on to be honest. **[33:23]** the taste is actually like a nice mild bourbon teth mhm it's not overpowered it's not too strong. **[34:45]** yeah like a leather texture good old leather head in the old mouth Dingle mingles mhm yeah that vanilla aade in the smell it's pretty biged. **[37:57]** I'm going to give that very decent a very steady not the best bourbon I've ever had but I have really enjoyed it I have I would say it's better than your typical Jack D and Jim Bame but not quite as good as like a Woodford Reserve or something like that so I'm still going to give it a solid steady very respectable 8.2 out of 10 dingo Mandingo

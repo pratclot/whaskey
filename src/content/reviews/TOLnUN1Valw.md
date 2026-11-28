@@ -32,6 +32,7 @@ items:
     with no harsh burn.
   verdict_quote: It's really nice, but it is really smooth, it's really creamy, there's
     a lot of vanilla... I'm gonna give it a solid 8.5.
+names_verified: true
 ---
 
 **[29:00]** oh yes mandingos you know what time it is what's your time and this is what we've got what's it called Crown Royal Canadian whisky kindly given to us from a couple of Legends by the names... get that pour in fish go on do the business you better believe it. **[29:54]** What are you getting there? I'm getting fruity, it's very fruity smell, fruity mate. Go on have a sniff. I'm getting some green apples maybe, some like green apples. Definitely green not the red ones, you can smell the color. I'm also getting like some hints of vanilla as well. **[30:34]** Let me have a little snooky. What are you getting? A bit of ginger, a bit of ginger and a lot of vanilla. Oh it definitely has got vanilla. **[31:15]** Very rich and robust. It's got a strong taste, but it's a nice easy taste, a fruity taste. **[31:54]** It's very creamy and very smooth. **[33:23]** Yeah lovely and smooth, some fruity elements, obvious green apples that's what I'm getting Mandingo. **[34:27]** I'm gonna give it a well and truly solid 8.5 out of 10 dingo mandingos.

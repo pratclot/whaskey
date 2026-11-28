@@ -6,5 +6,42 @@
   "description": "",
   "thumbnail": "https://i.ytimg.com/vi/acH2OFIAFPA/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Heading to King Chef",
+      "end_time": 237
+    },
+    {
+      "start_time": 237,
+      "title": "Ordering the takeaway",
+      "end_time": 659
+    },
+    {
+      "start_time": 659,
+      "title": "Tasting and food review",
+      "end_time": 1477
+    },
+    {
+      "start_time": 1477,
+      "title": "Scoring the meal",
+      "end_time": 1614
+    },
+    {
+      "start_time": 1614,
+      "title": "Channel updates and reflection",
+      "end_time": 2184
+    },
+    {
+      "start_time": 2184,
+      "title": "Moonshine tasting",
+      "end_time": 2484
+    },
+    {
+      "start_time": 2484,
+      "title": "Fan clips and outro",
+      "end_time": 2744
+    }
+  ]
 }

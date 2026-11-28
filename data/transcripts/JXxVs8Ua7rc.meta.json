@@ -6,5 +6,67 @@
   "description": "#stealthcamping #wildcamping #getoutside \n#comedy #camping #spooky #halloween \n#stealthcampinguk #wildcampinguk #adventure",
   "thumbnail": "https://i.ytimg.com/vi/JXxVs8Ua7rc/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Graveyard arrival",
+      "end_time": 178
+    },
+    {
+      "start_time": 178,
+      "title": "Finding a campsite",
+      "end_time": 444
+    },
+    {
+      "start_time": 444,
+      "title": "Exploring the location",
+      "end_time": 686
+    },
+    {
+      "start_time": 686,
+      "title": "Setting up camp",
+      "end_time": 945
+    },
+    {
+      "start_time": 945,
+      "title": "Evening relaxation",
+      "end_time": 1282
+    },
+    {
+      "start_time": 1282,
+      "title": "Channel updates",
+      "end_time": 1735
+    },
+    {
+      "start_time": 1735,
+      "title": "Whiskey review prep",
+      "end_time": 2028
+    },
+    {
+      "start_time": 2028,
+      "title": "Showing camping gear",
+      "end_time": 2244
+    },
+    {
+      "start_time": 2244,
+      "title": "Whiskey and channel chat",
+      "end_time": 2831
+    },
+    {
+      "start_time": 2831,
+      "title": "Dinner time",
+      "end_time": 3159
+    },
+    {
+      "start_time": 3159,
+      "title": "World famous review",
+      "end_time": 3820
+    },
+    {
+      "start_time": 3820,
+      "title": "Packing up and departure",
+      "end_time": 3994
+    }
+  ]
 }

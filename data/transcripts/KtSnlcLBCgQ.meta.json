@@ -6,5 +6,37 @@
   "description": "",
   "thumbnail": "https://i.ytimg.com/vi/KtSnlcLBCgQ/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Visit to Beamish Museum",
+      "end_time": 245
+    },
+    {
+      "start_time": 245,
+      "title": "Fish and chips review",
+      "end_time": 881
+    },
+    {
+      "start_time": 881,
+      "title": "Whiskey review introduction",
+      "end_time": 1081
+    },
+    {
+      "start_time": 1081,
+      "title": "Q&A and wild camping talk",
+      "end_time": 1877
+    },
+    {
+      "start_time": 1877,
+      "title": "Whiskey review conclusion",
+      "end_time": 2088
+    },
+    {
+      "start_time": 2088,
+      "title": "Fan clips and closing",
+      "end_time": 2487
+    }
+  ]
 }

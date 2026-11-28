@@ -6,5 +6,57 @@
   "description": "#wildcamping #stormcamping #getoutside \n#wildcampinguk #storms #getoutdoors \n#northumberland #stealthcamping\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\ude09 \nhttps://theblotoutdoorsmerch.myshopify.com/collections/all\n\nHere's the link for Brown's Biltong \ud83d\ude0b \nhttps://brownsbiltong.co.uk/mandingo\n\nHere's the link for Andys channel \ud83d\udc4d\nhttps://youtube.com/@AndyWardle?si=7AzTryBG2s_eSaVx",
   "thumbnail": "https://i.ytimg.com/vi/YI-BYo41CHg/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Arrival and setup",
+      "end_time": 286
+    },
+    {
+      "start_time": 286,
+      "title": "Food and drink showcase",
+      "end_time": 540
+    },
+    {
+      "start_time": 540,
+      "title": "Evening drinks and chat",
+      "end_time": 850
+    },
+    {
+      "start_time": 850,
+      "title": "Camp stories and comedy",
+      "end_time": 1210
+    },
+    {
+      "start_time": 1210,
+      "title": "Whiskey tasting review",
+      "end_time": 1428
+    },
+    {
+      "start_time": 1428,
+      "title": "More stories and drinking",
+      "end_time": 2024
+    },
+    {
+      "start_time": 2024,
+      "title": "Late night cooking",
+      "end_time": 2320
+    },
+    {
+      "start_time": 2320,
+      "title": "Enjoying the meal",
+      "end_time": 2905
+    },
+    {
+      "start_time": 2905,
+      "title": "Night tales and bedtime",
+      "end_time": 3326
+    },
+    {
+      "start_time": 3326,
+      "title": "Morning departure",
+      "end_time": 3517
+    }
+  ]
 }

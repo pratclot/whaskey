@@ -6,5 +6,42 @@
   "description": "",
   "thumbnail": "https://i.ytimg.com/vi/jZ3E-M-TZbU/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Hiking to the campsite",
+      "end_time": 285
+    },
+    {
+      "start_time": 285,
+      "title": "Setting up camp",
+      "end_time": 565
+    },
+    {
+      "start_time": 565,
+      "title": "Campground review",
+      "end_time": 822
+    },
+    {
+      "start_time": 822,
+      "title": "Whiskey tasting session",
+      "end_time": 1335
+    },
+    {
+      "start_time": 1335,
+      "title": "Late night reflection",
+      "end_time": 1535
+    },
+    {
+      "start_time": 1535,
+      "title": "Morning packing",
+      "end_time": 1684
+    },
+    {
+      "start_time": 1684,
+      "title": "Summiting High Spy",
+      "end_time": 2033
+    }
+  ]
 }

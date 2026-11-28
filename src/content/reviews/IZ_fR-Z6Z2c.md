@@ -32,6 +32,7 @@ items:
     and refreshing sweet fruit flavor that is much better than expected.
   verdict_quote: I'm going to give that 8.2... I'm going to give that 8.2 out of 10
     ding manding you know what I'm talking about.
+names_verified: true
 ---
 
 **[33:48]** You know what time it is, wasy time! Proper No. Twelve Apple. I wasy, not Scottish, I'm only joking guys. From Stu, Mike, and Aaron, you better believe it! Proper No. Twelve Apple. Let's get this popped in. Not the all-famous CB dingo, I'm forgetting it. We will have to do with my plastic coffee cup, guys. You better believe it, but it's better than snout! If you know what I'm talking to snout, and let's get the old biger run it. Oh, like a, it has got a crisp apple smell about it. State the obvious guys, but you know I'm doing a wasky with you and I've got to state the obvious if the obvious is very stated.

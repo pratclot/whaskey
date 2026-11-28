@@ -6,5 +6,52 @@
   "description": "#wildcamping #lakedistrict #getoutside \n#comedy #stealthcamping #wildcampinguk \n#camping #outdoorcamping \n#stealthcampinguk #rumreview\n\nHere's the link for D.C. Outdoors:\nhttps://youtube.com/@D.C.Outdoors?feature=shared\n\nHere's the link for Butchy Boys Adventures:\nhttps://youtube.com/@Butchyboysadventures?feature=shared\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\ude09\nhttps://theblotoutdoorsmerch.myshopify.com/collections/all",
   "thumbnail": "https://i.ytimg.com/vi/EWfSpO7hQP8/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Hiking to Ble Tarn",
+      "end_time": 277
+    },
+    {
+      "start_time": 277,
+      "title": "Tackling the boggy summit",
+      "end_time": 573
+    },
+    {
+      "start_time": 573,
+      "title": "Arriving at the camping spot",
+      "end_time": 768
+    },
+    {
+      "start_time": 768,
+      "title": "Setting up and prepping food",
+      "end_time": 1423
+    },
+    {
+      "start_time": 1423,
+      "title": "The evening beer review",
+      "end_time": 2383
+    },
+    {
+      "start_time": 2383,
+      "title": "Whiskey and memory lane",
+      "end_time": 3331
+    },
+    {
+      "start_time": 3331,
+      "title": "Belmont Estate rum review",
+      "end_time": 4037
+    },
+    {
+      "start_time": 4037,
+      "title": "Cooking the main meal",
+      "end_time": 4447
+    },
+    {
+      "start_time": 4447,
+      "title": "Morning packing and departure",
+      "end_time": 4593
+    }
+  ]
 }

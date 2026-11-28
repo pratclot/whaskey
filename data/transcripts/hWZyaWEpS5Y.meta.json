@@ -6,5 +6,37 @@
   "description": "",
   "thumbnail": "https://i.ytimg.com/vi/hWZyaWEpS5Y/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Introduction",
+      "end_time": 208
+    },
+    {
+      "start_time": 208,
+      "title": "Arriving at Jim's Fry",
+      "end_time": 306
+    },
+    {
+      "start_time": 306,
+      "title": "Ordering food",
+      "end_time": 466
+    },
+    {
+      "start_time": 466,
+      "title": "Food review",
+      "end_time": 1155
+    },
+    {
+      "start_time": 1155,
+      "title": "Wine review",
+      "end_time": 1532
+    },
+    {
+      "start_time": 1532,
+      "title": "Bloopers and outtakes",
+      "end_time": 2246
+    }
+  ]
 }

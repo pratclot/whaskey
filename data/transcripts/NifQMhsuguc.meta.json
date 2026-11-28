@@ -6,5 +6,47 @@
   "description": "#nastyfood #takeawayfood #food #foodie \n#takeaway #foodcritic #foodchannel \n#foodchallenge #foodclips #whiskyreview\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\ude09\nhttps://theblotoutdoorsmerch.myshopify.com/collections/all",
   "thumbnail": "https://i.ytimg.com/vi/NifQMhsuguc/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Introduction to foodie Friday",
+      "end_time": 39
+    },
+    {
+      "start_time": 39,
+      "title": "Heading to the chippy",
+      "end_time": 165
+    },
+    {
+      "start_time": 165,
+      "title": "Ordering food",
+      "end_time": 648
+    },
+    {
+      "start_time": 648,
+      "title": "Tasting pie and chips",
+      "end_time": 1089
+    },
+    {
+      "start_time": 1089,
+      "title": "Sausage and chips review",
+      "end_time": 1595
+    },
+    {
+      "start_time": 1595,
+      "title": "Chicken nuggets and score",
+      "end_time": 2036
+    },
+    {
+      "start_time": 2036,
+      "title": "Whiskey review and channel update",
+      "end_time": 2608
+    },
+    {
+      "start_time": 2608,
+      "title": "Fan clips and outro",
+      "end_time": 2866
+    }
+  ]
 }

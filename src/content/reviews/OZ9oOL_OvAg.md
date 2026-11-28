@@ -31,6 +31,7 @@ items:
     palate, it delivers a strong woody taste, mixed fruit notes, and a lovely walnut
     finish that goes down smooth and warm.
   verdict_quote: very very good very very decent 8.3 out of 10 Dingle man dingles
+names_verified: true
 ---
 
 **[27:46]** yes mandingos you know what time it is wasy time and this is what we've got this week the Glenn livet kindly given to me from a couple of Legends by the name names of Dave jebie and Catherine thank you very much my man and woman friend dingo you know make sense right let's get this popped in the all famous C dingo manding was yeah oh there's not much left guys but you know the score on the blood out door that's just the way it goes there's no messing about it's serious drinking you better believe it anyway let's get the old biger Rooney in it oh like a nice fruity smell there and I'm getting like a mango thing going on not fucking mango you know what I'm talking about yeah a nice mango thing going on also like a little bit orness to it... **[34:07]** Glenn Liv single mold Scotch wasy kindly give to me from Dave and Catherine cheese mandingos very much appreciated not loads of smells and not loads of flavors coming through on this one it might not be the whiskey it might just be me you know that's just the way it go sometimes but it's really really nice and you can feel in your mouth as it goes down it's quality so I'm going to give that pardon me very very good very very decent 83 out of 10 Dingle man dingles oh yes you better believe I am

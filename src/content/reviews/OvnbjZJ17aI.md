@@ -47,6 +47,7 @@ items:
   tasting_notes: Brings notes of toffee apple, vanilla, grapes, and a slight hint
     of oak that ultimately helps wash away the horrific taste of fermented fish.
   verdict_quote: On today's review, it's a 8.5. You know what I'm talking about.
+names_verified: true
 ---
 
 **[22:12]** Here we go. Straight in the hatch. One, two, threesome. Go for it. Wow. Go on. Go on. Chew. Chew. Jesus Christ. Oh, look at that fishbone. Right, one more go up. One more go up and I can't put my through put myself through anymore. **[23:32]** One, two, three, some. Come on. That's it. I'm done. I'm done. Sorry, guys. I told you if I was going to be sick and blame Mrs. Blot for buying that for my birthday. **[24:59]** You know what time it is? Whisky time. And this is what I've got this time. 12-year-old Glengoyne Highland single malt scotch whisky. **[25:42]** Maybe like toffee, or like toffee apples. Yeah, like a sweet toffee apple smell. Really struggling. Maybe the slightest little bit of vanilla. **[27:17]** The fruity thing I'm getting is more like grapes to me, guys, with a little bit of toffee, a little bit of vanilla in the taste, with fish and the slightest little bit of oak coming through. **[28:02]** It is actually nice. It's helping. It's helping get the taste of fish out your mouth. **[28:20]** Glengoyne 12-year-old Highland single malt whiskey. Some lovely smells and some nice taste finally coming through. I'm going to give it a solid 8.5 out of 10.

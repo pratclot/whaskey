@@ -6,5 +6,67 @@
   "description": "#stealthcamping #wildcamping #getoutside #getoutdoors #stealthcampinguk #whiskyreview \n#camping\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\ude09 \nhttps://theblotoutdoorsmerch.myshopify.com/collections/all\n\nHere's the link for Brown's Biltong \ud83d\ude0b\nhttps://brownsbiltong.co.uk/mandingo",
   "thumbnail": "https://i.ytimg.com/vi/h9QlUIFrexw/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Arriving at the site",
+      "end_time": 158
+    },
+    {
+      "start_time": 158,
+      "title": "Setting up camp",
+      "end_time": 312
+    },
+    {
+      "start_time": 312,
+      "title": "Dealing with traffic",
+      "end_time": 632
+    },
+    {
+      "start_time": 632,
+      "title": "Whiskey and audience chat",
+      "end_time": 1057
+    },
+    {
+      "start_time": 1057,
+      "title": "Bathroom logistics",
+      "end_time": 1378
+    },
+    {
+      "start_time": 1378,
+      "title": "Sketchy visitors",
+      "end_time": 1551
+    },
+    {
+      "start_time": 1551,
+      "title": "Gear and food review",
+      "end_time": 1856
+    },
+    {
+      "start_time": 1856,
+      "title": "Whiskey review session",
+      "end_time": 2230
+    },
+    {
+      "start_time": 2230,
+      "title": "Camping mishaps",
+      "end_time": 2664
+    },
+    {
+      "start_time": 2664,
+      "title": "Cooking dinner",
+      "end_time": 3290
+    },
+    {
+      "start_time": 3290,
+      "title": "Nighttime relaxing",
+      "end_time": 3760
+    },
+    {
+      "start_time": 3760,
+      "title": "Morning packing",
+      "end_time": 3996
+    }
+  ]
 }

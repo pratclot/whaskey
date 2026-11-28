@@ -31,7 +31,7 @@ items:
     sweet notes and a hint of fruit.
   verdict_quote: I'm going to give this Mick a very very good 8.5 out of 10 definitely
     better than Jack Daniels
-- name: The Singleton Single Malt Scotch Whisky
+- name: The Singleton Dufftown Malt Master's Selection Single Malt Scotch Whisky
   category: Whisky
   brand_or_distillery: The Singleton
   region_or_style: Single Malt Scotch Whisky
@@ -52,6 +52,7 @@ items:
     of dark chocolate.
   verdict_quote: I'm going to give that a very very decent 7.5 out of 10 the Singleton
     single malt scotch wasy
+names_verified: true
 ---
 
 **[12:24]** Right folks, time for a little whaskey review. It's not the main one, just a little cheeky one to get us going. Mick, hold that bottle up there in front of the camera, show us where it is. It's a little bottle of Woodford Reserve Kentucky Straight Bourbon. Right, schmarkaroon, get that little bottle in the little famous cup, little man dingo. 

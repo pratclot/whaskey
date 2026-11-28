@@ -58,6 +58,7 @@ items:
     whiskies.
   verdict_quote: So I'm going to give that a very good a very respectable... 8.5 out
     of 10 dingo dingles.
+names_verified: true
 ---
 
 **[06:09]** this lovely looking flesh and chips the chips look nice and well done just the way I like them oh yes them are proper perfect chippy chips. **[08:19]** salt and minegar on butter or scraps whatever you want to call them lovely jubly is the seeing the dying you can see how much I'm enjoying them I'm raming the me amazing. **[09:21]** wow look at that nice white flish a butter is perfect nice and crunchy not soggy at all very nice guys. **[13:08]** price it's not the greatest Price you know £24 is quite steep just for fishing chips small fishing chips and a bag of chips but like I've said that's what you expect to P when you cook these places food quality absolutely fantastic really nice I've thoroughly enjoyed it... **[13:46]** so the score I'm going to give guys I'm going to give it a solid 9 out of 10 I can't give it a 10 because it was a little bit greasy and the portion size was quite small.  

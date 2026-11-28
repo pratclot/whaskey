@@ -6,5 +6,37 @@
   "description": "#surstrommingchallenge #foodchallenge #surstromming #nastyfood #funny #whiskyreview #whiskey\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\udc4d \nhttps://theblotoutdoorsmerch.myshopify.com/collections/all",
   "thumbnail": "https://i.ytimg.com/vi/OvnbjZJ17aI/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Introduction and setup",
+      "end_time": 287
+    },
+    {
+      "start_time": 287,
+      "title": "Opening the tin",
+      "end_time": 607
+    },
+    {
+      "start_time": 607,
+      "title": "First tasting attempts",
+      "end_time": 1022
+    },
+    {
+      "start_time": 1022,
+      "title": "Preparing the sandwich",
+      "end_time": 1456
+    },
+    {
+      "start_time": 1456,
+      "title": "Whiskey review",
+      "end_time": 1754
+    },
+    {
+      "start_time": 1754,
+      "title": "Conclusion",
+      "end_time": 1848
+    }
+  ]
 }

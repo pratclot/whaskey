@@ -34,6 +34,7 @@ items:
     and oaky oiliness from the double wood maturation.
   verdict_quote: I'm gonna give that a very very good 8.5 out of 10 dingo mandingos
     you better believe I am generous generous indeed.
+names_verified: true
 ---
 
 **[18:50]** You know what time it is manding goes yes waski time waski and this is what we've got this week Balvenie double wood 12 year old single malt scotch waski you know what I'm talking about.  

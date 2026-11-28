@@ -36,9 +36,9 @@ items:
   verdict_quote: Marzipan, sherry, melon, and a nice tingle — it's not a naughty nasty
     burn, it's just a lovely sensation. I'm going to give that a straight 9 out of
     10!
-- name: Smog Rat ('Urban Rats') 8.4% DIPA
+- name: Smog Rat Double NEIPA 8.4%
   category: Beer & Ale
-  brand_or_distillery: Middlesbrough Craft Brewery
+  brand_or_distillery: Vocation Brewery
   region_or_style: Double India Pale Ale (DIPA)
   abv: 8.4%
   timestamp_seconds: 2256
@@ -71,9 +71,9 @@ items:
   - ipa
   tasting_notes: Prominent tropical mango aroma and juicy fruit-forward palate.
   verdict_quote: Oh, that is very fruitilicious and very mango taste — lovely!
-- name: Eye for the Boneless 6.8% IPA
+- name: Over The Humble Coast IPA 6.8%
   category: Beer & Ale
-  brand_or_distillery: Craft Brewery
+  brand_or_distillery: Over The Humble
   region_or_style: India Pale Ale
   abv: 6.8%
   timestamp_seconds: 702
@@ -88,8 +88,8 @@ items:
   tasting_notes: First can cracked on the summit of North Berwick Law; punchy 6.8%
     IPA with a zesty, sharp, and traditionally bitter bite.
   verdict_quote: Zesty, sharp, bitter — nice!
+names_verified: true
 ---
-
 
 ## Tasting Transcript Excerpt
 

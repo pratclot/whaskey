@@ -6,5 +6,32 @@
   "description": "#chinesefood #takeaway #munchbox #food \n#takeawayfood #nastyfood #fastfood #foodie \n#foodcritic #whiskyreview\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\ude09 \nhttps://theblotoutdoorsmerch.myshopify.com/collections/all",
   "thumbnail": "https://i.ytimg.com/vi/OLgHXIlM2sc/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Hometown takeaway visit",
+      "end_time": 339
+    },
+    {
+      "start_time": 339,
+      "title": "Ordering Chinese food",
+      "end_time": 570
+    },
+    {
+      "start_time": 570,
+      "title": "Food review and tasting",
+      "end_time": 1633
+    },
+    {
+      "start_time": 1633,
+      "title": "Whiskey review and chat",
+      "end_time": 2688
+    },
+    {
+      "start_time": 2688,
+      "title": "Fan clips and conclusion",
+      "end_time": 2898
+    }
+  ]
 }

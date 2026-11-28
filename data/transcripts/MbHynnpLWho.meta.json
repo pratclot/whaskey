@@ -6,5 +6,72 @@
   "description": "#wildcamping #getoutside #greatoutdoors \n#lakedistrict #hiking #wildcampinguk #adventure \n#stealthcamping #backpacking #stealthcampinguk\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\ude09 \nhttps://theblotoutdoorsmerch.myshopify.com/collections/all\n\nHere's the link for young Chris's channel:\nhttps://youtube.com/@yackertravels?si=jrALH06MivwrcaFN\n\nHere's the link for cowboy Chris's channel:\nhttps://youtube.com/@Bonnyladdadventures?si=Y9bmMwzuBx7f4Fwx",
   "thumbnail": "https://i.ytimg.com/vi/MbHynnpLWho/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Hiking to the summit",
+      "end_time": 180
+    },
+    {
+      "start_time": 180,
+      "title": "Finding a campsite",
+      "end_time": 282
+    },
+    {
+      "start_time": 282,
+      "title": "Setting up camp",
+      "end_time": 397
+    },
+    {
+      "start_time": 397,
+      "title": "Camp meal preparations",
+      "end_time": 713
+    },
+    {
+      "start_time": 713,
+      "title": "Reviewing gear and food",
+      "end_time": 860
+    },
+    {
+      "start_time": 860,
+      "title": "Evening social gathering",
+      "end_time": 1152
+    },
+    {
+      "start_time": 1152,
+      "title": "Cowboy Chris's tent tour",
+      "end_time": 1311
+    },
+    {
+      "start_time": 1311,
+      "title": "Whiskey review session",
+      "end_time": 1825
+    },
+    {
+      "start_time": 1825,
+      "title": "Cooking dinner",
+      "end_time": 2155
+    },
+    {
+      "start_time": 2155,
+      "title": "Enjoying the meal",
+      "end_time": 2501
+    },
+    {
+      "start_time": 2501,
+      "title": "Final camp thoughts",
+      "end_time": 2665
+    },
+    {
+      "start_time": 2665,
+      "title": "Morning packing",
+      "end_time": 2848
+    },
+    {
+      "start_time": 2848,
+      "title": "Wrapping up the adventure",
+      "end_time": 3001
+    }
+  ]
 }

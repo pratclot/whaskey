@@ -33,6 +33,7 @@ items:
     non-nasty bitterness combined with lingering fruit flavors.
   verdict_quote: I'm going to give that a very decent, not special, but a very decent
     6.5 out of 10... Tullamore Dew, Irish whiskey. We will give that a strong seven.
+names_verified: true
 ---
 
 **[21:01]** Hoho, yes, mandingo. Time for the world famous Bloke Outdoors Show whiskey review. You know what I'm talking about. And you know what he's talking about. It's the whiskey time. Right. This is what I've got this week. Tullamore Dew Irish whiskey. Here we go. We've already drank this. This was a full bottle. And we've kept a little bit for the whiskey review.

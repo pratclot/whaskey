@@ -6,5 +6,67 @@
   "description": "#wildcamping #campingunderarock #wildcampinguk #adventure #backpacking #hiking #trekking #ukhiking #whiskyreview #northumberland #notentnotarp #campingunderthestars #campingwithnotent #camping #campinglife #greatoutdoors #rockcamping #northeastengland #stealthcamping #stealth #stealthcampinguk",
   "thumbnail": "https://i.ytimg.com/vi/RfOcSVhCRV4/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Introduction to the camp",
+      "end_time": 37
+    },
+    {
+      "start_time": 37,
+      "title": "Hiking to the crags",
+      "end_time": 379
+    },
+    {
+      "start_time": 379,
+      "title": "Setting up camp",
+      "end_time": 524
+    },
+    {
+      "start_time": 524,
+      "title": "Camp setup and food",
+      "end_time": 617
+    },
+    {
+      "start_time": 617,
+      "title": "Exploring nearby caves",
+      "end_time": 792
+    },
+    {
+      "start_time": 792,
+      "title": "Preparing sleeping quarters",
+      "end_time": 904
+    },
+    {
+      "start_time": 904,
+      "title": "Exploring the caves again",
+      "end_time": 1023
+    },
+    {
+      "start_time": 1023,
+      "title": "Whiskey review",
+      "end_time": 1278
+    },
+    {
+      "start_time": 1278,
+      "title": "Bedtime at the crags",
+      "end_time": 1416
+    },
+    {
+      "start_time": 1416,
+      "title": "Morning coffee",
+      "end_time": 1537
+    },
+    {
+      "start_time": 1537,
+      "title": "Enjoying the morning views",
+      "end_time": 1611
+    },
+    {
+      "start_time": 1611,
+      "title": "Packing up and conclusion",
+      "end_time": 1758
+    }
+  ]
 }

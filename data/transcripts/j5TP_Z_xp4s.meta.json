@@ -6,5 +6,67 @@
   "description": "#stealthcamping #wildcamping #getoutside \n#comedy #adventure #stealthcamp #camping \n#stealthcampinguk #wildcampinguk #police\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\ude09\nhttps://theblotoutdoorsmerch.myshopify.com/collections/all",
   "thumbnail": "https://i.ytimg.com/vi/j5TP_Z_xp4s/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Arriving at service station",
+      "end_time": 149
+    },
+    {
+      "start_time": 149,
+      "title": "Finding the stealth spot",
+      "end_time": 346
+    },
+    {
+      "start_time": 346,
+      "title": "Setting up camp",
+      "end_time": 473
+    },
+    {
+      "start_time": 473,
+      "title": "Police incident",
+      "end_time": 740
+    },
+    {
+      "start_time": 740,
+      "title": "Exploring service amenities",
+      "end_time": 912
+    },
+    {
+      "start_time": 912,
+      "title": "Campground reflections",
+      "end_time": 1312
+    },
+    {
+      "start_time": 1312,
+      "title": "Disaster stories",
+      "end_time": 1844
+    },
+    {
+      "start_time": 1844,
+      "title": "Campgear showcase",
+      "end_time": 2269
+    },
+    {
+      "start_time": 2269,
+      "title": "Fox sighting",
+      "end_time": 2481
+    },
+    {
+      "start_time": 2481,
+      "title": "Cooking dinner",
+      "end_time": 2991
+    },
+    {
+      "start_time": 2991,
+      "title": "Whiskey review",
+      "end_time": 3579
+    },
+    {
+      "start_time": 3579,
+      "title": "Morning packing",
+      "end_time": 3831
+    }
+  ]
 }

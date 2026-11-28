@@ -6,5 +6,57 @@
   "description": "#wildcamping #hikingandcamping #lakedistrict \n#comedy #hiking #camping #whiskyreview \n#wildcampinguk #stealthcamping #adventure\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\ude09 \nhttps://theblotoutdoorsmerch.myshopify.com/collections/all\n\nHere's the link for The Box Outdoors:\nhttps://youtube.com/@Theboxoutdoors?si=FSLQA_yAb-NVYm81",
   "thumbnail": "https://i.ytimg.com/vi/ia7_OlePTKI/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Arrival at Lake District",
+      "end_time": 215
+    },
+    {
+      "start_time": 215,
+      "title": "Setting up camp",
+      "end_time": 430
+    },
+    {
+      "start_time": 430,
+      "title": "Dealing with weather",
+      "end_time": 744
+    },
+    {
+      "start_time": 744,
+      "title": "Evening snacks and drinks",
+      "end_time": 1156
+    },
+    {
+      "start_time": 1156,
+      "title": "Meeting the team",
+      "end_time": 1754
+    },
+    {
+      "start_time": 1754,
+      "title": "Candid late-night chat",
+      "end_time": 2072
+    },
+    {
+      "start_time": 2072,
+      "title": "Cooking camp dinner",
+      "end_time": 2312
+    },
+    {
+      "start_time": 2312,
+      "title": "Whiskey tasting review",
+      "end_time": 2882
+    },
+    {
+      "start_time": 2882,
+      "title": "Sleeping and morning",
+      "end_time": 3154
+    },
+    {
+      "start_time": 3154,
+      "title": "Packing up and conclusion",
+      "end_time": 3365
+    }
+  ]
 }

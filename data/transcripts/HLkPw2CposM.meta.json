@@ -6,5 +6,72 @@
   "description": "#stealthcamping #wildcamping #getoutside \n#camping #comedy #moonshine #bivvycamping \n#stealthcampinguk #wildcampinguk #adventure\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\ude09 \nhttps://theblotoutdoorsmerch.myshopify.com/collections/all",
   "thumbnail": "https://i.ytimg.com/vi/HLkPw2CposM/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Arrival and setup",
+      "end_time": 141
+    },
+    {
+      "start_time": 141,
+      "title": "Camp location review",
+      "end_time": 324
+    },
+    {
+      "start_time": 324,
+      "title": "Setting up the shelter",
+      "end_time": 548
+    },
+    {
+      "start_time": 548,
+      "title": "Gear prep and memorial",
+      "end_time": 689
+    },
+    {
+      "start_time": 689,
+      "title": "Testing new Japanese lager",
+      "end_time": 885
+    },
+    {
+      "start_time": 885,
+      "title": "Winter camping tips",
+      "end_time": 1254
+    },
+    {
+      "start_time": 1254,
+      "title": "Suspicious car activity",
+      "end_time": 1643
+    },
+    {
+      "start_time": 1643,
+      "title": "Checking for pedestrians",
+      "end_time": 2009
+    },
+    {
+      "start_time": 2009,
+      "title": "Late night distractions",
+      "end_time": 2235
+    },
+    {
+      "start_time": 2235,
+      "title": "Camp site tour",
+      "end_time": 2605
+    },
+    {
+      "start_time": 2605,
+      "title": "Moonshine review",
+      "end_time": 3051
+    },
+    {
+      "start_time": 3051,
+      "title": "Cooking dinner",
+      "end_time": 3324
+    },
+    {
+      "start_time": 3324,
+      "title": "Morning after and wrap-up",
+      "end_time": 3658
+    }
+  ]
 }

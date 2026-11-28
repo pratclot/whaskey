@@ -6,5 +6,47 @@
   "description": "#stealthcamping #wildcamping #getoutside \n#camping #stealthurbancamping #wildcampinguk #stealthcampinguk #adventure \n#whiskyreview #outdoorcamping\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\ude09\nhttps://theblotoutdoorsmerch.myshopify.com/collections/all\n\nHere's the link for Alan Metalmans channel:\nhttps://youtube.com/@AlanMETALMAN?si=xtDs-DvSO80OpUhC",
   "thumbnail": "https://i.ytimg.com/vi/EyjOQuHpHis/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Arrival and scouting",
+      "end_time": 296
+    },
+    {
+      "start_time": 296,
+      "title": "Setting up camp",
+      "end_time": 624
+    },
+    {
+      "start_time": 624,
+      "title": "Stealth challenges",
+      "end_time": 925
+    },
+    {
+      "start_time": 925,
+      "title": "Snacks and channel update",
+      "end_time": 1853
+    },
+    {
+      "start_time": 1853,
+      "title": "Whiskey review and emotional talk",
+      "end_time": 2513
+    },
+    {
+      "start_time": 2513,
+      "title": "Popeyes food review",
+      "end_time": 3331
+    },
+    {
+      "start_time": 3331,
+      "title": "Final whiskey review",
+      "end_time": 3755
+    },
+    {
+      "start_time": 3755,
+      "title": "Morning departure",
+      "end_time": 3985
+    }
+  ]
 }

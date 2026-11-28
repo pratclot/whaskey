@@ -10,7 +10,7 @@ episode_summary: The host goes wild camping on Holy Island with Andy and Derek, 
   at the Crown and Anchor Inn for pints before setting up camp and reviewing Wild
   Turkey bourbon.
 items:
-- name: Wild Turkey Kentucky Straight Bourbon Whiskey
+- name: Wild Turkey 101 Kentucky Straight Bourbon Whiskey
   category: Whisky
   brand_or_distillery: Wild Turkey
   region_or_style: Bourbon
@@ -31,6 +31,7 @@ items:
     hits hard around the campfire, leading to mixed reviews from the drunken crew.
   verdict_quote: Well, I'm going to be honest. I'm going to say that is a 6.5. Oh,
     6.5. Easy 6.5. I'll give that 8.5.
+names_verified: true
 ---
 
 **[41:36]** We're smashed. This is the whiskey review. It can be, Chris. It's the whiskey review, guys. Thank you. I can't even remember who sent me that. Who sent me this? This is my whiskey review, much. I'm smashed. Oh, yeah. I'll tell you now. Derrick, come on. **[43:20]** That's rough. Rough rough rough. It's not nice, is it? That's harsh. Yeah. It's rough. **[46:20]** I'll see in the morning, guys. Yes. We're going to get a full English breakfast and greasy eggs for breakfast in the morning. Yes. I'm going to I'll tell you what. What is your score going to be on it? Well, I'm going to be honest. I'm going to say that is a 6.5. Oh, 6.5. Easy 6.5. 6.5. I'll give that 8.5. I'll give that 8.5.

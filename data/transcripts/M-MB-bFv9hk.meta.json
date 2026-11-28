@@ -6,5 +6,47 @@
   "description": "#dabomb #hotsauce #spicy #spicyfood #spicychallenge #foodchallenge #whiskyreview\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\ude09 \nhttps://theblotoutdoorsmerch.myshopify.com/collections/all",
   "thumbnail": "https://i.ytimg.com/vi/M-MB-bFv9hk/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Introduction and errands",
+      "end_time": 189
+    },
+    {
+      "start_time": 189,
+      "title": "Shopping at Morrisons",
+      "end_time": 358
+    },
+    {
+      "start_time": 358,
+      "title": "Cooking the burgers",
+      "end_time": 534
+    },
+    {
+      "start_time": 534,
+      "title": "Eating normal burgers",
+      "end_time": 711
+    },
+    {
+      "start_time": 711,
+      "title": "The hot sauce challenge",
+      "end_time": 1148
+    },
+    {
+      "start_time": 1148,
+      "title": "Aftermath of the heat",
+      "end_time": 1738
+    },
+    {
+      "start_time": 1738,
+      "title": "Whiskey review",
+      "end_time": 2062
+    },
+    {
+      "start_time": 2062,
+      "title": "Wrap up and farewell",
+      "end_time": 2168
+    }
+  ]
 }

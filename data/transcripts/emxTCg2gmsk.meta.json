@@ -6,5 +6,57 @@
   "description": "#wildcamping #getoutdoors #getoutside #castle \n#wildcampinguk #greatoutdoors #northumberland #hiking #backpacking #stealthcamping\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\ude09\nhttps://theblotoutdoorsmerch.myshopify.com/collections/all\n\nHere's the link for Brown's Biltong \ud83d\ude0b \nhttps://brownsbiltong.co.uk/mandingo",
   "thumbnail": "https://i.ytimg.com/vi/emxTCg2gmsk/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Arrival and exploring",
+      "end_time": 343
+    },
+    {
+      "start_time": 343,
+      "title": "Setting up camp",
+      "end_time": 449
+    },
+    {
+      "start_time": 449,
+      "title": "Evening drinks and plans",
+      "end_time": 737
+    },
+    {
+      "start_time": 737,
+      "title": "Gear and food review",
+      "end_time": 1080
+    },
+    {
+      "start_time": 1080,
+      "title": "Beach walk and whiskey",
+      "end_time": 1259
+    },
+    {
+      "start_time": 1259,
+      "title": "Dinner and banter",
+      "end_time": 1842
+    },
+    {
+      "start_time": 1842,
+      "title": "Channel future plans",
+      "end_time": 2399
+    },
+    {
+      "start_time": 2399,
+      "title": "Whiskey review",
+      "end_time": 3047
+    },
+    {
+      "start_time": 3047,
+      "title": "Cooking dinner",
+      "end_time": 3425
+    },
+    {
+      "start_time": 3425,
+      "title": "Morning departure",
+      "end_time": 3752
+    }
+  ]
 }

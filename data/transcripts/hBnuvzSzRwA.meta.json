@@ -6,5 +6,82 @@
   "description": "#snowcamping #wintercamping #wildcamping \n#snowcamp #stealthcamping\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\ude09\nhttps://theblotoutdoorsmerch.myshopify.com/collections/all",
   "thumbnail": "https://i.ytimg.com/vi/hBnuvzSzRwA/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Heading to camp",
+      "end_time": 118
+    },
+    {
+      "start_time": 118,
+      "title": "Setting up the tent",
+      "end_time": 398
+    },
+    {
+      "start_time": 398,
+      "title": "Camp gear and beers",
+      "end_time": 552
+    },
+    {
+      "start_time": 552,
+      "title": "Camp menu and plans",
+      "end_time": 710
+    },
+    {
+      "start_time": 710,
+      "title": "Tales from the trail",
+      "end_time": 962
+    },
+    {
+      "start_time": 962,
+      "title": "Enjoying the winter night",
+      "end_time": 1209
+    },
+    {
+      "start_time": 1209,
+      "title": "Editing videos at camp",
+      "end_time": 1495
+    },
+    {
+      "start_time": 1495,
+      "title": "Reflections on the past",
+      "end_time": 2010
+    },
+    {
+      "start_time": 2010,
+      "title": "Cooking dinner",
+      "end_time": 2211
+    },
+    {
+      "start_time": 2211,
+      "title": "Dinner time",
+      "end_time": 2516
+    },
+    {
+      "start_time": 2516,
+      "title": "Equipment review",
+      "end_time": 2852
+    },
+    {
+      "start_time": 2852,
+      "title": "Whiskey review",
+      "end_time": 3241
+    },
+    {
+      "start_time": 3241,
+      "title": "Tasting and reflections",
+      "end_time": 3617
+    },
+    {
+      "start_time": 3617,
+      "title": "Morning routine",
+      "end_time": 3818
+    },
+    {
+      "start_time": 3818,
+      "title": "Packing up and going home",
+      "end_time": 3971
+    }
+  ]
 }

@@ -6,5 +6,52 @@
   "description": "#stealthcamping #wildcamping #getoutside \n#stealthcampinguk #wildcampinguk \n#comedy #camping\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\ude09 \nhttps://theblotoutdoorsmerch.myshopify.com/collections/all",
   "thumbnail": "https://i.ytimg.com/vi/KSSNibWcGfc/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Arriving in Bishop Oakland",
+      "end_time": 225
+    },
+    {
+      "start_time": 225,
+      "title": "Finding the camping spot",
+      "end_time": 549
+    },
+    {
+      "start_time": 549,
+      "title": "Setting up in the rain",
+      "end_time": 834
+    },
+    {
+      "start_time": 834,
+      "title": "Dealing with the surroundings",
+      "end_time": 1460
+    },
+    {
+      "start_time": 1460,
+      "title": "Settling into camp",
+      "end_time": 2423
+    },
+    {
+      "start_time": 2423,
+      "title": "Rants and reflections",
+      "end_time": 2841
+    },
+    {
+      "start_time": 2841,
+      "title": "Whiskey and snack review",
+      "end_time": 3523
+    },
+    {
+      "start_time": 3523,
+      "title": "Late night meal and sleep",
+      "end_time": 4266
+    },
+    {
+      "start_time": 4266,
+      "title": "Morning departure",
+      "end_time": 4420
+    }
+  ]
 }

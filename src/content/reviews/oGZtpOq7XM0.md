@@ -75,6 +75,7 @@ items:
     in camp.
   verdict_quote: Chicken casserole left over off last night, oh look at that guys,
     look at that an absolute thing of Black Beauty.
+names_verified: true
 ---
 
 **[44:58]** I don't think the say is, but already poured the whiskey into the famous cbg dingo mandingos. What we've got is it's a speyside single malt wasy, Ardlour... no, Ardmore. This must have came as part of a collection because it says 'A whisky tour of Scotland'. This is a 10-year-old Speyside Ardmore, 46%. So yeah, thank you to the legends who have sent me this, Rich Ryan and Tom from the Campbell Clan. Cheers guys, very much appreciated.  

@@ -6,5 +6,47 @@
   "description": "#lakedistrict #mountains #hiking #trekking #whiskyreview #backpacking #wildcamping",
   "thumbnail": "https://i.ytimg.com/vi/btO-lbLykko/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Heading to the campsite",
+      "end_time": 66
+    },
+    {
+      "start_time": 66,
+      "title": "Hiking to the summit",
+      "end_time": 356
+    },
+    {
+      "start_time": 356,
+      "title": "Setting up camp",
+      "end_time": 539
+    },
+    {
+      "start_time": 539,
+      "title": "Exploring and afternoon",
+      "end_time": 840
+    },
+    {
+      "start_time": 840,
+      "title": "Evening whiskey review",
+      "end_time": 1107
+    },
+    {
+      "start_time": 1107,
+      "title": "Cooking dinner",
+      "end_time": 1691
+    },
+    {
+      "start_time": 1691,
+      "title": "Morning routine",
+      "end_time": 1866
+    },
+    {
+      "start_time": 1866,
+      "title": "Hiking down and conclusion",
+      "end_time": 1919
+    }
+  ]
 }

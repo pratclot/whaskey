@@ -6,5 +6,77 @@
   "description": "#reallife #dogwalk #takeawayfood #comedy \n#walkandtalk #wildcamping #stealthcamping \n#dogwalking #foodreview #foodvlog\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\ude09 \nhttps://theblotoutdoorsmerch.myshopify.com/collections/all",
   "thumbnail": "https://i.ytimg.com/vi/cHFb3rqiQ_U/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Introduction to the walk",
+      "end_time": 33
+    },
+    {
+      "start_time": 33,
+      "title": "Car troubles and garage",
+      "end_time": 322
+    },
+    {
+      "start_time": 322,
+      "title": "Beginning the scenic walk",
+      "end_time": 444
+    },
+    {
+      "start_time": 444,
+      "title": "Social media: The bad",
+      "end_time": 780
+    },
+    {
+      "start_time": 780,
+      "title": "YouTube comments and banter",
+      "end_time": 962
+    },
+    {
+      "start_time": 962,
+      "title": "Obsessions with phones",
+      "end_time": 1243
+    },
+    {
+      "start_time": 1243,
+      "title": "Social media: The ugly",
+      "end_time": 1400
+    },
+    {
+      "start_time": 1400,
+      "title": "Positive message on walking",
+      "end_time": 1659
+    },
+    {
+      "start_time": 1659,
+      "title": "Arrival at Seaham seafront",
+      "end_time": 1780
+    },
+    {
+      "start_time": 1780,
+      "title": "Dealing with online threats",
+      "end_time": 2047
+    },
+    {
+      "start_time": 2047,
+      "title": "Visiting the local chippy",
+      "end_time": 2349
+    },
+    {
+      "start_time": 2349,
+      "title": "Takeaway food review",
+      "end_time": 3089
+    },
+    {
+      "start_time": 3089,
+      "title": "Visiting parents and friends",
+      "end_time": 3383
+    },
+    {
+      "start_time": 3383,
+      "title": "Social media: The good",
+      "end_time": 4100
+    }
+  ]
 }

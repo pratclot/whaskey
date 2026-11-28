@@ -54,6 +54,7 @@ items:
     just the right amount of smoke balanced by a sweet citrus taste.
   verdict_quote: I'm not a big fan of the peated ones... but that was really nice
     so I'm going to give that one an eight out of ten.
+names_verified: true
 ---
 
 **[31:40]** oh yes you know what time it is mandingo's waski time and this week a double Welsh waski review first one I've got is penderyn Madeira got the old-famous cup a famous review you won't make sense oh yes let's get that all in there guys get the old schnozzle bigger Rooney in it it's good a lovely nice fresh fruity smell like raisins and a little hint of toffee. **[32:56]** very spicy very peppery but lovely mind... leaving like a tingling on my tongue now after a few tests I'm getting the dark fruitness like a nice dark fruit thing going on... **[36:47]** first one the penderyn Madeira I'm gonna give that very very good nine out of ten tremendous and the second one the penderyn peated... I'm going to give that one an eight out of ten.

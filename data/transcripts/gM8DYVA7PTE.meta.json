@@ -6,5 +6,57 @@
   "description": "#stealthcampinguk #wildcampinguk #comedy \n#camping #adventure #stealthcamp #stealth \n#stealthcamping #wildcamping #whiskyreview\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\ude09 \nhttps://theblotoutdoorsmerch.myshopify.com/collections/all",
   "thumbnail": "https://i.ytimg.com/vi/gM8DYVA7PTE/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Arrival and setup",
+      "end_time": 26
+    },
+    {
+      "start_time": 26,
+      "title": "Tent setup and drinks",
+      "end_time": 490
+    },
+    {
+      "start_time": 490,
+      "title": "Tips for stealth camping",
+      "end_time": 841
+    },
+    {
+      "start_time": 841,
+      "title": "Night view and reflections",
+      "end_time": 1016
+    },
+    {
+      "start_time": 1016,
+      "title": "Food and drink review",
+      "end_time": 1395
+    },
+    {
+      "start_time": 1395,
+      "title": "Cooking pork belly",
+      "end_time": 2068
+    },
+    {
+      "start_time": 2068,
+      "title": "Dining and train spotting",
+      "end_time": 2202
+    },
+    {
+      "start_time": 2202,
+      "title": "Takeaway food philosophy",
+      "end_time": 2660
+    },
+    {
+      "start_time": 2660,
+      "title": "Whisky review",
+      "end_time": 3303
+    },
+    {
+      "start_time": 3303,
+      "title": "Packing up and departure",
+      "end_time": 3538
+    }
+  ]
 }

@@ -68,6 +68,7 @@ items:
     and spicy oak with a soft mouthfeel.
   verdict_quote: I can't give this any less than a 9.3... for me it's a 9.3 out of
     10
+names_verified: true
 ---
 
 **[40:35]** wasy time and this is what we've got this week the Macallan 12-year-old Highland single malt scotch whisky the sherry cask kindly given me from top legends by the name of Callum and Selena. **[41:39]** Give that a swirl around and let's smell first. Oh that's quality, that is so soft! The aromas that are going up my nose... unreal. I can taste the sherry that's in it. **[42:19]** There's some dark fruits, like dark dried raisins, and a rich sherry sniffing. **[44:16]** It's a quality drop straight away. Obviously it's whisky, but I'm getting so many flavors in that first taste—sherry, port, brandy, red wine. **[45:57]** Almost like stewed plums type of taste. **[47:15]** There's a honey thing coming through there guys and there's a definite oaky thing... is there a toffee thing there? It's a sweet toffee taste. This is high quality! **[49:15]** Time for the old score dingos guys. I can't give this any less than a 9.3! So for me it's a 9.3 out of 10.

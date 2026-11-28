@@ -6,5 +6,72 @@
   "description": "#wildcamping #raincamping #getoutside\n#backpacking #wildcampinguk #stormcamping\n#stealthcampinguk #hiking #whiskyreview \n#stealthcamping\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\ude09 \nhttps://theblotoutdoorsmerch.myshopify.com/collections/all\n\nHere's the link for young Chris's channel:\nhttps://youtube.com/@yackertravels?si=JlTitaiIO3dDf5Up",
   "thumbnail": "https://i.ytimg.com/vi/DCu1wXChmgk/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Arrival at the Lake District",
+      "end_time": 178
+    },
+    {
+      "start_time": 178,
+      "title": "Setting up camp in the woods",
+      "end_time": 447
+    },
+    {
+      "start_time": 447,
+      "title": "Getting cozy under the tarp",
+      "end_time": 665
+    },
+    {
+      "start_time": 665,
+      "title": "Drinks and snacks",
+      "end_time": 1003
+    },
+    {
+      "start_time": 1003,
+      "title": "Evening food preparation",
+      "end_time": 1556
+    },
+    {
+      "start_time": 1556,
+      "title": "Relaxing and conversation",
+      "end_time": 1792
+    },
+    {
+      "start_time": 1792,
+      "title": "Whiskey review",
+      "end_time": 2231
+    },
+    {
+      "start_time": 2231,
+      "title": "Cooking dinner",
+      "end_time": 2606
+    },
+    {
+      "start_time": 2606,
+      "title": "Enjoying the meal",
+      "end_time": 2838
+    },
+    {
+      "start_time": 2838,
+      "title": "Reflecting on the trip",
+      "end_time": 3057
+    },
+    {
+      "start_time": 3057,
+      "title": "Getting ready for bed",
+      "end_time": 3143
+    },
+    {
+      "start_time": 3143,
+      "title": "Morning after the rain",
+      "end_time": 3234
+    },
+    {
+      "start_time": 3234,
+      "title": "Packing up and departure",
+      "end_time": 3450
+    }
+  ]
 }

@@ -6,5 +6,62 @@
   "description": "#wildcamping #tarpcamping #hiking #backpacking #lakedistrict #bivvycamping \n#getoutside #stealthcamping\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\ude09\nhttps://theblotoutdoorsmerch.myshopify.com/collections/all\n\nHere's the link for Brown's Biltong \ud83d\ude0b \nhttps://brownsbiltong.co.uk/mandingo",
   "thumbnail": "https://i.ytimg.com/vi/gymluzqfm74/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Journey and gear prep",
+      "end_time": 143
+    },
+    {
+      "start_time": 143,
+      "title": "Setting up camp",
+      "end_time": 697
+    },
+    {
+      "start_time": 697,
+      "title": "Campground tour",
+      "end_time": 1058
+    },
+    {
+      "start_time": 1058,
+      "title": "Hike to Blencathra summit",
+      "end_time": 1385
+    },
+    {
+      "start_time": 1385,
+      "title": "Evening whiskey review",
+      "end_time": 1827
+    },
+    {
+      "start_time": 1827,
+      "title": "Camp stories",
+      "end_time": 2361
+    },
+    {
+      "start_time": 2361,
+      "title": "The Benidorm story",
+      "end_time": 2755
+    },
+    {
+      "start_time": 2755,
+      "title": "Final whiskey check",
+      "end_time": 3304
+    },
+    {
+      "start_time": 3304,
+      "title": "Dinner at camp",
+      "end_time": 3757
+    },
+    {
+      "start_time": 3757,
+      "title": "Morning routine",
+      "end_time": 4014
+    },
+    {
+      "start_time": 4014,
+      "title": "Trip summary",
+      "end_time": 4143
+    }
+  ]
 }

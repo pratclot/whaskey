@@ -6,5 +6,57 @@
   "description": "#wildcamping #stormcamping #raincamping \n#camping #comedy #getoutside #hiking \n#stealthcamping #hikingandcamping #windy\n\nHere's the link for Kevs channel:\nhttps://youtube.com/@Kevsoutdooradventure?si=FyD7VUclJFPPk-hb\n\nHere's the link for WatchDutch MD:\nhttps://youtube.com/@WatchDutchMD?si=UoCREsrFeik8xLkn\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\ude09\nhttps://theblotoutdoorsmerch.myshopify.com/collections/all",
   "thumbnail": "https://i.ytimg.com/vi/iP84d_jdDkY/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Hiking to the summit",
+      "end_time": 379
+    },
+    {
+      "start_time": 379,
+      "title": "Setting up camp",
+      "end_time": 680
+    },
+    {
+      "start_time": 680,
+      "title": "Food and drink review",
+      "end_time": 1025
+    },
+    {
+      "start_time": 1025,
+      "title": "First drinks and banter",
+      "end_time": 1307
+    },
+    {
+      "start_time": 1307,
+      "title": "Whiskey tasting and review",
+      "end_time": 1968
+    },
+    {
+      "start_time": 1968,
+      "title": "Stormy weather arrives",
+      "end_time": 2261
+    },
+    {
+      "start_time": 2261,
+      "title": "Final whiskey and tent failure",
+      "end_time": 2824
+    },
+    {
+      "start_time": 2824,
+      "title": "Surviving the storm",
+      "end_time": 3153
+    },
+    {
+      "start_time": 3153,
+      "title": "Morning after the storm",
+      "end_time": 3516
+    },
+    {
+      "start_time": 3516,
+      "title": "Packing up and departing",
+      "end_time": 3948
+    }
+  ]
 }

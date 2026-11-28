@@ -31,6 +31,7 @@ items:
     though it is a bit harsh.
   verdict_quote: That's still worthy of a 6 out of 10 cheers Gary mate.
 transcript_source: faster-whisper
+names_verified: true
 ---
 
 **[50:33]** Oh yes man dingoes you know what time it is it's waski time and this is what we've got this week gretna green blended scotch waski. Spanky very much to Gary Bessford for that. I've actually reviewed this once before. **[51:42]** It smells like a bit fishy. I'm getting like scampi. It's me fingers. **[52:29]** Malty few spices robust. Like a robust malty mild spice rooney oaky slightly oak and that's about it. **[53:44]** Oh that's a nice kick a nice burn I don't mind that the old Bernie gibbling you better believe it. I'm getting like the taste of vegetables weird. **[54:35]** There's also a citrus thing coming through folks like a fruity zesty citrus erm it is a bit harsh. **[57:03]** That vegetable flavour coming through like a Sunday dinner fart. No honestly guys I'm only joking that's still worthy of a 6 out of 10 cheers Gary mate.

@@ -69,6 +69,7 @@ items:
     sauce that gives a nice little tingle on the tongue.
   verdict_quote: It's the spicy charito and pasta version van dyke of their meals...
     it will certainly ding dang do for a camping trip.
+names_verified: true
 ---
 
 **[53:44]** This is what I'm talking about, folks, kindly given to me from my mother-in-law, the lovely Lorraine from the Wild Turkey Distillery. We have got American Honey... Let's get the drink in, the drinky poo-poos, and let's get on with it before any more cars come.

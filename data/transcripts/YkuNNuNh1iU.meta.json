@@ -6,5 +6,62 @@
   "description": "#stealthcamping #wildcamping #getoutside \n#camping #stealthurbancamping #adventure \n#middlesbrough #stealthcampinguk \n#wildcampinguk #outdoorcamping\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\ude09 \nhttps://theblotoutdoorsmerch.myshopify.com/collections/all",
   "thumbnail": "https://i.ytimg.com/vi/YkuNNuNh1iU/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Arrival at the stadium",
+      "end_time": 82
+    },
+    {
+      "start_time": 82,
+      "title": "Scouting for a camp spot",
+      "end_time": 314
+    },
+    {
+      "start_time": 314,
+      "title": "Setting up camp",
+      "end_time": 541
+    },
+    {
+      "start_time": 541,
+      "title": "Evening relaxation",
+      "end_time": 732
+    },
+    {
+      "start_time": 732,
+      "title": "Gear and meal review",
+      "end_time": 1089
+    },
+    {
+      "start_time": 1089,
+      "title": "Football stories and chat",
+      "end_time": 1797
+    },
+    {
+      "start_time": 1797,
+      "title": "Stadium walk and history",
+      "end_time": 2275
+    },
+    {
+      "start_time": 2275,
+      "title": "World famous whiskey review",
+      "end_time": 2842
+    },
+    {
+      "start_time": 2842,
+      "title": "Nighttime snack",
+      "end_time": 3036
+    },
+    {
+      "start_time": 3036,
+      "title": "Late night supper",
+      "end_time": 3398
+    },
+    {
+      "start_time": 3398,
+      "title": "Morning departure",
+      "end_time": 3607
+    }
+  ]
 }

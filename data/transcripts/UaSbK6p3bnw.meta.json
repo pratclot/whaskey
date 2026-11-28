@@ -6,5 +6,52 @@
   "description": "#roundaboutcamping #stealthcamping #wildcamping #stealthcampingalliance #wildcampinguk #adventure #stealth #stealthurbancamping #secretcamping #stealthcampinguk\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\ude09\nhttps://theblotoutdoorsmerch.myshopify.com/collections/all",
   "thumbnail": "https://i.ytimg.com/vi/UaSbK6p3bnw/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "The stealth mission",
+      "end_time": 175
+    },
+    {
+      "start_time": 175,
+      "title": "Dodging the crowd",
+      "end_time": 354
+    },
+    {
+      "start_time": 354,
+      "title": "Setting up camp",
+      "end_time": 638
+    },
+    {
+      "start_time": 638,
+      "title": "Reminiscing and chat",
+      "end_time": 1163
+    },
+    {
+      "start_time": 1163,
+      "title": "Stealth challenges",
+      "end_time": 1748
+    },
+    {
+      "start_time": 1748,
+      "title": "Camp gear overview",
+      "end_time": 2111
+    },
+    {
+      "start_time": 2111,
+      "title": "The whisky review",
+      "end_time": 2504
+    },
+    {
+      "start_time": 2504,
+      "title": "Cooking dinner",
+      "end_time": 3149
+    },
+    {
+      "start_time": 3149,
+      "title": "Morning departure",
+      "end_time": 3790
+    }
+  ]
 }

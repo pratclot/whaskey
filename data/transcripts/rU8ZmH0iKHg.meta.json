@@ -6,5 +6,52 @@
   "description": "#food #takeaway #chinesefood #nastyfood \n#foodie #fastfood #takeawayfood #foodreview \n#whiskyreview #foodcritic\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\ude09 \nhttps://theblotoutdoorsmerch.myshopify.com/collections/all",
   "thumbnail": "https://i.ytimg.com/vi/rU8ZmH0iKHg/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Introduction and context",
+      "end_time": 395
+    },
+    {
+      "start_time": 395,
+      "title": "Ordering at Simon's",
+      "end_time": 561
+    },
+    {
+      "start_time": 561,
+      "title": "Food arrival and initial look",
+      "end_time": 652
+    },
+    {
+      "start_time": 652,
+      "title": "Food tasting and review",
+      "end_time": 1076
+    },
+    {
+      "start_time": 1076,
+      "title": "Final tasting and verdict",
+      "end_time": 1573
+    },
+    {
+      "start_time": 1573,
+      "title": "Value check and summary",
+      "end_time": 1672
+    },
+    {
+      "start_time": 1672,
+      "title": "Merch and channel updates",
+      "end_time": 2156
+    },
+    {
+      "start_time": 2156,
+      "title": "Whiskey review",
+      "end_time": 2653
+    },
+    {
+      "start_time": 2653,
+      "title": "Fan clips and closing",
+      "end_time": 2852
+    }
+  ]
 }

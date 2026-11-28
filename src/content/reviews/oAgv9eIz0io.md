@@ -36,6 +36,7 @@ items:
   verdict_quote: It's not their best... We'll give it a straight seven. I tell you
     what, the last time Sunderland won the FA Cup was in 1973. So, we'll give it a
     7.3.
+names_verified: true
 ---
 
 **[40:07]** You know what time it is. It's whisky time. And this is what we've got. And before I say anything, I want to give the biggest massive shout out to the one and only King John Bongo, one of the biggest fans of the Blot Outdoor Show. 

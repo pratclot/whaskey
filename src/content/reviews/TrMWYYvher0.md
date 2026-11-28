@@ -33,6 +33,7 @@ items:
   verdict_quote: blackberry flavor rooney mixed in with your typical jack daniels
     taste honey as well... that's an average score of 8.8
 transcript_source: faster-whisper
+names_verified: true
 ---
 
 **[59:39]** Oh yes man dingos you know what time it is it's time for the world famous waski review with my son preston. We have got jack daniels blackberry... right let's get the old bakeroni impression and have a go see what we think.

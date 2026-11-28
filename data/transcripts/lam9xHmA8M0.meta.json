@@ -6,5 +6,72 @@
   "description": "#stealthcampinguk #wildcampinguk #camping #getoutside #stealthcamping #adventure #wildcamping #stealthurbancamping\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\ude09 \nhttps://theblotoutdoorsmerch.myshopify.com/collections/all\n\nHere's the link for Brown's Biltong \ud83d\ude0b\nhttps://brownsbiltong.co.uk/mandingo",
   "thumbnail": "https://i.ytimg.com/vi/lam9xHmA8M0/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Planning the urban camp",
+      "end_time": 145
+    },
+    {
+      "start_time": 145,
+      "title": "Approaching the location",
+      "end_time": 353
+    },
+    {
+      "start_time": 353,
+      "title": "Setting up the spot",
+      "end_time": 490
+    },
+    {
+      "start_time": 490,
+      "title": "Relaxing with a drink",
+      "end_time": 748
+    },
+    {
+      "start_time": 748,
+      "title": "A dramatic altercation",
+      "end_time": 1054
+    },
+    {
+      "start_time": 1054,
+      "title": "Checking the surroundings",
+      "end_time": 1205
+    },
+    {
+      "start_time": 1205,
+      "title": "Reviewing the supplies",
+      "end_time": 1614
+    },
+    {
+      "start_time": 1614,
+      "title": "Reflecting on stealth life",
+      "end_time": 1930
+    },
+    {
+      "start_time": 1930,
+      "title": "Sharing camping stories",
+      "end_time": 2154
+    },
+    {
+      "start_time": 2154,
+      "title": "Whiskey review session",
+      "end_time": 2500
+    },
+    {
+      "start_time": 2500,
+      "title": "Cooking and eating dinner",
+      "end_time": 3310
+    },
+    {
+      "start_time": 3310,
+      "title": "Final reflections",
+      "end_time": 3554
+    },
+    {
+      "start_time": 3554,
+      "title": "Morning departure",
+      "end_time": 3818
+    }
+  ]
 }

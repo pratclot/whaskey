@@ -6,5 +6,42 @@
   "description": "#wildcamping #getoutside #hiking #yorkshire\n#backpacking #greatoutdoors #tower\n#stealthcamping #outdoorcooking\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\ude09 \nhttps://theblotoutdoorsmerch.myshopify.com/collections/all",
   "thumbnail": "https://i.ytimg.com/vi/N6vC-tlVQi0/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Arrival and setup",
+      "end_time": 36
+    },
+    {
+      "start_time": 36,
+      "title": "Camp setup and beers",
+      "end_time": 1544
+    },
+    {
+      "start_time": 1544,
+      "title": "Exploring the tower ruins",
+      "end_time": 2003
+    },
+    {
+      "start_time": 2003,
+      "title": "Evening reflections and drink",
+      "end_time": 2663
+    },
+    {
+      "start_time": 2663,
+      "title": "Whiskey review",
+      "end_time": 3140
+    },
+    {
+      "start_time": 3140,
+      "title": "Cooking dinner",
+      "end_time": 3571
+    },
+    {
+      "start_time": 3571,
+      "title": "Morning packing and departure",
+      "end_time": 3946
+    }
+  ]
 }

@@ -6,5 +6,47 @@
   "description": "#fishandchips #walkaround #takeawayfood \n#reallife #comedy #walkandtalk #realpeople \n#stealthcamping #wildcamping #foodreview",
   "thumbnail": "https://i.ytimg.com/vi/ZeFodr_4t_k/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Arrival at the coast",
+      "end_time": 118
+    },
+    {
+      "start_time": 118,
+      "title": "Exploring the seafront",
+      "end_time": 447
+    },
+    {
+      "start_time": 447,
+      "title": "Visiting St Germain's church",
+      "end_time": 717
+    },
+    {
+      "start_time": 717,
+      "title": "Mooching through the village",
+      "end_time": 1339
+    },
+    {
+      "start_time": 1339,
+      "title": "Drink at the Zetland Hotel",
+      "end_time": 1611
+    },
+    {
+      "start_time": 1611,
+      "title": "Seeking takeaway recommendations",
+      "end_time": 2043
+    },
+    {
+      "start_time": 2043,
+      "title": "Ordering fish and chips",
+      "end_time": 2338
+    },
+    {
+      "start_time": 2338,
+      "title": "Food review and final wrap-up",
+      "end_time": 3174
+    }
+  ]
 }

@@ -28,9 +28,9 @@ items:
   tasting_notes: A refreshing session pale ale enjoyed as the first can of the trip
     while setting up camp.
   verdict_quote: First time I've had that one. Repeater. A good name for me.
-- name: Pink Grapefruit IPA
+- name: Pink Grapefruit Jaipur
   category: Beer & Ale
-  brand_or_distillery: ''
+  brand_or_distillery: Thornbridge Brewery
   region_or_style: IPA
   abv: 5.9%
   timestamp_seconds: 970
@@ -48,7 +48,7 @@ items:
   verdict_quote: Oh, nice. That is very refreshing.
 - name: The Antiquary 15 Year Old
   category: Whisky
-  brand_or_distillery: Tomatin
+  brand_or_distillery: J & W Hardie
   region_or_style: Blended Scotch Whisky
   abv: ''
   timestamp_seconds: 3520
@@ -67,6 +67,7 @@ items:
     mahogany wood, pipe tobacco, and stewed apple, followed by a palate rich with
     peach, red fruits, stewed plum, Christmas spices, and a hint of red wine.
   verdict_quote: It's a solid seven for me... a seven from Z Mandingo.
+names_verified: true
 ---
 
 **[58:35]** Yes mingles. You know what time it is. Wasy time. You better believe it is. Antiquary. 15 year old. Matured in claret cask. **[59:29]** Smell your M. If you die, doesn't mind. Well, straight away, I'm going to be cliche and say it smells a bit woody, a bit oaky. It smells a bit smokey, but a bit like pipe tobacco. And a little bit fruity as well. Maybe some like orange peel or something like that. **[01:00:23]** It is getting like a bit of a woody smell for me. Like a clean like a clean polished wood. Can like mahogany when I was a kid and she'd have all like mahogany furniture. **[01:01:39]** Straight away I'm getting a bit of a bit of fruit. As I said, it tastes a bit peachy, a bit gummy red fruits, I would say. Little bit smoky. I can taste a little bit of rhubarb as well. **[01:06:41]** What score you giving my man? Well, I like it, but I would say it's a solid seven for me. Like it's a solid seven. So it's a seven from Z Mandingo. It's a miserable five from five. I give it 5.5. That's an average score of 6.5.

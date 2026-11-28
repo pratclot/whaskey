@@ -6,5 +6,42 @@
   "description": "#foodreview #food #foodchallenge #foodporn\n#yummy #nastyfood #ratemyplate #whiskyreview\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\udc4d\nhttps://theblotoutdoorsmerch.myshopify.com/collections/all",
   "thumbnail": "https://i.ytimg.com/vi/qqRKRd2Ow-Y/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Introduction and Mission",
+      "end_time": 114
+    },
+    {
+      "start_time": 114,
+      "title": "Ordering Food",
+      "end_time": 344
+    },
+    {
+      "start_time": 344,
+      "title": "Leaving the Cafe",
+      "end_time": 486
+    },
+    {
+      "start_time": 486,
+      "title": "Tasting the Food",
+      "end_time": 857
+    },
+    {
+      "start_time": 857,
+      "title": "Food Rating and Plans",
+      "end_time": 1171
+    },
+    {
+      "start_time": 1171,
+      "title": "Whiskey Review",
+      "end_time": 1497
+    },
+    {
+      "start_time": 1497,
+      "title": "Conclusion",
+      "end_time": 1552
+    }
+  ]
 }

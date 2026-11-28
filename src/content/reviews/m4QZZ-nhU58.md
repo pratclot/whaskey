@@ -94,6 +94,7 @@ items:
     warm spice on the finish.
   verdict_quote: So I'm going to give it a not just a steady, a very decent score
     of 8.5 out of 10 dingo mandingos.
+names_verified: true
 ---
 
 **[07:28]** On my first beer of this camping trip from the Wild Beer Company Pogo passion fruit pale ale. I've had this out a couple of times and it's very nice. It's got a taste of like hold on a second. Like passion fruit. **[16:02]** Where's my can dingle? It's there. I'm now on Cheers my dingle. The judicious Kirkstall Brewery 4.8% pale ale. Tell you what... Nice, very tasty. **[43:03]** If it tastes as good as it smells, it's going to be a 10 out of 10 chili, so come on then, young Chris. Can you tell these absolute legends exactly what's in this? We've got garlic, chilli peppers, onions, and we've got kidney beans, tomatoes, masala, lime and coriander rice... Proper flavourful, coming through straight away. **[50:15]** You know what time it is. You better believe it is. And this is what we have got this week, Cotswolds single malt English whisky. Kindly given to us from a couple of legends by the name of Steven Duncan and Steven Ellis... **[59:18]** So I'm going to give it a not just a steady, a very decent score of 8.5 out of 10 dingo mandingos.

@@ -31,6 +31,7 @@ items:
     the palate, it feels quite thin and young with a sweet caramel character, a hint
     of oak, and a slight spicy tingle on the finish.
   verdict_quote: Streams of piss pish whiskey... Average score six.
+names_verified: true
 ---
 
 **[22:40]** Oh, yes, mandingo dingle berries. You know what time it is? It's whisky time. We need to get... It's pissing down outside, guys. We've got pools, streams of piss. What's it called? It's called streams of whisky. Kindly given to us from a lovely couple by the names of Kim and Daz Dace. 

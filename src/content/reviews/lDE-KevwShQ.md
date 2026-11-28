@@ -31,6 +31,7 @@ items:
     hazelnut, cinder toffee, and a fruity cherry-like tropical hint on the finish.
   verdict_quote: It's nice. I've enjoyed it. Seven straight as a die. Seven out of
     10, dingo.
+names_verified: true
 ---
 
 **[43:08]** It's like a very caramelly smell, I would say. Caramel or caramel. And then it's got like a sharp little smell. Ooh, that creamy smell actually like Werther's Original. Get the old bacosaurus rexicles in guys, get it in. Straight away like a strong fruit delicious baby. Definitely a fruit dingo.

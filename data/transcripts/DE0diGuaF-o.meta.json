@@ -6,5 +6,42 @@
   "description": "#takeawayfood #britishfood #breakfast #hotbeef\n#food #takeaway #fastfood #cafefood",
   "thumbnail": "https://i.ytimg.com/vi/DE0diGuaF-o/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Tummy troubles and plans",
+      "end_time": 28
+    },
+    {
+      "start_time": 28,
+      "title": "Traveling to the cafe",
+      "end_time": 257
+    },
+    {
+      "start_time": 257,
+      "title": "Ordering food",
+      "end_time": 519
+    },
+    {
+      "start_time": 519,
+      "title": "Food review",
+      "end_time": 1250
+    },
+    {
+      "start_time": 1250,
+      "title": "Cafe rating",
+      "end_time": 1507
+    },
+    {
+      "start_time": 1507,
+      "title": "Rum tasting and chat",
+      "end_time": 2260
+    },
+    {
+      "start_time": 2260,
+      "title": "Fan clips and ending",
+      "end_time": 2508
+    }
+  ]
 }

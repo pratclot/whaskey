@@ -6,5 +6,57 @@
   "description": "#wildcamping #camping #hikingandcamping \n#comedy #hiking #adventure #whiskyreview \n#wildcampinguk #stealthcamping #snowcamping\n\nHere's the link for Shields Viking Outdoors:\nhttps://youtube.com/@TheShieldsVikingOutdoors?si=jPnHptNtKOjlyOPl\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\ude09 \nhttps://theblotoutdoorsmerch.myshopify.com/collections/all",
   "thumbnail": "https://i.ytimg.com/vi/M6ZTLHVO8Kg/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Hiking to the campsite",
+      "end_time": 181
+    },
+    {
+      "start_time": 181,
+      "title": "Finding a spot",
+      "end_time": 394
+    },
+    {
+      "start_time": 394,
+      "title": "Setting up camp",
+      "end_time": 519
+    },
+    {
+      "start_time": 519,
+      "title": "Gear setup and view",
+      "end_time": 776
+    },
+    {
+      "start_time": 776,
+      "title": "Evening preparation",
+      "end_time": 1207
+    },
+    {
+      "start_time": 1207,
+      "title": "Food and drink review",
+      "end_time": 1553
+    },
+    {
+      "start_time": 1553,
+      "title": "Cooking dinner",
+      "end_time": 2700
+    },
+    {
+      "start_time": 2700,
+      "title": "Dinner disaster",
+      "end_time": 3221
+    },
+    {
+      "start_time": 3221,
+      "title": "Whiskey review",
+      "end_time": 3898
+    },
+    {
+      "start_time": 3898,
+      "title": "Morning departure",
+      "end_time": 4099
+    }
+  ]
 }

@@ -6,5 +6,42 @@
   "description": "#kfcchicken #adventure #vanlife #cooking #stealth #whiskey #outdoorscooking #vancooking #vanlifeuk #whiskyreview\n\nHere's the link for Roberts channel \ud83d\ude09\nhttps://youtube.com/@murchiesmountains2820\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\udc4d \nhttps://theblotoutdoorsmerch.myshopify.com/collections/all",
   "thumbnail": "https://i.ytimg.com/vi/oI9cQGkBEIw/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Cooking project introduction",
+      "end_time": 126
+    },
+    {
+      "start_time": 126,
+      "title": "Preparing the meal",
+      "end_time": 585
+    },
+    {
+      "start_time": 585,
+      "title": "Bloopers and Q&A",
+      "end_time": 752
+    },
+    {
+      "start_time": 752,
+      "title": "New tent gear review",
+      "end_time": 881
+    },
+    {
+      "start_time": 881,
+      "title": "Coffee and future plans",
+      "end_time": 1016
+    },
+    {
+      "start_time": 1016,
+      "title": "Whiskey tasting review",
+      "end_time": 1258
+    },
+    {
+      "start_time": 1258,
+      "title": "Closing and preview",
+      "end_time": 1358
+    }
+  ]
 }

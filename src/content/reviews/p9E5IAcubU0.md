@@ -60,8 +60,8 @@ items:
     egg rice with poppadoms.
   verdict_quote: The onions have got a lush crunch, the meat is tender, the rice is
     perfect — this is the greatest curry I've ever had in my life!
+names_verified: true
 ---
-
 
 ## Tasting Transcript Excerpt
 

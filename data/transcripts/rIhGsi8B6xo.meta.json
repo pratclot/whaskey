@@ -6,5 +6,62 @@
   "description": "#wildcamping #getoutside #adventure #comedy \n#stealthcamping #wildcampinguk #camping \n#hiking #lakedistrict #stealthcampinguk\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\ude09\nhttps://theblotoutdoorsmerch.myshopify.com/collections/all",
   "thumbnail": "https://i.ytimg.com/vi/rIhGsi8B6xo/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Hiking to the summit",
+      "end_time": 295
+    },
+    {
+      "start_time": 295,
+      "title": "Setting up camp",
+      "end_time": 434
+    },
+    {
+      "start_time": 434,
+      "title": "Camp prep and drinks",
+      "end_time": 841
+    },
+    {
+      "start_time": 841,
+      "title": "Scenic views of the lake",
+      "end_time": 1144
+    },
+    {
+      "start_time": 1144,
+      "title": "Food review and prep",
+      "end_time": 1658
+    },
+    {
+      "start_time": 1658,
+      "title": "Enjoying the hot meal",
+      "end_time": 2046
+    },
+    {
+      "start_time": 2046,
+      "title": "The hot rum challenge",
+      "end_time": 2422
+    },
+    {
+      "start_time": 2422,
+      "title": "Relaxing and reflections",
+      "end_time": 2856
+    },
+    {
+      "start_time": 2856,
+      "title": "Revisiting the hot rum",
+      "end_time": 3557
+    },
+    {
+      "start_time": 3557,
+      "title": "Final meal review",
+      "end_time": 4102
+    },
+    {
+      "start_time": 4102,
+      "title": "Packing up and morning",
+      "end_time": 4408
+    }
+  ]
 }

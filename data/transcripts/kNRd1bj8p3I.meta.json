@@ -6,5 +6,52 @@
   "description": "#wildcamping #outdoors #backpacking #ghoststories #lakedistrict #whisky #stealthcamping\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\ude09",
   "thumbnail": "https://i.ytimg.com/vi/kNRd1bj8p3I/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Hiking to the camping spot",
+      "end_time": 313
+    },
+    {
+      "start_time": 313,
+      "title": "Setting up camp",
+      "end_time": 481
+    },
+    {
+      "start_time": 481,
+      "title": "Gear and food showcase",
+      "end_time": 725
+    },
+    {
+      "start_time": 725,
+      "title": "Hiking and ghost stories",
+      "end_time": 1015
+    },
+    {
+      "start_time": 1015,
+      "title": "Return to camp and relax",
+      "end_time": 1265
+    },
+    {
+      "start_time": 1265,
+      "title": "Nighttime spooky tales",
+      "end_time": 1645
+    },
+    {
+      "start_time": 1645,
+      "title": "Whiskey review",
+      "end_time": 2281
+    },
+    {
+      "start_time": 2281,
+      "title": "Cooking dinner",
+      "end_time": 2786
+    },
+    {
+      "start_time": 2786,
+      "title": "Morning routine and departure",
+      "end_time": 3289
+    }
+  ]
 }

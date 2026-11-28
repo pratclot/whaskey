@@ -6,5 +6,52 @@
   "description": "#campingunderabridge #stealthcamping #wildcamping #stealthcampingalliance #wildcampinguk #adventure #stealth #stealthurbancamping #secretcamping #stealthcampinguk\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\udc4d \nhttps://theblotoutdoorsmerch.myshopify.com/collections/all",
   "thumbnail": "https://i.ytimg.com/vi/i8AdeLjt0JM/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Arrival and setup",
+      "end_time": 137
+    },
+    {
+      "start_time": 137,
+      "title": "Waiting for dark",
+      "end_time": 325
+    },
+    {
+      "start_time": 325,
+      "title": "Setting up camp",
+      "end_time": 439
+    },
+    {
+      "start_time": 439,
+      "title": "Food and drinks",
+      "end_time": 620
+    },
+    {
+      "start_time": 620,
+      "title": "Stealth camp update",
+      "end_time": 801
+    },
+    {
+      "start_time": 801,
+      "title": "Channel support",
+      "end_time": 951
+    },
+    {
+      "start_time": 951,
+      "title": "Whiskey review",
+      "end_time": 1493
+    },
+    {
+      "start_time": 1493,
+      "title": "Morning packing",
+      "end_time": 1690
+    },
+    {
+      "start_time": 1690,
+      "title": "Conclusion",
+      "end_time": 1767
+    }
+  ]
 }

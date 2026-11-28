@@ -6,5 +6,57 @@
   "description": "#roundaboutcamping #stealthcamping #wildcamping #stealthcampingalliance\n#wildcampinguk #adventure #stealth\n#stealthurbancamping #secretcamping \n#stealthcampinguk\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\ude09\nhttps://theblotoutdoorsmerch.myshopify.com/collections/all",
   "thumbnail": "https://i.ytimg.com/vi/m4jqW8JkRjA/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Introduction",
+      "end_time": 23
+    },
+    {
+      "start_time": 23,
+      "title": "Finding the spot",
+      "end_time": 178
+    },
+    {
+      "start_time": 178,
+      "title": "Setting up camp",
+      "end_time": 490
+    },
+    {
+      "start_time": 490,
+      "title": "Initial thoughts and beer",
+      "end_time": 825
+    },
+    {
+      "start_time": 825,
+      "title": "Addressing comments",
+      "end_time": 1139
+    },
+    {
+      "start_time": 1139,
+      "title": "Tent setup and tour",
+      "end_time": 1641
+    },
+    {
+      "start_time": 1641,
+      "title": "Whiskey review prep",
+      "end_time": 2214
+    },
+    {
+      "start_time": 2214,
+      "title": "Whiskey review",
+      "end_time": 2892
+    },
+    {
+      "start_time": 2892,
+      "title": "Cooking dinner",
+      "end_time": 3344
+    },
+    {
+      "start_time": 3344,
+      "title": "Morning pack up",
+      "end_time": 3604
+    }
+  ]
 }

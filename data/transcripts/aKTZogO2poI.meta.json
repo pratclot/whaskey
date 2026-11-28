@@ -6,5 +6,52 @@
   "description": "#takeaway #food #pizzashop #takeawayfood \n#foodie #pizza #brandy #stealthcamping\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\ude09\nhttps://theblotoutdoorsmerch.myshopify.com/collections/all",
   "thumbnail": "https://i.ytimg.com/vi/aKTZogO2poI/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Friday night takeaway trip",
+      "end_time": 230
+    },
+    {
+      "start_time": 230,
+      "title": "Ordering at Napoli Pizza",
+      "end_time": 347
+    },
+    {
+      "start_time": 347,
+      "title": "Waiting for the food",
+      "end_time": 550
+    },
+    {
+      "start_time": 550,
+      "title": "Arriving at the scenic spot",
+      "end_time": 665
+    },
+    {
+      "start_time": 665,
+      "title": "Food review and tasting",
+      "end_time": 1349
+    },
+    {
+      "start_time": 1349,
+      "title": "Takeaway final score",
+      "end_time": 1552
+    },
+    {
+      "start_time": 1552,
+      "title": "Family history and talk",
+      "end_time": 2189
+    },
+    {
+      "start_time": 2189,
+      "title": "Brandy review",
+      "end_time": 2607
+    },
+    {
+      "start_time": 2607,
+      "title": "Fan clips and ending",
+      "end_time": 2862
+    }
+  ]
 }

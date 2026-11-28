@@ -33,6 +33,7 @@ items:
     with a lingering aftertaste of summer berry fruits.
   verdict_quote: Top quality mandingos well I am going to give that a massive 8.8
     out of 10 beautiful you know what I'm talking about
+names_verified: true
 ---
 
 **[30:06]** oh yeah yeah you know what time it is manding was wasy time and this week this is what we've got Glenn wyver Highland single maltt Scotch wasy now that is not what the proper size bottler look like I'll quickly show you a picture of that now there you go right folks let's get this open got me a little cup oh yeah get that all in there right let's get the old bacon it got a very sweet smell and fruity but not like when I've had other whiskies and I've said like apples and pears sometimes oranges this is more like GPS it's got like a lovely sweet grape smell very nice good start anyway guys

@@ -6,5 +6,57 @@
   "description": "#stealthcampinguk #stealthcamp #comedy \n#wildcamping #stealthcamping #camping \n#wildcampinguk #rumreview\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\ude09\nhttps://theblotoutdoorsmerch.myshopify.com/collections/all",
   "thumbnail": "https://i.ytimg.com/vi/QfLUgyege4M/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Starting the camp",
+      "end_time": 221
+    },
+    {
+      "start_time": 221,
+      "title": "Setting up camp",
+      "end_time": 372
+    },
+    {
+      "start_time": 372,
+      "title": "Relaxing with beers",
+      "end_time": 720
+    },
+    {
+      "start_time": 720,
+      "title": "Spot review",
+      "end_time": 1083
+    },
+    {
+      "start_time": 1083,
+      "title": "Tasting spicy rum",
+      "end_time": 1561
+    },
+    {
+      "start_time": 1561,
+      "title": "Gear and food talk",
+      "end_time": 2008
+    },
+    {
+      "start_time": 2008,
+      "title": "Detailed rum review",
+      "end_time": 2711
+    },
+    {
+      "start_time": 2711,
+      "title": "Cooking dinner",
+      "end_time": 3058
+    },
+    {
+      "start_time": 3058,
+      "title": "Evening reflections",
+      "end_time": 3405
+    },
+    {
+      "start_time": 3405,
+      "title": "Morning pack up",
+      "end_time": 3576
+    }
+  ]
 }

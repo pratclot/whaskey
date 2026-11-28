@@ -10,9 +10,9 @@ episode_summary: The host goes barn camping at Car Shield Camping Barn with Cowb
   Chris and Young Chris, where they hike to a waterfall, cook a massive spicy chicken
   and chorizo mac and cheese, and review Buffalo Trace bourbon with some local fans.
 items:
-- name: Full Circle Brewing Co. Looper
+- name: Full Circle Brew Co. Looper Hazy IPA
   category: Beer & Ale
-  brand_or_distillery: Full Circle Brewing Company
+  brand_or_distillery: Full Circle Brew Co.
   region_or_style: IPA
   abv: 6.4%
   timestamp_seconds: 599
@@ -48,6 +48,7 @@ items:
   tasting_notes: Sweet on the nose with prominent notes of toffee, caramel, and a
     touch of cinnamon spice on the palate. Goes down extremely smooth.
   verdict_quote: A good solid nine out of 10. There you go.
+names_verified: true
 ---
 
 **[09:59]** Right then, I show you my drinks. Winter berry crumble. Very nice indeed. This one from the Full Circle Brewing Company. Looper. The three of us are a bunch of lopers. Let's give it a bash, guys. First time trying this one.

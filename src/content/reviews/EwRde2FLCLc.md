@@ -30,7 +30,7 @@ items:
   verdict_quote: I have had this sent for us sent for me I should say it Somerset
     cider 2.5 L from a legend by the name of Dennis Baker and he's from Somerset so
     Che is Dennis my man friend I will very much enjoy them tonight
-- name: Aldi Cheap Spanish Red Wine
+- name: Spanish Red Wine
   category: Spirits & Liqueur
   brand_or_distillery: Aldi
   region_or_style: Spanish Red Wine
@@ -93,6 +93,7 @@ items:
     hot and flavorful feast.
   verdict_quote: Look at that and up absolute thing of beauty a hot pipe and mail
     at 230 iny Morgan I'm ready to go to sleep after this
+names_verified: true
 ---
 
 **[08:46]** I've had this sent for us sent for me I should say it Somerset cider 2.5 L from a legend by the name of Dennis Baker and he's from Somerset so Che is Dennis my man friend I will very much enjoy them tonight.

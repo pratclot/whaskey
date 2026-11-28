@@ -6,5 +6,72 @@
   "description": "#stealthcamping #wildcamping #getoutside \n#stealthcampinguk #camping #wildcampinguk \n#stealth #greatoutdoors #stealthurbancamping\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\ude09 \nhttps://theblotoutdoorsmerch.myshopify.com/collections/all",
   "thumbnail": "https://i.ytimg.com/vi/DRdkQPhbD68/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Arrival at retail park",
+      "end_time": 155
+    },
+    {
+      "start_time": 155,
+      "title": "Securing the camp spot",
+      "end_time": 365
+    },
+    {
+      "start_time": 365,
+      "title": "Setting up stealth camp",
+      "end_time": 511
+    },
+    {
+      "start_time": 511,
+      "title": "Discussing new merchandise",
+      "end_time": 854
+    },
+    {
+      "start_time": 854,
+      "title": "Observing surroundings",
+      "end_time": 1029
+    },
+    {
+      "start_time": 1029,
+      "title": "Sharing food and drinks",
+      "end_time": 1337
+    },
+    {
+      "start_time": 1337,
+      "title": "Cooking the main meal",
+      "end_time": 1611
+    },
+    {
+      "start_time": 1611,
+      "title": "Enjoying the evening",
+      "end_time": 1887
+    },
+    {
+      "start_time": 1887,
+      "title": "Setting up bedding",
+      "end_time": 2200
+    },
+    {
+      "start_time": 2200,
+      "title": "Reflections on adulthood",
+      "end_time": 2496
+    },
+    {
+      "start_time": 2496,
+      "title": "Whiskey review",
+      "end_time": 3020
+    },
+    {
+      "start_time": 3020,
+      "title": "Eating dinner and thanking viewers",
+      "end_time": 3452
+    },
+    {
+      "start_time": 3452,
+      "title": "Packing up and departing",
+      "end_time": 3683
+    }
+  ]
 }

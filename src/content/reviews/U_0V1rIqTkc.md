@@ -32,6 +32,7 @@ items:
     a lingering aftertaste of dark fruits.
   verdict_quote: I'm going to give that a very good solid eight in fact no it was
     a little bit better than eight I'm going to give it a 8.2 out of 10
+names_verified: true
 ---
 
 **[21:17]** This is what we've got this time pure Scot blended Scotch whisky which has been kindly given to me from the Bladnoch Distillery in Galloway, Bonnie Scotland. **[22:14]** Let's get the old snifferooni in it. Very light smell, not overpowering in anyway, a little bit smoke to it and the slightest hint of dark fruits. **[23:36]** Now the taste is a bit more intense than the smell. The smell was very light, that's got a lot of a stronger taste so I'm getting that smoke coming through and a little bit peppery on the old tongue dingo. **[24:35]** After the third or fourth taste I'm getting them dark fruits are starting to come through now, very nice. **[25:11]** Strong taste even though it was light in the smell, a little bit peppery, a little bit gingery. I'm getting after taste of dark fruits coming through, but it's nice, it wasn't rough and also wasn't smooth, it was just in the middle. **[25:29]** Pure Scot Blended Scotch whisky I'm going to give that a very good solid eight, in fact no it was a little bit better than eight I'm going to give it a 8.2 out of 10.

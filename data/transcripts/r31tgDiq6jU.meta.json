@@ -6,5 +6,57 @@
   "description": "#stealthcampinguk #wildcampinguk #comedy \n#roundabout #adventure #littlemick #camping \n#stealthcamping #whiskyreview #wildcamping\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\ude09\nhttps://theblotoutdoorsmerch.myshopify.com/collections/all",
   "thumbnail": "https://i.ytimg.com/vi/r31tgDiq6jU/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Roundabout scout",
+      "end_time": 415
+    },
+    {
+      "start_time": 415,
+      "title": "Waiting for dark",
+      "end_time": 556
+    },
+    {
+      "start_time": 556,
+      "title": "Entering the roundabout",
+      "end_time": 865
+    },
+    {
+      "start_time": 865,
+      "title": "Tent setup and challenges",
+      "end_time": 1301
+    },
+    {
+      "start_time": 1301,
+      "title": "History of the spot",
+      "end_time": 1780
+    },
+    {
+      "start_time": 1780,
+      "title": "Sketchy encounters",
+      "end_time": 2086
+    },
+    {
+      "start_time": 2086,
+      "title": "Sponsorship update",
+      "end_time": 2715
+    },
+    {
+      "start_time": 2715,
+      "title": "Whiskey review",
+      "end_time": 3541
+    },
+    {
+      "start_time": 3541,
+      "title": "Cooking dinner",
+      "end_time": 4013
+    },
+    {
+      "start_time": 4013,
+      "title": "Morning departure",
+      "end_time": 4186
+    }
+  ]
 }

@@ -6,5 +6,47 @@
   "description": "",
   "thumbnail": "https://i.ytimg.com/vi/H5R5uB4qsqo/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Road trip and hike start",
+      "end_time": 129
+    },
+    {
+      "start_time": 129,
+      "title": "Hiking to the summit",
+      "end_time": 483
+    },
+    {
+      "start_time": 483,
+      "title": "Setting up camp",
+      "end_time": 639
+    },
+    {
+      "start_time": 639,
+      "title": "Tent and evening views",
+      "end_time": 918
+    },
+    {
+      "start_time": 918,
+      "title": "Whiskey review in tent",
+      "end_time": 1400
+    },
+    {
+      "start_time": 1400,
+      "title": "Dinner and overnight",
+      "end_time": 1591
+    },
+    {
+      "start_time": 1591,
+      "title": "Morning breakfast",
+      "end_time": 1771
+    },
+    {
+      "start_time": 1771,
+      "title": "Packing up and departing",
+      "end_time": 1851
+    }
+  ]
 }

@@ -6,5 +6,37 @@
   "description": "#camping #stealthcamping #wildcamping #stealthcampingalliance #wildcampinguk #adventure #stealth #stealthurbancamping #secretcamping #outdoors\n\nHere's the link for young Chris's channel \nhttps://youtube.com/@yackertravels\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\udc4d \nhttps://theblotoutdoorsmerch.myshopify.com/collections/all",
   "thumbnail": "https://i.ytimg.com/vi/S5_oVfDx3Ws/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Stealth camp location",
+      "end_time": 439
+    },
+    {
+      "start_time": 439,
+      "title": "Setting up and drinking",
+      "end_time": 982
+    },
+    {
+      "start_time": 982,
+      "title": "Gear and food talk",
+      "end_time": 1545
+    },
+    {
+      "start_time": 1545,
+      "title": "An eventful evening",
+      "end_time": 2008
+    },
+    {
+      "start_time": 2008,
+      "title": "Late night cooking",
+      "end_time": 2778
+    },
+    {
+      "start_time": 2778,
+      "title": "Morning packing",
+      "end_time": 3394
+    }
+  ]
 }

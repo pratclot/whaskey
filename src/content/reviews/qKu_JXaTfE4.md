@@ -29,9 +29,9 @@ items:
   tasting_notes: A refreshing fusion of IPA bitterness with distinct gin and tonic
     botanicals.
   verdict_quote: Jin and tonic IP oh and that is absolutely sensational
-- name: Subscriber Gift Whisky
+- name: Haig Club Single Grain Scotch Whisky
   category: Whisky
-  brand_or_distillery: ''
+  brand_or_distillery: Haig Club
   region_or_style: Single Malt Scotch Whisky
   abv: ''
   timestamp_seconds: 2436
@@ -49,6 +49,7 @@ items:
     slight woody finish.
   verdict_quote: it's not bad it's not great... I'm going to give that this time...
     6.5 out of 10
+names_verified: true
 ---
 
 **[40:16]** wasy time here Club I want to say a massive thank you to Paul Kelly David glass Emma Campbell lewis Davon and Johnny bordon thank you to all your Legends for buying me this he will go on the blood Outdoors sh lies right the all famous C Dingo mandingos and let's get that popped in there oh right let's get the old baker Rune un it oh I'm getting some lemon pale with also a little bit mango oh yes I'm getting something really nice there like a Turkish delight now I love a Turkish delight like a fries chocolate bar you know a fries chocolate with a cish the light ins the side oh yes anyway guys that's enough of the sniffing let's get on with the tasting rights now The Taste is a little bit jaw blond I'm looking for something to come through and I'm not quite getting it I'm really trying and I am getting a little bit Banana Rama a little bit fruit in little bit banana few spices there let me have another the TS Ming goes now we're starting to come through yeah you've got to be patient guys **[48:32]** I'm going to give that this time I'll probably give a different score with the times but at this moment now how I'm feeling it's 6.5 out of 10 dingo man dingos

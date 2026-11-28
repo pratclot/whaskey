@@ -6,5 +6,57 @@
   "description": "#tarpcamping #wildcamping #hiking #adventure #mountains",
   "thumbnail": "https://i.ytimg.com/vi/NQPZ04tX8KY/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Starting the journey",
+      "end_time": 133
+    },
+    {
+      "start_time": 133,
+      "title": "The hike up",
+      "end_time": 260
+    },
+    {
+      "start_time": 260,
+      "title": "Finding the spot",
+      "end_time": 441
+    },
+    {
+      "start_time": 441,
+      "title": "Setting up camp",
+      "end_time": 589
+    },
+    {
+      "start_time": 589,
+      "title": "Evening relaxation",
+      "end_time": 738
+    },
+    {
+      "start_time": 738,
+      "title": "Music and entertainment",
+      "end_time": 955
+    },
+    {
+      "start_time": 955,
+      "title": "Whiskey review",
+      "end_time": 1296
+    },
+    {
+      "start_time": 1296,
+      "title": "Goodnight",
+      "end_time": 1367
+    },
+    {
+      "start_time": 1367,
+      "title": "Morning routine",
+      "end_time": 1461
+    },
+    {
+      "start_time": 1461,
+      "title": "Packing up and departing",
+      "end_time": 1690
+    }
+  ]
 }

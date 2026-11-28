@@ -6,5 +6,37 @@
   "description": "#stealth #cooking #mcdonalds #cheeseburger #whiskey #adventure #vanlife #outdoorscooking #sunderland #whiskyreview \n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\udc4d \nhttps://theblotoutdoorsmerch.myshopify.com/collections/all",
   "thumbnail": "https://i.ytimg.com/vi/aOJU-zWjdRA/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Setting up the Friday night",
+      "end_time": 156
+    },
+    {
+      "start_time": 156,
+      "title": "Hiking and drinking habits",
+      "end_time": 346
+    },
+    {
+      "start_time": 346,
+      "title": "Cooking the ultimate burgers",
+      "end_time": 648
+    },
+    {
+      "start_time": 648,
+      "title": "Bloopers and behind the scenes",
+      "end_time": 802
+    },
+    {
+      "start_time": 802,
+      "title": "The Jericho whiskey review",
+      "end_time": 1205
+    },
+    {
+      "start_time": 1205,
+      "title": "Closing thoughts",
+      "end_time": 1316
+    }
+  ]
 }

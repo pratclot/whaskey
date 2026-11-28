@@ -6,5 +6,42 @@
   "description": "#durham #food #foodchallenge #foodie #yummy #takeaway #asianfood #ratemyplate #whiskyreview #whiskey\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\udc4d\nhttps://theblotoutdoorsmerch.myshopify.com/collections/all\n\nHere's the link for Spike's channel \ud83d\ude09\nhttps://youtube.com/@hoversharkscotland4729?si=gqDwo8bnIRypmEum",
   "thumbnail": "https://i.ytimg.com/vi/ZBOEkFKuLhg/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Durham takeaway journey",
+      "end_time": 189
+    },
+    {
+      "start_time": 189,
+      "title": "Ordering at Tuk Tuk",
+      "end_time": 376
+    },
+    {
+      "start_time": 376,
+      "title": "Food tasting and review",
+      "end_time": 1037
+    },
+    {
+      "start_time": 1037,
+      "title": "Takeaway final score",
+      "end_time": 1161
+    },
+    {
+      "start_time": 1161,
+      "title": "Channel updates and chat",
+      "end_time": 1449
+    },
+    {
+      "start_time": 1449,
+      "title": "World famous whiskey review",
+      "end_time": 1856
+    },
+    {
+      "start_time": 1856,
+      "title": "Video conclusion and bloopers",
+      "end_time": 2064
+    }
+  ]
 }

@@ -32,6 +32,7 @@ items:
     black licorice, aniseed, and sweet caramel.
   verdict_quote: I'm going to give it a straight eight... it was really enjoyable
     indeed still Austin.
+names_verified: true
 ---
 
 **[28:46]** First I'm going to show you this nice bottle of whaskey that's been kindly sent them may still Austin straight bourbon whaskey Texas bourbon I think it is... **[47:05]** quite a light smell yeah when you get some whaskeys some of them blow your cup off and you get loads of like massive sniffing go straight away that is quite mild but there's oiness to it... **[49:02]** that's a nice taston that's a nice it's a nice taston... **[51:16]** there's a spice to it I don't know what it is it's like a licorice yeah like you know when you get like a black licorice and I mean like proper licorice... **[55:58]** I'm going to give it a straight eight yes man dingo.

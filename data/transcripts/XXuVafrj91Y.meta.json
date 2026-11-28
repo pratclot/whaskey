@@ -6,5 +6,37 @@
   "description": "#chinesefood #takeaway #food #whiskyreview \n#foodchallenge #spicyfood #foodie\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\udc4d \nhttps://theblotoutdoorsmerch.myshopify.com/collections/all",
   "thumbnail": "https://i.ytimg.com/vi/XXuVafrj91Y/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Introduction and arrival",
+      "end_time": 239
+    },
+    {
+      "start_time": 239,
+      "title": "Ordering Chinese takeaway",
+      "end_time": 535
+    },
+    {
+      "start_time": 535,
+      "title": "Food tasting and review",
+      "end_time": 1285
+    },
+    {
+      "start_time": 1285,
+      "title": "Final food score",
+      "end_time": 1580
+    },
+    {
+      "start_time": 1580,
+      "title": "Whiskey review",
+      "end_time": 2496
+    },
+    {
+      "start_time": 2496,
+      "title": "Conclusion and bloopers",
+      "end_time": 2644
+    }
+  ]
 }

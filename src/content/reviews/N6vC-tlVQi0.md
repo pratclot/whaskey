@@ -32,6 +32,7 @@ items:
     and goes down very smooth with a distinct tart and sweet peach flavor backed by
     toasted corn and oak.
   verdict_quote: I'm going to give that a very decent 7.5.
+names_verified: true
 ---
 
 **[45:05]** right folks you know what time it is whisky time and this is what we've got this Jim Beam Peach flavored kindly given to me from a legend by the name of Digital Underground. Let's get this popped in my famous cup dingo and get a sniff up my nose. I'm getting a smell of peach, so they're not lying when they say peach flavored. It's a strong peach smell as well, right up my nose, and it's got that typical sweet Jim Beam bourbon background. Let's get on with the tasting. Really thick, goes down really smooth, no harshness about it. If you want to try your whisky and you're not really a whisky drinker, this could be the one for you. A little bit tart, a little bit sweet with the peach flavor. It's like drinking pop, but that's dangerous because you could drink that far too quick. **[51:11]** It's got your typical Jim Beam flavor with a peach twist. I'm going to give that a very decent 7.5 out of 10.

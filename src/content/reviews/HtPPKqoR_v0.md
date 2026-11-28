@@ -32,6 +32,7 @@ items:
     coffee, followed by mild spices and a light spiced fruit cake finish.
   verdict_quote: I'm going to give this Aber Falls... single malt scotch wasy I'm
     going to give it very very decent 6.7 out of 10 dingo Mandingo.
+names_verified: true
 ---
 
 **[30:07]** oh yes mandingos you know what time it is wasy time and this is what we've got this week Aber Falls single malt Welsh wasy Yes you heard me right Welsh and the Welsh do do some absolutely cracking wasis you better believe they do anyway let's get this cck open let's get it popped in your famous CB dingo Mingos

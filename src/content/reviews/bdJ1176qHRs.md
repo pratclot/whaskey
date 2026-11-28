@@ -54,6 +54,7 @@ items:
     slightest hint of smoke, going down very smoothly and delicately.
   verdict_quote: I'm going to give that a 8.9 out of 10 dingo man dingles which is
     still a absolutely fantastic score.
+names_verified: true
 ---
 
 **[39:32]** I've got me wrap guys I've ordered a mix wrap chicken donner mate chips and garlic £9.99 10 Squiddy so hopefully this is nice cuz I am absolutely Hank Marvin let's get back down to Camp mandinga. **[40:30]** Oh yes guys let's get stuck in this wrap I'm very hungry and I need a nice hot meal move that whisky out the way we've got a nice can of Norwegian amster beer to wash it down with. **[52:23]** Oh yes Mingo you know what time it is whisky time and this is what we've got this week Glenfarclas Highland single malt scotch whisky this is the old 10-year-old version. **[53:49]** Sweet sherry yes perhaps the lightest bit of toffee and I'm talking just the lightest bit also the slightest bit of honey we definite strong sweet sherry sniffer. **[54:27]** And that's enough of the sniffing let's get on with the taste. **[55:48]** A little bit toffee just very mild and a slight hint of smoke as well some whiskies can be so smoky they can be smoky to a point where it actually ruins the whisky. **[58:58]** I'm going to give that a 8.9 oh yes 8.9 out of 10 dingo man dingles which is still a absolutely fantastic score.

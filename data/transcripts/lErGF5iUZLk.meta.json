@@ -6,5 +6,47 @@
   "description": "#walkandtalk #takeaway #rumreview #food \n#dogwalk #foodreview #reallife #realpeople \n#stealthcamping #wildcamping\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\ude09 \nhttps://theblotoutdoorsmerch.myshopify.com/collections/all",
   "thumbnail": "https://i.ytimg.com/vi/lErGF5iUZLk/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Introduction and context",
+      "end_time": 104
+    },
+    {
+      "start_time": 104,
+      "title": "Road trip and arrival",
+      "end_time": 314
+    },
+    {
+      "start_time": 314,
+      "title": "Countryside walk and updates",
+      "end_time": 861
+    },
+    {
+      "start_time": 861,
+      "title": "Choosing the takeaway",
+      "end_time": 1221
+    },
+    {
+      "start_time": 1221,
+      "title": "Takeaway food review",
+      "end_time": 2708
+    },
+    {
+      "start_time": 2708,
+      "title": "Cottage tour",
+      "end_time": 3041
+    },
+    {
+      "start_time": 3041,
+      "title": "Rum tasting review",
+      "end_time": 3587
+    },
+    {
+      "start_time": 3587,
+      "title": "Closing thoughts",
+      "end_time": 3924
+    }
+  ]
 }

@@ -6,5 +6,62 @@
   "description": "#stealthcamping #wildcamping #getoutside \n#comedy #stealthcampinguk #rumreview \n#wildcampinguk #camping \n#adventure #stealthcamp\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\ude09 \nhttps://theblotoutdoorsmerch.myshopify.com/collections/all",
   "thumbnail": "https://i.ytimg.com/vi/EbEelPdOfCA/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Arrival and scouting",
+      "end_time": 283
+    },
+    {
+      "start_time": 283,
+      "title": "Setting up camp",
+      "end_time": 496
+    },
+    {
+      "start_time": 496,
+      "title": "Initial reflections",
+      "end_time": 743
+    },
+    {
+      "start_time": 743,
+      "title": "Scary encounter and fears",
+      "end_time": 961
+    },
+    {
+      "start_time": 961,
+      "title": "Preparing the camp gear",
+      "end_time": 1252
+    },
+    {
+      "start_time": 1252,
+      "title": "Setup and meal plans",
+      "end_time": 1450
+    },
+    {
+      "start_time": 1450,
+      "title": "Mooching and meeting a local",
+      "end_time": 1833
+    },
+    {
+      "start_time": 1833,
+      "title": "Evening reflections",
+      "end_time": 2070
+    },
+    {
+      "start_time": 2070,
+      "title": "World famous rum review",
+      "end_time": 2525
+    },
+    {
+      "start_time": 2525,
+      "title": "Cooking and eating dinner",
+      "end_time": 3149
+    },
+    {
+      "start_time": 3149,
+      "title": "Morning packing and exit",
+      "end_time": 3395
+    }
+  ]
 }

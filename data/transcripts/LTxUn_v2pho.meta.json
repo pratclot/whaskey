@@ -6,5 +6,47 @@
   "description": "#takeaway #indianfood #food #foodchallenge #foodie #yummy #whiskyreview\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\udc4d\nhttps://theblotoutdoorsmerch.myshopify.com/collections/all",
   "thumbnail": "https://i.ytimg.com/vi/LTxUn_v2pho/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Introduction",
+      "end_time": 28
+    },
+    {
+      "start_time": 28,
+      "title": "Planning the takeaway",
+      "end_time": 258
+    },
+    {
+      "start_time": 258,
+      "title": "Reviewing Google reviews",
+      "end_time": 471
+    },
+    {
+      "start_time": 471,
+      "title": "Ordering the food",
+      "end_time": 583
+    },
+    {
+      "start_time": 583,
+      "title": "Unboxing the Bengali box",
+      "end_time": 709
+    },
+    {
+      "start_time": 709,
+      "title": "Tasting the Indian food",
+      "end_time": 1643
+    },
+    {
+      "start_time": 1643,
+      "title": "Q&A and personal stories",
+      "end_time": 2170
+    },
+    {
+      "start_time": 2170,
+      "title": "Whisky review and outro",
+      "end_time": 2484
+    }
+  ]
 }

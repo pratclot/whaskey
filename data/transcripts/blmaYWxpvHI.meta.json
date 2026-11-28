@@ -6,5 +6,67 @@
   "description": "#urbancamping #stealthcamping #wildcamping #stealthcampingalliance #wildcampinguk #adventure #stealth #stealthurbancamping #secretcamping #stealthcampinguk\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\udc4d \nhttps://theblotoutdoorsmerch.myshopify.com/collections/all",
   "thumbnail": "https://i.ytimg.com/vi/blmaYWxpvHI/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Arrival and setup",
+      "end_time": 178
+    },
+    {
+      "start_time": 178,
+      "title": "Setting up camp",
+      "end_time": 378
+    },
+    {
+      "start_time": 378,
+      "title": "Coffee and thoughts",
+      "end_time": 647
+    },
+    {
+      "start_time": 647,
+      "title": "Preparing for the night",
+      "end_time": 764
+    },
+    {
+      "start_time": 764,
+      "title": "Showcasing gear",
+      "end_time": 982
+    },
+    {
+      "start_time": 982,
+      "title": "Cooking dinner",
+      "end_time": 1141
+    },
+    {
+      "start_time": 1141,
+      "title": "Evening drinks and Q&A",
+      "end_time": 1407
+    },
+    {
+      "start_time": 1407,
+      "title": "Channel merchandise update",
+      "end_time": 1643
+    },
+    {
+      "start_time": 1643,
+      "title": "Preparing for sleep",
+      "end_time": 2000
+    },
+    {
+      "start_time": 2000,
+      "title": "Whisky review",
+      "end_time": 2533
+    },
+    {
+      "start_time": 2533,
+      "title": "Late night meal",
+      "end_time": 2857
+    },
+    {
+      "start_time": 2857,
+      "title": "Packing up and departure",
+      "end_time": 3174
+    }
+  ]
 }

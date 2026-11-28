@@ -6,5 +6,37 @@
   "description": "#roundaboutcamping #stealthcamping #wildcamping #stealthcampingalliance\n#wildcampinguk #adventure #stealth #stealthurbancamping #secretcamping #stealthcampinguk\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\udc4d\nhttps://theblotoutdoorsmerch.myshopify.com/collections/all\n\nHere's the link for Brown's Biltong, remember to use the code \"mandingo\" for your discount \ud83d\ude00 \nhttps://brownsbiltong.co.uk/",
   "thumbnail": "https://i.ytimg.com/vi/UDKCTz49D3M/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Arrival and setup",
+      "end_time": 269
+    },
+    {
+      "start_time": 269,
+      "title": "Camp setup and gear review",
+      "end_time": 727
+    },
+    {
+      "start_time": 727,
+      "title": "Evening relaxation and Q&A",
+      "end_time": 1118
+    },
+    {
+      "start_time": 1118,
+      "title": "Whiskey review and stories",
+      "end_time": 1964
+    },
+    {
+      "start_time": 1964,
+      "title": "Cooking dinner and thanks",
+      "end_time": 2689
+    },
+    {
+      "start_time": 2689,
+      "title": "Morning departure",
+      "end_time": 3109
+    }
+  ]
 }

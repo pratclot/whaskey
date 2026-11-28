@@ -6,5 +6,67 @@
   "description": "#carcamping #lakedistrict #landrovercamping\n#hiking #landrover #wildcamping\n#landroverdiscovery #stealthcamping\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\ude09\nhttps://theblotoutdoorsmerch.myshopify.com/collections/all",
   "thumbnail": "https://i.ytimg.com/vi/kB0VONYGwMc/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Introduction and journey",
+      "end_time": 155
+    },
+    {
+      "start_time": 155,
+      "title": "Walking around the lake",
+      "end_time": 341
+    },
+    {
+      "start_time": 341,
+      "title": "Lunch break and snacks",
+      "end_time": 606
+    },
+    {
+      "start_time": 606,
+      "title": "Pub stop in Keswick",
+      "end_time": 780
+    },
+    {
+      "start_time": 780,
+      "title": "Continuing the circular walk",
+      "end_time": 968
+    },
+    {
+      "start_time": 968,
+      "title": "Setting up camp",
+      "end_time": 1180
+    },
+    {
+      "start_time": 1180,
+      "title": "Evening drinks by the stream",
+      "end_time": 1569
+    },
+    {
+      "start_time": 1569,
+      "title": "More drinks and commentary",
+      "end_time": 1780
+    },
+    {
+      "start_time": 1780,
+      "title": "Channel updates and advice",
+      "end_time": 2436
+    },
+    {
+      "start_time": 2436,
+      "title": "Whiskey review",
+      "end_time": 2853
+    },
+    {
+      "start_time": 2853,
+      "title": "Cooking and dining",
+      "end_time": 3363
+    },
+    {
+      "start_time": 3363,
+      "title": "Morning after and conclusion",
+      "end_time": 3562
+    }
+  ]
 }

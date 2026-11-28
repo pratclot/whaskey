@@ -91,6 +91,7 @@ items:
   verdict_quote: I'm going to give that Glenfiddich 14-year-old rich oak. Oh, yes.
     I'm going to give it a straight as a die. A top quality straight nine out of 10
     dingo.
+names_verified: true
 ---
 
 **[26:35]** I think I'll try this cheap one. Aldi one peach flavor pale ale Why notsky bait? Oh yes, guys. Let's put that in there. Let me free seat. And let's sit down. On me big fat hairy spotty arse.

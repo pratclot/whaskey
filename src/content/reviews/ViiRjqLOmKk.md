@@ -32,6 +32,7 @@ items:
     licorice in the finish.
   verdict_quote: A very very good dingo Mingos, nine a straight nine out of 10 dingo
     manding oh yes you better believe it!
+names_verified: true
 ---
 
 **[35:15]** Oh yes Mingos you know what time it is wasy time you better believe it is and tonight we have got Jura single malt scotch wasy bourbon Cask you better believe we have kindly give it to me from a legend by the name of Adam G Adam G once again cheers Adam my man friend you better believe I appreciate massive fingo of the brought outdoor Shore right well famous Cub dingo is at the ready I just want to get the wasu review done tonight guys guys before I am too Smashburger...

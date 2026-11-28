@@ -6,5 +6,67 @@
   "description": "#sunderland #stealthcamping #wildcamping #stealthcampingalliance #wildcampinguk #adventure #stealth #stealthurbancamping #secretcamping #stealthcampinguk\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\udc4d \nhttps://theblotoutdoorsmerch.myshopify.com/collections/all",
   "thumbnail": "https://i.ytimg.com/vi/HAvgx5O8nZQ/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Arrival and site selection",
+      "end_time": 133
+    },
+    {
+      "start_time": 133,
+      "title": "Setting up the stealth camp",
+      "end_time": 403
+    },
+    {
+      "start_time": 403,
+      "title": "Evening relaxation and food",
+      "end_time": 780
+    },
+    {
+      "start_time": 780,
+      "title": "Tent setup and food review",
+      "end_time": 1224
+    },
+    {
+      "start_time": 1224,
+      "title": "Whiskey review and evening",
+      "end_time": 1457
+    },
+    {
+      "start_time": 1457,
+      "title": "Pros and cons of stealth camping",
+      "end_time": 1870
+    },
+    {
+      "start_time": 1870,
+      "title": "Late night relaxation",
+      "end_time": 2104
+    },
+    {
+      "start_time": 2104,
+      "title": "World famous whiskey review",
+      "end_time": 2328
+    },
+    {
+      "start_time": 2328,
+      "title": "Cooking dinner and thanks",
+      "end_time": 2623
+    },
+    {
+      "start_time": 2623,
+      "title": "Evening meal and reflections",
+      "end_time": 2810
+    },
+    {
+      "start_time": 2810,
+      "title": "Morning routine and packing",
+      "end_time": 2960
+    },
+    {
+      "start_time": 2960,
+      "title": "Packing up and leaving",
+      "end_time": 3221
+    }
+  ]
 }

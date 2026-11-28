@@ -30,7 +30,7 @@ items:
     up camp by the lake.
   verdict_quote: Oh that's a nice beer that like Highland Sundan extra pale ale from
     the Glen Affric Brewery.
-- name: BrewDog Millionaire's Shortbread New England IPA
+- name: BrewDog Hazy Jane New England IPA
   category: Beer & Ale
   brand_or_distillery: BrewDog
   region_or_style: New England IPA
@@ -89,6 +89,7 @@ items:
   tasting_notes: Simple campsite burgers cooked slowly with diced onions on a camp
     stove, served in sesame seed buns with barbecue sauce.
   verdict_quote: Very nice guys you can see how tasty that is.
+names_verified: true
 ---
 
 **[37:36]** Oh yes Mandingos you know what time it is it's wasy time you better believe it! What have we got this week? You should know, I've already mentioned a few times already: Arran Land Cask single malt Scotch wasy, kindly bought for me from a legend by the name of Mark Coil. Let's get on with the wasy review.

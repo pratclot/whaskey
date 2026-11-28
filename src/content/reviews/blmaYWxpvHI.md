@@ -35,6 +35,7 @@ items:
     oak.
   verdict_quote: I'm going to give that a ginormous 9.6 out of 10... unbelievable
     absolutely tremendous.
+names_verified: true
 ---
 
 **[34:18]** Oh yes, you know what time it is Mandingos, whisky time! And this week this is what we've got: The One, not Scotch, not Irish, and not even Welsh—English whisky made at the Lakes Distillery, at my favorite place in the world, the Lake District. So it's called The One, they've got a few different ones, but this one is the port cask finish.

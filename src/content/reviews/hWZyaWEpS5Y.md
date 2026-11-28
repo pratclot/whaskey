@@ -68,7 +68,7 @@ items:
     it a nice spicy kick with a medium-thickness crust.
   verdict_quote: The pizza was decent the sausage and the Burger Spot on chips really
     nice.
-- name: Mandingo Roots Tonic Wine
+- name: Mandingo Tonic Wine
   category: Spirits & Liqueur
   brand_or_distillery: Mandingo
   region_or_style: Tonic Wine
@@ -87,6 +87,7 @@ items:
   tasting_notes: A dark red tonic wine that tastes sweet, smooth, and fruity, reminiscent
     of a cross between red wine and sherry.
   verdict_quote: Sweet and strong... smooth me fruity smooth.
+names_verified: true
 ---
 
 **[08:29]** oh yes all right then guys let's get this little T setup and dive in mice oh yes Ming goes time to get stuck in this lovely food how than Mick I'm going straight for the sausage the old sausage gobler sausage oh yes look at that guys nice buttered sausage still R hot gravy all over it very nice very tasty.

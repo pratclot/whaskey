@@ -30,9 +30,9 @@ items:
     chicken, doner meat, and kofta/lamb. The chicken was cooked well with a nice sauce,
     though some pieces of lamb were fatty and portion sizes were moderate.
   verdict_quote: I'm going to give it an average 6.5 out of 10 dingo Mingo.
-- name: Tomatin Sherry Cask Finish
+- name: Tamdhu Batch Strength
   category: Whisky
-  brand_or_distillery: Tomatin
+  brand_or_distillery: Tamdhu
   region_or_style: Highland Single Malt Scotch Whisky
   abv: 46%
   timestamp_seconds: 2021
@@ -51,6 +51,7 @@ items:
     delivering notes of ginger biscuit, nutmeg, and mild sherry sweetness that goes
     down silky.
   verdict_quote: 8.9 very strong solid 8.9 out of 10 dingo Mingos.
+names_verified: true
 ---
 
 **[07:30]** right folks before we dive in let's have a quick look at the food for this week's takeaway review... we've got chicken, we've got kofta, we've got doner meat... **[09:07]** oh no that is nice and it's been like marinated in some sort of sauce like a tandoori type of flavor sauce... **[20:54]** time for the old score dingos... I'm going to give it an average 6.5 out of 10 dingo Mingo.

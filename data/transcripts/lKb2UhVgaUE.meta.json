@@ -6,5 +6,52 @@
   "description": "#carcamping #landrovercamping #hiking \n#lakedistrict #wildcampinguk #wildcamping \n#stealthcamping #whiskyreview #camping \n#landrover\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\ude09 \nhttps://theblotoutdoorsmerch.myshopify.com/collections/all",
   "thumbnail": "https://i.ytimg.com/vi/lKb2UhVgaUE/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Introduction and hiking",
+      "end_time": 218
+    },
+    {
+      "start_time": 218,
+      "title": "Mountain hike scenery",
+      "end_time": 634
+    },
+    {
+      "start_time": 634,
+      "title": "Descending the valley",
+      "end_time": 972
+    },
+    {
+      "start_time": 972,
+      "title": "Martindale church visit",
+      "end_time": 1550
+    },
+    {
+      "start_time": 1550,
+      "title": "Car setup and gifts",
+      "end_time": 1800
+    },
+    {
+      "start_time": 1800,
+      "title": "Whiskey tasting review",
+      "end_time": 2217
+    },
+    {
+      "start_time": 2217,
+      "title": "Van life evening chat",
+      "end_time": 2735
+    },
+    {
+      "start_time": 2735,
+      "title": "Cooking dinner in the van",
+      "end_time": 3513
+    },
+    {
+      "start_time": 3513,
+      "title": "Final thoughts and morning",
+      "end_time": 4160
+    }
+  ]
 }

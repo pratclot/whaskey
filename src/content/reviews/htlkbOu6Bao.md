@@ -10,9 +10,9 @@ episode_summary: The host goes wild camping at the abandoned Pettico Wick Harbou
   on the east coast of Scotland, where he enjoys several beers, reviews a Speyside
   whisky, and cooks up cheap noodles with king prawns and sweet chilli sauce.
 items:
-- name: Spey Chairman's Choice
+- name: Juice Forsyth
   category: Whisky
-  brand_or_distillery: Spey
+  brand_or_distillery: Brew York
   region_or_style: Speyside Single Malt Scotch Whisky
   abv: 40%
   timestamp_seconds: 3320
@@ -52,6 +52,7 @@ items:
     meal.
   verdict_quote: For less than five pound you're getting a fine meal if sweet chili
     noodles with king prawns. Oh my god, that is nice.
+names_verified: true
 ---
 
 **[55:20]** It's time for the Wasi review. The very last time using the world famous Wasi Cup dingo. Yeah. Oh yes, man. Dingos, you know what time it is? It's Wasy time. And this is what we've got this week, Spey Chairman's Choice, kindly given to me from the legend who goes by the name of Nick Ball. **[56:46]** Fruity straight away. Give that a swirl around the old cup dingo, man. Dingo. Jammy. I'm jamming. Fruity. Jammy, like figs. I know the smell of figs, guys. That's fruity. It's jammy. It's figgy. **[58:15]** Yeah, few spices, little bit of a kick. I haven't had one for a while. That's really done it. I like a bit of a burneroon. A nice dark fruit flavour... like a plummy blackberry, black currant. **[59:33]** Tarty. Jammy flame, blackberry, black currant, plummy. There's a nice sweetness about it. Sweet like chocolates, boy. Like a sweet candy. A bit chocolate in there, guys. Little bit fudge. **[01:01:34]** I will say, I have really enjoyed this more than I thought I was going to enjoy it. **[01:02:33]** I'm going to give it a 9.1, guys. Spank you very much. Thanks again to the guy whose YouTube channel is called That's Him with the Daft Hat. It's a 9.1 from Z Mandingo.

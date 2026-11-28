@@ -6,5 +6,82 @@
   "description": "#camping #wildcamping #comedy #hiking \n#stealthcamping #wildcampinguk #adventure \n#whiskyreview #hikingandcamping #getoutside\n\nHere's the link for the BLOT OUTDOORS SHOW online merch shop \ud83d\ude09\nhttps://theblotoutdoorsmerch.myshopify.com/collections/all\n\nHere's the link for the SONNER live gig:\nhttps://www.independentsunderland.com/event/sonner-live-in-sunderland/\n\nHere's the link for the SONNER Instagram account:  https://www.instagram.com/officialsonner?igsh=cDdsY20ycnQ2OWZ3&utm_source=qr",
   "thumbnail": "https://i.ytimg.com/vi/lRsfpJmRikM/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Arrival and intro",
+      "end_time": 165
+    },
+    {
+      "start_time": 165,
+      "title": "Walking to the summit",
+      "end_time": 315
+    },
+    {
+      "start_time": 315,
+      "title": "Sponsor shoutout",
+      "end_time": 478
+    },
+    {
+      "start_time": 478,
+      "title": "Pitching the tent",
+      "end_time": 600
+    },
+    {
+      "start_time": 600,
+      "title": "Exploring the area",
+      "end_time": 841
+    },
+    {
+      "start_time": 841,
+      "title": "Beer review",
+      "end_time": 1085
+    },
+    {
+      "start_time": 1085,
+      "title": "Snack prep",
+      "end_time": 1327
+    },
+    {
+      "start_time": 1327,
+      "title": "Preparing for night",
+      "end_time": 1669
+    },
+    {
+      "start_time": 1669,
+      "title": "Band promotion",
+      "end_time": 1985
+    },
+    {
+      "start_time": 1985,
+      "title": "Inside the tent",
+      "end_time": 2214
+    },
+    {
+      "start_time": 2214,
+      "title": "Sponsor snack",
+      "end_time": 2645
+    },
+    {
+      "start_time": 2645,
+      "title": "Honest review",
+      "end_time": 2854
+    },
+    {
+      "start_time": 2854,
+      "title": "Whiskey review",
+      "end_time": 3328
+    },
+    {
+      "start_time": 3328,
+      "title": "Cooking dinner",
+      "end_time": 3778
+    },
+    {
+      "start_time": 3778,
+      "title": "Morning routine",
+      "end_time": 4021
+    }
+  ]
 }

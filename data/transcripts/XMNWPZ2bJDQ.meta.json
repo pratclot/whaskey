@@ -6,5 +6,52 @@
   "description": "#hottent #camping #hottentcamping \n#lakedistrict #hiking #wildcampinguk \n#stealthcampinguk #adventure \n#wildcamping #stealthcamping",
   "thumbnail": "https://i.ytimg.com/vi/XMNWPZ2bJDQ/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Hiking to the summit",
+      "end_time": 280
+    },
+    {
+      "start_time": 280,
+      "title": "Arriving at campsite",
+      "end_time": 341
+    },
+    {
+      "start_time": 341,
+      "title": "Setting up the hot tent",
+      "end_time": 749
+    },
+    {
+      "start_time": 749,
+      "title": "First drinks and tent setup",
+      "end_time": 1363
+    },
+    {
+      "start_time": 1363,
+      "title": "Opening care packages",
+      "end_time": 1954
+    },
+    {
+      "start_time": 1954,
+      "title": "Cooking dinner",
+      "end_time": 2616
+    },
+    {
+      "start_time": 2616,
+      "title": "Viewer appreciation and snacks",
+      "end_time": 2944
+    },
+    {
+      "start_time": 2944,
+      "title": "Whiskey review",
+      "end_time": 3390
+    },
+    {
+      "start_time": 3390,
+      "title": "Morning packing",
+      "end_time": 3622
+    }
+  ]
 }

@@ -52,6 +52,7 @@ items:
     mouthfeel with a faint smoky finish.
   verdict_quote: The Lakes Distillery this one's called the one Sherry Cask finish
     I've got to give it a big fat juicy 9.3 out of 10.
+names_verified: true
 ---
 
 **[08:42]** oh yes here we go guys time to get stuck into this lovely looking Munch box from Yu Chu Chinese Takeaway in the town of Easington Colliery right I'm going to get straight into a few chipperoni salt and pepper chipperoni guys still nice and hot nice and tasty loads of like onions and peppers and mhm Good Start guys M little tingle on the old tongue dingo that's exactly what you want let's try the curry sauce m m that curry sauce is absolutely perfect just the way I like it all righty and a bit spicy as I like it I like it bit spicy I wasn't expecting that normally when you get your a tub of bog standard curry sauce from a Chinese takeaway it's not normally spicy but that's got a little bit of the kick is anyway let's get some prawn toast any old mouth dingo mhm that's as good as any prawn toast I've had before not wrong with that at all guys big curry sauce on there... 

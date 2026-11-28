@@ -83,6 +83,7 @@ items:
   tasting_notes: A flavored whiskey with prominent sweet blackberry, honey, and caramel
     notes that masks the harsh whiskey burn.
   verdict_quote: I'm going to give it a 8.7... from this man ding dong.
+names_verified: true
 ---
 
 **[02:44]** The whisky I've got is this. This was given to me from my mother-in-law, the lovely Loraine. Paul John whisky. Nirvana. So, yeah. This is Indian whisky, guys. Indian single malt. **[32:49]** Cornish pasty, guys. Absolutely piping hot. Very nice indeed. That is one of the best Cornish pasties I've ever had. It's got a lot of filling in it, isn't it? **[57:31]** I'm going to give this Oh. Pardon ski bit. I'm going to give it a solid 9.5. Yeah? It's a 9.5 from this man dingo. From Caspian in the town of Millom in Cumbria. **[68:29]** I'm going to give it a 8.7. You better believe I am, guys. It's 8.7 out of 10 ding dong from this man ding dong.

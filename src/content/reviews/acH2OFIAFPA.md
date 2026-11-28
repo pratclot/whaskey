@@ -55,6 +55,7 @@ items:
     The palate brings rich peanut butter, vanilla, and a thick, gloopy, liqueur-like
     mouthfeel that goes down smoothly.
   verdict_quote: I'm going to give that a decent score of 7.9 out of 10 dingo mingles!
+names_verified: true
 ---
 
 **[12:05]** so this is the 18b Munchie box which also came with two cans of pop... right the way around underneath I'm just whooping when I look out it I don't go out my God what's that brother that's massive... **[14:12]** on first impression the first chicken ball nice not a bad start not wrong with that... **[15:13]** little bit burnt and that was my fault for diving into quick all right that no wrong with that guys... **[19:09]** what I will say is it might not be the greatest Chinese meal I've ever had but it's nowhere near as bad as some of them reviews... **[25:01]** am I giving it out of 10 I give it a give it a eight may solid eight I think... **[25:42]** I'm going to give it a 7.7 and that's still a brilliant score a 7.7 an eight that rounds off a nice massive 8.2 out of 10 dungo man dingles... **[37:03]** O'Donnell Macadamia Moonshine... very nutty and very buttery like a strong butter smell... almost like a peanut butter type of taste... thick smooth buttery like a medicine but it doesn't taste like medicine down the hatch... **[40:39]** I'm going to give that a decent score of 7.9 out of 10 dingo mingles!

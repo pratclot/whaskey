@@ -56,6 +56,7 @@ items:
     mushy peas.
   verdict_quote: So, Mrs. Blood, spank you very much. Yes, it was just what I needed.
     10 out of 10 from this Mandingo.
+names_verified: true
 ---
 
 **[33:55]** It's was time. And this is what we've got this week. Woodford Reserve Distillers Select Kentucky Straight Bourbon Wasky, kindly given to me from a lovely couple by the names of Annette and Lawrence. Let's get this top off. Oh, I can smell that. They're quite creamy, sweet, like a toffee and honey at exactly the same time, but like a nice leather smell. **[35:55]** That's enough of the sniffing. Let's get on with the tasting ricles. Sweet, like Jim Beam or Jack Daniels, but nicer. Creamy, few little spices there, very nice though, like a strong oak coming through there. **[39:58]** Woodford Reserve Kentucky Straight Bourbon Wasky. I'm going to give that a nice solid 8.3 out of 10 dingo. My mandingo berries. **[41:17]** Here we go. Look at that, a thing of beauty. The old black beauty. This homemade chicken and mushroom pie in like a little pot, so it's only got the pastry on the top. We have homemade chips, nice and well done, just the way I like them, and some mushy peas. **[47:02]** Oh, nice flaky pastry on the top. Oh, stunning folks. Nice chunk of chicken and mushroom on there as well. Flaky pastry, like a lovely gravy sauce. Oh, that is spectacular. **[53:15]** So, Mrs. Blot, spank you very much. Yes, it was just what I needed. 10 out of 10 from this Mandingo.

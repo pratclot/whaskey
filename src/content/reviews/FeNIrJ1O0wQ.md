@@ -33,6 +33,7 @@ items:
     peppery spices and a smoky undertone.
   verdict_quote: I'm going to give it a steady not shite but not special a nice steady
     respectable seven as straight as a die seven out of 10 dingo mandingo
+names_verified: true
 ---
 
 **[26:40]** right oh yes Mingo you know what time it is wasy time and this is what we've got this week Scottish leader signature you not make sense Mandingo m m of thanks to Nick ball for this wasy cheers Nick my man friend sexual you better believe it's very much appreciated right come on then guys let's get this popped in the old famous Cub dingo Ming was oh yes there's enough of the review and later on when I lie back and chill out and just watch some random shite on my phone I've got a little bit left for a few little chess warmers you better believe it

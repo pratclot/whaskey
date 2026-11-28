@@ -6,5 +6,57 @@
   "description": "#bothycamping #camping #caves #comedy \n#wildcamping #stealthcamping #whiskyreview \n#bothy #hikingandcamping #wildcampinguk",
   "thumbnail": "https://i.ytimg.com/vi/KMwxrNJCsnE/hqdefault.jpg",
   "channel": "BLOT OUTDOORS SHOW",
-  "transcript_source": "yt-dlp"
+  "transcript_source": "yt-dlp",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Hiking to the waterfall",
+      "end_time": 96
+    },
+    {
+      "start_time": 96,
+      "title": "Exploring Gibson's cave",
+      "end_time": 342
+    },
+    {
+      "start_time": 342,
+      "title": "Arrival at camping barn",
+      "end_time": 725
+    },
+    {
+      "start_time": 725,
+      "title": "Preparing the evening meal",
+      "end_time": 1023
+    },
+    {
+      "start_time": 1023,
+      "title": "Meeting the neighbors",
+      "end_time": 1349
+    },
+    {
+      "start_time": 1349,
+      "title": "Cooking mac and cheese",
+      "end_time": 1860
+    },
+    {
+      "start_time": 1860,
+      "title": "Enjoying the food",
+      "end_time": 2170
+    },
+    {
+      "start_time": 2170,
+      "title": "Whiskey review",
+      "end_time": 2567
+    },
+    {
+      "start_time": 2567,
+      "title": "Winding down for night",
+      "end_time": 2829
+    },
+    {
+      "start_time": 2829,
+      "title": "Morning departure",
+      "end_time": 3008
+    }
+  ]
 }

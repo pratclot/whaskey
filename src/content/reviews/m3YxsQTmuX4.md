@@ -46,6 +46,7 @@ items:
   tasting_notes: Sausages cooked on the camp stove and put into a sandwich with tomato
     sauce while resting in a cave.
   verdict_quote: i'm easy pleased any good man lovely lovely jubilee
+names_verified: true
 ---
 
 **[07:30]** why was some double up right guys we just found this cool little spot in the cave here time for a brew chrissy's nice and warm the water's boiling away there so in a couple of minutes we're going to do our version of irish coffee scotch whiskey coffee that'll do it for us and some honey.

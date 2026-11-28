@@ -32,6 +32,7 @@ items:
     with a hint of smoke.
   verdict_quote: I think I'm going to give that a steady, nothing sparkular, but very
     enjoyable 7.5.
+names_verified: true
 ---
 
 **[46:14]** You know what time it is? It's whisky time. And this is what we've got this week: Stillhouse America's finest coconut whisky. You better believe it, guys. **[48:00]** Now on the first snifteroni, not really like a whisky smell. More like a vanilla golden syrup type of snifferooni. Sweet syrupy vanilla. **[49:07]** Really smooth. Very smooth indeed, guys. Thick, gloopy. Not in a bad way. **[49:53]** That coconut's there. Thick gloopy sweet spillage coconut, maybe a little bit honey in there, but it's very mild. **[51:15]** There's a few mixed fruits in there. **[52:19]** The tiniest bit of smoke in there. It's not a smoky whisky. **[53:18]** I think I'm going to give that a steady, nothing sparkular, but very enjoyable 7.5.
